@@ -1,4 +1,4 @@
-**Structured Casting** is considered by many as the only "truest" form of magic. It requires active participation of the user in the casting process, which itself often requires years of training and a rigorous mental discipline in order to prevent construct instability.
+**Structured Casting** is considered by many as the "truest" form of magic. It requires active participation of the user in the casting process, which itself often requires years of training and a rigorous mental discipline in order to prevent construct instability.
 
 Glyphs themselves are the root of structure casting, as they are the mental imagery used to guide the casting of mana adequately, and their complexity is directly proportional to the complexity of the casting at hand.
 

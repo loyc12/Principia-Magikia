@@ -1,0 +1,1 @@
+It is most often seen in magical warfare and purpose built tooling, and the casting construct itself is generally very sensitive to physical or magical disruption, especially when not properly encased in mana repealing materials.

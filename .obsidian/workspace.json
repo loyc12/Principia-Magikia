@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 World/Magic/02 Mana Theory/02 Mana Declensions.md",
+                "file": "02 World/Magic/03 Casting Theory/05 Structured Casting.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "02 Mana Declensions"
+              "title": "05 Structured Casting"
             }
           }
         ]
@@ -196,18 +196,18 @@
   },
   "active": "2d72bc6fb4079741",
   "lastOpenFiles": [
-    "02 World/Magic/03 Casting Theory/06 Casting Instrument.md",
-    "02 World/Magic/03 Casting Theory/05 Structured Casting.md",
     "02 World/Magic/03 Casting Theory/04 Reflexive Casting.md",
-    "02 World/Magic/03 Casting Theory/03 Wild Casting.md",
     "02 World/Magic/03 Casting Theory/02 Mana Constructs.md",
+    "02 World/Magic/03 Casting Theory/03 Wild Casting.md",
     "02 World/Magic/03 Casting Theory/01 Mana Casting.md",
+    "02 World/Magic/03 Casting Theory/06 Instrumental Casting.md",
+    "02 World/Magic/02 Mana Theory/02 Mana Declensions.md",
     "02 World/Magic/02 Mana Theory/01 Mana Flow.md",
+    "02 World/Magic/03 Casting Theory/05 Structured Casting.md",
     "02 World/Magic/02 Mana Theory/06 Mana Casters.md",
     "02 World/Magic/02 Mana Theory/05 Mana Catalists.md",
     "02 World/Magic/02 Mana Theory/04 Mana Reagents.md",
     "02 World/Magic/02 Mana Theory/03 Mana Reservoirs.md",
-    "02 World/Magic/02 Mana Theory/02 Mana Declensions.md",
     "02 World/Magic/01 Fundamentals/02 Laws.md",
     "02 World/Magic/01 Fundamentals/01 Principles.md",
     "02 World/Magic/04 Applications/Magical Disciplines.md",
