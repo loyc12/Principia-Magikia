@@ -16,7 +16,7 @@
 
 ## Declension Classifications
 
-|Declension|Operational Domain|Reality Layer|Primary Property|Typical Scale|Precision|Typical Reversibility|Relative Complexity|
+|Declension|Operational Domain|Reality Layer|Primary Property|Typical Scale|Complexity|Typical Reversibility|Relative Complexity|
 |---|---|---|---|---|---|---|---|
 |**Locative**|State|Physical|Position|Object|Low|Complete|★☆☆☆☆|
 |**Kinetic**|State|Physical|Momentum|Particle → Object|Low|High|★☆☆☆☆|
@@ -24,8 +24,10 @@
 |**Volumic**|State|Physical|Volume / Pressure|Local region|Medium|High|★★☆☆☆|
 |**Radiant**|State|Physical|Photon field|Field|Medium|Complete|★★☆☆☆|
 |**Galvanic**|State|Physical|Charge|Field|Medium|Complete|★★☆☆☆|
-|**Temporal**|State|Physical*|Time rate|Local region|High|Moderate|★★★☆☆|
+|**Temporal**|State*|Physical*|Time rate|Local region|High|Moderate|★★★☆☆|
 |**Resonant**|Relational|Emergent|Coupling|Multiple systems|High|High|★★★☆☆|
 |**Cohesive**|Organizational|Emergent|Connectivity|Material structure|Very High|Difficult|★★★★☆|
 |**Mnemonic**|Organizational|Emergent|Information|Pattern|Very High|Variable|★★★★☆|
 |**Ontic**|Semantic|Metaphysical|Identity|Entity|Extreme|Rarely|★★★★★|
+
+*\* Temporal Declension classification is a hotly debated topic*
