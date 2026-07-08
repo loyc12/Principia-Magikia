@@ -1,0 +1,5 @@
+**Mana Constructs** are mental or physical representations ( oftentimes in the form of a glyph, sound, or imagery based system ). There exist multiple competing mana construction traditions throughout [[The Expanse]], but all use the same fundamental principles.
+
+At their core, mana construct serve to guide the process of mana manipulation, be it its absorption, emission, funnelling, declension, or the casting itself. It is theorised that the underlying principle at play in all these construction traditions is the association on concepts with actions, which then gets transferred into an arbitrary, highly symbolic sequence, which can then be replayed an arbitrary amount of times, and iterated upon incrementally.
+
+This process is what fundamentally differentiate [[03 Wild Casting" Wild casting]] from [[04 Reflexive Casting|Reflexive casting]].

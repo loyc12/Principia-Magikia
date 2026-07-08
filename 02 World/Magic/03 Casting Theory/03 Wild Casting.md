@@ -1,0 +1,4 @@
+**Wild Casting** ( sometimes referred to as *instinctive casting* ) is the act of funnelling, declining, and casting mana in a singular, unified act. It is highly inefficient, and thus can only serve to perform basic casting. Wild casting is most often seen in creatures, but some plants are also documented as being able to cast mana. There is also rumours of certain or [[sapient races]] ( primarily children ) being able to do wild casting, but they remain unconfirmed as of yet.
+
+The leading theory behind wild casting is the existence of dedicated organs, which fulfil the purpose of mana reservoirs and catalysts, along an instinctive mental ability to cast magic itself. As such, wild casting would only be possible for being endowed with these body parts, and the instinctual nature of it would explain why beast may be able to cast simple spells despite lacking [[The Spark]].
+
