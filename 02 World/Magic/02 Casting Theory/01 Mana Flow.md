@@ -17,4 +17,25 @@ As pure mana is the most reactive of all declensions, it is attracted or repelle
 Meanwhile, Spent mana is the least reactive mana declension, being near impossible to impede, observe, divert, repel, or otherwise interact with, and generally seeps out of wherever it was converted at noticed, which made its discovery particularly complex
 
 
+## Criterion of mana efficiency
 
+| Efficiency Type             | Description                                                   |
+| --------------------------- | ------------------------------------------------------------- |
+| **Mana efficiency**         | How much useful effect per unit mana                          |
+| **Cognitive efficiency**    | How much concentration/training is required                   |
+| **Construct stability**     | How resistant the spell is to external disruption             |
+| **Targeting precision**     | How accurately the spell affects the intended reagent         |
+| **Operational purity**      | How little unwanted primitive operation leaks into the effect |
+| **Reservoir compatibility** | How easily the spell draws from common mana sources           |
+| **Result repeatability**    | How reliably the same result occurs                           |
+
+## Mana-related properties
+
+| Material Property   | Description                |
+| ------------------- | -------------------------- |
+| **Mana-actractive** | gathers mana passively     |
+| **Mana-retentive**  | stores mana as a reservoir |
+| **Mana-conductive** | channels mana efficiently  |
+| **Mana-resistant**  | resists magical alteration |
+| **Mana-reactive**   | promotes mana declension   |
+| **Mana-repellent**  | impede or repels mana flow |

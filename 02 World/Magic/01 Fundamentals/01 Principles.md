@@ -7,7 +7,7 @@
 
 ### Principle II — Primitive Operations
 
-Primed mana possesses no intrinsic affinity toward any observable phenomenon. Instead, it may only be declined into one of several primitive operational modes, each authorising a single class of transformations upon reality.
+Primed mana possesses no intrinsic affinity toward any observable phenomenon. Instead, it may only be declined into one of several primitive operational domain, each authorising a single class of transformations upon reality.
 
 ### Principle III — Composability
 

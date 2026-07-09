@@ -5,3 +5,17 @@ These symbolic systems generally end up affecting how a spell construct is repre
 As such, there exist multiple competing mana construct traditions throughout [[The Expanse]], but all rely on shared fundamental principles. At their core, mana construct serve to guide the various processes involved in mana manipulation, be it its absorption, emission, funnelling, declension, or the casting itself.
 
 It is theorised that the underlying principle at play in all these spell construct traditions is the association on concepts with actions, which then gets transferred from any arbitrary, highly symbolic sequence into a pure idea-form, which can then be triggered an arbitrary amount of times via supplying it mana.
+
+
+## Common construct components
+
+| Construct Components | Description                            |
+| -------------------- | -------------------------------------- |
+| Sourcing             | Where mana comes from                  |
+| Delimiting           | What is the affected reagent           |
+| Temporal             | How long can the spell persist         |
+| Regulating           | How strong is the effect               |
+| Selecting            | Which declensions are generated        |
+| Warding              | What corrects disruptions              |
+| Scrying              | What conditions does the spell observe |
+| Processing           | How observed conditions affect outcome |

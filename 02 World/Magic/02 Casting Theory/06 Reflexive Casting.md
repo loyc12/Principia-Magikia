@@ -6,7 +6,22 @@ Minor variations of commonly found **cantrip constructs** are frequent, and ther
 
 Reflexive casting is the method most magi novices default to using, since it is comparatively simple and generally reliable, as the user only need minimal understanding of the  underlying magic principles to use it ( notably control of mana and spell construct memorisation ). It is the most widely practised form of magic, and most people at least know a few cantrips by the time they turn 12 seasons, although this fact is most prevalent in cities and larger towns.
 
-## Limitations
+## Strengths :
+
+- commonly taught
+- reliable after training
+- does not require deep theory
+- useful for daily cantrips
+
+## Weaknesses :
+
+- limited power
+- limited flexibility
+- mental fatigue
+- construct degradation/interference
+- impossible to trivially combine effects
+
+## Limitations :
 
 - **Low parameter range**  
     A person can make a light brighter or dimmer, but cannot redesign the spell into a laser, illusion, or heat lamp.
@@ -18,3 +33,4 @@ Reflexive casting is the method most magi novices default to using, since it is 
     Poorly practised cantrips slowly degrade. This creates folk variants, regional dialects of magic, suboptimal construct forms and, in worse cases dangerous malformed spells.
 - **Safety by overconstraint**  
     Common cantrips are weak not because weak magic is all ordinary people can do, but because public versions are deliberately over-limited to prevent accidents, especially in what is an accepted reagent to target, or with various flow limiting conditions.
+

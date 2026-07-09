@@ -1,6 +1,6 @@
 ## Primitive Declensions
 
-| Scientific Name | Common Names                                 | Primitive Operation                                                                         |
+| Scientific Name | Common Names                                 | Operation Domain                                                                            |
 | --------------- | -------------------------------------------- | ------------------------------------------------------------------------------------------- |
 | **Locative**    | Position, Translation, Teleportation         | Change an object's position in space.                                                       |
 | **Kinetic**     | Motion, Force, Heat                          | Change the momentum distribution of matter (uniform or microscopic).                        |
