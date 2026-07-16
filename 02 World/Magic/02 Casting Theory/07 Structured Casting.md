@@ -1,10 +1,12 @@
-**Structured Casting** is considered by many as the "truest" form of magic. It requires active participation of the user in the casting process, which itself often requires years of training and a rigorous mental discipline in order to prevent construct instability.
+**Structured Casting** is the active assembly, modification, and supervision of a spell construct during casting. Unlike reflexive casting, which executes a memorised construct, structured casting requires the caster to understand the construct’s internal logic well enough to alter its sourcing, delimiting, selecting, regulating, warding, or processing components.
 
-Glyphs themselves are the root of structure casting, as they are the mental imagery used to guide the casting of mana adequately, and their complexity is directly proportional to the complexity of the casting at hand.
+For this reason, structured casting is the basis of spell research, cantrip design, ward construction, and enchantment. Most reflexive cantrips and instrumental constructs originate as structured spells before being simplified, constrained, and stabilised for repeated use.
 
-Various magical traditions have developed their own glyphs systems over time, and there is some recorded cases of talented individual developing their own glyph system. Glyphs can also be inbedded into instruments, devices and constructs trough a process known as enchanting, which allows for the creation of magical tooling and weaponry.
+**Glyphs** are the most common pedagogical and mnemonic scaffold for structured casting, as they conveniently streamline the representation of constructs and their interactions into a more familiar, sapience-friendly format.
 
-Enchanting itself is often a tedious process, and results in fragile and limited constructs. As such, structured caster, also called mages, are often much more useful than constructs by themselves.
+However, glyphs are ultimately arbitrary abstractions, as distinct magical traditions have developed their own glyphs systems over time. There even are some recorded cases of talented individual developing their own glyph system. 
+
+**Enchanting** is the process of embedding glyphs into physical **artefacts**, such as instruments and devices, which allows for the creation of magical tooling and weaponry. Enchanting is often a tedious process, and often results in fragile, limited and immutable spell formulas. As such, structured caster are often much more useful and versatile than the artefacts they can produce.
 
 ## Strengths :
 

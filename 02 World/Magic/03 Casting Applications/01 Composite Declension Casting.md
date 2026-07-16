@@ -1,6 +1,6 @@
 ## Composite effects
 
-| Effect               | Primitive Declensions                   |
+| Effect               | Main Primitive Declensions              |
 | -------------------- | --------------------------------------- |
 | Fireball             | Kinetic (microscopic heating) + Radiant |
 | Explosion            | Volumic + Kinetic                       |
@@ -18,9 +18,7 @@
 | Glassmaking          | Cohesive + Kinetic                      |
 | Illusion             | Radiant + Mnemonic                      |
 | Telepathy            | Resonant + Mnemonic                     |
-| Enchantment          | Resonant + Mnemonic                     |
 | Healing (basic)      | Cohesive                                |
 | Healing (functional) | Cohesive + Mnemonic                     |
-| Golem Construction   | Cohesive                                |
-| Golem Animation      | Mnemonic                                |
-| Cryostasis           | Temporal + Kinetic                      |
+| Healing (advanced)   | Cohesive + Mnemonic + Ontic             |
+

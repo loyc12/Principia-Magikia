@@ -16,19 +16,17 @@
 
 ## Declension Classifications
 
-| Declension   | Operational Domain | Reality Layer | Primary Property  | Typical Scale      | Complexity | Relative Complexity |
-| ------------ | ------------------ | ------------- | ----------------- | ------------------ | ---------- | ------------------- |
-| **Locative** | State              | Physical      | Position          | Object             | Low        | ★☆☆☆☆               |
-| **Kinetic**  | State              | Physical      | Momentum          | Particle → Object  | Low        | ★☆☆☆☆               |
-| **Massic**   | State              | Physical      | Mass              | Object             | Medium     | ★★☆☆☆               |
-| **Volumic**  | State              | Physical      | Volume / Pressure | Local region       | Medium     | ★★☆☆☆               |
-| **Radiant**  | State              | Physical      | Photon field      | Field              | Medium     | ★★☆☆☆               |
-| **Galvanic** | State              | Physical      | Charge            | Field              | Medium     | ★★☆☆☆               |
-| **Temporal** | State*             | Physical*     | Time rate         | Local region       | High       | ★★★☆☆               |
-| **Resonant** | Relational         | Emergent      | Coupling          | Multiple systems   | High       | ★★★☆☆               |
-| **Cohesive** | Organizational     | Emergent      | Connectivity      | Material structure | Very High  | ★★★★☆               |
-| **Mnemonic** | Organizational     | Emergent      | Information       | Pattern            | Very High  | ★★★★☆               |
-| **Ontic**    | Semantic           | Metaphysical  | Identity          | Entity             | Extreme    | ★★★★★               |
-|              |                    |               |                   |                    |            |                     |
-
+| Declension   | Domain Type    | Reality Layer | Primary Property    | Typical Scale      | Complexity | Relative Complexity |
+| ------------ | -------------- | ------------- | ------------------- | ------------------ | ---------- | ------------------- |
+| **Locative** | State          | Physical      | Position            | Object             | Low        | ★☆☆☆☆               |
+| **Kinetic**  | State          | Physical      | Momentum            | Particle → Object  | Low        | ★☆☆☆☆               |
+| **Massic**   | State          | Physical      | Mass                | Object             | Medium     | ★★☆☆☆               |
+| **Volumic**  | State          | Physical      | Volume / Pressure   | Local region       | Medium     | ★★☆☆☆               |
+| **Radiant**  | State          | Physical      | Photon field        | Field              | Medium     | ★★☆☆☆               |
+| **Galvanic** | State          | Physical      | Charge              | Field              | Medium     | ★★☆☆☆               |
+| **Cohesive** | Organizational | Emergent      | Connectivity        | Material structure | Medium     | ★★☆☆☆               |
+| **Resonant** | Relational     | Emergent      | Coupling, detecting | Multiple systems   | High       | ★★★☆☆               |
+| **Temporal** | State*         | Emergent*     | Time rate           | Local region       | High       | ★★★☆☆               |
+| **Mnemonic** | Organizational | Emergent      | Information         | Pattern            | Very High  | ★★★★☆               |
+| **Ontic**    | Ontologic      | Metaphysical  | Identity            | Entity             | Extreme    | ★★★★★               |
 *\* Temporal Declension classification is a hotly debated topic* in academic circles
