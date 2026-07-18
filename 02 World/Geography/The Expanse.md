@@ -4,11 +4,15 @@ As opposed to all known sourceworlds, the expanse is not composed of planetary b
 
 ## Seasons
 
-The singularity is not idle, but oscillate north and south by about { 315 km }, which is thought to be responsible for the seasonal variations between the two hemispheres, which cycle every { 19587 hours ( roughly 816 earth days )}. The distant poles are covered in dry deserts, with large temperature shifts based on the season, while the equator, meanwhile, remains at a mostly steady temperature year round.
+The singularity is not idle, but oscillate north and south by about { 315 km }, which is thought to be responsible for the seasonal variations between the two hemispheres, which cycle every { 19587 hours ( roughly 816 earth days )}. 
+
+There is two generally accepted seasons ( Winter and Summer ), and the transition between the two occurs when the singularity is exactly at the centre of the expanse, leaving perfectly vertical shadows. Meanwhile, the apex of each occurs when the singularity is at its furthermost point along its travel axis, leaving diagonal shadows.
+
+The distant poles are covered in dry deserts with large temperature shifts based on the season, while the equator, meanwhile, remains at a mostly steady temperature year round.
 
 However, the equator's climate experiences the strongest seasonal storms, which occur due to the movement of air and water between both hemispheres, which is strongest at the peak of the two season, when the cool, dry air and cooler waters encountering the of the cold hemisphere encounters the warm and humid air of the warm hemisphere, resulting in heavy winds and rainfall.
 
-As a result of both these phenomena, the equator and poles are considered inadequate for permanent settlement, and thus, the civilise world exists in two narrower band between these two extremes.
+As a result of both these phenomena, the equator and poles are considered inadequate for permanent settlement, and thus, the civilise world resides in the two bands existing between these two extremes.
 
 ## Nighttime
 

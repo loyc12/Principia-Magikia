@@ -6,32 +6,32 @@ The study of the different ways spells can be cast, including :
 - the four archetypes ( wild, reflexive, structured, and instrumental )
 
 
-NOTES :
-### Authoring Source
+**NOTES :**
+### *Authoring Source*
 
-- **Instinctive**: biologically encoded;
-- **Reflexive**: memorised and reconstructed;
-- **Structured**: consciously authored or modified;
-- **Inherited**: copied from an external specification.
+- ***Instinctive**: biologically encoded;*
+- ***Reflexive**: memorised and reconstructed;*
+- ***Structured**: consciously authored or modified;*
+- ***Inherited**: copied from an external specification.*
 
-### Execution Substrate
+### *Execution Substrate*
 
-- **Somatic**: maintained by the caster's body or mind;
-- **Instrumental**: maintained by an artefact;
-- **Environmental**: anchored to terrain, architecture, or ambient mana;
-- **Distributed**: divided across linked constructs.
+- ***Somatic**: maintained by the caster's body or mind;*
+- ***Instrumental**: maintained by an artefact;*
+- ***Environmental**: anchored to terrain, architecture, or ambient mana;*
+- ***Distributed**: divided across linked constructs.*
 
-### Supervision Mode
+### *Supervision Mode*
 
-- **Direct**: continuously supervised;
-- **Triggered**: activated once and left to run;
-- **Conditional**: reacts to sensed conditions;
-- **Continuous**: maintains an operating state;
-- **Adaptive**: modifies its behaviour based on feedback.
+- ***Direct**: continuously supervised;*
+- ***Triggered**: activated once and left to run;*
+- ***Conditional**: reacts to sensed conditions;*
+- ***Continuous**: maintains an operating state;*
+- ***Adaptive**: modifies its behaviour based on feedback.*
 
-### Archetypes
+### *Archetypes*
 
-- **Wild**: Instinctive + Somatic + Direct
-- **Memorised**: Reflexive + Somatic + Direct / Adaptive
-- **Participative**: Structured + Somatic + Any
-- **Passive**: Inherited + Non-Somatic + Any 
+- ***Wild**: Instinctive + Somatic + Direct*
+- ***Memorised**: Reflexive + Somatic + Direct / Adaptive*
+- ***Participative**: Structured + Somatic + Any*
+- ***Passive**: Inherited + Non-Somatic + Any* 

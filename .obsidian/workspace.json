@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Magic system/Feature Guide.md",
+                "file": "01 Magic system/System Guide.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Feature Guide"
+              "title": "System Guide"
+            }
+          },
+          {
+            "id": "85ca552a9514e9fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 Magic system/04 Spell Engineering/00 Spell Engineering.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "00 Spell Engineering"
             }
           }
         ]
@@ -196,32 +210,32 @@
   },
   "active": "2d72bc6fb4079741",
   "lastOpenFiles": [
-    "01 Magic system/General Ideas.md",
-    "01 Magic system/Feature Guide.md",
-    "00 Core/01 Axioms.md",
-    "00 Core/02 Thesis.md",
-    "00 Core/03 Premise.md",
-    "00 Core/05 Themes.md",
-    "00 Core/06 Methodology.md",
-    "00 Core/07 Questions.md",
-    "00 Core/08 Contradictions.md",
-    "00 Core/09 General Ideas.md",
-    "01 Magic system/00 Legacy Notes/Ideas.md",
-    "02 World/Sapiens/Ideas.md",
-    "01 Magic system/03 Casting Theory/00 Casting Theory.md",
     "01 Magic system/04 Spell Engineering/00 Spell Engineering.md",
     "01 Magic system/05 Applied Thaumaturgy/00 Applied Thaumaturgy.md",
-    "01 Magic system/02 Construct Engineering/05 Construct Execution.md",
-    "01 Magic system/00 Legacy Notes/01 Fundamentals/01 Principles.md",
-    "01 Magic system/00 Legacy Notes/02 Casting Theory/09 Composite Declension Casting.md",
     "01 Magic system/06 Magohistoriology/00 Magohistoriology.md",
-    "01 Magic system/01 Mana Theory/00 Mana Physics.md",
+    "01 Magic system/System Guide 2.md",
+    "01 Magic system/System Guide.md",
+    "01 Magic system/00 Legacy Notes/01 Fundamentals/02 Laws.md",
+    "01 Magic system/00 Legacy Notes/01 Fundamentals/01 Principles.md",
+    "01 Magic system/03 Casting Theory/00 Casting Theory.md",
+    "01 Magic system/02 Construct Engineering/05 Construct Execution.md",
     "01 Magic system/02 Construct Engineering/00 Construct Engineering.md",
     "01 Magic system/01 Mana Theory/05 Mana Affinities.md",
-    "02 World/Magic (new)/02 Attribute Theory/00 Attribute Theory.md",
     "01 Magic system/01 Mana Theory/04 Mana Attributes.md",
-    "02 World/Magic (new)/00 Base principles.md",
+    "01 Magic system/01 Mana Theory/03 Mana Permutation.md",
+    "01 Magic system/01 Mana Theory/02 Mana Flow.md",
+    "01 Magic system/01 Mana Theory/01 Mana States.md",
+    "01 Magic system/01 Mana Theory/00 Mana Physics.md",
     "01 Magic system/02 Construct Engineering/01 Construct Scaffolds.md",
+    "01 Magic system/02 Construct Engineering/02 Construct Components.md",
+    "01 Magic system/02 Construct Engineering/03 Construct Declaration.md",
+    "01 Magic system/02 Construct Engineering/04 Construct Activation.md",
+    "01 Magic system/02 Construct Engineering/06 Construct Termination.md",
+    "01 Magic system/General Ideas.md",
+    "02 World/Geography/The Expanse.md",
+    "02 World/Geography/The Forest.md",
+    "02 World/Geography/The Great Archives.md",
+    "00 Core/01 Axioms.md",
     "01 Magic system/06 Magohistoriology",
     "01 Magic system/05 Applied Thaumaturgy",
     "01 Magic system/04 Spell Engineering",
