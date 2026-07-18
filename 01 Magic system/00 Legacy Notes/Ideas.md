@@ -1,46 +1,5 @@
-# Conceptual hierarchy
 
-The system may be easiest to organize like this:
-
-## Mana States
-
-- Primed mana: usable/raw potential
-- Declined mana: mana expressing a primitive operation domain
-- Depleted mana: spent residue/waste
-
-## Mana Roles
-
-- Reservoir
-- Catalyst
-- Operator/Governor
-- Reagent
-
-## Construct Types
-
-- Biological construct
-- Mental reflex construct
-- Active structured construct
-- Physical/instrumental construct
-
-## Casting Methods
-
-- Wild casting
-- Reflexive casting
-- Structured casting
-- Instrumental casting
-
-## Spell Products
-
-- Cantrip: low-power reflexive spell
-- Spell: bounded construct producing a defined effect
-- Spell sequence: complex multi-stage structured spell
-- Instrument: persistent or repeatable physical construct
-
-This gives you a vocabulary ladder from physics to social use.
-
-
-
-# Suggested classification axes for spells
+# Spell Classification
 
 Instead of classifying spells only by effect, classify them along several technical axes.
 
@@ -89,13 +48,11 @@ Instead of classifying spells only by effect, classify them along several techni
 
 ## By safety profile
 
-|Class|Meaning|
-|---|---|
-|**Constrained**|Strong built-in limits|
-|**Open**|Allows wide parameters|
-|**Volatile**|Sensitive to disruption|
-|**Runaway-prone**|Can self-amplify|
-|**Contaminating**|Leaves hazardous declined mana|
-|**Backlashing**|Failure feeds into caster/operator|
-
-This classification feels scientific and gives you a lot of room for formal descriptions.
+| Class             | Meaning                            |
+| ----------------- | ---------------------------------- |
+| **Constrained**   | Strong built-in limits             |
+| **Open**          | Allows wide parameters             |
+| **Volatile**      | Sensitive to disruption            |
+| **Runaway-prone** | Can self-amplify                   |
+| **Contaminating** | Leaves undesired mana around       |
+| **Backlashing**   | Failure feeds into caster/operator |

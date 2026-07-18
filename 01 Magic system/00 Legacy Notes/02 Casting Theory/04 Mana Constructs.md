@@ -9,15 +9,15 @@ It is theorised that the underlying principle at play in all these spell constru
 
 ## Common construct components
 
-|Component|Function|
-|---|---|
-|**Sourcing**|Defines mana source|
-|**Funnelling**|Defines mana path|
-|**Selecting**|Defines declension(s)|
-|**Delimiting**|Defines reagent and boundaries|
-|**Regulating**|Defines magnitude, rate, and output limits|
-|**Timing**|Defines duration, delay, rhythm, or termination|
-|**Sensing**|Observes relevant conditions|
-|**Processing**|Converts sensed conditions into construct behavior|
-|**Warding**|Detects, absorbs, or corrects disruption|
-|**Dissipating**|Handles excess, declined, or spent mana|
+| Component       | Function                                           |
+| --------------- | -------------------------------------------------- |
+| **Sourcing**    | Defines mana source                                |
+| **Funnelling**  | Defines mana path                                  |
+| **Selecting**   | Defines declension(s)                              |
+| **Delimiting**  | Defines reagent and boundaries                     |
+| **Regulating**  | Defines magnitude, rate, and output limits         |
+| **Timing**      | Defines duration, delay, rhythm, or termination    |
+| **Sensing**     | Observes relevant conditions                       |
+| **Processing**  | Converts sensed conditions into construct behavior |
+| **Warding**     | Detects, absorbs, or corrects disruption           |
+| **Dissipating** | Handles excess, declined, or spent mana            |
