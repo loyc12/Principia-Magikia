@@ -1,0 +1,176 @@
+# Somaturgy
+
+**Somaturgy** is the study and practice of manipulating mana through the living body. It encompasses the perception, attraction, repulsion, channelling, shaping, and stabilisation of mana through deliberate physiological and cognitive activity.
+
+Somaturgy provides the fundamental interface through which living operators create and displace mana constructs, direct mana into instruments, and supply parameters during spellcasting.
+
+## Volitional Mana Coupling
+
+Living organisms contain varying concentrations of mana-interactive tissues. In sapient casters, parts of the nervous, circulatory, and connective systems form a weak but trainable interaction with nearby mana, known as **volitional mana coupling**.
+
+Volitional mana coupling does not allow thoughts to directly command mana. Mana does not understand language, imagery, desire, or intent. Instead, particular patterns of neural and physiological activity produce small but predictable changes in the forces acting upon nearby mana particles.
+
+These changes may :
+
+- attract or repel mana
+- bias its direction of flow
+- increase or decrease local concentration
+- constrain mana along a path or surface
+- stabilise simple geometric arrangements
+- release mana from an existing constraint
+- modulate an established construct interface
+
+The nervous system therefore acts neither as a spell formula nor as an unrestricted operator. It acts as a biological control interface capable of producing a limited range of low-level mana manipulations.
+
+## Somatic Mana Sense
+
+Volitional control depends upon a corresponding ability to perceive mana.
+
+Mana-interactive tissues respond to nearby concentration, flow, type, pressure, and instability. These responses are transmitted through the nervous system and interpreted as **somatic mana sense**.
+
+Mana sense is not normally experienced as ordinary sight, hearing, or touch. It is a learned internal sensation comparable to balance, limb position, muscular tension, or temperature. Untrained individuals often describe it imprecisely as pressure, warmth, resistance, tingling, weight, or the presence of an unseen current.
+
+With training, a magus may distinguish :
+
+- local mana concentration
+- relative flow direction
+- Primed, Spent, and familiar Attuned mana
+- resistance caused by mana-interactive matter
+- the boundaries of a scaffold
+- tension or instability within a construct
+- whether a mana pathway is open, obstructed, or leaking
+
+Somatic perception remains local and limited. Remote, indirect, or highly precise inspection generally requires Sensing components, Resonant mana, or dedicated instruments.
+
+## Mana Shaping
+
+**Mana shaping** is the deliberate use of volitional mana coupling to arrange Primed mana into constrained geometries.
+
+The operator does not imagine a complete scaffold and cause it to appear. Instead, shaping is performed through repeated low-level manipulations :
+
+1. mana is gathered into a workable concentration
+2. portions of that mana are displaced or held in place
+3. stable lines, junctions, surfaces, and enclosed volumes are progressively established
+4. local instabilities are corrected through continuous sensory feedback
+5. the completed geometry is stabilised long enough to receive its declaration
+
+Mana shaping is therefore a sensorimotor discipline rather than an act of visualisation. Mental images, gestures, breathing patterns, spoken mnemonics, and glyphs may assist concentration and sequencing, but they possess no inherent shaping power.
+
+An experienced magus shapes mana in much the same way that a skilled artisan manipulates a familiar tool : individual motions become procedural and no longer require continuous conscious analysis.
+
+## Shaping Primitives
+
+Although complete scaffold geometries may be extremely complex, conscious mana manipulation relies upon a comparatively small number of **shaping primitives**.
+
+|Shaping Primitive|Function|
+|---|---|
+|**Gathering**|Draws dispersed mana into a workable local concentration|
+|**Displacing**|Moves mana along a chosen direction|
+|**Holding**|Maintains mana at a location against ordinary flow|
+|**Drawing**|Extends a constrained strand between two points|
+|**Joining**|Connects strands or surfaces into a shared junction|
+|**Separating**|Breaks an existing connection or isolates adjacent flows|
+|**Bending**|Alters the direction or curvature of a constrained strand|
+|**Enclosing**|Forms an isolating surface or volume|
+|**Tensioning**|Adjusts density and internal pressure to improve stability|
+|**Releasing**|Removes an imposed constraint in a controlled manner|
+
+More advanced techniques arise from the simultaneous or sequential combination of these primitives.
+
+## Declaration Through Somatic Control
+
+A scaffold alone contains no meaningful operational logic. Once its geometry is stable, an operator must imbue it with construct components and interfaces.
+
+During conscious declaration, the operator uses trained somatic patterns to establish specific internal configurations within the scaffold. These configurations determine :
+
+- where mana may flow
+- which mana types are accepted
+- which parameters may vary
+- which reagents may be referenced
+- how components activate
+- how state and control signals are transmitted
+- how faults and termination are handled
+
+The operator is not required to manually control every mana particle. Component archetypes serve as reproducible configuration patterns that can be instantiated through practised shaping routines.
+
+A novice may be able to reproduce a known Sourcing or Bounding component without understanding every aspect of its internal structure. More advanced magi can modify component variants, compose unfamiliar interfaces, or construct entirely new configurations.
+
+## The Role of Intent
+
+In casting terminology, **intent** is a trained volitional control state used to activate or parameterise an already defined operation.
+
+Intent may provide such inputs as :
+
+- a reagent reference
+- a direction
+- a magnitude
+- a duration
+- an activation signal
+- a choice among predefined modes
+
+Intent cannot provide undefined spell behaviour. A construct cannot interpret a desire such as _protect me_, _heal this person_, or _strike my enemy_ unless its declaration already contains the components, observations, parameters, and operations required to translate admissible inputs into those results.
+
+Intent is therefore comparable to moving a control, selecting an option, or supplying a value rather than writing a spell during execution.
+
+## Somatic Limits
+
+Somaturgic ability is constrained by both physiology and training.
+
+Common limitations include :
+
+- **coupling strength**, which limits how much mana can be manipulated at once
+- **sensory resolution**, which limits the smallest instability or structural detail that can be perceived
+- **control precision**, which limits scaffold complexity and component density
+- **working range**, beyond which direct manipulation becomes weak or unreliable
+- **divided attention**, which limits the number of independently controlled flows
+- **fatigue**, caused by prolonged neural, muscular, and mana-field exertion
+- **interference**, caused by nearby constructs, mana turbulence, or competing operators
+- **pattern confusion**, in which similar shaping routines are partially conflated
+
+Somaturgic fatigue does not necessarily result from mana being drawn directly from the caster's body. It primarily arises from the sustained physiological effort required to sense, constrain, and regulate mana.
+
+Excessive use may cause tremors, sensory distortion, loss of fine control, involuntary discharge, headaches, muscular tension, temporary mana blindness, or collapse of an unfinished scaffold.
+
+## Training
+
+Somaturgic training generally progresses from direct flow manipulation towards increasingly abstract construct work.
+
+A typical curriculum includes :
+
+1. detecting nearby mana
+2. distinguishing flow and concentration
+3. gathering and releasing Primed mana
+4. maintaining simple strands
+5. forming stable junctions and surfaces
+6. constructing basic Platonic scaffolds
+7. instantiating standard component archetypes
+8. sealing and safely dissipating simple constructs
+9. coordinating several flows simultaneously
+10. shaping complete spell assemblies
+
+Gestures, postures, breathing patterns, spoken sequences, and physical focuses are commonly used as training aids because they make somatic routines easier to reproduce. Experienced magi may eventually perform the same operations with minimal visible movement.
+
+
+**Thaumaturgic Pedagogy** is the study of how casting patterns, formulas, safety procedures, and construct reasoning are taught and retained.
+
+## Somatic Interfaces
+
+A living operator may interact with a spell assembly through **somatic interfaces**. These are construct interfaces designed to accept the limited signals produced through volitional mana coupling.
+
+Somatic interfaces may receive :
+
+- activation and termination signals
+- continuous directional input
+- bounded scalar parameters
+- reagent selections
+- regulation adjustments
+- simple fault acknowledgements
+
+They cannot safely accept arbitrary thoughts or concepts. Their admissible inputs must be defined during declaration, much like any other Parameter, Reference, Control, or State interface.
+
+
+**Somatic Thaumaturgy** is the applied discipline concerned with using somaturgic control to construct, activate, and supervise spells.
+
+**Thaumaturgic Neurology** is the study of the nervous and sensory mechanisms underlying volitional mana coupling.
+
+**Mana Kinesiology** is the study of gestures, posture, breathing, and motor patterns used to improve somaturgic control.

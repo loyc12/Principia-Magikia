@@ -314,7 +314,7 @@ Below is a list of frequent construct failure types that termination behaviour m
 
 **Thaumaturgic Safety Engineering** is the applied study of failure prevention, redundancy, emergency shutdown, fault isolation, and mitigation of magical accidents.
 
-# Reagents and Natural Consequences
+# Reagent Operations
 
 A **reagent** is the physical or metaphysical system whose properties are directly operated upon by Attuned mana. Depending on the attribute and spell, a reagent may be an object, a bounded volume, several related objects, a field, a relationship, a process, a living organism, or another construct.
 
@@ -994,47 +994,3 @@ Their principal difficulties include :
 - partial failure
 - fault cascades
 - maintaining a coherent shared reagent or boundary
-
-# Magohistoriology
-
-**Magohistoriology** is the critical study of the historical development of magical knowledge, practice, institutions, and methods.
-
-Unlike a simple chronology of notable magi, spells, or magical events, Magohistoriology examines how claims about magic were produced, recorded, transmitted, contested, and revised. It concerns both the history of magical practice and the historiography through which later scholars interpret that history.
-
-Its principal subjects include :
-
-- the origin, evolution, and standardisation of magical units of measurement
-- the development of experimental controls, replication, instrumentation, and evidentiary standards
-- the emergence, competition, fragmentation, and decline of schools of magical thought
-- historical misconceptions produced by inadequate instruments, inherited doctrine, mistranslation, restricted archives, or political authority
-- changes in glyph systems, formula notation, technical vocabulary, and classification
-- the transition from artisanal and scholastic spellcraft towards formalised magical sciences
-- the social, religious, military, economic, and institutional forces shaping accepted magical knowledge
-- current scientific reforms and the resistance they encounter from established traditions
-
-Magohistoriologists distinguish between several forms of source :
-
-|Source Type|Examples|
-|---|---|
-|**Material**|Surviving instruments, ruins, scaffolds, enchanted objects, and reagent traces|
-|**Formulaic**|Glyph records, spell formulas, manuals, diagrams, and copied cantrip traditions|
-|**Experimental**|Laboratory notes, measurements, failed trials, calibration records, and replications|
-|**Institutional**|Guild archives, legal restrictions, curricula, patents, military records, and religious rulings|
-|**Testimonial**|Letters, oral traditions, eyewitness reports, biographies, and practitioner accounts|
-|**Ecological**|Persistent mana distributions, altered materials, magical species, and environmental remnants|
-
-Because magical theories affect how historical evidence is interpreted, Magohistoriology often operates alongside Attribute Theory, Glyphology, Manametry, archaeology, and the natural sciences.
-
-A historical formula may be misread because its glyph system encoded topology rather than execution order. An ancient measurement may appear impossible because its unit varied regionally. A traditional account of divine fire may describe a poorly understood Radiant or Galvanic event. Conversely, apparently erroneous historical claims may preserve observations that later theoretical systems incorrectly dismissed.
-
-Magohistoriology therefore plays an important role in the emerging magical renaissance. It identifies forgotten techniques, exposes false continuities, distinguishes genuine discovery from later attribution, and reveals where contemporary magical knowledge still rests upon inherited assumptions rather than reproducible evidence.
-
-# Other Disciplines 
-
-NOTE : move these to appropriate locations if possible
-
-**Thaumaturgic Pedagogy** is the study of how casting patterns, formulas, safety procedures, and construct reasoning are taught and retained.
-
-**Manametry** is the science of measuring mana concentration, potential, type, flow, purity, throughput, and permutation loss.
-
-**Thaumaturgic Metrology** is the study and standardisation of magical units, calibration procedures, reference materials, and measurement uncertainty.
