@@ -10,7 +10,7 @@
 | Isolation      | Can one truly flourish alone?                             |
 | Communication  | How can understanding emerge across language and culture? |
 | Responsibility | What obligations accompany transformative discoveries?    |
-|                |                                                           |
+
 # Major Philosophical Axes
 
 | Axis         | Position A                | Position B                     |

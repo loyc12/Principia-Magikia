@@ -1,4 +1,4 @@
-# Ordering
+# Worldbuilding Ordering
 
 | Priority | Category               | Why it matters first                                                                                           |
 | -------- | ---------------------- | -------------------------------------------------------------------------------------------------------------- |
@@ -9,38 +9,16 @@
 | 5        | Political organization | Formal authority grows out of existing social structures and resource control.                                 |
 | 6        | Culture                | Customs, religion, art, and values emerge from the conditions above.                                           |
 | 7        | History                | Once the previous layers are defined, history becomes a sequence of consequences rather than a list of events. |
-## Layer 1 - Physical Reality
+## Layer 0 - Physical Reality
 
-|Topic|Questions to answer|
-|---|---|
-|Cosmology|Is this a planet? Infinite plane? Artificial world?|
-|Geography|Continents? Oceans? Climate?|
-|Arrival phenomenon|Why do things appear? Where? How often?|
-|Ecology|How do imported ecosystems remain stable?|
-|Evolution|Do species evolve here after arriving?|
-|Magic|What actually exists physically? See [[02 Mana Physics|Mana Physics]].|
+| Topic              | Questions to answer                       |
+| ------------------ | ----------------------------------------- |
+| Geography          | Continents? Oceans? Climate?              |
+| Arrival phenomenon | Why do things appear? Where? How often?   |
+| Ecology            | How do imported ecosystems remain stable? |
+| Evolution          | Do species evolve here after arriving?    |
 
-Only the last one really matters early on. The rest can remain mysterious.
-
-
-## Layer 2 - Magical Physics
-
-Perhaps 10–20 physical laws.
-
-Examples :
-
-- Can magic be conserved?
-- Does it flow?
-- Can it be stored?
-- Does intention matter?
-- Is information physical?
-- Does distance matter?
-- Can magic decay?
-- Can magical "circuits" exist?
-- Can magical reactions chain?
-
-
-## Layer 3 - Ecology
+## Layer 2 - Ecology
 
 Instead of asking : "What monsters exist?"
 Ask : "What ecological niches exist?"
@@ -61,7 +39,7 @@ Maybe magical predators maintain ecological balance.
 Monsters become ecosystems.
 
 
-## Layer 4 - Anthropology
+## Layer 3 - Anthropology
 
 Ask : "What problems must every society solve regardless of magic ?"
 
@@ -79,7 +57,7 @@ Example :
 Magic changes _how_ those are solved, not whether they exist.
 
 
-## Layer 5 - Economics
+## Layer 4 - Economics
 
 Every economy answers :
 
@@ -97,7 +75,7 @@ Example:
 - If magical communication exists, politics changes.
 
 
-## Layer 6 - Politics
+## Layer 5 - Politics
 
 Don't begin with kings, begin with incentives.
 
@@ -111,17 +89,11 @@ Ask :
 Government naturally follows.
 
 
-## Layer 7 - Culture
+## Layer 6 - Culture
 
 Culture is what emerges after everything else is decided.
 
 
 # Other Questions
 
-How are magical batteries made?  
-  
-Why does structured magic exist?  
-  
-How does inheritance work?  
-  
-Why do [[Golemancy|golems]] awaken?
+  How does inheritance work?  

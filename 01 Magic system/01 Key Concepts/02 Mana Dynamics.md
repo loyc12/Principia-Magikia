@@ -1,5 +1,4 @@
 # Mana Physics
-{ NOTE : VALIDATE }
 
 ## Mana Flow
 
@@ -12,14 +11,15 @@ Mana is a field of discrete particles, each one being in one of **3 possible sta
 Collectively, Primed, Spent, and the various Attuned mana attributes are known as **mana types**, and the process of converting from one of these to another is known as **mana permutation**. Permutation follows three active processes and one passive process :
 
 | Permutation        | Process Formula                                                                   |
-| ----------------   | --------------------------------------------------------------------------------- |
+| ------------------ | --------------------------------------------------------------------------------- |
 | **Attunement**\*   | Primed => Attuned( attribute ) x ( 1 - Ratio ) + Spent x Ratio + Permutation Loss |
 | **Expenditure**    | Attuned( attribute ) => Spent + Operation( attribute )                            |
-| **Priming**\*\*    | Spent + Singularity => Primed                                                     |
+| **Priming**\*\*    | Spent + [[The Singularity\|Singularity]] => Primed                                |
 | **Detuning**\*\*\* | Attuned( attribute ) => Primed + Spent + Permutation Loss                         |
+
 *\*Attunement releases residual physical energy and disordered mana-field disturbances, collectively termed **permutation losses**.*
 
-*\*\*Priming occurs exclusively around the singularity, which is the light source at the centre of the expanse.*
+*\*\*Priming occurs exclusively around the Singularity.*
 
 *\*\*\*Detuning is the slow loss of an Attuned mana particle's differentiated attribute. It is not partial Priming: it does not restore Spent mana's potential and may occur far from the singularity.*
 
@@ -27,11 +27,11 @@ Mana particles are conserved through permutation, but their potential is not. At
 
 Mana types interact with themselves and one another through repellent forces, pushing mana away from highly concentrated areas and towards less concentrated ones.
 
-They are also affected by gravitational pull, with Spent mana being pulled upwards, where it eventually undergoes Priming, while the other states are pulled downwards at varying rates and pool in low-lying areas of the surface.
+They are also affected by gravitational pull, with Spent mana being pulled upwards, where it eventually undergoes Priming, while the other states are pulled downwards at varying rates, pooling in low-lying areas of the surface.
 
 Different materials have distinct interactive properties with some or all mana types. Biological tissues, metals, crystals, and other materials may therefore attract, repel, channel, or retain mana to varying degrees.
 
-Of all mana types, Primed mana is the most reactive with itself, other mana types, and mana-interactive matter, while Spent mana is the least reactive and is nearly inert. The properties of Attuned mana generally lie between these two extremes and vary by attribute.
+Of all mana types, Primed mana is the most reactive with itself, other mana types, and mana-interactive matter, while Spent mana is the least reactive, being nearly inert. The properties of Attuned mana generally lie between these two extremes and vary per attribute.
 
 ## Mana States in Practice
 
@@ -64,15 +64,15 @@ The early formation of a [[03 Soul-Forms|soul-form]] likewise depends upon Prime
 
 **Attunement** is the process of converting Primed mana into Attuned mana. This process occurs naturally, at a rate dependent on the local concentration of the target Attuned mana relative to the concentrations of Primed mana and, to a lesser degree, Spent mana.
 
-The greatest rates of **Background Attunement** are found in locales with high concentrations of Primed mana and low concentrations of Attuned and Spent mana. Existing Attuned mana biases nearby Primed mana towards the same attribute, making attunement partially self-propagating, though its rate diminishes as the local concentration of that attribute rises.
+The greatest rates of **Background Attunement** are found in locales with high concentrations of Primed mana and low concentrations of Attuned and Spent mana. Existing Attuned mana biases nearby Primed mana towards the same attribute, making attunement partially self-propagating, though its rate diminishes as the local concentration of that attribute rises, eventually reaching a local equilibrium.
 
-This conversion also generates an amount of Spent mana, called **Waste mana** in this context. The **Waste mana ratio**, which is the proportion of used Primed mana converted into Spent mana, depends on both the selected attribute and the attunement process. Faster processes are generally less efficient than slower ones.
+This conversion also generates an amount of Spent mana, called **Waste mana** in this context. The **Waste ratio**, which is the proportion of used Primed mana converted into Spent mana, depends on both the selected attribute and the attunement process. Faster processes are generally less efficient than slower ones.
 
 Attunement can also be performed directly by a caster and is often one of the first exercises taught to novice magi. Doing so is rarely efficient in time, effort, or purity of results. As such, there exists a wide range of mana constructs dedicated to automating the attunement of Primed mana into specific attributes.
 
 Already Attuned mana can be expended directly without first undergoing attunement, making it substantially more efficient and immediately useful than an equivalent supply of Primed mana. This advantage is offset by the difficulty of obtaining, separating, storing, transporting, and replenishing particular attributes, whose natural distributions are highly heterogeneous along the surface of the Expanse.
 
-Reservoirs of Attuned mana are therefore useful even without any associated executable spell assembly. A caster may draw directly from such a reservoir for Unstructured Casting, or supply it to a structured construct while omitting its usual Attuning components.
+Reservoirs of Attuned mana are therefore useful even without any associated executable spell assembly. A caster may draw directly from such a reservoir for Unstructured Casting, or manually supply it to a structured construct while omitting its usual Attuning components.
 
 ### Attunement Quality and Control
 
@@ -88,7 +88,7 @@ Manual Attunement is useful for training, small adjustments, and circumstances w
 
 ### Distribution, Storage, and State Interactions
 
-Primed mana is generally the easier state to gather from a mana-rich environment, but it is difficult to keep quiet and precisely contained. Dense Primed concentrations react with nearby mana and mana-interactive matter, can interfere with controlled Expenditure, and may produce uncontrolled local Attunement if containment fails.
+Primed mana is generally the easier state to gather from a mana-rich environment, but it is difficult to keep inert and precisely contained. Dense Primed concentrations react with nearby mana and mana-interactive matter, can interfere with controlled Expenditure, and may produce uncontrolled local Attunement if containment fails.
 
 Attuned mana is more valuable as a working supply but less convenient as a general resource. Each attribute has its own natural distribution, affinity, storage needs, and demand. A reservoir therefore represents a specific logistical commitment rather than a universal mana store: it must preserve its accepted attribute, limit leakage and contamination, and be replenished from local sources or an Attuner.
 
@@ -111,11 +111,11 @@ Contamination may result from leaky containment, conduit backflow, imperfect Att
 
 ### Attunement Decay
 
-**Attunement Decay**, commonly called **Detuning**, is the passive relaxation of Attuned mana back towards the Primed state. It gradually erases an attribute rather than directly restoring the particle to its prior condition: some remaining potential is lost as Spent mana and permutation loss during the process.
+**Attunement Decay**, commonly called **Detuning**, is the passive relaxation of Attuned mana back towards the Primed state. It probabilistically erases or spends attribute particle rather than directly restoring it to its prior condition: macroscopically, this results in some remaining potential being lost as Spent mana and permutation loss during the process.
 
 Detuning is ordinarily slow enough that it does not determine the outcome of a short casting. It does, however, make Attuned mana a perishable working resource. Poorly contained supplies may noticeably lose purity or usable capacity over days or weeks, while well-designed reservoirs can preserve a stable attribute supply for far longer.
 
-The rate of Detuning depends upon the attribute, local mana composition, material affinity, concentration, and containment. Dense reservoirs of one attribute, suitable retentive materials, Resonant anchoring, and active regulation all slow the process. Turbulence, incompatible materials, Primed-mana saturation, leakage, and exposure to competing mana conditions accelerate it.
+The rate of Detuning is measured as a half-life, and depends upon the attribute, local mana composition, material affinity, concentration, and containment. Dense reservoirs of one attribute, suitable retentive materials, and active regulation all slow the process. Turbulence, incompatible materials, Primed-mana saturation, leakage, and exposure to competing mana conditions accelerate it.
 
 The singularity's distant influence may bias Detuning without constituting Priming. Actual Priming remains exclusive to the singularity, while the wider field of the Expanse gradually favours the loss of unstable differentiation in poorly maintained Attuned mana.
 
@@ -134,7 +134,7 @@ Below are summary tables pertaining to the 11 known attuned **attributes** :
 | **Galvanic**   | Lightning, Magnetism                        | Change electric charges, currents, and quasi-static electromagnetic fields.                                                        |
 | **Volumic**    | Pressure, Density, Compression, Expansion   | Modify the metric volume occupied by a bounded material system without directly changing its topology, mass, or internal momentum. |
 | **Massic**     | Mass, Weight, Gravity                       | Modify an object's inertial and gravitational mass.                                                                                |
-| **Cohesive**   | Structure, Shaping, Binding                 | Change which portions of matter are mechanically continuous without directly specifying their chemical composition.                |
+| **Cohesive**   | Structure, Cohesion, Binding                 | Change which portions of matter are mechanically continuous without directly specifying their chemical composition.                |
 | **Resonant**   | Linking, Observation, Divination            | Change the degree to which state changes in one system are detectable by, transmitted to, or correlated with another.              |
 | **Mnemonic**   | Memory, Recording, Engraving, Scrying, Mind | Encode information into, and decode information from, the physical medium in which it is stored.                                   |
 | **Temporal**\* | Acceleration, Preservation, Stasis          | Modify the local rate at which time progresses.                                                                                    |

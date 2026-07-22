@@ -91,6 +91,14 @@ Below is a list of the most commonly used component archetypes and their functio
 | **Linking**     | Establishes declared interfaces between constructs           |
 *\*A Sensing component may directly inspect properties of a reagent that relate to the construct's available mana attributes. Resonant mana is required for unrelated, indirect, remote, relational, or persistent inspection.*
 
+### Anchoring and Resonant Anchoring
+
+An **Anchoring** component establishes what a construct follows, remains attached to, or treats as its reference. Ordinary anchoring may bind a construct to a physical host, location, moving object, or declared reagent.
+
+**Resonant anchoring** is an Anchoring arrangement that uses Resonant mana to maintain an inspectable relationship between a mana system and a declared reference, such as a vessel, location, host body, distributed construct, or previously measured mana state. It allows the arrangement to detect displacement or divergence from that reference and pass the result to appropriate sensing, processing, or regulation components.
+
+Resonant anchoring is not passive preservation. By itself, it neither stops Detuning nor supplies a lost structure or mana potential. It becomes useful only when containment, maintenance, or active regulation can act upon the divergence it reveals. The same technique can therefore support stable reservoirs, persistent spells, distributed assemblies, and preservation arrangements without granting any of them free permanence.
+
 Components exchange mana, values, references, and control signals through declared **interfaces**. Interfaces limit what may pass between components and constructs, preventing Linking components from acting as unrestricted channels. A component may expose one or more of the following interface categories :
 
 { NOTE : VALIDATE }

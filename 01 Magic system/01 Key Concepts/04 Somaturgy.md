@@ -1,6 +1,6 @@
 # Somaturgy
 
-**Somaturgy** is the study and practice of manipulating mana through the living body and its [[03 Soul-Forms|soul-form]]. It encompasses the perception, attraction, repulsion, channelling, shaping, and stabilisation of mana through deliberate physiological and cognitive activity.
+**Somaturgy** is the study and practice of manipulating mana through the living body and its [[03 Soul-Forms|soul-form]]. It encompasses the perception, attraction, repulsion, channelling, shaping, and stabilisation of mana through deliberate physiological and cognitive activity. In this context, **shaping** specifically means forming or altering a Primed-mana construct scaffold; the broader activity is [[08 Mana Casting|mana casting]].
 
 Somaturgy provides the fundamental interface through which living operators create and displace [[05 Mana Constructs|mana constructs]], direct mana into instruments, and supply parameters during spellcasting.
 
@@ -44,7 +44,7 @@ Somatic perception remains local and limited. Remote, indirect, or highly precis
 
 ## Mana Shaping
 
-**Mana shaping** is the deliberate use of volitional mana coupling to arrange Primed mana into constrained geometries.
+**Mana shaping** is the deliberate use of volitional mana coupling to arrange Primed mana into constrained geometries that form or alter a mana construct scaffold. It is a specialised kind of mana casting, rather than a general synonym for all direct mana manipulation.
 
 The operator does not imagine a complete scaffold and cause it to appear. Instead, shaping is performed through repeated low-level manipulations :
 
@@ -81,7 +81,7 @@ More advanced techniques arise from the simultaneous or sequential combination o
 
 Somaturgy supplies the bodily technique for **Unstructured Casting**: a soul-form gathers and condenses already Attuned mana against a nearby reagent. This is distinct from mana shaping, which arranges Primed mana into a scaffold that will later receive declared logic.
 
-The phrase **unstructured shaping** is sometimes used informally for direct mana manipulation. It is imprecise, as no stable construct geometry or declared operation is produced. The attributes, practical operations, and full limits of Unstructured Casting belong to [[08 Mana Casting|Mana Casting]].
+The phrase **unstructured shaping** is sometimes used informally for direct mana manipulation. It is imprecise: direct, construct-free Expenditure is **Unstructured Casting**, because no stable construct geometry is formed. The attributes, practical operations, and full limits of Unstructured Casting belong to [[08 Mana Casting|Mana Casting]].
 
 ## Declaration Through Somatic Control
 
@@ -97,9 +97,9 @@ During conscious declaration, the operator uses trained somatic patterns to esta
 - how state and control signals are transmitted
 - how faults and termination are handled
 
-The operator is not required to manually control every mana particle. Component archetypes serve as reproducible configuration patterns that can be instantiated through practised shaping routines.
+The operator is not required to manually control every mana particle. Component archetypes serve as reproducible configuration patterns that can be instantiated through practised shaping routines, known as **mana shaping exercises**.
 
-A novice may be able to reproduce a known Sourcing or Bounding component without understanding every aspect of its internal structure. More advanced magi can modify component variants, compose unfamiliar interfaces, or construct entirely new configurations.
+A novice may be able to reproduce a known component archetype without understanding every aspect of its internal structure. More advanced magi can modify component variants, compose unfamiliar interfaces, or construct entirely new configurations.
 
 ## The Role of Intent
 
@@ -154,9 +154,11 @@ A typical curriculum includes :
 8. instantiating standard component archetypes
 9. sealing and safely dissipating simple constructs
 10. coordinating several flows simultaneously
-11. shaping complete spell assemblies
+11. shaping the construct scaffolds of complete spell assemblies
 
 Gestures, postures, breathing patterns, spoken sequences, and physical focuses are commonly used as training aids because they make somatic routines easier to reproduce. Experienced magi may eventually perform the same operations with minimal visible movement.
+
+**Mana casting exercises** ( which includes the more narrow **mana shaping exercises** ) are commonly used to reinforce one's ability to properly manipulate mana, and as such, there exist an innumerable amount of variations of such exercises, focusing on one or more shaping primitive(s), on top of fine mana manipulation in general.
 
 
 **Thaumaturgic Pedagogy** is the study of how casting patterns, formulas, safety procedures, and construct reasoning are taught and retained.

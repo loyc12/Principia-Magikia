@@ -41,7 +41,7 @@ An organism entering a mana-rich environment without an existing soul-form, such
 
 Collectively, these symptoms are referred to as **soullessness symptoms**, but may also be experienced to a lesser extend by soul-form bearing beings when they are suddenly surrounded by abnormally high concentrations of mana.
 
-As the initial formation or adaptation period passes, soullessness symptoms generally diminish and are replaced by a less painful omnidirectional pressure-like awareness of nearby mana. Over time, this crude sensation is gradually recognised by the neural substrate as a new sense, which can be practiced and refined.
+As the initial formation or adaptation period passes, soullessness symptoms generally diminish and are replaced by a less painful omnidirectional pressure-like awareness of nearby mana. Over time, this crude sensation often ends up being internalised by the neural substrate as a new sense, which can be practiced and refined.
 
 A newly completed soul-form may remain weak for an extended period even after the organism begins perceiving mana.
 
@@ -114,7 +114,7 @@ Animic signatures may be used for :
 - linking derived soul-forms to their source
 - diagnosing injury or deformation of the soul-form
 
-Signatures change gradually over time but normally retain enough continuity for long-term recognition.
+Signatures change gradually over time but normally retain enough continuity for long-term recognition once fully matured.
 
 
 **Animic Signaturgy** is the study of soul-form identification, comparison, inheritance, and change.
@@ -123,7 +123,7 @@ Signatures change gradually over time but normally retain enough continuity for 
 
 Soul-forms provide living organisms with a natural interface to mana.
 
-Disturbances in nearby mana deform or excite the soul-form, and those changes weakly influence the nervous system. Through training, the organism learns to interpret these effects as **somatic mana sense**.
+Disturbances in nearby mana deform or excite the soul-form, and those changes weakly influence the nervous system. Through training, the organism learns to interpret these effects as a well defined **somatic mana sense**.
 
 Conversely, deliberate neural and physiological activity alters the soul-form, allowing it to exert small forces upon nearby mana. This process forms the basis of conscious mana manipulation.
 
@@ -135,9 +135,9 @@ and :
 
 > Neural activity -> Soul-form deformation -> Mana displacement
 
-The soul-form does not translate unrestricted thought into magical effects. It permits only low-level manipulations such as attracting, repelling, condensing, releasing, and crudely directing mana near its surface.
+The soul-form does not translate unrestricted thought into magical effects. It permits only low-level manipulations such as attracting, repelling, condensing, releasing, and crudely directing or attuning mana near its surface.
 
-More sophisticated effects require either direct expenditure of already Attuned mana or the construction and execution of a structured spell assembly.
+More sophisticated effects require either direct expenditure of Attuned mana or the construction and execution of a structured spell assembly.
 
 Soul-forms differ greatly in sensitivity, range, precision, and coupling strength. These differences may arise from physiology, development, exposure, injury, or training.
 
@@ -172,9 +172,9 @@ Consciousness and rapid-eye-movement (REM) sleep increase the soul-form's intern
 
 ## Primed-Mana Saturation
 
-Animic resistance is reinforced by the accumulation of Primed mana within and around the soul-form.
+Animic resistance is reinforced by the soul-form's accumulation of Primed mana within and around the itself.
 
-Primed mana is highly reactive to other mana types, and therefore, dense Primed mana disrupts incoming Attuned mana, interferes with controlled expenditure, and makes foreign constructs more difficult to establish or maintain.
+Primed mana is highly reactive to other mana types, and therefore, dense Primed mana clouds disrupts incoming Attuned mana, interferes with controlled expenditure, and makes foreign constructs more difficult to establish or maintain.
 
 This effect may be reproduced artificially through **Primed-mana saturation**, in which an object, region, reservoir, or ward is deliberately flooded with Primed mana.
 
@@ -229,7 +229,7 @@ Such **neurological analogues** may include :
 
 Most such systems produce only weak or partial soul-forms.
 
-The likelihood and complexity of formation appear to depend upon :
+The likelihood and complexity of formation  depend upon :
 
 - density of internal signalling
 - recurrence and feedback
@@ -242,7 +242,7 @@ The likelihood and complexity of formation appear to depend upon :
 
 For example, a large and complex ward system surrounding a house may gradually develop a faint soul-form reflecting its boundaries, recurring signals, inhabitants, and maintenance history.
 
-Such a structure would not necessarily be conscious or behaviourally autonomous. It may nevertheless possess :
+Such a structure would not implicitly be conscious or behaviourally autonomous. It may nevertheless possess :
 
 - a recognisable signature
 - stronger internal thaumaturgic cohesion
@@ -251,7 +251,7 @@ Such a structure would not necessarily be conscious or behaviourally autonomous.
 - persistent Resonant relationships
 - rudimentary state retention
 
-These emergent structures are generally termed **protoanimic constructs** or **vestigial soul-forms**.
+These emergent structures are generally termed **protoanimic constructs**.
 
 
 **Comparative Animistics** is the study of soul-form formation across biological, artificial, architectural, and distributed systems.
@@ -270,7 +270,7 @@ The rate of decay depends upon :
 - ambient mana concentration and flow
 - surrounding mana types
 - physical preservation of the nervous system
-- Resonant anchors
+- Resonant anchor-and-feedback arrangements
 - Mnemonic reinforcement
 - containment within suitable materials or constructs
 
@@ -329,7 +329,6 @@ Soul-form preservation attempts to slow decay by replacing the stabilising influ
 Preservation may involve :
 
 - dense Primed-mana containment
-- Resonant anchoring
 - Mnemonic reinforcement
 - simulated recurrent activity
 - mana-attracting vessels
@@ -337,6 +336,8 @@ Preservation may involve :
 - rapid attachment to another active substrate
 
 Preservation is notoriously difficult, because excessive stabilisation may freeze the structure in a distorted state, while insufficient stabilisation permits continued decay.
+
+In this context, Resonant anchoring preserves a reference relationship between the remnant and a measured animic state, vessel, or compatible substrate. It can reveal drift or displacement, but it does not preserve a soul-form by itself; any benefit depends upon the containment, reinforcement, or simulated activity that responds to that information.
 
 A preserved soul-form remains dependent upon the compatibility of any later substrate. The more that substrate differs from the original body, the greater the difficulty of mapping sensory, motor, bodily, and behavioural relationships.
 
@@ -526,7 +527,7 @@ Possible consequences include :
 - susceptibility to foreign anchoring
 - partial dissociation between body and soul-form
 - persistent leakage or turbulence
-- various soullessness symptoms
+- various other soullessness symptoms
 
 Because the nervous system continually shapes the soul-form, minor damage may gradually repair itself. Severe or repeatedly reinforced damage may instead stabilise into **animic scarring**.
 

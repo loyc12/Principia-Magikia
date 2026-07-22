@@ -2,16 +2,28 @@
 
 { NOTE : VALIDATE }
 
-**Mana casting** is the deliberate manipulation and Expenditure of mana to perform attributed operations upon one or more [[06 Reagent Operations|reagents]].
+**Mana casting** is the deliberate manipulation of mana: moving, gathering, constraining, attuning, supplying, or expending it. It is the broad term for an operator's active use of mana, whether or not that use produces an immediate attributed operation upon a [[06 Reagent Operations|reagent]].
 
-Mana casting is divided into two broad methods :
+## Casting and Shaping Terminology
+
+| Term | Meaning | Relation to the others |
+|---|---|---|
+| **Mana casting** | Any deliberate manipulation of mana, including its movement, containment, Attunement, supply, shaping, or Expenditure. | The broadest term. |
+| **Mana shaping** | The purposeful manipulation of Primed mana to form or alter a mana construct's scaffold. | A specialised form of mana casting; it does not describe direct construct-free Expenditure. |
+| **Spell casting** | Creating, modifying, instantiating, activating, supervising, or using a [[07 Spell Composition|spell assembly]]. | A form of mana casting concerned with spells. It may include mana shaping, but an already-existing spell can also be activated without shaping. |
+
+Thus, all mana shaping and spell casting are mana casting. Mana shaping is not synonymous with casting in general, and direct Unstructured Casting is casting but not shaping.
+
+Mana casting achieves magical effects through two broad paths :
 
 - **Unstructured Casting** directly condenses already Attuned mana against a nearby reagent until its matter-specific expenditure threshold is exceeded
-- **Structured Casting**, also called **spell casting**, instantiates or uses one or more mana constructs to select, constrain, coordinate, and regulate Expenditure
+- **Spell Casting** creates, modifies, instantiates, activates, supervises, or uses a spell assembly to select, constrain, coordinate, and regulate Expenditure
+
+**Structured Casting** is the conscious, analytical form of spell casting in which an operator understands and works with the assembly's construct logic. Reflexive, wild, and instrumental spell casting may use an assembly without that degree of conscious construction or modification.
 
 Unstructured Casting is comparable to entering individual low-level commands one at a time. Structured Casting is comparable to writing, compiling, and executing a script or program whose operations can be composed, parameterised, repeated, and supervised.
 
-The distinction concerns the presence of executable construct logic rather than the skill or intention of the operator. Unstructured Casting may still require substantial training, while some structured spells can be activated by an untrained user through an instrument.
+The distinction concerns the presence of executable construct logic rather than the skill or intention of the operator. Unstructured Casting may still require substantial training, while an existing spell assembly may be activated by an untrained user through an instrument without that user performing Structured Casting.
 
 People capable of intentionally manipulating mana are most commonly called **magi** ( singular : **magus** ), though _mage_, _magician_, _wizard_, _witch_, _invocater_, and _caster_ are also used according to region, tradition, and profession.
 
@@ -176,7 +188,7 @@ Common biological adaptations include :
 - temporary organs that function only during particular life stages or seasons
 
 
-**Magical Physiology** is the study of biological structures that attract, store, attune, shape, or expend mana.
+**Magical Physiology** is the study of biological structures that attract, store, attune, expend, or shape Primed mana into construct scaffolds.
 
 **Evolutionary Thaumaturgy** is the study of how wild-casting traits arise, specialise, and interact with ecological pressures.
 
@@ -254,7 +266,7 @@ Knowing two cantrips does not normally permit their direct combination. A caster
 
 ## Structured Casting
 
-**Structured Casting** is the conscious construction, modification, derivation, or supervision of a spell assembly by a caster who understands its components, interfaces, parameters, and execution behaviour.
+**Structured Casting** is the conscious construction, modification, derivation, or supervision of a spell assembly by a caster who understands its components, interfaces, parameters, and execution behaviour. It is the analytical and design-intensive subset of spell casting, not a synonym for every use or activation of a spell.
 
 Structured casters may work from existing formulas, adapt inherited templates, combine recognised component variants, or design original constructs. Structured casting therefore encompasses a broad continuum of expertise rather than a single level of mastery.
 
@@ -267,7 +279,7 @@ Its common practices include :
 | **Derivation**       | Adapting a known template to a new reagent, attribute, source, or operating condition |
 | **Refactoring**      | Replacing or reorganising components while preserving the spell's declared operation  |
 | **Original design**  | Producing a novel template or construct architecture                                  |
-| **Live shaping**     | Modifying or redirecting a construct during activation or execution                   |
+| **Live shaping**     | Altering a construct's Primed scaffold during activation or execution                  |
 | **Diagnostics**      | Inspecting, testing, isolating, and repairing malformed or degraded constructs        |
 | **Supervision**      | Continuously regulating a complex, unstable, or partially autonomous execution        |
 | **Maintenance**      | Realigning an activated spell assembly towards its intended state                      |

@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "67bc73b3ff0ae883",
+        "id": "e3ebefa7c38dbc71",
         "type": "tabs",
         "children": [
           {
-            "id": "75c256cf17eb08bf",
+            "id": "fc1b34483ab172a3",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "01 Magic system/01 Key Concepts/05 Mana Constructs.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "05 Mana Constructs"
             }
           }
         ]
@@ -49,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "all interact themselves",
+                "query": "**vestigial",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -190,34 +194,35 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5ab21d3ba977f28a",
+  "active": "fc1b34483ab172a3",
   "lastOpenFiles": [
+    "01 Magic system/01 Key Concepts/04 Somaturgy.md",
+    "01 Magic system/01 Key Concepts/03 Soul-Forms.md",
+    "01 Magic system/01 Key Concepts/08 Mana Casting.md",
+    "01 Magic system/01 Key Concepts/02 Mana Dynamics.md",
+    "01 Magic system/01 Key Concepts/01 Core Principles.md",
+    "02 World/Cosmology/The Expanse.md",
+    "02 World/Cosmology/The Singularity.md",
+    "02 World/Cosmology",
     "01 Magic system/Magic System Guide mk4.md",
+    "01 Magic system/General Ideas.md",
+    "01 Magic system/00 Legacy Notes/Magic System Guide mk2.md",
+    "00 Core/02 Thesis.md",
+    "00 Core/01 Axioms.md",
+    "00 Core/03 Premise.md",
+    "00 Core/05 Themes.md",
+    "00 Core/06 Methodology.md",
+    "00 Core/07 Questions.md",
+    "00 Core/08 Contradictions.md",
+    "00 Core/09 General Ideas.md",
+    "04 Narrative/General Ideas.md",
     "01 Magic system/Magic System Guide mk3.md",
     "01 Magic system/00 Legacy Notes/Magic System Guide mk3.md",
-    "01 Magic system/00 Legacy Notes/Magic System Guide mk2.md",
     "AGENT.md",
     "01 Magic system/00 Legacy Notes/01 Mana Flow.md",
     "01 Magic system/02 Additional Disciplines/Magohistoriology.md",
-    "01 Magic system/01 Key Concepts/02 Mana Physics.md",
     "01 Magic system/01 Key Concepts/09 Casting Practices.md",
-    "01 Magic system/01 Key Concepts/08 Mana Casting.md",
     "01 Magic system/01 Key Concepts/07 Spell Composition.md",
-    "01 Magic system/01 Key Concepts/06 Reagent Operations.md",
-    "01 Magic system/01 Key Concepts/05 Mana Constructs.md",
-    "01 Magic system/01 Key Concepts/04 Somaturgy.md",
-    "01 Magic system/01 Key Concepts/03 Soul-Forms.md",
-    "01 Magic system/01 Key Concepts/02 Mana Flow and Attunement.md",
-    "01 Magic system/01 Key Concepts/05 Somaturgy.md",
-    "01 Magic system/01 Key Concepts/08 Spell Composition.md",
-    "01 Magic system/01 Key Concepts/07 Reagent Operations.md",
-    "01 Magic system/01 Key Concepts/06 Mana Constructs.md",
-    "01 Magic system/02 Additional Disciplines/Golemancy.md",
-    "01 Magic system/02 Additional Disciplines/Somaturgy.md",
-    "01 Magic system/01 Key Concepts/10 Casting Practices.md",
-    "01 Magic system/01 Key Concepts/09 Mana Casting.md",
-    "01 Magic system/01 Key Concepts/08 Somaturgy.md",
-    "01 Magic system/01 Key Concepts/04 Soul-Forms.md",
     "01 Magic system/01 Key Concepts",
     "01 Magic system/01 Fundamentals",
     "01 Magic system/02 Additional Disciplines",
@@ -226,7 +231,6 @@
     "01 Magic system/03 Casting Theory",
     "01 Magic system/02 Construct Engineering",
     "02 World/Magic (new)/02 Attribute Theory",
-    "01 Magic system/01 Mana Theory",
-    "01 Magic system"
+    "01 Magic system/01 Mana Theory"
   ]
 }

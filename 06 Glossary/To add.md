@@ -1,6 +1,6 @@
 The Spark : Sapience
 Sourceworld : origin world of new arrivals
-Singularity : sun thing
+[[The Singularity|Singularity]] : sun thing
 
 spell construct -> building block of magic, burning mana to enact change
 spell -> ordered set of interlinked spell constructs
