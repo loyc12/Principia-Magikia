@@ -1,0 +1,334 @@
+# Mana Casting
+
+{ NOTE : VALIDATE }
+
+**Mana casting** is the deliberate manipulation and Expenditure of mana to perform attributed operations upon one or more [[06 Reagent Operations|reagents]].
+
+Mana casting is divided into two broad methods :
+
+- **Unstructured Casting** directly condenses already Attuned mana against a nearby reagent until its matter-specific expenditure threshold is exceeded
+- **Structured Casting**, also called **spell casting**, instantiates or uses one or more mana constructs to select, constrain, coordinate, and regulate Expenditure
+
+Unstructured Casting is comparable to entering individual low-level commands one at a time. Structured Casting is comparable to writing, compiling, and executing a script or program whose operations can be composed, parameterised, repeated, and supervised.
+
+The distinction concerns the presence of executable construct logic rather than the skill or intention of the operator. Unstructured Casting may still require substantial training, while some structured spells can be activated by an untrained user through an instrument.
+
+People capable of intentionally manipulating mana are most commonly called **magi** ( singular : **magus** ), though _mage_, _magician_, _wizard_, _witch_, _invocater_, and _caster_ are also used according to region, tradition, and profession.
+
+## Casting Roles
+
+A casting process may involve several functional roles. These roles need not correspond to separate physical objects, and a single caster, organ, instrument, or construct may fulfil several of them simultaneously.
+
+|Casting Role|Function|
+|---|---|
+|**Source**|Provides Primed or Attuned mana to the spell assembly|
+|**Reservoir**|Stores or buffers mana before or during execution|
+|**Conduit**|Carries mana between sources, constructs, instruments, and reagents|
+|**Attuner**|Permutes Primed mana into one or more required attributes|
+|**Host**|Physically or somatically maintains a structured spell assembly|
+|**Operator**|Manipulates mana directly or supplies parameters, references, activation, or supervision|
+|**Reagent**|Receives the casting's attributed operations|
+|**Sink**|Receives Spent mana, excess flow, or permutation loss|
+
+These casting roles describe the participants and physical pathways involved in casting. They are distinct from **construct components**, which define the internal behaviour of an individual mana construct and are absent from purely Unstructured Casting.
+
+For example, an Unstructured caster may simultaneously serve as operator and conduit while drawing from an external reservoir. A structured caster may additionally act as a temporary host, while an instrument acts as reservoir, attuner, and persistent host.
+
+A living operator normally manipulates mana through their soul-form, whose sensorimotor fringe converts trained neural activity into low-level attraction, repulsion, condensation, release, and directional bias.
+
+## Casting Dimensions
+
+Structured casting methods are most rigorously described through three independent dimensions :
+
+1. the **authoring source** from which the spell logic originates
+2. the **execution substrate** upon which the assembly is hosted
+3. the **supervision mode** by which execution is controlled
+
+These dimensions may be combined freely where physically and logically compatible.
+
+### By Authoring Source
+
+|Authoring Source|Description|
+|---|---|
+|**Instinctive**|Spell logic is biologically encoded and instantiated through inherited anatomy, development, or instinctive behaviour.|
+|**Reflexive**|A previously learned formula or template is reconstructed from procedural memory with little or no conscious alteration.|
+|**Structured**|The spell is consciously assembled, modified, derived, or supervised by a caster who understands its internal logic.|
+|**Inherited**|Spell logic is copied from an external specification, retained assembly, instrument, environment, or other pre-existing source.|
+
+The authoring source describes where the executable design comes from, not where it is ultimately hosted. An inherited formula may be reconstructed somatically, while a structured caster may design a spell that is later hosted instrumentally.
+
+### By Execution Substrate
+
+| Execution Substrate | Description                                                                                                   |
+| ------------------- | ------------------------------------------------------------------------------------------------------------- |
+| **Somatic**         | The spell assembly is generated, hosted, or continuously maintained by a living body or mind.                 |
+| **Instrumental**    | The assembly is hosted within an artefact, implement, device, or other purpose-built object.                  |
+| **Architectural**   | The assembly is embedded into a building, vessel, fortification, road, or fixed installation.                 |
+| **Environmental**   | The assembly is anchored to terrain, ambient mana flows, naturally occurring structures, or local conditions. |
+| **Distributed**     | The assembly is divided across several linked substrates or locations.                                        |
+
+A distributed spell may combine several other substrates. For example, an architectural ward may use environmental anchors, instrumental reservoirs, and somatic supervision.
+
+### By Supervision Mode
+
+|Supervision Mode|Description|
+|---|---|
+|**Direct**|An operator continuously supplies parameters, regulation, or control during execution.|
+|**Triggered**|An operator initiates the spell, after which its declared behaviour proceeds without continuous supervision.|
+|**Conditional**|Execution begins, changes, or terminates when declared sensed conditions are satisfied.|
+|**Continuous**|The assembly remains in an active regulatory state for as long as its required mana and conditions persist.|
+|**Adaptive**|The assembly selects among predefined behaviours or parameters in response to observations and retained state.|
+|**Autonomous**|The assembly performs its declared function without routine external intervention, including its own regulation and ordinary fault handling.|
+
+Supervision does not grant a spell unrestricted intelligence. Conditional, Adaptive, and Autonomous spells remain limited to their declared observations, state, interfaces, and possible responses.
+
+## Casting Archetypes
+
+Every individual casting may be described through the preceding dimensions. Nevertheless, several recurring combinations are recognised as conventional **casting archetypes**.
+
+| Casting Archetype        | Typical Classification           | Description                                                                                                                                         |
+| ------------------------ | -------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Unstructured Casting** | Non-formulaic + Somatic          | An operator directly condenses available Attuned mana against a nearby reagent until its expenditure threshold is exceeded.                         |
+| **Wild Casting**         | Instinctive + Somatic            | A living system biologically generates and executes a narrow spell assembly through specialised anatomy and instinctive mana control.               |
+| **Reflexive Casting**    | Reflexive + Somatic              | A caster reconstructs and activates a memorised spell pattern through trained procedural memory and external helper cues.                         |
+| **Structured Casting**   | Structured + Usually Somatic     | A caster consciously assembles, modifies, derives, or supervises a spell according to understood construct logic.                                   |
+| **Instrumental Casting** | Usually Inherited + Instrumental | A pre-existing artefact hosts and executes most or all spell logic, while its user supplies only permitted inputs, mana, references, or activation. |
+
+These archetypes are neither exhaustive nor mutually exclusive. A structured caster may work through an instrument, a wild-casting organism may incorporate mineral structures, and an instrumental assembly may require direct somatic supervision. Unstructured Casting sits partly outside the authoring-source taxonomy because it instantiates no formula or spell assembly.
+
+
+**Casting Theory** is the study of how spell assemblies are instantiated, hosted, supplied, parameterised, activated, and supervised.
+
+**Praxeothaumaturgy** is the applied study of practical casting technique, operator behaviour, efficiency, reliability, and performance under real conditions.
+
+## Unstructured Casting
+
+**Unstructured Casting** is the direct Expenditure of already Attuned mana without the use of a declared mana construct.
+
+The caster uses their soul-form to gather and condense one mana attribute against a nearby reagent until its matter-specific expenditure threshold is exceeded. Once triggered, the Attuned mana performs its primitive operation according to its attribute and the local relationship between mana and reagent.
+
+Unstructured Casting does not permit the caster to declare a broad desired result. The operator can only exert coarse control over :
+
+- which nearby reagent is contacted
+- the approximate point or surface of application
+- how much Attuned mana is condensed
+- whether the mana is added or withdrawn where the attribute permits it
+- a crude directional bias where the operation naturally supports one
+- when the caster stops supplying mana
+
+Unstructured Casting is normally limited to touch or near-touch range. Direct somatic control weakens rapidly with distance, while the absence of Selection, Bounding, Directing, Regulating, and Sensing components makes remote application unreliable.
+
+The method is easiest with abundant, stable, familiar attributes and simple reagents. Kinetic and Radiant mana are therefore the most common attributes used in this manner, while rare, unstable, or weakly understood attributes are seldom handled unstructured.
+
+Typical Unstructured operations include :
+
+| Attribute | Typical Unstructured Operations |
+| --- | --- |
+| **Kinetic** | Heat or cool a touched object, induce vibration, apply a crude point compression, crack brittle matter, or produce a short shove |
+| **Radiant** | Make a touched object glow, dim a small illuminated surface, emit a flash, or crudely alter colour |
+| **Galvanic** | Charge or discharge an object, create a spark, or weakly magnetise a compatible material |
+| **Volumic** | Compress a soft material, expand a confined gas, or produce a local pressure pulse |
+| **Massic** | Temporarily make a touched object heavier or lighter while mana remains concentrated |
+| **Cohesive** | Widen an existing crack, weakly join compatible surfaces, or crudely separate brittle continuous matter |
+| **Resonant** | Establish a weak short-lived coupling between touching or strongly familiar systems |
+
+Mnemonic, Temporal, Spatial, Ontic, and other rare or unstable attributes are not normally suitable for Unstructured Casting. Even where direct Expenditure is theoretically possible, practitioners seldom possess sufficient access, familiarity, or control to exceed the relevant threshold safely.
+
+Directional force is possible with Kinetic mana, but is significantly harder than heating, cooling, vibration, compression, or shattering. A shove can be produced by concentrating momentum transfer at one surface, but sustained telekinesis, controlled trajectories, levitation, and precise force distribution require structured Direction, Selection, Regulation, and feedback.
+
+Unstructured Casting is often highly efficient for small immediate tasks when the correct Attuned mana is already available, as it incurs no scaffold or declaration cost. It becomes inefficient when the caster must first attune Primed mana manually, compensate for leakage, overcome resistance, or repeatedly reproduce a precise result.
+
+Its primary limitations are :
+
+- dependence upon locally available or stored Attuned mana
+- touch or near-touch range
+- poor reagent discrimination
+- imprecise boundaries
+- weak directional control
+- no automatic feedback or termination
+- inability to compose several operations reliably
+- high danger when large concentrations are used
+- strong interference from Primed-mana saturation and soul-forms
+
+Unstructured Casting is widely treated as an ordinary practical skill rather than a spell tradition. Heating tinder, cooling a cup, making a walking stick glow, discharging static, or cracking a brittle object are often described simply as things a mana-sensitive person can learn to do.
+
+Reservoirs greatly extend its usefulness. A container of pre-Attuned mana may function as a general-purpose supply even without containing a spell assembly, though each reservoir remains limited by its stored attribute, capacity, leakage, transport requirements, and need for replenishment.
+
+**Unstructured Casting Theory** is the study of direct, construct-free Expenditure and its limits.
+
+## Wild Casting
+
+**Wild Casting**, also called **Instinctive Casting**, is the biological generation and execution of a spell assembly without conscious formulaic construction.
+
+Wild-casting organisms possess anatomical, biochemical, crystalline, symbiotic, or otherwise biological structures capable of producing fixed scaffolds and declarations. These structures contain no necessary symbolic notation because their physical organisation and instinctive soul-form activity directly generate the required construct architecture.
+
+Wild casting is most often observed in animals, though certain plants, fungi, colonies, bacteria, and composite or artificial organisms also display comparable phenomena. Some systems rely upon a single specialised organ, while others distribute casting functions across tissues, mineral inclusions, symbionts, developmental structures, or several cooperating organisms.
+
+Wild casting assemblies are generally narrow, strongly constrained, and specific to particular reagents or environmental conditions. Within the circumstances for which they evolved, however, they may be extremely rapid, reliable, and mana-efficient.
+
+Common biological adaptations include :
+
+- organs that gradually accumulate a specific Attuned mana
+- tissues that stabilise simple scaffold geometries
+- reflexes that trigger a fixed discharge under threat
+- structures that draw upon ambient mana flows
+- distributed tissues that collectively perform sourcing, attunement, and regulation
+- temporary organs that function only during particular life stages or seasons
+
+
+**Magical Physiology** is the study of biological structures that attract, store, attune, shape, or expend mana.
+
+**Evolutionary Thaumaturgy** is the study of how wild-casting traits arise, specialise, and interact with ecological pressures.
+
+### Strengths
+
+- extremely rapid activation
+- reliable under stress
+- integrated with ordinary anatomy and behaviour
+- potentially efficient within its evolved function
+- usable without sapient understanding
+
+### Limitations
+
+- narrow range of valid reagents and effects
+- little or no conscious parameterisation
+- poor composability
+- difficult to alter through training
+- often inefficient or unstable outside evolved conditions
+- vulnerable to injury, disease, developmental defects, and environmental disruption
+
+Reports of sapient children performing Wild Casting without identifiable specialised anatomy remain disputed. Proposed explanations include overlooked developmental structures, spontaneous reflexive reconstruction, symbiotic influence, or misidentified environmental spells.
+
+## Reflexive Casting
+
+**Reflexive Casting**, commonly called **Cantrip Casting**, is the reconstruction of a memorised spell template through trained procedural memory and the facultative use of external queues, such as grimoires, scrolls, or pseudoglyphs.
+
+The caster does not preserve a continuously existing construct within the mind. Instead, training establishes a reproducible neural, soul-form, and sensorimotor pattern through which the necessary scaffold, declaration, interfaces, parameters, activation, and termination behaviour may be rapidly reinstantiated.
+
+Reflexive casting is to structured casting what executing a rehearsed procedure is to designing or modifying that procedure.
+
+Most reflexive spells are **cantrips** : standardised, overconstrained spell templates designed for safe and repeatable public use. Their accepted mana types, reagent classes, parameter ranges, throughput, and termination behaviour are deliberately limited.
+
+A reflexive caster may normally adjust only the inputs exposed by the cantrip's template, such as :
+
+- reagent selection
+- direction
+- magnitude within a safe range
+- duration
+- activation timing
+- selection among a small number of predefined modes
+
+Intent does not generate new spell logic. It acts only as a trained control signal used to supply these admissible inputs.
+
+The practical number of cantrips a caster can retain depends upon their similarity, complexity, training, and frequency of use. Cantrips with closely related scaffold or activation patterns interfere more strongly than highly distinct ones.
+
+Poorly practised cantrips may undergo **pattern drift**, in which the caster's reconstruction gradually diverges from the original template. This produces regional variants, folk adaptations, inefficient forms, incompatible traditions, and occasionally dangerous malformed executions.
+
+Some authorities in the expanse restrict the use of magic to certified individuals, so as to combat dangerous drifting of cantrips and other easy-to-access, hard-to-master spells, to various degrees of success.
+
+### Strengths
+
+- comparatively fast
+- reliable after sufficient practice
+- accessible without advanced theory
+- suitable for daily and professional routines
+- safer than unconstrained structured casting
+- easily standardised through education
+
+### Limitations
+
+- restricted parameter ranges
+- little structural flexibility
+- poor composability between separate cantrips
+- mental and somatic fatigue
+- interference between similar memorised patterns
+- gradual drift without regular practice
+- dependence upon inherited designs that the user may not understand
+
+Knowing two cantrips does not normally permit their direct combination. A caster who knows separate Heating and Launch cantrips cannot simply merge them into a flying incendiary projectile unless the original templates expose compatible interfaces or the caster enters the domain of Structured Casting.
+
+
+**Somaturgy** is the study of somatic and cognitive mana manipulation, including procedural reconstruction, casting fatigue, pattern interference, and trained reflexes.
+
+**Thaumaturgic Pedagogy** is the study of teaching, memorisation, practice, correction, and safe transmission of casting patterns.
+
+## Structured Casting
+
+**Structured Casting** is the conscious construction, modification, derivation, or supervision of a spell assembly by a caster who understands its components, interfaces, parameters, and execution behaviour.
+
+Structured casters may work from existing formulas, adapt inherited templates, combine recognised component variants, or design original constructs. Structured casting therefore encompasses a broad continuum of expertise rather than a single level of mastery.
+
+Its common practices include :
+
+| Practice             | Description                                                                           |
+| -------------------- | ------------------------------------------------------------------------------------- |
+| **Composition**      | Arranging established components and constructs into a compatible assembly            |
+| **Parameterisation** | Safely modifying exposed constants, ranges, references, or thresholds                 |
+| **Derivation**       | Adapting a known template to a new reagent, attribute, source, or operating condition |
+| **Refactoring**      | Replacing or reorganising components while preserving the spell's declared operation  |
+| **Original design**  | Producing a novel template or construct architecture                                  |
+| **Live shaping**     | Modifying or redirecting a construct during activation or execution                   |
+| **Diagnostics**      | Inspecting, testing, isolating, and repairing malformed or degraded constructs        |
+| **Supervision**      | Continuously regulating a complex, unstable, or partially autonomous execution        |
+| **Maintenance**      | Realigning an activated spell assembly towards its intended state                      |
+
+A novice structured caster may be capable of adjusting a known reagent boundary or replacing a standard Sourcing component while remaining unable to design a stable regulator or original feedback system.
+
+**Glyph systems** are the principal pedagogical and analytical tools of Structured Casting. They permit spell logic to be represented in a reproducible form suitable for inspection, communication, derivation, and criticism. Glyphs remain abstractions rather than sources of magical efficacy.
+
+### Strengths
+
+- highly flexible
+- capable of composing several primitive operations
+- capable of producing novel spells
+- permits adaptation to unusual reagents and environments
+- forms the basis of research, diagnostics, enchanting, and advanced invocation
+
+### Limitations
+
+- cognitively demanding
+- slower than rehearsed or fixed methods
+- sensitive to interruption and distraction
+- dependent upon theoretical and practical education
+- capable of subtle semantic errors
+- dangerous when performed upon active or unstable constructs
+
+
+**Constructive Thaumaturgy** is the practical discipline of designing, composing, modifying, and supervising spells through conscious construct manipulation.
+
+**Spellcraft Methodology** is the study of derivation, refactoring, diagnostics, testing, and reproducible spell development.
+
+## Instrumental Casting
+
+**Instrumental Casting** is the use of an external artefact or installation to host and execute part or all of a spell assembly.
+
+The user may provide mana, activation, reagent references, direction, magnitude, or a choice among predefined modes, while the instrument performs the construct operations assigned to it.
+
+Instrumental Casting ranges from supportive tools that offload one component from a structured caster to autonomous engines that perform repeated regulated work without routine supervision.
+
+Intent in Instrumental Casting is not an executable statement of desired outcome. It is a trained or mechanically interpreted control signal used to select among declared pathways and provide permitted parameters. Somatic instruments usually receive such signals through interfaces designed to couple with the user's soul-form. An instrument cannot infer an unspecified spell from what its user wishes to happen.
+
+Not every mana instrument performs structured casting. Reservoirs, conduits, and attuners may instead provide pre-Attuned mana for Unstructured Casting without containing an executable spell assembly.
+
+### Strengths
+
+- repeatable
+- usable by non-specialists
+- easier to standardise and regulate
+- capable of storing persistent assemblies
+- scalable into warfare, transport, architecture, and industry
+- less dependent upon the user's theoretical knowledge
+
+### Limitations
+
+- restricted to built-in interfaces and functions
+- expensive to design and manufacture
+- susceptible to physical damage, drift, and sabotage
+- requires mana supplies, maintenance, and waste management
+- often less adaptable than a structured caster
+- may conceal faults from users unable to inspect its internal design
+
+
+**Instrumental Thaumaturgy** is the study of artefacts and installations that host, assist, regulate, or execute spell assemblies.
+
+**Enchantment Engineering** is the study of anchoring persistent or reconstructible constructs to physical hosts.

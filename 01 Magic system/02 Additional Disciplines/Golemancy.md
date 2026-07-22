@@ -1,270 +1,165 @@
 # Golemancy
 
-**Golemancy** is the discipline concerned with the construction, animation, control, and maintenance of artificial bodies through persistent spell assemblies.
+**Golemancy** is the discipline concerned with constructing, operating, and maintaining artificial bodies and other embodied magical systems.
 
-A **golem** is an artificial or substantially artificial body whose movement and behaviour are produced by one or more mana constructs integrated into its physical structure.
+A **golem** is an artificial or substantially artificial body whose motion and behaviour arise from a persistent combination of physical structure, [[05 Mana Constructs|mana constructs]], sensing, and control. It need not possess human form, intelligence, autonomy, or a [[03 Soul-Forms|soul-form]].
 
-Golems need not possess human form, intelligence, or autonomy. The defining feature of a golem is that its body and spell assembly form one persistent operational system capable of producing directed physical behaviour.
+The central distinction in golemancy is not between a golem with or without an added animic component. A soul-form is an emergent mana structure produced by a sufficiently active, integrated, and persistent golemic neurological substrate. It cannot be installed as an ordinary component or meaningfully separated from the system of activity that sustains it.
 
-## Golemic Systems
+## Golemic Architecture
 
-A functional golem generally requires several interdependent systems :
+A golem is best understood as several interdependent layers :
 
-|Golemic System|Function|
-|---|---|
-|**Frame**|Provides structural support and defines the body's mechanical arrangement|
-|**Actuation**|Produces movement through attributed operations|
-|**Sensorium**|Observes the golem's body, environment, and assigned reagents|
-|**Controller**|Converts instructions and observations into coordinated behaviour|
-|**Memory**|Retains instructions, state, learned values, or execution history|
-|**Identity Core**|Maintains continuity of references to the golem's own body and components|
-|**Mana System**|Sources, stores, attunes, distributes, and dissipates mana|
-|**Safeguards**|Limits behaviour, handles faults, and initiates safe termination|
-|**Interface**|Receives commands or exchanges state with an operator or other system|
+| Layer | Function |
+| --- | --- |
+| **Body** | Frame, materials, joints, tools, and other physical structures through which the golem affects the world |
+| **Actuation** | The attributed operations and mechanical systems that produce movement or other work |
+| **Sensorium** | Inputs concerning the body, environment, mana, and declared reagents |
+| **Neurological substrate** | Recurrent control, sensorimotor mapping, memory, feedback, and persistent internal activity |
+| **Construct infrastructure** | Persistent spell assemblies for mana sourcing, attunement, control, safeguards, and termination |
+| **Operational identity** | Declared references defining the body, components, and authority of one coherent golemic system |
+| **Animic development** | The possible emergence, transplantation, or derivation of a soul-form across the active substrate |
+| **Interface** | Commands, permissions, Resonant links, and other exchanges with an operator or external system |
 
-Simple golems may omit several of these systems. A remotely controlled labour golem may require little persistent memory, while a fixed automaton may operate without a general environmental sensorium.
+Every reliable golem requires the first six layers in some form. Animic development is not a separate appliance: it is a condition that may arise across the body, sensorium, neurological substrate, and mana interaction when those layers become sufficiently integrated.
 
-## Frame
+## Design Families
 
-The **frame** is the physical body upon which the golem's spell assembly is anchored.
+Golems are commonly divided according to whether their organisation is capable of sustaining a soul-form.
 
-Frames may be constructed from stone, wood, metal, ceramics, bone, composite materials, or living tissue. Material choice affects :
+| Design Family | Description |
+| --- | --- |
+| **Non-animic golem** | A narrow, declared system whose control remains insufficiently recurrent, integrated, or plastic to produce a meaningful soul-form |
+| **Proto-animic golem** | A long-lived and recurrent system that has accumulated a weak or vestigial soul-form without deliberate animic cultivation |
+| **Animic golem** | An artificial body with a mature transplanted, derived, or synthetic soul-form supported by a compatible neurological substrate |
 
-- structural strength
-- weight
-- available movement
-- mana conductivity
-- scaffold stability
-- susceptibility to interference
-- ease of repair
-- compatibility with Cohesive and other attributed operations
+Non-animic golems are usually purpose-built mechanisms. Their frames, sensors, actuators, and commands are chosen for one bounded task or a small family of related tasks: lifting, grinding, pumping, opening gates, maintaining a ward, carrying material along a known path, or repeating a craft operation. Their physical forms often resemble fixed apparatus, specialised tools, or simple articulated mechanisms because broad bodily interpretation would add cost and failure points without helping their declared work.
 
-The frame does not need to resemble a natural skeleton. Golems may use rigid articulated limbs, flexible continuous bodies, wheels, tracks, tendrils, segmented shells, or architecture integrated directly into their surroundings.
+Animic golems tend instead towards creature-like bodies with several coordinated senses, varied movement, and broadly useful manipulators. This does not require a human shape: animal-like, insectile, serpentine, or otherwise unfamiliar forms may better suit their intended environment. The tendency follows from their need for coherent sensorimotor mapping, a stable bodily boundary, and continuing adaptive activity. Such bodies can be more general-purpose, but they are more difficult to build, calibrate, repair, and govern.
 
-## Actuation
+Proto-animic systems occupy an uncertain middle ground. A longstanding custodian, mobile ward, or complex vessel may develop a recognisable signature, preferential response to familiar operators, resistance to unfamiliar alteration, and faint retained tendencies without becoming a general-purpose animic body or a conscious being.
 
-A golem's movement is produced by its **actuation system**.
+## Body and Actuation
+
+The **body** is the physical structure upon which the golemic system is anchored. It may be stone, wood, metal, ceramics, bone, composite material, living tissue, or an architectural installation. Material choice affects structural strength, weight, movement, mana conductivity, scaffold stability, resistance to interference, ease of repair, and compatibility with attributed operations.
 
 Common actuation methods include :
 
-| Actuation Method | Description                                                                             |
-| ---------------- | --------------------------------------------------------------------------------------- |
-| **Kinetic**      | Directly imparts momentum to limbs, joints, or the whole frame                          |
-| **Volumic**      | Expands and contracts chambers, artificial muscles, or pressure systems                 |
-| **Massic**       | Alters effective mass or weight to assist movement and balance                          |
-| **Cohesive**     | Reconfigures flexible joints or continuous structures                                   |
-| **Galvanic\***   | Drives electrical or electromagnetic actuators                                          |
-| **Mechanical\*** | Uses ordinary motors, springs, counterweights, or hydraulics powered by magical engines |
-*\*Unknown to the world as of yet
+| Actuation Method | Description |
+| --- | --- |
+| **Kinetic** | Directly imparts momentum to limbs, joints, tools, or the whole frame |
+| **Volumic** | Expands and contracts chambers, artificial muscles, or pressure systems |
+| **Massic** | Alters effective mass or weight to assist movement and balance |
+| **Cohesive** | Reconfigures flexible joints or continuous structures |
+| **Galvanic** | Drives electrical or electromagnetic actuators where suitable materials and designs exist |
+| **Mechanical** | Uses ordinary motors, springs, counterweights, or hydraulics supplied or regulated by magical engines |
 
-Kinetic actuation is simple but often mana-intensive because every movement requires repeated Expenditure. Mechanical and Galvanic systems may be more efficient in advanced designs because magic supplies power or control while ordinary mechanisms perform part of the work.
-
-A golem's controller must coordinate actuation while accounting for inertia, balance, joint limits, terrain, structural stress, and external forces. Movement is therefore not a single primitive operation but a continuously regulated composition of operations.
+Movement is not a single primitive operation. A capable golem must account for inertia, balance, joint limits, terrain, structural stress, and external forces through continuous regulation.
 
 ## Sensorium
 
-A golem's **sensorium** consists of the components and instruments through which it observes itself and its environment.
+A golem's **sensorium** consists of the components and instruments through which it observes itself and its environment. Possible senses include contact, joint position, structural strain, orientation, acceleration, light, sound, temperature, mana concentration and flow, Resonant links, and declared reagent or boundary detection.
 
-Possible senses include :
+Sensing does not automatically imply understanding. A sensor produces observations; the neurological substrate or another declared construct must map those observations to values that can guide a response.
 
-- contact and pressure
-- joint position
-- structural strain
-- orientation and acceleration
-- light
-- sound
-- temperature
-- mana concentration and flow
-- Resonant detection of linked objects
-- predefined reagent or boundary detection
+For an animic golem, the sensorium must be sufficiently stable and integrated for the soul-form to develop meaningful relationships between sensation, bodily boundary, and action. Adding a new sensor or replacing a damaged one is therefore more consequential than adding an instrument to a non-animic mechanism.
 
-Sensing does not automatically imply understanding. A sensor produces observations, which must be processed into values meaningful to the controller.
+## Neurological Substrate
 
-A golem may possess precise measurements while lacking any ability to interpret an unfamiliar situation outside its declared behaviour.
+The **neurological substrate** is the recurrent system that coordinates observations, retained state, and actuation. It may be realised through Mnemonic lattices, Galvanic signal networks, fluidic control systems, living or semi-living tissue, distributed constructs, or a combination of these.
 
-## Control
+For golemancers, the practical question is whether this system can sustain continuous, coherent sensorimotor activity across one body. The general conditions for artificial soul-form formation belong to **Soul-Forms**. A fixed routine may perform useful work without meeting them; a substrate that does meet them must be designed so that its developing animic responses remain compatible with declared safeguards and bodily mappings.
 
-The **controller** is the construct or assembly that coordinates the golem's observations, state, and actuation.
+## Construct Infrastructure
 
-Golemic controllers may be organised according to several control models :
+The **construct infrastructure** sources, stores, attunes, distributes, regulates, and dissipates mana. It also contains the declared spell logic that establishes routine behaviour, fault handling, safeguards, and termination.
 
-|Control Model|Description|
-|---|---|
-|**Direct**|An operator continuously controls the golem's movement or components|
-|**Commanded**|The golem performs predefined actions in response to external commands|
-|**Conditional**|Behaviour is selected through declared environmental conditions|
-|**Regulated**|Feedback maintains balance, direction, force, or another target state|
-|**Programmatic**|The golem follows an ordered or state-dependent set of declared tasks|
-|**Adaptive**|The golem selects among predefined strategies according to observations and retained state|
-|**Autonomous**|The golem performs an assigned function without routine external supervision|
+Non-animic golems perform all meaningful work through this declared infrastructure. Animic golems still depend upon it: a soul-form cannot supply absent control pathways, interpret unmapped senses, execute an undeclared task, or create intelligence unsupported by the substrate.
 
-Autonomy does not require consciousness. An autonomous golem may be highly capable while remaining entirely limited to declared goals, classifications, and responses.
+A mature animic golem may perform limited **Unstructured Casting** through its soul-form by condensing already Attuned mana against a nearby reagent. This permits coarse near-touch operations such as heating, cooling, vibration, charging, or crude binding. It does not replace declared actuation, selection, sensing, regulation, or safe termination, and it is strongly impeded by another organism's animic resistance.
 
-## Instruction and Command
+## Operational Identity and Animic Boundary
 
-Golems cannot ordinarily interpret unrestricted natural language or abstract intention. Commands must correspond to inputs understood by their declared interfaces.
+Every golem needs an **operational identity**: a declared set of references establishing which frame elements, sensors, actuators, constructs, mana stores, and fault paths belong to one coherent system. This identity is construct-level logic, not a metaphysical essence.
 
-A command may provide :
+An animic golem additionally develops an **animic boundary** through its soul-form. This boundary helps distinguish its body from external matter, resists foreign magical interference, and contributes an animic signature. It is not interchangeable with operational identity. A golem can have valid declared identity without a soul-form; a soul-bearing golem still requires declared references and safeguards to function reliably.
 
-- an activation signal
-- a recognised task identifier
-- a destination or reagent reference
-- a quantity or duration
-- a priority
-- a choice among predefined modes
-- permission to begin or terminate a stored routine
+Damage to operational identity may cause misidentified components, command ambiguity, or continued operation after structural separation. Damage to the animic boundary may cause distorted perception, foreign anchoring, unstable bodily boundaries, leakage, or partial rejection of limbs and components. The two failures often interact but require different repairs.
 
-More sophisticated golems may use Mnemonic and Processing components to recognise spoken phrases, gestures, symbols, or contextual patterns. Such recognition remains a mapping between observable inputs and declared instructions rather than genuine semantic comprehension.
+## Animic Development and Integration
 
-Ambiguous commands are a major source of golem failure. A correctly functioning golem may execute an instruction according to its internal definition while violating its operator's unstated expectations.
+Soul-forms in golems arise through three broad paths :
 
-## Memory
+| Path | Description |
+| --- | --- |
+| **Emergence** | A long-lived substrate develops an animic structure through continued integrated activity |
+| **Transplantation** | A preserved soul-form remnant is bound to a compatible artificial substrate |
+| **Derivation** | A fragment or animic bud is encouraged to develop around a new substrate |
 
-Golemic memory may be stored through :
+The theory of preservation, echoes, derivation, and artificial formation belongs to **Soul-Forms**. Golemancy concerns the practical integration: map the incoming or emerging soul-form to the body, retain compatible sensing and motor output, establish a coherent boundary, and remap gradually after changes. A poor fit produces concrete golemic failures such as rejected components, uncontrolled motion, degraded calibration, or collapse of the binding.
 
-- stable scaffold state
-- mechanical configuration
-- physical inscriptions
-- mutable material media
-- Mnemonic mana
-- linked external archives
-- state retained by a supervisory construct
+## Interface and Command
 
-Different memory forms support different capabilities.
+Golems do not ordinarily interpret unrestricted natural language or abstract intention. Commands must correspond to inputs understood by declared interfaces, such as an activation signal, recognised task, destination, reagent reference, quantity, duration, priority, mode selection, or permission to begin or terminate a routine.
 
-|Memory Type|Function|
-|---|---|
-|**Declarative memory**|Stores rules, classifications, maps, and recognised commands|
-|**Procedural memory**|Stores reproducible action sequences and control routines|
-|**Operational state**|Tracks current tasks, positions, resources, and faults|
-|**Historical memory**|Records previous observations or executions|
-|**Adaptive state**|Retains values used to adjust later behaviour|
+Animic golems may use somatic or Resonant interfaces that couple with their soul-forms. Such interfaces can provide richer bodily control and more flexible local adjustment, but they remain bounded inputs rather than direct access to thought. An animic signature may also support authorised-operator recognition or persistent Resonant relationships.
 
-Most golems use limited, purpose-specific memory. Broad or writable memory increases flexibility but also introduces greater complexity, corruption risk, and difficulty of validation.
+## Construction and Commissioning
 
-## Golemic Identity
+Non-animic construction generally proceeds through these overlapping processes :
 
-A golem must distinguish its own frame, components, and state from external reagents. This is maintained through an **identity core**, a persistent set of references defining the body and assembly as one operational system.
+1. build the frame and mechanical degrees of freedom
+2. install actuators and sensors suited to the declared task
+3. anchor persistent constructs and mana infrastructure
+4. declare operational identity, commands, safeguards, and termination behaviour
+5. calibrate control outputs to the physical body
+6. validate normal work, limits, faults, and shutdown
+7. commission the completed mechanism
 
-The identity core need not involve Ontic mana or a metaphysical soul. In ordinary golems, it is a construct-level model specifying :
+Animic construction adds a developmental process rather than a single installation step :
 
-- which structures belong to the golem
-- which sensors describe its internal state
-- which actuators it may control
-- which constructs share its fault and termination system
-- which repairs or replacements preserve continuity
+1. build or select a neurological substrate with recurrent, integrated sensorimotor activity
+2. establish a coherent bodily boundary and stable internal feedback
+3. induce, cultivate, transplant, or derive a soul-form
+4. preserve it through the initial binding and allow gradual sensory and motor remapping
+5. calibrate both declared controls and animic responses
+6. test animic resistance, mana perception, direct coupling, component replacement, and safe termination
 
-Damage to the identity core may cause a golem to lose control of part of its body, misidentify external matter as itself, reject replacement components, or continue operating after structural separation.
+An animic golem should not be treated as complete merely because its soul-form has bound. Its stability depends upon continued activity, maintenance, compatible body mapping, and protection from injury or excessive Primed-mana saturation.
 
-Ontic golemancy, if possible, would represent a distinct and highly speculative attempt to grant an artificial body metaphysical rather than merely operational identity.
+## Adaptation, Failure, and Repair
 
-## Golemic Classes
+Most apparent golemic learning is the bounded modification of retained state: actuator calibration, maps, recognised individuals, thresholds, ranked strategies, and command associations. Allowing an ordinary golem to modify its own construct logic can invalidate safety invariants, corrupt interfaces, or alter termination behaviour.
 
-Golems may be classified by the sophistication of their control and embodiment.
+An animic golem may also adapt through the gradual relationship between its substrate and soul-form. This is not unrestricted self-redesign. The soul-form primarily reflects continuing activity; it cannot compensate for an inadequate substrate or safely rewrite declared spell logic.
 
-| Golem Class              | Description                                                                                                 |
-| ------------------------ | ----------------------------------------------------------------------------------------------------------- |
-| **Puppet**               | Possesses actuation but depends upon continuous external control                                            |
-| **Automaton**            | Executes a fixed sequence or narrow repetitive behaviour                                                    |
-| **Servitor**             | Accepts commands and performs a bounded range of regulated tasks                                            |
-| **Agent**                | Selects among several tasks or strategies according to observations and state                               |
-| **Custodian**            | Maintains an environment, structure, system, or population over long periods                                |
-| **Vessel**               | Provides an artificial body intended to host an external operator, linked mind, or other controlling system |
-| **Synthetic intellect*** | Exhibits broad self-directed cognition rather than narrow declared behaviour                                |
-*\*Unknown to the world as of yet
+Common failure modes include :
 
-## Construction
+| Failure Type | Description |
+| --- | --- |
+| **Actuator divergence** | Intended and actual movement increasingly differ |
+| **Sensor desynchronisation** | Observations no longer correspond correctly to the body or environment |
+| **Operational identity fracture** | Declared references no longer identify a coherent frame and assembly |
+| **Command ambiguity** | An instruction maps to incompatible declared behaviours |
+| **State corruption** | Retained memory or operational state becomes invalid |
+| **Calibration drift** | Wear causes valid controls to produce incorrect motion |
+| **Animic mismatch** | A soul-form and body have incompatible sensory, motor, or boundary mappings |
+| **Animic injury** | Trauma, saturation, hostile interaction, or interference damages the soul-form |
+| **Animic scarring** | Repeated damage stabilises into persistent distortion or leakage |
+| **Orphaning** | The golem loses the authority, reference, operator, or infrastructure needed to interpret its task |
 
-Golem construction generally proceeds through several overlapping engineering processes :
+Routine repair may include replacing frame elements, recalibrating sensors and actuators, replenishing mana reservoirs, clearing Spent mana and permutation loss, repairing scaffolds, validating declared identity, and testing emergency termination.
 
-1. **frame construction**, establishing the body and mechanical degrees of freedom
-2. **actuator installation**, enabling controlled movement
-3. **sensor placement**, providing internal and external observations
-4. **assembly anchoring**, integrating persistent mana constructs into the frame
-5. **identity binding**, defining the golem's body and internal references
-6. **controller declaration**, establishing behaviour and command interfaces
-7. **memory installation**, supplying retained procedures and classifications
-8. **calibration**, mapping control outputs to actual motion and sensor values
-9. **validation**, testing limits, faults, and termination behaviour
-10. **commissioning**, sealing the complete system for operational use
-
-Calibration is particularly important. Two outwardly identical frames may respond differently because of material variation, joint friction, scaffold placement, mana conductivity, or actuator tolerances.
-
-## Golemic Learning
-
-Most apparent golem “learning” is the controlled modification of retained state rather than unrestricted alteration of its own template.
-
-A golem may be designed to :
-
-- improve actuator calibration
-- update its internal map
-- record recognised individuals
-- adjust thresholds
-- rank successful strategies
-- acquire additional command associations
-- refine predictions from repeated observations
-
-Allowing a golem to modify its own construct logic is substantially more dangerous. Self-modification may invalidate safety invariants, corrupt interfaces, produce semantic drift, or alter termination behaviour, generally resulting in rapid decay of the golem as a whole.
-
-For this reason, adaptive golems usually modify bounded data while their governing template remains sealed.
-
-## Failure Modes
-
-In addition to ordinary construct failures, golems are vulnerable to failures arising from embodiment and long-term autonomy.
-
-|Failure Type|Description|
-|---|---|
-|**Actuator divergence**|Intended and actual movement increasingly differ|
-|**Sensor desynchronisation**|Observations no longer correspond correctly to the body or environment|
-|**Identity fracture**|The controller loses a coherent reference to part or all of the frame|
-|**Command ambiguity**|An instruction maps to several incompatible behaviours|
-|**Priority deadlock**|Simultaneous directives cannot be resolved|
-|**State corruption**|Retained memory or operational state becomes invalid|
-|**Calibration drift**|Wear causes previously valid control values to produce incorrect motion|
-|**Goal fixation**|A valid assigned objective continues after its relevant context has ended|
-|**Unsafe generalisation**|An adaptive system applies a learned association outside its valid domain|
-|**Termination resistance**|Damage or semantic error prevents ordinary shutdown|
-|**Orphaning**|A golem loses the operator, authority, reference, or infrastructure required to interpret its task|
-
-Many legendary stories of rebellious golems actually describe semantic mismatch, orphaning, damaged priorities, or the literal execution of badly bounded instructions rather than conscious revolt.
-
-## Repair and Maintenance
-
-Golems require both mechanical and thaumaturgic maintenance.
-
-Routine maintenance may include :
-
-- replacing damaged frame elements
-- recalibrating sensors and actuators
-- replenishing mana reservoirs
-- clearing Spent mana and permutation loss
-- repairing scaffold fractures
-- correcting interface degradation
-- validating memory integrity
-- updating environmental references
-- testing emergency termination
-- renewing authority and command bindings
-
-A repaired golem may retain its identity if its governing purpose, identity core, and supervisory structure remain continuous. Replacing these elements may instead produce a new golem even when the same physical frame is reused.
+For animic golems, repair must additionally preserve the active substrate and remap changed sensors, limbs, or control pathways gradually. Abrupt replacement, prolonged inactivity, incompatible additions, excessive mana saturation, or attempts to force a soul-form into a radically different frame may deepen animic injury rather than restore function.
 
 ## Golemancy and Consciousness
 
-Golemancy does not inherently create consciousness.
+Golemancy does not inherently create consciousness. A soul-form is neither the source nor the container of a mind, and may provide animic embodiment without subjective experience. Whether any artificial neurological substrate could become sapience-capable remains unresolved; no known soul-form establishes that its bearer is conscious.
 
-Complex sensing, memory, language recognition, planning, self-maintenance, and adaptive behaviour may all arise from sophisticated but non-conscious construct systems. None of these abilities alone proves subjective awareness.
+**Golemic Engineering** is the applied design of golem bodies, neurological substrates, construct infrastructure, and operational safeguards.
 
-Claims of conscious golems generally involve one of four hypotheses :
+**Golemic Neurothaumaturgy** is the study of artificial neurological analogues and their relationship to soul-form formation.
 
-- sufficient construct complexity produces emergent consciousness
-- Mnemonic systems can reproduce the organisation required for a mind
-- Resonant links permit an external mind to inhabit or control the golem
-- Ontic operations can grant an artificial body genuine identity or soul
+**Synthetic Animistics** is the study of artificially induced soul-forms.
 
-No hypothesis is universally accepted, and distinguishing a conscious golem from an exceptionally capable non-conscious agent remains an unresolved problem.
-
-
-**Golemic Engineering** is the applied design of golem frames, actuators, sensors, controllers, and mana systems.
-
-**Golemic Cognitics** is the study of artificial control, memory, planning, adaptation, and apparent intelligence in golems.
-
-**Golemic Pathology** is the study of golem degradation, behavioural faults, identity fractures, and unsafe adaptation.
+**Golemic Pathology** is the study of golem degradation, operational faults, animic injury, and unsafe adaptation.

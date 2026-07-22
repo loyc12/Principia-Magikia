@@ -1,4 +1,4 @@
-# Golem Development
+# [[Golemancy|Golem]] Development
 
 |Stage|Function|
 |---|---|

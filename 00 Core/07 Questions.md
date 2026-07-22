@@ -18,7 +18,7 @@
 |Arrival phenomenon|Why do things appear? Where? How often?|
 |Ecology|How do imported ecosystems remain stable?|
 |Evolution|Do species evolve here after arriving?|
-|Magic|What actually exists physically?|
+|Magic|What actually exists physically? See [[02 Mana Physics|Mana Physics]].|
 
 Only the last one really matters early on. The rest can remain mysterious.
 
@@ -124,4 +124,4 @@ Why does structured magic exist?
   
 How does inheritance work?  
   
-Why do golems awaken?
+Why do [[Golemancy|golems]] awaken?

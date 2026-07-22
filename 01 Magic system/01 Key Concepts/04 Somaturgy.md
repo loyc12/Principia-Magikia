@@ -1,12 +1,12 @@
 # Somaturgy
 
-**Somaturgy** is the study and practice of manipulating mana through the living body. It encompasses the perception, attraction, repulsion, channelling, shaping, and stabilisation of mana through deliberate physiological and cognitive activity.
+**Somaturgy** is the study and practice of manipulating mana through the living body and its [[03 Soul-Forms|soul-form]]. It encompasses the perception, attraction, repulsion, channelling, shaping, and stabilisation of mana through deliberate physiological and cognitive activity.
 
-Somaturgy provides the fundamental interface through which living operators create and displace mana constructs, direct mana into instruments, and supply parameters during spellcasting.
+Somaturgy provides the fundamental interface through which living operators create and displace [[05 Mana Constructs|mana constructs]], direct mana into instruments, and supply parameters during spellcasting.
 
 ## Volitional Mana Coupling
 
-Living organisms contain varying concentrations of mana-interactive tissues. In sapient casters, parts of the nervous, circulatory, and connective systems form a weak but trainable interaction with nearby mana, known as **volitional mana coupling**.
+Living organisms develop soul-forms through the continued interaction of mana with their active nervous systems. The soul-form provides the immediate mana-interactive structure, while trained neural and physiological activity alters that structure and thereby produces a weak but trainable interaction with nearby mana, known as **volitional mana coupling**.
 
 Volitional mana coupling does not allow thoughts to directly command mana. Mana does not understand language, imagery, desire, or intent. Instead, particular patterns of neural and physiological activity produce small but predictable changes in the forces acting upon nearby mana particles.
 
@@ -20,13 +20,13 @@ These changes may :
 - release mana from an existing constraint
 - modulate an established construct interface
 
-The nervous system therefore acts neither as a spell formula nor as an unrestricted operator. It acts as a biological control interface capable of producing a limited range of low-level mana manipulations.
+The nervous system therefore acts neither as a spell formula nor as an unrestricted operator. Through its soul-form, it acts as a biological control interface capable of producing a limited range of low-level mana manipulations.
 
 ## Somatic Mana Sense
 
 Volitional control depends upon a corresponding ability to perceive mana.
 
-Mana-interactive tissues respond to nearby concentration, flow, type, pressure, and instability. These responses are transmitted through the nervous system and interpreted as **somatic mana sense**.
+Nearby mana deforms or excites the soul-form. Those changes weakly influence the nervous system and are interpreted as **somatic mana sense**.
 
 Mana sense is not normally experienced as ordinary sight, hearing, or touch. It is a learned internal sensation comparable to balance, limb position, muscular tension, or temperature. Untrained individuals often describe it imprecisely as pressure, warmth, resistance, tingling, weight, or the presence of an unseen current.
 
@@ -77,6 +77,12 @@ Although complete scaffold geometries may be extremely complex, conscious mana m
 
 More advanced techniques arise from the simultaneous or sequential combination of these primitives.
 
+## Unstructured Casting
+
+Somaturgy supplies the bodily technique for **Unstructured Casting**: a soul-form gathers and condenses already Attuned mana against a nearby reagent. This is distinct from mana shaping, which arranges Primed mana into a scaffold that will later receive declared logic.
+
+The phrase **unstructured shaping** is sometimes used informally for direct mana manipulation. It is imprecise, as no stable construct geometry or declared operation is produced. The attributes, practical operations, and full limits of Unstructured Casting belong to [[08 Mana Casting|Mana Casting]].
+
 ## Declaration Through Somatic Control
 
 A scaffold alone contains no meaningful operational logic. Once its geometry is stable, an operator must imbue it with construct components and interfaces.
@@ -122,9 +128,10 @@ Common limitations include :
 - **sensory resolution**, which limits the smallest instability or structural detail that can be perceived
 - **control precision**, which limits scaffold complexity and component density
 - **working range**, beyond which direct manipulation becomes weak or unreliable
+- **soul-form maturity and integrity**, which affect sensitivity, coupling strength, and resistance to interference
 - **divided attention**, which limits the number of independently controlled flows
 - **fatigue**, caused by prolonged neural, muscular, and mana-field exertion
-- **interference**, caused by nearby constructs, mana turbulence, or competing operators
+- **interference**, caused by nearby constructs, mana turbulence, Primed-mana saturation, or competing operators
 - **pattern confusion**, in which similar shaping routines are partially conflated
 
 Somaturgic fatigue does not necessarily result from mana being drawn directly from the caster's body. It primarily arises from the sustained physiological effort required to sense, constrain, and regulate mana.
@@ -140,13 +147,14 @@ A typical curriculum includes :
 1. detecting nearby mana
 2. distinguishing flow and concentration
 3. gathering and releasing Primed mana
-4. maintaining simple strands
-5. forming stable junctions and surfaces
-6. constructing basic Platonic scaffolds
-7. instantiating standard component archetypes
-8. sealing and safely dissipating simple constructs
-9. coordinating several flows simultaneously
-10. shaping complete spell assemblies
+4. safely condensing accessible Attuned mana for simple Unstructured Casting
+5. maintaining simple strands
+6. forming stable junctions and surfaces
+7. constructing basic Platonic scaffolds
+8. instantiating standard component archetypes
+9. sealing and safely dissipating simple constructs
+10. coordinating several flows simultaneously
+11. shaping complete spell assemblies
 
 Gestures, postures, breathing patterns, spoken sequences, and physical focuses are commonly used as training aids because they make somatic routines easier to reproduce. Experienced magi may eventually perform the same operations with minimal visible movement.
 
@@ -155,7 +163,7 @@ Gestures, postures, breathing patterns, spoken sequences, and physical focuses a
 
 ## Somatic Interfaces
 
-A living operator may interact with a spell assembly through **somatic interfaces**. These are construct interfaces designed to accept the limited signals produced through volitional mana coupling.
+A living operator may interact with a spell assembly through **somatic interfaces**. These are construct interfaces designed to couple with the operator's soul-form and accept the limited signals produced through volitional mana coupling.
 
 Somatic interfaces may receive :
 

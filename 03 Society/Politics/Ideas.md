@@ -2,7 +2,7 @@
 
 ## Knowledge networks.
 
-Magic requires teachers.
+[[02 Mana Physics|Magic]] requires teachers.
 Teachers require apprentices.
 Apprentices become teachers.
 

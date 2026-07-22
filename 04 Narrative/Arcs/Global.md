@@ -5,7 +5,7 @@
 |I — Lost|Survival and loneliness|
 |II — Stranger|Learning language and culture|
 |III — Apprentice Scientist|First magical experiments|
-|IV — Builder|Construction of first golem|
+|IV — Builder|Construction of first [[Golemancy|golem]]|
 |V — Recognition|Growing reputation|
 |VI — Archive|Confronting established magical scholarship|
 |VII — Revolution|Scientific and societal transformation|
@@ -34,7 +34,7 @@
 |First genuine conversation|Beginning of belonging|
 |Camp destruction|Forces dependence on others|
 |First paid invention|Research becomes sustainable|
-|First functioning golem|Beginning of longest relationship|
+|First functioning [[Golemancy|golem]]|Beginning of longest relationship|
 |First publication|Public recognition|
 |First ideological opponent|Intellectual conflict|
 |Golem disagrees|Recognition of true personhood|
