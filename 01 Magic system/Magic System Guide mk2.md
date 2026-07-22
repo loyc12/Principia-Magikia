@@ -16,7 +16,7 @@ Collectively, Primed, Spent, and the various Attuned mana attributes are known a
 | **Attunement**\* | Primed => Attuned( attribute ) x ( 1 - Ratio ) + Spent x Ratio + Permutation Loss |
 | **Expenditure**  | Attuned( attribute ) => Spent + Operation( attribute )                            |
 | **Priming**\*\*  | Spent + Singularity => Primed                                                     |
-*\*Attunement releases residual physical energy and disordered mana-field disturbances, collectively termed **permutation loss**.*
+*\*Attunement releases residual physical energy and disordered mana-field disturbances, collectively termed **permutation loss**.*  
 
 *\*\*Priming occurs exclusively around the singularity, which is the light source at the centre of the expanse.*
 
@@ -47,41 +47,37 @@ This conversion also generates an amount of Spent mana, called **Waste mana** in
 
 Attunement can also be performed directly by a caster and is often one of the first exercises taught to novice magi. Doing so is rarely efficient in time, effort, or purity of results. As such, there exists a wide range of mana constructs dedicated to automating the attunement of Primed mana into specific attributes.
 
-Already Attuned mana can be expended directly without first undergoing attunement, making it substantially more efficient and immediately useful than an equivalent supply of Primed mana. This advantage is offset by the difficulty of obtaining, separating, storing, transporting, and replenishing particular attributes, whose natural distributions are highly heterogeneous.
-
-Reservoirs of Attuned mana are therefore useful even when they contain no executable spell assembly. A caster may draw directly from such a reservoir for Unstructured Casting, or supply it to a structured construct while omitting its usual Attuning components.
-
 > *Reminder : Attunement refers to a permutation process, while an attribute refers to the differentiated potential produced by that process.*
 
 Below are summary tables pertaining to the 11 known attuned **attributes** :
 
-| Attribute      | Common Names                                | Operation Domain Description                                                                                                       |
-| -------------- | ------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
-| **Kinetic**    | Motion, Force, Heat, Explosion              | Change the momentum distribution of matter, whether uniformly or microscopically.                                                  |
-| **Radiant**    | Light, Illusion, Cloaking, Optics           | Emit, absorb, redirect, or otherwise manipulate free photons.                                                                      |
-| **Galvanic**   | Lightning, Magnetism                        | Change electric charges, currents, and quasi-static electromagnetic fields.                                                        |
-| **Volumic**    | Pressure, Density, Compression, Expansion   | Modify the metric volume occupied by a bounded material system without directly changing its topology, mass, or internal momentum. |
-| **Massic**     | Mass, Weight, Gravity                       | Modify an object's inertial and gravitational mass.                                                                                |
-| **Cohesive**   | Structure, Shaping, Binding                 | Change which portions of matter are mechanically continuous without directly specifying their chemical composition.                |
-| **Resonant**   | Linking, Observation, Divination            | Change the degree to which state changes in one system are detectable by, transmitted to, or correlated with another.              |
-| **Mnemonic**   | Memory, Recording, Engraving, Scrying, Mind | Encode information into, and decode information from, the physical medium in which it is stored.                                   |
-| **Temporal**\* | Acceleration, Preservation, Stasis          | Modify the local rate at which time progresses.                                                                                    |
-| **Spatial**\*  | Portal, Dimension, Teleportation            | Modify the layout of space itself.                                                                                                 |
-| ***Ontic***\*  | *Identity, Essence, Classification, Soul*   | *Modify what an object fundamentally is according to magical law.*                                                                 |
+| Attribute      | Common Names                                | Operation Domain Description                                                                                                         |
+| -------------- | ------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
+| **Kinetic**    | Motion, Force, Heat, Explosion              | Change the momentum distribution of matter, whether uniformly or microscopically.                                                     |
+| **Radiant**    | Light, Illusion, Cloaking, Optics           | Emit, absorb, redirect, or otherwise manipulate free photons.                                                                        |
+| **Galvanic**   | Lightning, Magnetism                        | Change electric charges, currents, and quasi-static electromagnetic fields.                                                          |
+| **Volumic**    | Pressure, Density, Compression, Expansion   | Modify the metric volume occupied by a bounded material system without directly changing its topology, mass, or internal momentum.   |
+| **Massic**     | Mass, Weight, Gravity                       | Modify an object's inertial and gravitational mass.                                                                                  |
+| **Cohesive**   | Structure, Shaping, Binding                 | Change which portions of matter are mechanically continuous without directly specifying their chemical composition.                 |
+| **Resonant**   | Linking, Observation, Divination            | Change the degree to which state changes in one system are detectable by, transmitted to, or correlated with another.                |
+| **Mnemonic**   | Memory, Recording, Engraving, Scrying, Mind | Encode information into, and decode information from, the physical medium in which it is stored.                                    |
+| **Temporal**\* | Acceleration, Preservation, Stasis          | Modify the local rate at which time progresses.                                                                                      |
+| **Spatial**\*  | Portal, Dimension, Teleportation            | Modify the layout of space itself.                                                                                                   |
+| **Ontic**\*    | Identity, Essence, Classification, Soul     | Modify what an object fundamentally _is_ according to magical law.                                                                   |
 
-| Attribute      | Domain Type    | Reality Layer  | Operation Domain    | Waste Ratio | Persistence Mechanism                                              |
-| -------------- | -------------- | -------------- | ------------------- | ----------- | ------------------------------------------------------------------ |
-| **Kinetic**    | State          | Physical       | Momentum            | Low         | Imparted state                                                     |
-| **Radiant**    | State          | Physical       | Photon field        | Low         | Active emission                                                    |
-| **Galvanic**   | State          | Physical       | Electric field      | Low         | Usually active field; charge redistribution may persist            |
-| **Volumic**    | State          | Emergent       | Volume, Pressure    | Medium      | Usually sustained unless natural structure supports the new volume |
-| **Massic**     | State          | Physical       | Mass                | Medium      | Sustained                                                          |
-| **Cohesive**   | Organisational | Emergent       | Connectivity        | High        | Structural                                                         |
-| **Resonant**   | Relational     | Physical       | Coupling, Detection | High        | Anchored relationship                                              |
-| **Mnemonic**   | Organisational | Emergent       | Information         | High        | Encoded state                                                      |
-| **Temporal**\* | Organisational | Emergent       | Time rate           | Very High   | Sustained                                                          |
-| **Spatial**\*  | Relational     | Emergent       | Spatial layout      | Very High   | Sustained                                                          |
-| ***Ontic***\*  | *Ontological*  | *Metaphysical* | *Identity*          | *Extreme*   | *Metaphysical*                                                     |
+| Attribute      | Domain Type    | Reality Layer | Operation Domain    | Waste Ratio | Persistence Mechanism                                               |
+| -------------- | -------------- | ------------- | ------------------- | ----------- | ------------------------------------------------------------------- |
+| **Kinetic**    | State          | Physical      | Momentum            | Low         | Imparted state                                                      |
+| **Radiant**    | State          | Physical      | Photon field        | Low         | Active emission                                                     |
+| **Galvanic**   | State          | Physical      | Electric field      | Low         | Usually active field; charge redistribution may persist             |
+| **Volumic**    | State          | Emergent      | Volume, Pressure    | Medium      | Usually sustained unless natural structure supports the new volume  |
+| **Massic**     | State          | Physical      | Mass                | Medium      | Sustained                                                           |
+| **Cohesive**   | Organizational | Emergent      | Connectivity        | High        | Structural                                                          |
+| **Resonant**   | Relational     | Physical      | Coupling, Detection | High        | Anchored relationship                                               |
+| **Mnemonic**   | Organizational | Emergent      | Information         | High        | Encoded state                                                       |
+| **Temporal**\* | Organizational | Emergent      | Time rate           | Very High   | Sustained                                                           |
+| **Spatial**\*  | Relational     | Emergent      | Spatial layout      | Very High   | Sustained                                                           |
+| **Ontic**\*    | Ontological    | Metaphysical  | Identity            | Extreme     | Metaphysical                                                        |
 *\*Little is known of these attributes, and what is known remains highly speculative and contested.*
 
 Attuned mana used to power a spell and perform its attributed operation is converted into Spent mana through Expenditure.
@@ -93,351 +89,9 @@ Attuned mana used to power a spell and perform its attributed operation is conve
 
 **Permutation Thermaturgy** is the study of permutation loss, Waste mana, potential consumption, and the energetic or entropic consequences of mana permutation.
 
-# Soul-Forms
-
-A **soul-form** is a naturally occurring, self-organising mana structure produced through prolonged interaction between mana and an active biological nervous system, or another system exhibiting sufficiently similar organisation and activity.
-
-Soul-forms are neither the source nor the container of consciousness. Thought, memory, personality, and subjective experience remain emergent properties of the physical nervous system. The soul-form instead develops around that system as a responsive magical structure, reflecting portions of its organisation and activity while providing the organism with a natural interface to mana.
-
-Older traditions commonly refer to the soul-form as the **soul-shell**, based upon its protective function and apparent enclosure of the body. More recent scholarship generally considers this term incomplete, as the structure is neither a simple shell nor wholly external to the organism.
-
-## Formation
-
-Soul-forms arise when sustained patterns of neural activity repeatedly disturb and organise nearby mana.
-
-The relationship is asymmetrical. Nervous activity shapes mana relatively quickly, while the resulting soul-form alters the nervous system only weakly and gradually. The soul-form therefore primarily reflects the organism that produced it rather than determining that organism's mind or identity.
-
-Formation proceeds through cumulative interaction :
-
-1. neural activity produces complex and recurrent electrical, chemical, and structural patterns
-2. mana-interactive tissues weakly attract, repel, and redirect nearby mana
-3. repeated activity causes mana to settle into partially stable configurations around neural pathways
-4. those configurations become self-reinforcing through their continued interaction with the nervous system
-5. the resulting structure gradually extends through the organism and develops a stable individual signature
-
-A soul-form is not consciously designed, nor does it necessarily resemble a deliberately constructed scaffold. It is an **autogenic somatic construct** whose organisation emerges from sustained biological activity rather than formulaic declaration.
-
-Newly formed soul-forms are weak, poorly differentiated, and highly dependent upon the nervous system that produces them. Their strength and complexity increase gradually with continued neural activity, development, and exposure to mana.
-
-An organism entering a mana-rich environment without an existing soul-form may experience headaches, diffuse pressure, disorientation, disturbed sleep, transient sensory distortions, or unusual internal sensations as mana rapidly accumulates and begins organising around its nervous system.
-
-As the initial formation period passes, acute symptoms generally diminish and are replaced by a less painful omnidirectional pressure-like awareness of nearby mana. The completed soul-form may remain weak for an extended period even after the organism begins perceiving mana.
-
-**Animogenesis** is the study of the formation and maturation of soul-forms.
-
-**Developmental Neurothaumaturgy** is the study of soul-form development across infancy, maturation, injury, and changing environments.
-
-## Structure
-
-A soul-form extends most strongly around the nervous system but gradually develops relationships with the rest of the body.
-
-Its internal organisation reflects :
-
-- the topology of the nervous system
-- recurrent patterns of neural activity
-- sensory and motor pathways
-- autonomic regulation
-- bodily boundaries
-- long-established habits of neural activation
-- persistent injuries or developmental irregularities
-
-The soul-form does not contain a complete representation of the body or mind. It is a partial and continuously updated magical correlate of the organism's active neural organisation.
-
-Its structure may be understood as containing several overlapping functional regions :
-
-|Region|Function|
-|---|---|
-|**Neural core**|Closely follows the central and peripheral nervous systems and responds most strongly to neural activity|
-|**Somatic lattice**|Extends through the body and helps distinguish the organism's own tissues from external matter|
-|**Boundary field**|Resists foreign mana entering or directly operating upon protected tissues|
-|**Sensorimotor fringe**|Interacts with nearby mana and permits limited perception and volitional manipulation|
-|**Signature structure**|Encodes stable individual peculiarities produced by anatomy, development, and long-term neural activity|
-
-These regions are descriptive rather than sharply separated anatomical parts.
-
-Soul-forms are dynamic structures. Their precise organisation shifts continuously with activity, sleep, health, injury, emotional state, and magical exertion.
-
-They are generally most active during waking consciousness and rapid-eye-movement sleep, when neural activity is complex and highly variable. They become calmer during ordinary sleep, anaesthesia, or unconsciousness, but do not disappear and continue to provide substantial magical resistance.
-
-**Animic Morphology** is the study of soul-form structure and its relationship to anatomy and neural organisation.
-
-## Individual Signature
-
-Every mature soul-form develops a distinct **animic signature**.
-
-This signature emerges from the unique physical structure and developmental history of the nervous system upon which it formed. Even highly similar organisms therefore possess distinguishable soul-forms.
-
-An animic signature may reflect :
-
-- broad species and anatomical traits
-- individual neural topology
-- long-standing sensorimotor habits
-- persistent patterns of activity
-- developmental history
-- old injuries
-- deeply ingrained behavioural dispositions
-- the current physiological and cognitive state
-
-The signature does not provide direct access to a person's complete thoughts or memories. It instead functions as a complex identifying pattern from which limited information may be inferred.
-
-Animic signatures may be used for personal identification, authorised operator recognition, persistent Resonant links, ward configuration, diagnosis, or distinguishing an organism from an imitation.
-
-Signatures change gradually over time but normally retain enough continuity for long-term recognition.
-
-**Animic Signatury** is the study of soul-form identification, comparison, inheritance, and change.
-
-**Forensic Animistics** is the applied study of soul-forms, animic signatures, remnants, injuries, and residues for the purpose of identifying individuals, reconstructing events, and resolving legal or investigative questions.
-
-## Mana Perception and Manipulation
-
-Soul-forms provide living organisms with a natural interface to mana.
-
-Disturbances in nearby mana deform or excite the soul-form, and those changes weakly influence the nervous system. Through training, the organism learns to interpret these effects as **somatic mana sense**.
-
-Conversely, deliberate neural and physiological activity alters the soul-form, allowing it to exert small forces upon nearby mana. Neural activity therefore deforms the soul-form, which in turn displaces, attracts, repels, condenses, or releases nearby mana.
-
-The soul-form does not translate unrestricted thought into magical effects. It permits only low-level manipulations and the supply of bounded inputs to already defined construct interfaces.
-
-Soul-forms differ greatly in sensitivity, range, precision, and coupling strength. These differences may arise from physiology, development, exposure, injury, or training.
-
-The detailed use of soul-forms for conscious manipulation belongs to **Somaturgy** and **Casting Theory**.
-
-## Animic Resistance
-
-A soul-form protects its organism by resisting foreign magical intrusion. This protection is known as **animic resistance**.
-
-The soul-form continuously associates the organism's tissues with one coherent internal system. Foreign mana attempting to enter, bind to, or operate directly upon those tissues must overcome the soul-form's accumulated mana, dynamic activity, and internal coherence.
-
-Animic resistance impedes :
-
-- direct Expenditure upon living tissue
-- hostile reagent selection
-- remote or indirect sensing
-- forced anchoring
-- unauthorised Resonant links
-- alteration of internal bodily boundaries
-- manipulation of neural or Mnemonic activity
-
-This resistance is not absolute. It varies according to the strength and maturity of the soul-form, the concentration and type of attacking mana, the precision of the spell, the health and integrity of the target, existing Resonant relationships, and whether the target actively cooperates.
-
-Consciousness and rapid-eye-movement sleep increase the soul-form's internal activity, making precise hostile manipulation more difficult. Unconsciousness reduces this activity but does not remove the soul-form's passive structure or accumulated mana and therefore does not leave the organism undefended.
-
-## Primed-Mana Saturation
-
-Animic resistance is reinforced by the accumulation of Primed mana within and around the soul-form.
-
-Primed mana is highly reactive to other mana types. Dense Primed mana therefore disrupts incoming Attuned mana, interferes with controlled Expenditure, and makes foreign constructs more difficult to establish or maintain.
-
-This effect may be reproduced artificially through **Primed-mana saturation**, in which an object, region, reservoir, or ward is deliberately flooded with Primed mana.
-
-Primed-mana saturation may :
-
-- raise the concentration required for Attuned mana to operate
-- destabilise foreign mana flows
-- increase permutation loss
-- impede reagent binding
-- obscure precise mana sensing
-- disrupt construct formation
-- provide passive resistance against Unstructured Casting
-
-Soul-forms may therefore be understood partly as naturally maintained defensive reservoirs, though their organisation and responsiveness make them more effective than an equivalent quantity of unstructured Primed mana.
-
-Excessive Primed-mana saturation can also interfere with allied spells, prevent beneficial magic, or produce uncontrolled local attunement if containment fails.
-
-**Animic Defence Theory** is the study of soul-form resistance and its interaction with hostile or beneficial magic.
-
-**Thaumaturgic Countermeasure Engineering** is the applied study of artificial mana saturation, resistant materials, wards, and other means of impeding magical operation.
-
-## Neural and Neurological Analogues
-
-Soul-forms are not restricted absolutely to biological nervous systems.
-
-Any system capable of producing sufficiently complex, recurrent, integrated, and persistent patterns of activity may potentially attract and organise mana into a soul-like structure.
-
-Such **neurological analogues** may include :
-
-- artificial conductive lattices
-- Galvanic signal networks
-- recurrent Mnemonic systems
-- living or semi-living tissues
-- complex ward networks
-- distributed sensor and control systems
-- long-lived architectural assemblies
-- symbiotic combinations of biological and artificial structures
-
-Most such systems produce only weak or partial soul-forms.
-
-The likelihood and complexity of formation appear to depend upon :
-
-- density of internal signalling
-- recurrence and feedback
-- persistence over time
-- integration between sensing and response
-- internal differentiation
-- a stable distinction between system and environment
-- mana-attracting materials
-- continued activity
-
-A large and complex ward system surrounding a house may gradually develop a faint soul-form reflecting its boundaries, recurring signals, inhabitants, and maintenance history.
-
-Such a structure would not necessarily be conscious or even behaviourally autonomous. It may nevertheless possess a recognisable signature, stronger internal cohesion, resistance to unfamiliar alterations, preferential response to familiar operators, persistent Resonant relationships, or rudimentary state retention.
-
-These emergent structures are generally termed **proto-animic constructs** or **vestigial soul-forms**.
-
-**Comparative Animistics** is the study of soul-form formation across biological, artificial, architectural, and distributed systems.
-
-**Emergent Construct Theory** is the study of construct-like mana organisation arising without deliberate scaffold construction.
-
-## Persistence, Remnants, and Decay
-
-Soul-forms depend upon continued interaction with an active nervous system or neurological analogue.
-
-When the underlying system becomes inactive, the soul-form loses the dynamic feedback that maintains its organisation. It does not normally vanish immediately, but begins a progressive process of simplification and decay.
-
-The decaying structure left after the death or permanent inactivity of its source is known as a **soul-form remnant**.
-
-The rate of decay depends upon :
-
-- the maturity and strength of the soul-form
-- ambient mana concentration
-- surrounding mana types
-- physical preservation of the nervous system
-- Resonant anchors
-- Mnemonic reinforcement
-- containment within suitable materials or constructs
-- the violence or suddenness of death
-
-A soul-form remnant loses fine and recently maintained structures before its deepest and most stable patterns. It may temporarily retain an **animic echo** of the final activity of its source nervous system.
-
-An animic echo is not a preserved consciousness. It is a degraded residue of neural organisation, recent state, habits, associations, and behavioural tendencies reflected within the soul-form at the time its biological support ceased.
-
-A well-preserved remnant may contain fragmentary traces corresponding to the source's final hours or days. These traces may permit limited reconstruction of recent perceptions, repeated thoughts, emotional states, familiar persons or places, strong intentions, rehearsed behaviours, or final memories.
-
-Recovering this information requires mapping the remnant onto a compatible active substrate. The result is necessarily approximate because the soul-form never contained a complete copy of the nervous system, decay removes and distorts information, and a new substrate interprets retained structure differently.
-
-Attempting to preserve a deceased individual through a soul-form remnant is therefore more comparable to constructing a behavioural approximation from incomplete final records than to restoring the original mind.
-
-**Thanatoanimistics** is the study of soul-form remnants and soul-form behaviour after biological death.
-
-**Echo Reconstruction** is the study of extracting and interpreting residual information from soul-form remnants.
-
-**Necromancy** is the applied use of deceased soul-forms, animic echoes, preserved nervous structures, and related constructs.
-
-## Preservation and Transplantation
-
-Soul-form preservation attempts to slow decay by replacing the stabilising influence once provided by the original nervous system.
-
-Preservation may involve dense Primed-mana containment, Resonant anchoring, Mnemonic reinforcement, simulated recurrent activity, mana-attracting vessels, preserved neural tissue, or rapid attachment to another active substrate.
-
-A soul-form may, under exceptional conditions, be detached from its original substrate and bound to a new one.
-
-Successful transplantation requires :
-
-- preservation of the soul-form during separation
-- a sufficiently active receiving substrate
-- correspondence between original and new sensory pathways
-- correspondence between original and new motor outputs
-- a coherent bodily boundary
-- stable internal feedback
-- gradual remapping of the soul-form to the new structure
-
-Transplantation does not transfer the original mind. The receiving substrate produces its own cognition.
-
-The transplanted soul-form may influence early development through inherited structure, signature, deeply ingrained tendencies, and residual echo, but the new substrate shapes the soul-form much more rapidly than the soul-form reshapes the substrate.
-
-If a mature soul-form were transferred into a physically identical but neurologically fresh body, the result would therefore resemble a fresh developing mind more than a continuation or equal mixture of the original person.
-
-A severe mismatch between soul-form and substrate may result in sensory confusion, motor dysfunction, unstable bodily boundaries, fragmented identity references, involuntary magical discharge, rapid degradation, or failure to bind.
-
-**Animic Preservation** is the study of retaining soul-form structure after separation from its original substrate.
-
-**Animic Transplantation** is the study of transferring soul-forms between biological or artificial substrates.
-
-## Fragmentation and Derivation
-
-A portion of a soul-form may be separated and encouraged to develop around a new substrate.
-
-Such a **derived soul-form** begins largely as a clean slate. It does not contain a complete copy of the source and generally retains only coarse inherited characteristics, such as a related animic signature, broad mana affinities, deeply ingrained response tendencies, weak Resonant familiarity, or compatibility with wards keyed to the source signature.
-
-Once attached to a new active substrate, the fragment develops primarily according to that substrate and its own experiences.
-
-Derived soul-forms are often easier to stabilise than entirely artificial ones because they begin with an existing self-organising pattern. However, their inherited structure may impose limitations or biases that are difficult to remove.
-
-Fragmentation may be performed destructively by removing part of an existing soul-form or more gradually by inducing a peripheral **animic bud** that can later be separated.
-
-**Animic Derivation** is the study of fragmented, budded, copied, and otherwise source-derived soul-forms.
-
-## Artificial Soul-Forms
-
-A sufficiently complex neurological analogue may produce a soul-form without biological origin.
-
-The substrate does not need to reproduce every property of a natural nervous system. It must, however, provide the organisational features required for sustained animic formation, including recurrent internal signalling, integrated sensory input, coordinated output pathways, internal feedback, persistent activity, adaptive relationships, differentiation between internal and external state, and a stable system boundary.
-
-Simple feed-forward constructs and fixed spell routines generally fail to produce meaningful soul-forms. They may accumulate mana or develop stable signatures, but lack the recurrent integrated activity required for a developed animic structure.
-
-Artificial soul-forms may be induced within golemic nervous analogues, Mnemonic lattices, Galvanic circuits, fluidic control networks, living hybrid tissues, distributed ward systems, or architectural control assemblies.
-
-Creating a soul-form is not equivalent to creating consciousness.
-
-A soul-form may provide sensorimotor integration, bodily identity, magical perception, and adaptive stability without the substrate being capable of sapience or subjective experience.
-
-The production of a **sapience-capable substrate** would require a degree of complexity, integration, plasticity, and cognition that remains beyond known golemancy. No artificial system is universally accepted as having achieved genuine sapience.
-
-**Synthetic Animistics** is the study of artificially induced soul-forms.
-
-**Golemic Neurothaumaturgy** is the study of neurological analogues used to support soul-forms in artificial bodies.
-
-## Soul-Form Injury
-
-Soul-forms may be damaged through magical trauma, neurological injury, hostile Resonant interaction, excessive Primed-mana saturation, failed transplantation, or prolonged construct interference.
-
-Possible consequences include :
-
-- weakened magical resistance
-- distorted mana perception
-- involuntary mana attraction
-- loss of fine manipulation
-- phantom sensations
-- altered animic signature
-- unstable reagent boundaries
-- susceptibility to foreign anchoring
-- partial dissociation between body and soul-form
-- persistent leakage or turbulence
-
-Because the nervous system continually shapes the soul-form, minor damage may gradually repair itself. Severe or repeatedly reinforced damage may instead stabilise into **animic scarring**.
-
-Soul-form injury does not necessarily imply psychological injury, though neurological and animic trauma often occur together because of their close interaction.
-
-**Animic Medicine** is the study of soul-form health, injury, resistance, and its role in medical practice.
-
-## Constraints
-
-Soul-forms do not provide an unrestricted means of bypassing the broader magic system.
-
-They cannot :
-
-- generate mana
-- perform attributed operations without Attuned mana
-- encode arbitrary spell logic through desire alone
-- preserve a complete mind after death
-- restore destroyed neural information
-- automatically heal complex tissue
-- grant sapience to an inadequate substrate
-- make a radically incompatible body easy to control
-- replace construct interfaces, mana sourcing, or Expenditure
-- perfectly reveal thoughts, memories, or identity
-
-Soul-forms are natural mana interfaces, defensive structures, signatures, and substrates for limited retained organisation. Their usefulness derives from these specific functions rather than from being immaterial persons or universal metaphysical essences.
-
-**Neurothaumaturgy** is the study of interactions between nervous activity and mana.
-
-**Animic Theory** is the study of soul-form formation, structure, variation, persistence, and decay.
-
 # Mana Constructs
 
-Mana constructs are the building blocks of **structured spells**. They contain and direct mana, constrain its attributed operations, and allow those operations to respond to predefined conditions, enabling conditional or self-regulating behaviour.
-
-Attuned mana may also be expended without a mana construct through **Unstructured Casting**. Constructs are therefore not required for an attribute to perform its primitive operation, but are required to make that operation precisely selected, bounded, directed, regulated, conditional, composable, repeatable, or safely automated.
+Mana constructs are the building blocks of spells. They contain and direct mana, constrain its attributed operations, and allow those operations to respond to predefined conditions, enabling conditional or self-regulating behaviour.
 
 There are **5 essential phases** to creating and triggering a functioning mana construct :
 
@@ -676,40 +330,6 @@ For example, a Kinetic heating spell directly increases the disorganised microsc
 
 This distinction prevents a spell from directly declaring a broad outcome such as _burn_, _heal_, or _destroy_. Instead, it must declare one or more primitive operations whose consequences produce the intended result.
 
-## Expenditure Threshold
-
-Attuned mana does not normally perform its primitive operation merely by being present near a compatible reagent. Expenditure begins only when the local concentration and coupling of one Attuned mana type exceed a **matter-specific expenditure threshold**.
-
-These thresholds depend upon :
-
-- the mana attribute
-- the reagent's material composition and structure
-- the area or volume across which mana is concentrated
-- local Primed and competing Attuned mana concentrations
-- the reagent's existing magical affinities
-- the speed at which mana is condensed
-- active wards, soul-forms, or other resistance
-
-Natural concentrations rarely exceed these thresholds, preventing ordinary materials from spontaneously heating, compressing, fracturing, glowing, or otherwise undergoing attributed operations merely because mana is present.
-
-A construct may lower, localise, or continuously maintain the effective threshold through precise sourcing, selection, bounding, and regulation. An Unstructured caster instead forces already Attuned mana above the threshold through direct condensation against a nearby reagent.
-
-## Living Reagents
-
-Living organisms are unusually difficult to affect directly because their soul-forms maintain coherent bodily boundaries and accumulate protective Primed mana.
-
-This **animic resistance** raises expenditure thresholds within protected tissue, disrupts foreign mana concentration, and impedes hostile selection, binding, and sensing. It remains present during sleep or unconsciousness, though a highly active soul-form is somewhat harder to penetrate precisely.
-
-Animic resistance can be imitated less efficiently through Primed-mana reservoirs, saturation wards, mana-attracting materials, or other systems that flood a protected volume with reactive Primed mana.
-
-This makes crude internal attacks difficult. Heating a branch or shattering a stone through Unstructured Casting may be straightforward, while producing the same operation inside a living body requires vastly greater concentration, prolonged contact, a specialised structured spell, or prior disruption of the target's soul-form.
-
-Cooperative targets may partially relax their resistance or accept a declared interface, but this does not make complex biological manipulation simple.
-
-Cohesive mana can join or separate mechanically continuous matter, but cannot reconstruct the heterogeneous cellular organisation, vascular networks, biochemical gradients, immune function, or neural connectivity required for true healing. Practical magical medicine instead relies upon cauterisation, compression, immobilisation, temporary sealing, inert cohesive glues, removal of foreign matter, and support of natural recovery.
-
-True restoration of complex tissue remains one of the foremost unsolved goals of magical medicine.
-
 
 **Reagent Theory** is the study of reagent classification, selection, bounding, compatibility, susceptibility, and response to attributed operations.
 
@@ -717,19 +337,15 @@ True restoration of complex tissue remains one of the foremost unsolved goals of
 
 **Applied Attribute Dynamics** is the quantitative study of attributed operations within specific reagent classes and environmental conditions.
 
-**Threshold Dynamics** is the study of the concentrations, couplings, and material conditions required to initiate and sustain Expenditure.
-
-**Animic Medicine** is the study of soul-form health, injury, resistance, and its role in medical practice.
-
 # Spell Composition
 
-At their core, spells are **operationally unified systems** of one or more mana constructs, connected through declared interfaces and directed towards a shared process, effect, or termination condition. They are the defining products of Structured Casting and are distinct from the isolated attributed operations produced through Unstructured Casting.
+At their core, spells are **operationally unified systems** of one or more mana constructs, connected through declared interfaces and directed towards a shared process, effect, or termination condition.
 
 A collection of nearby or interacting constructs does not necessarily constitute a single spell. Constructs form one spell when their activation, reagent bindings, execution dependencies, supervisory structure, or termination behaviour establish them as parts of one coherent operation.
 
 While it is technically possible to accomplish any valid spell effect with a single sufficiently complex mana construct, such constructs rapidly become unwieldy and unstable. It is therefore preferable to **compose spells** by interconnecting more self-contained constructs, each with a dedicated purpose or task.
 
-There are many ways to represent spells, but all rely upon **glyph systems**, abstract representations of construct components, scaffolds, interfaces, parameters, and other magical elements.
+There are many ways to represent spells, but all rely upon **glyphs systems**, abstract representations of construct components, scaffolds, interfaces, parameters, and other magical elements.
 
 The only requirements of a valid glyph system are that its glyphs be reproducible, distinguishable from one another, and composable into **spell formulas**. Glyph systems need not be visual, as they may be expressed through symbols, text, speech, music, gesture, spatial arrangements, or other reproducible patterns.
 
@@ -994,22 +610,15 @@ Practical traditions also classify spells in **schools** by their intended resul
 
 **Comparative Spellcraft** is the study of equivalent or competing spell designs across different attributes, architectures, traditions, and applications.
 
-# Mana Casting
+# Spell Casting
 
 { NOTE : VALIDATE }
 
-**Mana casting** is the deliberate manipulation and Expenditure of mana to perform attributed operations upon one or more reagents.
+**Spell casting** is the deliberate instantiation, activation, supervision, or use of a spell assembly to perform attributed operations upon one or more reagents.
 
-Mana casting is divided into two broad methods :
+Casting does not itself define how a spell works. The spell's behaviour is determined by its template, declaration, constructs, and available mana. Casting instead describes how that spell logic is instantiated, hosted, supplied, parameterised, activated, and supervised.
 
-- **Unstructured Casting** directly condenses already Attuned mana against a nearby reagent until its matter-specific expenditure threshold is exceeded
-- **Structured Casting**, also called **spell casting**, instantiates or uses one or more mana constructs to select, constrain, coordinate, and regulate Expenditure
-
-Unstructured Casting is comparable to entering individual low-level commands one at a time. Structured Casting is comparable to writing, compiling, and executing a script or program whose operations can be composed, parameterised, repeated, and supervised.
-
-The distinction concerns the presence of executable construct logic rather than the skill or intention of the operator. Unstructured Casting may still require substantial training, while some structured spells can be activated by an untrained user through an instrument.
-
-People capable of intentionally manipulating mana are most commonly called **magi** ( singular : **magus** ), though _mage_, _magician_, _wizard_, _witch_, _invocater_, and _caster_ are also used according to region, tradition, and profession.
+People capable of intentionally participating in spell casting are most commonly called **magi** ( singular : **magus** ), though _mage_, _magician_, _wizard_, _witch_, _invocater_, and _caster_ are also used according to region, tradition, and profession.
 
 ## Casting Roles
 
@@ -1021,20 +630,18 @@ A casting process may involve several functional roles. These roles need not cor
 |**Reservoir**|Stores or buffers mana before or during execution|
 |**Conduit**|Carries mana between sources, constructs, instruments, and reagents|
 |**Attuner**|Permutes Primed mana into one or more required attributes|
-|**Host**|Physically or somatically maintains a structured spell assembly|
-|**Operator**|Manipulates mana directly or supplies parameters, references, activation, or supervision|
-|**Reagent**|Receives the casting's attributed operations|
+|**Host**|Physically or somatically maintains the spell assembly|
+|**Operator**|Supplies parameters, references, activation, or supervision|
+|**Reagent**|Receives the spell's attributed operations|
 |**Sink**|Receives Spent mana, excess flow, or permutation loss|
 
-These casting roles describe the participants and physical pathways involved in casting. They are distinct from **construct components**, which define the internal behaviour of an individual mana construct and are absent from purely Unstructured Casting.
+These casting roles describe the participants and physical pathways involved in casting. They are distinct from **construct components**, which define the internal behaviour of an individual mana construct.
 
-For example, an Unstructured caster may simultaneously serve as operator and conduit while drawing from an external reservoir. A structured caster may additionally act as a temporary host, while an instrument acts as reservoir, attuner, and persistent host.
-
-A living operator normally manipulates mana through their soul-form, whose sensorimotor fringe converts trained neural activity into low-level attraction, repulsion, condensation, release, and directional bias.
+For example, a caster may simultaneously serve as operator, conduit, and temporary host, while an instrument acts as reservoir, attuner, and persistent host.
 
 ## Casting Dimensions
 
-Structured casting methods are most rigorously described through three independent dimensions :
+Casting methods are most rigorously described through three independent dimensions :
 
 1. the **authoring source** from which the spell logic originates
 2. the **execution substrate** upon which the assembly is hosted
@@ -1084,83 +691,25 @@ Every individual casting may be described through the preceding dimensions. Neve
 
 | Casting Archetype        | Typical Classification           | Description                                                                                                                                         |
 | ------------------------ | -------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Unstructured Casting** | Non-formulaic + Somatic          | An operator directly condenses available Attuned mana against a nearby reagent until its expenditure threshold is exceeded.                         |
 | **Wild Casting**         | Instinctive + Somatic            | A living system biologically generates and executes a narrow spell assembly through specialised anatomy and instinctive mana control.               |
-| **Reflexive Casting**    | Reflexive + Somatic              | A caster reconstructs and activates a memorised spell pattern through trained procedural memory and external helper cues.                         |
+| **Reflexive Casting**    | Reflexive + Somatic              | A caster reconstructs and activates a memorised spell pattern through trained procedural memory and external helper queues.                         |
 | **Structured Casting**   | Structured + Usually Somatic     | A caster consciously assembles, modifies, derives, or supervises a spell according to understood construct logic.                                   |
 | **Instrumental Casting** | Usually Inherited + Instrumental | A pre-existing artefact hosts and executes most or all spell logic, while its user supplies only permitted inputs, mana, references, or activation. |
 
-These archetypes are neither exhaustive nor mutually exclusive. A structured caster may work through an instrument, a wild-casting organism may incorporate mineral structures, and an instrumental assembly may require direct somatic supervision. Unstructured Casting sits partly outside the authoring-source taxonomy because it instantiates no formula or spell assembly.
+These archetypes are neither exhaustive nor mutually exclusive. A structured caster may work through an instrument, a wild-casting organism may incorporate mineral structures, and an instrumental assembly may require direct somatic supervision.
 
 
 **Casting Theory** is the study of how spell assemblies are instantiated, hosted, supplied, parameterised, activated, and supervised.
 
 **Praxeothaumaturgy** is the applied study of practical casting technique, operator behaviour, efficiency, reliability, and performance under real conditions.
 
-## Unstructured Casting
-
-**Unstructured Casting** is the direct Expenditure of already Attuned mana without the use of a declared mana construct.
-
-The caster uses their soul-form to gather and condense one mana attribute against a nearby reagent until its matter-specific expenditure threshold is exceeded. Once triggered, the Attuned mana performs its primitive operation according to its attribute and the local relationship between mana and reagent.
-
-Unstructured Casting does not permit the caster to declare a broad desired result. The operator can only exert coarse control over :
-
-- which nearby reagent is contacted
-- the approximate point or surface of application
-- how much Attuned mana is condensed
-- whether the mana is added or withdrawn where the attribute permits it
-- a crude directional bias where the operation naturally supports one
-- when the caster stops supplying mana
-
-Unstructured Casting is normally limited to touch or near-touch range. Direct somatic control weakens rapidly with distance, while the absence of Selection, Bounding, Directing, Regulating, and Sensing components makes remote application unreliable.
-
-The method is easiest with abundant, stable, familiar attributes and simple reagents. Kinetic and Radiant mana are therefore the most common attributes used in this manner, while rare, unstable, or weakly understood attributes are seldom handled unstructured.
-
-Typical Unstructured operations include :
-
-| Attribute | Typical Unstructured Operations |
-| --- | --- |
-| **Kinetic** | Heat or cool a touched object, induce vibration, apply a crude point compression, crack brittle matter, or produce a short shove |
-| **Radiant** | Make a touched object glow, dim a small illuminated surface, emit a flash, or crudely alter colour |
-| **Galvanic** | Charge or discharge an object, create a spark, or weakly magnetise a compatible material |
-| **Volumic** | Compress a soft material, expand a confined gas, or produce a local pressure pulse |
-| **Massic** | Temporarily make a touched object heavier or lighter while mana remains concentrated |
-| **Cohesive** | Widen an existing crack, weakly join compatible surfaces, or crudely separate brittle continuous matter |
-| **Resonant** | Establish a weak short-lived coupling between touching or strongly familiar systems |
-
-Mnemonic, Temporal, Spatial, Ontic, and other rare or unstable attributes are not normally suitable for Unstructured Casting. Even where direct Expenditure is theoretically possible, practitioners seldom possess sufficient access, familiarity, or control to exceed the relevant threshold safely.
-
-Directional force is possible with Kinetic mana, but is significantly harder than heating, cooling, vibration, compression, or shattering. A shove can be produced by concentrating momentum transfer at one surface, but sustained telekinesis, controlled trajectories, levitation, and precise force distribution require structured Direction, Selection, Regulation, and feedback.
-
-Unstructured Casting is often highly efficient for small immediate tasks when the correct Attuned mana is already available, as it incurs no scaffold or declaration cost. It becomes inefficient when the caster must first attune Primed mana manually, compensate for leakage, overcome resistance, or repeatedly reproduce a precise result.
-
-Its primary limitations are :
-
-- dependence upon locally available or stored Attuned mana
-- touch or near-touch range
-- poor reagent discrimination
-- imprecise boundaries
-- weak directional control
-- no automatic feedback or termination
-- inability to compose several operations reliably
-- high danger when large concentrations are used
-- strong interference from Primed-mana saturation and soul-forms
-
-Unstructured Casting is widely treated as an ordinary practical skill rather than a spell tradition. Heating tinder, cooling a cup, making a walking stick glow, discharging static, or cracking a brittle object are often described simply as things a mana-sensitive person can learn to do.
-
-Reservoirs greatly extend its usefulness. A container of pre-Attuned mana may function as a general-purpose supply even without containing a spell assembly, though each reservoir remains limited by its stored attribute, capacity, leakage, transport requirements, and need for replenishment.
-
-**Unstructured Casting Theory** is the study of direct, construct-free Expenditure and its limits.
-
-**Threshold Dynamics** is the study of the concentrations, couplings, and material conditions required to initiate and sustain Expenditure.
-
 ## Wild Casting
 
 **Wild Casting**, also called **Instinctive Casting**, is the biological generation and execution of a spell assembly without conscious formulaic construction.
 
-Wild-casting organisms possess anatomical, biochemical, crystalline, symbiotic, or otherwise biological structures capable of producing fixed scaffolds and declarations. These structures contain no necessary symbolic notation because their physical organisation and instinctive soul-form activity directly generate the required construct architecture.
+Wild-casting organisms possess anatomical, biochemical, crystalline, symbiotic, or otherwise biological structures capable of producing fixed scaffolds and declarations. These structures contain no necessary symbolic notation because their physical organisation directly generates the required construct architecture.
 
-Wild casting is most often observed in animals, though certain plants, fungi, colonies, bacteria, and composite or artificial organisms also display comparable phenomena. Some systems rely upon a single specialised organ, while others distribute casting functions across tissues, mineral inclusions, symbionts, developmental structures, or several cooperating organisms.
+Wild casting is most often observed in animals, though certain plants, fungi, colonies, bacterium, and composite or artificial organisms also display comparable phenomena. Some systems rely upon a single specialised organ, while others distribute casting functions across tissues, mineral inclusions, symbionts, developmental structures, or several cooperating organisms.
 
 Wild casting assemblies are generally narrow, strongly constrained, and specific to particular reagents or environmental conditions. Within the circumstances for which they evolved, however, they may be extremely rapid, reliable, and mana-efficient.
 
@@ -1201,7 +750,7 @@ Reports of sapient children performing Wild Casting without identifiable special
 
 **Reflexive Casting**, commonly called **Cantrip Casting**, is the reconstruction of a memorised spell template through trained procedural memory and the facultative use of external queues, such as grimoires, scrolls, or pseudoglyphs.
 
-The caster does not preserve a continuously existing construct within the mind. Instead, training establishes a reproducible neural, soul-form, and sensorimotor pattern through which the necessary scaffold, declaration, interfaces, parameters, activation, and termination behaviour may be rapidly reinstantiated.
+The caster does not preserve a continuously existing construct within the mind. Instead, training establishes a reproducible mental and sensorimotor pattern through which the necessary scaffold, declaration, interfaces, parameters, activation, and termination behaviour may be rapidly reinstantiated.
 
 Reflexive casting is to structured casting what executing a rehearsed procedure is to designing or modifying that procedure.
 
@@ -1268,7 +817,7 @@ Its common practices include :
 | **Live shaping**     | Modifying or redirecting a construct during activation or execution                   |
 | **Diagnostics**      | Inspecting, testing, isolating, and repairing malformed or degraded constructs        |
 | **Supervision**      | Continuously regulating a complex, unstable, or partially autonomous execution        |
-| **Maintenance**      | Realigning an activated spell assembly towards its intended state                      |
+| **Maintenance**      | Realigning an activated spell assembly toards its intended state                      |
 
 A novice structured caster may be capable of adjusting a known reagent boundary or replacing a standard Sourcing component while remaining unable to design a stable regulator or original feedback system.
 
@@ -1304,9 +853,7 @@ The user may provide mana, activation, reagent references, direction, magnitude,
 
 Instrumental Casting ranges from supportive tools that offload one component from a structured caster to autonomous engines that perform repeated regulated work without routine supervision.
 
-Intent in Instrumental Casting is not an executable statement of desired outcome. It is a trained or mechanically interpreted control signal used to select among declared pathways and provide permitted parameters. Somatic instruments usually receive such signals through interfaces designed to couple with the user's soul-form. An instrument cannot infer an unspecified spell from what its user wishes to happen.
-
-Not every mana instrument performs structured casting. Reservoirs, conduits, and attuners may instead provide pre-Attuned mana for Unstructured Casting without containing an executable spell assembly.
+Intent in Instrumental Casting is not an executable statement of desired outcome. It is a trained or mechanically interpreted control signal used to select among declared pathways and provide permitted parameters. An instrument cannot infer an unspecified spell from what its user wishes to happen.
 
 ### Strengths
 
@@ -1378,7 +925,7 @@ Magical instruments may be classified independently by their function, form, and
 | Instrument Function | Description                                                                                                                  |
 | ------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
 | **Implement**       | Hosts and executes a narrow spell or set of closely related spells                                                           |
-| **Reservoir**       | Stores and releases mana of accepted types for structured or Unstructured Casting                                             |
+| **Reservoir**       | Stores and releases mana of accepted types                                                                                   |
 | **Attuner**         | Converts Primed mana into one or more specified attributes                                                                   |
 | **Catalyst**        | Improves the rate, efficiency, purity, or stability of a permutation or construct process without supplying its primary mana |
 | **Focus**           | Hosts reusable components or interfaces while leaving spell-specific decisions to a caster                                   |
@@ -1431,10 +978,6 @@ Engines differ from ordinary implements chiefly in operational duration, through
 Wards may detect crossings, mana flows, selected reagents, construct interference, or other declared conditions. Their response may include signalling, blocking, redirecting, dissipating, isolating, or activating another spell.
 
 Because wards frequently remain dormant for extended periods before activation, their reliability depends heavily upon persistent scaffold stability, environmental tolerance, stable long term mana sourcing, maintenance frequency, and graceful handling of degraded components.
-
-Wards may be keyed to animic signatures, allowing them to recognise authorised individuals, distinguish familiar inhabitants, or detect damaged and altered soul-forms. Primed-mana saturation wards may also imitate part of a soul-form's defensive function by making a protected volume resistant to foreign Expenditure and construct formation.
-
-Large, recurrent, long-maintained ward networks may gradually accumulate vestigial soul-forms. Such proto-animic structures can develop distinctive signatures, preferential responses to familiar operators, and resistance to unfamiliar modification without necessarily possessing consciousness or general autonomy.
 
 ### Array Casting
 
