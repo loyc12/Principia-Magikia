@@ -16,7 +16,7 @@ Collectively, Primed, Spent, and the various Attuned mana attributes are known a
 | **Attunement**\* | Primed => Attuned( attribute ) x ( 1 - Ratio ) + Spent x Ratio + Permutation Loss |
 | **Expenditure**  | Attuned( attribute ) => Spent + Operation( attribute )                            |
 | **Priming**\*\*  | Spent + Singularity => Primed                                                     |
-*\*Attunement releases residual physical energy and disordered mana-field disturbances, collectively termed **permutation loss**.*
+*\*Attunement releases residual physical energy and disordered mana-field disturbances, collectively termed **permutation losses**.*
 
 *\*\*Priming occurs exclusively around the singularity, which is the light source at the centre of the expanse.*
 
@@ -67,7 +67,7 @@ Below are summary tables pertaining to the 11 known attuned **attributes** :
 | **Mnemonic**   | Memory, Recording, Engraving, Scrying, Mind | Encode information into, and decode information from, the physical medium in which it is stored.                                   |
 | **Temporal**\* | Acceleration, Preservation, Stasis          | Modify the local rate at which time progresses.                                                                                    |
 | **Spatial**\*  | Portal, Dimension, Teleportation            | Modify the layout of space itself.                                                                                                 |
-| ***Ontic***\*  | *Identity, Essence, Classification, Soul*   | *Modify what an object fundamentally is according to magical law.*                                                                 |
+| **Ontic**\*    | Identity, Essence, Classification, Soul     | Modify what an object fundamentally _is_ according to magical law.                                                                 |
 
 | Attribute      | Domain Type    | Reality Layer  | Operation Domain    | Waste Ratio | Persistence Mechanism                                              |
 | -------------- | -------------- | -------------- | ------------------- | ----------- | ------------------------------------------------------------------ |
@@ -76,12 +76,12 @@ Below are summary tables pertaining to the 11 known attuned **attributes** :
 | **Galvanic**   | State          | Physical       | Electric field      | Low         | Usually active field; charge redistribution may persist            |
 | **Volumic**    | State          | Emergent       | Volume, Pressure    | Medium      | Usually sustained unless natural structure supports the new volume |
 | **Massic**     | State          | Physical       | Mass                | Medium      | Sustained                                                          |
-| **Cohesive**   | Organisational | Emergent       | Connectivity        | High        | Structural                                                         |
+| **Cohesive**   | Organizational | Emergent       | Connectivity        | High        | Structural                                                         |
 | **Resonant**   | Relational     | Physical       | Coupling, Detection | High        | Anchored relationship                                              |
-| **Mnemonic**   | Organisational | Emergent       | Information         | High        | Encoded state                                                      |
-| **Temporal**\* | Organisational | Emergent       | Time rate           | Very High   | Sustained                                                          |
+| **Mnemonic**   | Organizational | Emergent       | Information         | High        | Encoded state                                                      |
+| **Temporal**\* | Organizational | Emergent       | Time rate           | Very High   | Sustained                                                          |
 | **Spatial**\*  | Relational     | Emergent       | Spatial layout      | Very High   | Sustained                                                          |
-| ***Ontic***\*  | *Ontological*  | *Metaphysical* | *Identity*          | *Extreme*   | *Metaphysical*                                                     |
+| **Ontic**\*    | Ontological    | Metaphysical   | Identity            | Extreme     | Metaphysical                                                       |
 *\*Little is known of these attributes, and what is known remains highly speculative and contested.*
 
 Attuned mana used to power a spell and perform its attributed operation is converted into Spent mana through Expenditure.
@@ -101,6 +101,11 @@ Soul-forms are neither the source nor the container of consciousness. Thought, m
 
 Older traditions commonly refer to the soul-form as the **soul-shell**, based upon its protective function and apparent enclosure of the body. More recent scholarship generally considers this term incomplete, as the structure is neither a simple shell nor wholly external to the organism.
 
+
+**Neurothaumaturgy** is the study of interactions between nervous activity and mana.
+
+**Animic Theory** is the study of soul-form formation, structure, variation, persistence, and decay.
+
 ## Formation
 
 Soul-forms arise when sustained patterns of neural activity repeatedly disturb and organise nearby mana.
@@ -119,9 +124,22 @@ A soul-form is not consciously designed, nor does it necessarily resemble a deli
 
 Newly formed soul-forms are weak, poorly differentiated, and highly dependent upon the nervous system that produces them. Their strength and complexity increase gradually with continued neural activity, development, and exposure to mana.
 
-An organism entering a mana-rich environment without an existing soul-form may experience headaches, diffuse pressure, disorientation, disturbed sleep, transient sensory distortions, or unusual internal sensations as mana rapidly accumulates and begins organising around its nervous system.
+An organism entering a mana-rich environment without an existing soul-form, such as many of the **new arrivals**, may experience discomfort as mana rapidly accumulates and begins organising around its nervous system. Common symptoms may include :
 
-As the initial formation period passes, acute symptoms generally diminish and are replaced by a less painful omnidirectional pressure-like awareness of nearby mana. The completed soul-form may remain weak for an extended period even after the organism begins perceiving mana.
+- headaches
+- diffuse pressure
+- disorientation
+- unusual internal sensations
+- disturbed sleep
+- transient sensory distortions
+- involuntary awareness of surrounding mana
+
+Collectively, these symptoms are referred to as **soullessness symptoms**, but may also be experienced to a lesser extend by soul-form bearing beings when they are suddenly surrounded by abnormally high concentrations of mana.
+
+As the initial formation or adaptation period passes, soullessness symptoms generally diminish and are replaced by a less painful omnidirectional pressure-like awareness of nearby mana. Over time, this crude sensation is gradually recognised by the neural substrate as a new sense, which can be practiced and refined.
+
+A newly completed soul-form may remain weak for an extended period even after the organism begins perceiving mana.
+
 
 **Animogenesis** is the study of the formation and maturation of soul-forms.
 
@@ -157,7 +175,8 @@ These regions are descriptive rather than sharply separated anatomical parts.
 
 Soul-forms are dynamic structures. Their precise organisation shifts continuously with activity, sleep, health, injury, emotional state, and magical exertion.
 
-They are generally most active during waking consciousness and rapid-eye-movement sleep, when neural activity is complex and highly variable. They become calmer during ordinary sleep, anaesthesia, or unconsciousness, but do not disappear and continue to provide substantial magical resistance.
+They are generally most active during waking consciousness and rapid-eye-movement (REM) sleep, when neural activity is complex and highly variable. They become calmer during ordinary sleep, anaesthesia, or unconsciousness, but do not disappear and continue to provide substantial magical resistance.
+
 
 **Animic Morphology** is the study of soul-form structure and its relationship to anatomy and neural organisation.
 
@@ -171,22 +190,29 @@ An animic signature may reflect :
 
 - broad species and anatomical traits
 - individual neural topology
-- long-standing sensorimotor habits
+- long-standing sensorimotor habits and reflexes
 - persistent patterns of activity
 - developmental history
-- old injuries
+- old injuries and impairments
 - deeply ingrained behavioural dispositions
 - the current physiological and cognitive state
 
 The signature does not provide direct access to a person's complete thoughts or memories. It instead functions as a complex identifying pattern from which limited information may be inferred.
 
-Animic signatures may be used for personal identification, authorised operator recognition, persistent Resonant links, ward configuration, diagnosis, or distinguishing an organism from an imitation.
+Animic signatures may be used for :
+
+- personal identification
+- recognising authorised operators
+- establishing persistent Resonant links
+- configuring wards
+- distinguishing an organism from an imitation
+- linking derived soul-forms to their source
+- diagnosing injury or deformation of the soul-form
 
 Signatures change gradually over time but normally retain enough continuity for long-term recognition.
 
-**Animic Signatury** is the study of soul-form identification, comparison, inheritance, and change.
 
-**Forensic Animistics** is the applied study of soul-forms, animic signatures, remnants, injuries, and residues for the purpose of identifying individuals, reconstructing events, and resolving legal or investigative questions.
+**Animic Signaturgy** is the study of soul-form identification, comparison, inheritance, and change.
 
 ## Mana Perception and Manipulation
 
@@ -194,11 +220,22 @@ Soul-forms provide living organisms with a natural interface to mana.
 
 Disturbances in nearby mana deform or excite the soul-form, and those changes weakly influence the nervous system. Through training, the organism learns to interpret these effects as **somatic mana sense**.
 
-Conversely, deliberate neural and physiological activity alters the soul-form, allowing it to exert small forces upon nearby mana. Neural activity therefore deforms the soul-form, which in turn displaces, attracts, repels, condenses, or releases nearby mana.
+Conversely, deliberate neural and physiological activity alters the soul-form, allowing it to exert small forces upon nearby mana. This process forms the basis of conscious mana manipulation.
 
-The soul-form does not translate unrestricted thought into magical effects. It permits only low-level manipulations and the supply of bounded inputs to already defined construct interfaces.
+The relationship may be summarised as :
+
+> Mana disturbance -> Soul-form response -> Neural sensation
+
+and :
+
+> Neural activity -> Soul-form deformation -> Mana displacement
+
+The soul-form does not translate unrestricted thought into magical effects. It permits only low-level manipulations such as attracting, repelling, condensing, releasing, and crudely directing mana near its surface.
+
+More sophisticated effects require either direct expenditure of already Attuned mana or the construction and execution of a structured spell assembly.
 
 Soul-forms differ greatly in sensitivity, range, precision, and coupling strength. These differences may arise from physiology, development, exposure, injury, or training.
+
 
 The detailed use of soul-forms for conscious manipulation belongs to **Somaturgy** and **Casting Theory**.
 
@@ -210,23 +247,29 @@ The soul-form continuously associates the organism's tissues with one coherent i
 
 Animic resistance impedes :
 
-- direct Expenditure upon living tissue
-- hostile reagent selection
-- remote or indirect sensing
-- forced anchoring
+- direct expenditure upon living tissue
+- unauthorised reagent selection
 - unauthorised Resonant links
 - alteration of internal bodily boundaries
 - manipulation of neural or Mnemonic activity
 
-This resistance is not absolute. It varies according to the strength and maturity of the soul-form, the concentration and type of attacking mana, the precision of the spell, the health and integrity of the target, existing Resonant relationships, and whether the target actively cooperates.
+This resistance is not absolute. It varies according to :
 
-Consciousness and rapid-eye-movement sleep increase the soul-form's internal activity, making precise hostile manipulation more difficult. Unconsciousness reduces this activity but does not remove the soul-form's passive structure or accumulated mana and therefore does not leave the organism undefended.
+- the strength and maturity of the soul-form
+- the concentration and type of attacking mana
+- the precision of the spell
+- the health and integrity of the target
+- the familiarity or Resonant relationship between operator and target
+- whether the target actively cooperates
+- whether the target's resistance has been weakened or bypassed
+
+Consciousness and rapid-eye-movement (REM) sleep increase the soul-form's internal activity, making precise hostile manipulation more difficult. Unconsciousness reduces this activity but does not remove the soul-form's passive structure or accumulated mana and therefore does not leave the organism wholly undefended.
 
 ## Primed-Mana Saturation
 
 Animic resistance is reinforced by the accumulation of Primed mana within and around the soul-form.
 
-Primed mana is highly reactive to other mana types. Dense Primed mana therefore disrupts incoming Attuned mana, interferes with controlled Expenditure, and makes foreign constructs more difficult to establish or maintain.
+Primed mana is highly reactive to other mana types, and therefore, dense Primed mana disrupts incoming Attuned mana, interferes with controlled expenditure, and makes foreign constructs more difficult to establish or maintain.
 
 This effect may be reproduced artificially through **Primed-mana saturation**, in which an object, region, reservoir, or ward is deliberately flooded with Primed mana.
 
@@ -238,21 +281,62 @@ Primed-mana saturation may :
 - impede reagent binding
 - obscure precise mana sensing
 - disrupt construct formation
-- provide passive resistance against Unstructured Casting
+- provide passive resistance against unstructured casting
 
 Soul-forms may therefore be understood partly as naturally maintained defensive reservoirs, though their organisation and responsiveness make them more effective than an equivalent quantity of unstructured Primed mana.
 
 Excessive Primed-mana saturation can also interfere with allied spells, prevent beneficial magic, or produce uncontrolled local attunement if containment fails.
 
-**Animic Defence Theory** is the study of soul-form resistance and its interaction with hostile or beneficial magic.
+
+**Animic Defence Theory** is the study of soul-form resistance and its interaction external magic operations, hostile or beneficial.
 
 **Thaumaturgic Countermeasure Engineering** is the applied study of artificial mana saturation, resistant materials, wards, and other means of impeding magical operation.
+
+## Interaction With Living Matter
+
+Animic resistance makes living organisms poor targets for crude or unstructured magical operation.
+
+A caster may easily heat a dry branch with Kinetic mana yet find it difficult to produce the same effect within living tissue. The target's soul-form resists the concentration, binding, and expenditure of foreign mana within the protected volume.
+
+This limitation helps prevent ordinary combat from reducing down to the direct heating, compression, electrification, or disruption of an opponent's internal organs, as doing so is far too costly, complex, unwieldy and time consuming compared to other options available.
+
+Structured spells may overcome animic resistance through :
+
+- increased mana throughput
+- prolonged exposure
+- precise interface design
+- Resonant familiarity
+- exploitation of wounds or weak boundaries
+- cooperative lowering of resistance
+- specialised ward-breaking constructs
+
+Even then, living tissue remains difficult to manipulate safely because of its internal complexity.
+
+For example, cohesive mana can join or separate mechanically continuous matter, but cannot by itself reconstruct the cellular organisation, biochemical gradients, vascular networks, immune function, or neural connections required for genuine biological healing.
+
+Practical magical medicine therefore relies upon limited operations such as :
+
+- cauterisation
+- compression of bleeding vessels
+- temporary sealing of wounds
+- immobilisation
+- joining tissues with inert cohesive media
+- removal of foreign matter
+- regulation of temperature or circulation
+- support of ordinary biological recovery
+
+True restoration of complex tissue remains beyond ordinary Cohesive or Kinetic operation and is widely regarded as one of the foremost unsolved goals of magical medicine.
+
+
+**Animic Medicine** is the study of soul-form health, injury, resistance, and its role in medical practice.
+
+**Thaumaturgic Traumatology** is the study of magical injury and emergency stabilisation.
 
 ## Neural and Neurological Analogues
 
 Soul-forms are not restricted absolutely to biological nervous systems.
 
-Any system capable of producing sufficiently complex, recurrent, integrated, and persistent patterns of activity may potentially attract and organise mana into a soul-like structure.
+Any system capable of producing sufficiently precise, complex, recurrent, integrated, and persistent patterns of thaumaturgic, galvanic, or chemical activity may potentially attract and organise mana into a soul-like structure.
 
 Such **neurological analogues** may include :
 
@@ -278,56 +362,118 @@ The likelihood and complexity of formation appear to depend upon :
 - mana-attracting materials
 - continued activity
 
-A large and complex ward system surrounding a house may gradually develop a faint soul-form reflecting its boundaries, recurring signals, inhabitants, and maintenance history.
+For example, a large and complex ward system surrounding a house may gradually develop a faint soul-form reflecting its boundaries, recurring signals, inhabitants, and maintenance history.
 
-Such a structure would not necessarily be conscious or even behaviourally autonomous. It may nevertheless possess a recognisable signature, stronger internal cohesion, resistance to unfamiliar alterations, preferential response to familiar operators, persistent Resonant relationships, or rudimentary state retention.
+Such a structure would not necessarily be conscious or behaviourally autonomous. It may nevertheless possess :
 
-These emergent structures are generally termed **proto-animic constructs** or **vestigial soul-forms**.
+- a recognisable signature
+- stronger internal thaumaturgic cohesion
+- resistance to unfamiliar alterations
+- preferential response to familiar operators
+- persistent Resonant relationships
+- rudimentary state retention
+
+These emergent structures are generally termed **protoanimic constructs** or **vestigial soul-forms**.
+
 
 **Comparative Animistics** is the study of soul-form formation across biological, artificial, architectural, and distributed systems.
 
 **Emergent Construct Theory** is the study of construct-like mana organisation arising without deliberate scaffold construction.
 
-## Persistence, Remnants, and Decay
+## Persistence and Decay
 
 Soul-forms depend upon continued interaction with an active nervous system or neurological analogue.
 
-When the underlying system becomes inactive, the soul-form loses the dynamic feedback that maintains its organisation. It does not normally vanish immediately, but begins a progressive process of simplification and decay.
-
-The decaying structure left after the death or permanent inactivity of its source is known as a **soul-form remnant**.
+When the underlying system becomes inactive, the soul-form loses the dynamic feedback that maintains its organisation. Such an unbound soul-form is known as a **soul-form remnant.** It does not normally vanish immediately, but begins a progressive process of simplification and decay.
 
 The rate of decay depends upon :
 
 - the maturity and strength of the soul-form
-- ambient mana concentration
+- ambient mana concentration and flow
 - surrounding mana types
 - physical preservation of the nervous system
 - Resonant anchors
 - Mnemonic reinforcement
 - containment within suitable materials or constructs
-- the violence or suddenness of death
 
-A soul-form remnant loses fine and recently maintained structures before its deepest and most stable patterns. It may temporarily retain an **animic echo** of the final activity of its source nervous system.
+A decaying soul-form loses fine and recently maintained structures before its deepest and most stable patterns.
+
+The usual order of loss is approximately :
+
+1. immediate sensory and motor state
+2. short-term patterns and recent contextual associations
+3. recent memories and behavioural adjustments
+4. long-standing habits and emotional dispositions
+5. coarse signature and bodily organisation
+6. basic structural cohesion
+
+This sequence is neither exact nor universal.
+
+## Animic Echoes
+
+**A soul-form remnant** temporarily retain an **animic echo** of the final activity of its source nervous system.
 
 An animic echo is not a preserved consciousness. It is a degraded residue of neural organisation, recent state, habits, associations, and behavioural tendencies reflected within the soul-form at the time its biological support ceased.
 
-A well-preserved remnant may contain fragmentary traces corresponding to the source's final hours or days. These traces may permit limited reconstruction of recent perceptions, repeated thoughts, emotional states, familiar persons or places, strong intentions, rehearsed behaviours, or final memories.
+A well-preserved echo may contain fragmentary traces corresponding to the source's final hours or days. These traces may permit limited reconstruction of :
 
-Recovering this information requires mapping the remnant onto a compatible active substrate. The result is necessarily approximate because the soul-form never contained a complete copy of the nervous system, decay removes and distorts information, and a new substrate interprets retained structure differently.
+- recent perceptions
+- repeated thoughts
+- emotional states
+- familiar persons or places
+- strong intentions
+- rehearsed behaviours
+- final memories
 
-Attempting to preserve a deceased individual through a soul-form remnant is therefore more comparable to constructing a behavioural approximation from incomplete final records than to restoring the original mind.
+Recovering this information requires mapping the decaying soul-form onto a compatible active substrate. The result is necessarily approximate because :
 
-**Thanatoanimistics** is the study of soul-form remnants and soul-form behaviour after biological death.
+- the soul-form never contained a complete copy of the nervous system
+- decay removes and distorts information
+- a new substrate interprets the retained structure differently
+- sensory and motor mappings may not correspond
+- reconstruction methods introduce their own assumptions and errors
 
-**Echo Reconstruction** is the study of extracting and interpreting residual information from soul-form remnants.
+Attempting to preserve a deceased individual through an animic echo is therefore more comparable to constructing a behavioural approximation from incomplete final records than to restoring the original mind.
 
-**Necromancy** is the applied use of deceased soul-forms, animic echoes, preserved nervous structures, and related constructs.
+The resulting entity may resemble the source in limited ways, but it is not a continuation of the source's consciousness.
 
-## Preservation and Transplantation
+
+**Thanatoanimistics** is the study of soul-form behaviour after biological death.
+
+**Echo Reconstruction** is the act of extracting and interpreting residual information from decaying soul-forms.
+
+**Forensic Animistics** is the applied study of soul-forms, animic signatures, echoes, injuries, and residues for the purpose of identifying individuals, reconstructing events, and resolving legal or investigative questions.
+
+## Preservation
 
 Soul-form preservation attempts to slow decay by replacing the stabilising influence once provided by the original nervous system.
 
-Preservation may involve dense Primed-mana containment, Resonant anchoring, Mnemonic reinforcement, simulated recurrent activity, mana-attracting vessels, preserved neural tissue, or rapid attachment to another active substrate.
+Preservation may involve :
+
+- dense Primed-mana containment
+- Resonant anchoring
+- Mnemonic reinforcement
+- simulated recurrent activity
+- mana-attracting vessels
+- preserved neural tissue
+- rapid attachment to another active substrate
+
+Preservation is notoriously difficult, because excessive stabilisation may freeze the structure in a distorted state, while insufficient stabilisation permits continued decay.
+
+A preserved soul-form remains dependent upon the compatibility of any later substrate. The more that substrate differs from the original body, the greater the difficulty of mapping sensory, motor, bodily, and behavioural relationships.
+
+A soul-form taken from an animal may therefore be easier to integrate into a similarly structured golem than into a radically different frame.
+
+Sapient soul harvesting is widely condemned, but still occur sporadically due to sapient soul-forms being valuable for advanced golemancy, identity systems, and echo reconstruction.
+
+An animal soul-form remnant the most common sacrificial source in traditions that practise animic transplantation.
+
+
+**Animic Preservation** is the study of retaining soul-form remnants after separation from their original substrate.
+
+**Necromancy** is the applied use of soul-form remnants, animic echoes, preserved nervous structures, and related constructs.
+
+## Transplantation
 
 A soul-form may, under exceptional conditions, be detached from its original substrate and bound to a new one.
 
@@ -341,15 +487,35 @@ Successful transplantation requires :
 - stable internal feedback
 - gradual remapping of the soul-form to the new structure
 
-Transplantation does not transfer the original mind. The receiving substrate produces its own cognition.
+Transplantation does not transfer the original mind, as the receiving substrate produces its own cognition.
 
-The transplanted soul-form may influence early development through inherited structure, signature, deeply ingrained tendencies, and residual echo, but the new substrate shapes the soul-form much more rapidly than the soul-form reshapes the substrate.
+The transplanted soul-form may influence early development through its inherited structure, signature, habits, and residual echo, but the new substrate shapes the soul-form much more rapidly than the soul-form reshapes the substrate.
 
-If a mature soul-form were transferred into a physically identical but neurologically fresh body, the result would therefore resemble a fresh developing mind more than a continuation or equal mixture of the original person.
+If a mature soul-form were transferred into a physically identical but neurologically fresh body, the result would therefore more closely resemble a fresh developing mind more than a continuation of the original person.
 
-A severe mismatch between soul-form and substrate may result in sensory confusion, motor dysfunction, unstable bodily boundaries, fragmented identity references, involuntary magical discharge, rapid degradation, or failure to bind.
+The transplanted soul-form might influence :
 
-**Animic Preservation** is the study of retaining soul-form structure after separation from its original substrate.
+- basic dispositions
+- sensory biases
+- motor tendencies
+- mana sensitivity
+- instinctive responses
+- fragments of recent echo
+- animic signature
+
+It would not reproduce the source's complete memory, personality, or subjective continuity.
+
+A severe mismatch between soul-form and substrate may result in :
+
+- sensory confusion
+- motor dysfunction
+- unstable bodily boundaries
+- temporary animic rejection of limbs or components
+- fragmented identity references
+- involuntary magical discharge
+- rapid animic degradation
+- outright failure to bind
+
 
 **Animic Transplantation** is the study of transferring soul-forms between biological or artificial substrates.
 
@@ -357,25 +523,66 @@ A severe mismatch between soul-form and substrate may result in sensory confusio
 
 A portion of a soul-form may be separated and encouraged to develop around a new substrate.
 
-Such a **derived soul-form** begins largely as a clean slate. It does not contain a complete copy of the source and generally retains only coarse inherited characteristics, such as a related animic signature, broad mana affinities, deeply ingrained response tendencies, weak Resonant familiarity, or compatibility with wards keyed to the source signature.
+Such a **derived soul-form** begins largely as a clean slate. It does not contain a complete copy of the source and generally retains only coarse inherited characteristics.
+
+These may include :
+
+- a related animic signature
+- broad mana affinities
+- deeply ingrained response tendencies
+- structural biases
+- weak Resonant familiarity with the source
+- compatibility with wards keyed to the source signature
 
 Once attached to a new active substrate, the fragment develops primarily according to that substrate and its own experiences.
 
-Derived soul-forms are often easier to stabilise than entirely artificial ones because they begin with an existing self-organising pattern. However, their inherited structure may impose limitations or biases that are difficult to remove.
+Derived soul-forms are often easier to stabilise than entirely artificial ones because they begin with an existing self-organising pattern. However, their inherited structure may impose limitations or biases that are difficult to completely remove.
 
-Fragmentation may be performed destructively by removing part of an existing soul-form or more gradually by inducing a peripheral **animic bud** that can later be separated.
+Fragmentation may be performed destructively by removing part of an existing soul-form or more gradually by artificially inducing a peripheral **animic bud** that can later be separated.
 
-**Animic Derivation** is the study of fragmented, budded, copied, and otherwise source-derived soul-forms.
+Destructive fragmentation may cause :
+
+- reduced mana sensitivity
+- weakened animic resistance
+- altered signature
+- behavioural disruption
+- instability
+- permanent soul-form scarring
+- various soullessness symptoms
+
+Budding is generally safer but also slower, and produces a less source-like derivative.
+
+**Animic Derivation** is the study of fragmented, budded, and otherwise source-derived soul-forms.
 
 ## Artificial Soul-Forms
 
 A sufficiently complex neurological analogue may produce a soul-form without biological origin.
 
-The substrate does not need to reproduce every property of a natural nervous system. It must, however, provide the organisational features required for sustained animic formation, including recurrent internal signalling, integrated sensory input, coordinated output pathways, internal feedback, persistent activity, adaptive relationships, differentiation between internal and external state, and a stable system boundary.
+The substrate does not need to reproduce every property of a natural nervous system. It must, however, provide the organisational features required for sustained animic formation.
+
+A viable artificial substrate likely requires :
+
+- recurrent internal signalling
+- integrated sensory input
+- coordinated output pathways
+- internal feedback
+- persistent activity
+- adaptive or plastic relationships
+- differentiation between internal and external state
+- mana-attracting materials or components
+- a stable body or system boundary
 
 Simple feed-forward constructs and fixed spell routines generally fail to produce meaningful soul-forms. They may accumulate mana or develop stable signatures, but lack the recurrent integrated activity required for a developed animic structure.
 
-Artificial soul-forms may be induced within golemic nervous analogues, Mnemonic lattices, Galvanic circuits, fluidic control networks, living hybrid tissues, distributed ward systems, or architectural control assemblies.
+Artificial soul-forms may be induced within :
+
+- golemic nervous analogues
+- Mnemonic lattices
+- Galvanic circuits
+- fluidic control networks
+- living hybrid tissues
+- distributed ward systems
+- architectural control assemblies
 
 Creating a soul-form is not equivalent to creating consciousness.
 
@@ -383,9 +590,75 @@ A soul-form may provide sensorimotor integration, bodily identity, magical perce
 
 The production of a **sapience-capable substrate** would require a degree of complexity, integration, plasticity, and cognition that remains beyond known golemancy. No artificial system is universally accepted as having achieved genuine sapience.
 
+
 **Synthetic Animistics** is the study of artificially induced soul-forms.
 
+## Soul-Forms in Golemancy
+
+Golems are the archetypal artificial bearers of soul-forms.
+
+A soul-form may provide a golem with :
+
+- a coherent sense of bodily boundary
+- integration of multiple sensors
+- coordinated control of actuators
+- resistance to foreign magical interference
+- a stable individual signature
+- persistent behavioural tendencies
+- adaptive remapping after repair
+- limited retention of state
+
+This allows golemancers to exploit naturally occurring animic organisation rather than explicitly declaring every aspect of embodied control.
+
+Known approaches include :
+
+- transplanting an animal soul-form
+- harvesting a sapient soul-form
+- binding soul-form remnants
+- growing a derived soul-form from a fragment or bud
+- inducing a synthetic soul-form within an artificial neural analogue
+
+The soul-form does not remove the need for a functional golemic substrate. It cannot operate limbs for which no control pathways exist, interpret senses for which it has no mapping, or produce intelligence unsupported by the underlying system.
+
+The closer a golem's body and control structure are to those of the soul-form's source, the easier transplantation and adaptation become.
+
+Golems built around animal soul-forms may display recognisable instinctive tendencies even when their conscious behaviour is absent or extensively redirected. Golems built from derived soul-forms generally begin with weaker but cleaner inherited patterns.
+
+
+The detailed construction and use of soul-bearing golems belongs to **Golemancy**.
+
 **Golemic Neurothaumaturgy** is the study of neurological analogues used to support soul-forms in artificial bodies.
+
+## Soul-Forms in Long-Lived Constructs
+
+Golems are not the only constructs capable of developing soul-like structures.
+
+Any long-lived system combining mana attraction, recurrent activity, persistent state, sensing, and regulated response may gradually accumulate a vestigial soul-form.
+
+Possible examples include :
+
+- complex household wards
+- ancient fortifications
+- temple networks
+- ships with integrated magical systems
+- large industrial engines
+- cities with interconnected mana infrastructure
+- distributed agricultural or environmental arrays
+
+These soul-forms are usually far weaker and less integrated than biological ones.
+
+They may nevertheless cause the system to :
+
+- develop a distinctive animic signature
+- respond more readily to familiar operators
+- resist unfamiliar modification
+- retain faint behavioural biases
+- preserve old state patterns
+- maintain persistent Resonant associations
+
+Such effects may be interpreted culturally as a house recognising its family, a weapon accepting its owner, or an ancient ward becoming temperamental.
+
+These phenomena need not involve consciousness, despite common beliefs.
 
 ## Soul-Form Injury
 
@@ -403,35 +676,11 @@ Possible consequences include :
 - susceptibility to foreign anchoring
 - partial dissociation between body and soul-form
 - persistent leakage or turbulence
+- various soullessness symptoms
 
 Because the nervous system continually shapes the soul-form, minor damage may gradually repair itself. Severe or repeatedly reinforced damage may instead stabilise into **animic scarring**.
 
 Soul-form injury does not necessarily imply psychological injury, though neurological and animic trauma often occur together because of their close interaction.
-
-**Animic Medicine** is the study of soul-form health, injury, resistance, and its role in medical practice.
-
-## Constraints
-
-Soul-forms do not provide an unrestricted means of bypassing the broader magic system.
-
-They cannot :
-
-- generate mana
-- perform attributed operations without Attuned mana
-- encode arbitrary spell logic through desire alone
-- preserve a complete mind after death
-- restore destroyed neural information
-- automatically heal complex tissue
-- grant sapience to an inadequate substrate
-- make a radically incompatible body easy to control
-- replace construct interfaces, mana sourcing, or Expenditure
-- perfectly reveal thoughts, memories, or identity
-
-Soul-forms are natural mana interfaces, defensive structures, signatures, and substrates for limited retained organisation. Their usefulness derives from these specific functions rather than from being immaterial persons or universal metaphysical essences.
-
-**Neurothaumaturgy** is the study of interactions between nervous activity and mana.
-
-**Animic Theory** is the study of soul-form formation, structure, variation, persistence, and decay.
 
 # Mana Constructs
 
@@ -718,8 +967,6 @@ True restoration of complex tissue remains one of the foremost unsolved goals of
 **Applied Attribute Dynamics** is the quantitative study of attributed operations within specific reagent classes and environmental conditions.
 
 **Threshold Dynamics** is the study of the concentrations, couplings, and material conditions required to initiate and sustain Expenditure.
-
-**Animic Medicine** is the study of soul-form health, injury, resistance, and its role in medical practice.
 
 # Spell Composition
 
@@ -1152,8 +1399,6 @@ Reservoirs greatly extend its usefulness. A container of pre-Attuned mana may fu
 
 **Unstructured Casting Theory** is the study of direct, construct-free Expenditure and its limits.
 
-**Threshold Dynamics** is the study of the concentrations, couplings, and material conditions required to initiate and sustain Expenditure.
-
 ## Wild Casting
 
 **Wild Casting**, also called **Instinctive Casting**, is the biological generation and execution of a spell assembly without conscious formulaic construction.
@@ -1378,7 +1623,7 @@ Magical instruments may be classified independently by their function, form, and
 | Instrument Function | Description                                                                                                                  |
 | ------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
 | **Implement**       | Hosts and executes a narrow spell or set of closely related spells                                                           |
-| **Reservoir**       | Stores and releases mana of accepted types for structured or Unstructured Casting                                             |
+| **Reservoir**       | Stores and releases mana of accepted types for structured or Unstructured Casting                                            |
 | **Attuner**         | Converts Primed mana into one or more specified attributes                                                                   |
 | **Catalyst**        | Improves the rate, efficiency, purity, or stability of a permutation or construct process without supplying its primary mana |
 | **Focus**           | Hosts reusable components or interfaces while leaving spell-specific decisions to a caster                                   |

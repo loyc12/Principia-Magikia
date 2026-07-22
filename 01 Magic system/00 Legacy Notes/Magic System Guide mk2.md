@@ -16,7 +16,7 @@ Collectively, Primed, Spent, and the various Attuned mana attributes are known a
 | **Attunement**\* | Primed => Attuned( attribute ) x ( 1 - Ratio ) + Spent x Ratio + Permutation Loss |
 | **Expenditure**  | Attuned( attribute ) => Spent + Operation( attribute )                            |
 | **Priming**\*\*  | Spent + Singularity => Primed                                                     |
-*\*Attunement releases residual physical energy and disordered mana-field disturbances, collectively termed **permutation loss**.*  
+*\*Attunement releases residual physical energy and disordered mana-field disturbances, collectively termed **permutation losses**.*
 
 *\*\*Priming occurs exclusively around the singularity, which is the light source at the centre of the expanse.*
 
