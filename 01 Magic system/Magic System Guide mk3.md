@@ -16,7 +16,7 @@ Collectively, Primed, Spent, and the various Attuned mana attributes are known a
 | **Attunement**\* | Primed => Attuned( attribute ) x ( 1 - Ratio ) + Spent x Ratio + Permutation Loss |
 | **Expenditure**  | Attuned( attribute ) => Spent + Operation( attribute )                            |
 | **Priming**\*\*  | Spent + Singularity => Primed                                                     |
-*\*Attunement releases residual physical energy and disordered mana-field disturbances, collectively termed **permutation loss**.*  
+*\*Attunement releases residual physical energy and disordered mana-field disturbances, collectively termed **permutation loss**.*
 
 *\*\*Priming occurs exclusively around the singularity, which is the light source at the centre of the expanse.*
 
@@ -47,9 +47,9 @@ This conversion also generates an amount of Spent mana, called **Waste mana** in
 
 Attunement can also be performed directly by a caster and is often one of the first exercises taught to novice magi. Doing so is rarely efficient in time, effort, or purity of results. As such, there exists a wide range of mana constructs dedicated to automating the attunement of Primed mana into specific attributes.
 
-Already Attuned mana can be expended directly without first undergoing attunement, making it substantially more efficient and immediately useful than an equivalent supply of Primed mana. This advantage is offset by the difficulty of obtaining, separating, storing, transporting, and replenishing particular attributes, whose natural distributions are highly heterogeneous.
+Already Attuned mana can be expended directly without first undergoing attunement, making it substantially more efficient and immediately useful than an equivalent supply of Primed mana. This advantage is offset by the difficulty of obtaining, separating, storing, transporting, and replenishing particular attributes, whose natural distributions are highly heterogeneous along the surface of the Expanse.
 
-Reservoirs of Attuned mana are therefore useful even when they contain no executable spell assembly. A caster may draw directly from such a reservoir for Unstructured Casting, or supply it to a structured construct while omitting its usual Attuning components.
+Reservoirs of Attuned mana are therefore useful even without any associated executable spell assembly. A caster may draw directly from such a reservoir for Unstructured Casting, or supply it to a structured construct while omitting its usual Attuning components.
 
 > *Reminder : Attunement refers to a permutation process, while an attribute refers to the differentiated potential produced by that process.*
 
