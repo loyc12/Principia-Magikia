@@ -2,13 +2,15 @@
 
 At their core, spells are **operationally unified systems** of one or more [[05 Mana Constructs|mana constructs]], connected through declared interfaces and directed towards a shared process, effect, or termination condition. They are the defining products of [[08 Mana Casting|Structured Casting]] and are distinct from the isolated attributed operations produced through Unstructured Casting.
 
-A collection of nearby or interacting constructs does not necessarily constitute a single spell. Constructs form one spell when their activation, reagent bindings, execution dependencies, supervisory structure, or termination behaviour establish them as parts of one coherent operation.
+A collection of nearby or interacting constructs does not necessarily constitute a single spell by themselves. Constructs form one spell when their activation, reagent bindings, execution dependencies, supervisory structure, or termination behaviour establish them as parts of one coherent operation. This is of course a somewhat blurry line, and as such, the terms spell and spell-combination sometimes overlap in their use.
 
 While it is technically possible to accomplish any valid spell effect with a single sufficiently complex mana construct, such constructs rapidly become unwieldy and unstable. It is therefore preferable to **compose spells** by interconnecting more self-contained constructs, each with a dedicated purpose or task.
 
-There are many ways to represent spells, but all rely upon **glyph systems**, abstract representations of construct components, scaffolds, interfaces, parameters, and other magical elements.
+Wholly disjoint spells targeting the same reagent often interfere with each other's attributed operations onto said reagent, hence the need to compose spells, so as to make each mana construct aware of each other's action where necessary.
 
-The only requirements of a valid glyph system are that its glyphs be reproducible, distinguishable from one another, and composable into **spell formulas**. Glyph systems need not be visual, as they may be expressed through symbols, text, speech, music, gesture, spatial arrangements, or other reproducible patterns.
+There are many ways to represent spells, but all rely upon **glyph systems**, which are abstract representations of construct components, scaffolds, interfaces, parameters, and other mana based elements.
+
+The only requirements of a valid glyph system are that its glyphs be reproducible, distinguishable from one another, and composable into **spell formulas**. Glyph systems need not be visual, as they may be expressed through symbols, text, speech, music, gesture, spatial arrangements, or other reproducible patterns, but visual systems are most common across magical traditions.
 
 Colloquially, the term _spell_ may refer to 5 distinct but interconnected concepts :
 
@@ -19,14 +21,6 @@ Colloquially, the term _spell_ may refer to 5 distinct but interconnected concep
 | **Spell Assembly**  | The concrete network of mana constructs instantiated from a template              |
 | **Spell Execution** | A particular activation and runtime instance of a spell assembly                  |
 | **Spell Results**   | The attributed operations of an execution and their natural consequences          |
-
-| Term      | Computing Analogy              |
-| --------- | ------------------------------ |
-| Formula   | Source representation          |
-| Template  | Abstract program or design     |
-| Assembly  | Instantiated runtime structure |
-| Execution | Running process                |
-| Results   | Output and side effects        |
 
 **Spell Architecture** is the study of composing constructs into operationally unified assemblies through interfaces, shared reagents, dependencies, and supervisory structures.
 
@@ -270,3 +264,14 @@ Practical traditions also classify spells in **schools** by their intended resul
 **Thaumaturgic Taxonomy** is the study of spell classification according to duration, control behaviour, architecture, reagent relationship, hosting substrate, and practical use.
 
 **Comparative Spellcraft** is the study of equivalent or competing spell designs across different attributes, architectures, traditions, and applications.
+
+
+## META
+
+| Term      | Computing Analogy              |
+| --------- | ------------------------------ |
+| Formula   | Source representation          |
+| Template  | Abstract program or design     |
+| Assembly  | Instantiated runtime structure |
+| Execution | Running process                |
+| Results   | Output and side effects        |

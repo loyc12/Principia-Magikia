@@ -111,7 +111,7 @@ Animic signatures may be used for :
 - establishing persistent Resonant links
 - configuring wards
 - distinguishing an organism from an imitation
-- linking derived soul-forms to their source
+- coupling derived soul-forms to their source
 - diagnosing injury or deformation of the soul-form
 
 Signatures change gradually over time but normally retain enough continuity for long-term recognition once fully matured.

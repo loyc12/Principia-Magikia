@@ -7,22 +7,16 @@ Attuned mana may also be expended without a mana construct through **Unstructure
 There are **5 essential phases** to creating and triggering a functioning mana construct :
 
 - **Construction** - **create** a stable **construct scaffold** out of Primed mana
-- **Declaration** - **imbue** the construct with the desired **conditions** and **parameters**
-- **Activation** - **seal** the construct and **enable** its future execution
+- **Declaration** - **imbue** the construct with the desired **conditions** and **parameters** components
+- **Activation** - **seal** the construct and **enable** its later execution
 - **Execution** - **enact** the construct's function according to its declaration
-- **Termination** - gracefully **dissipate or deactivate** the construct without perturbing surrounding constructs
+- **Termination** - gracefully **dissipate or deactivate** the construct
 
 These phases may overlap, as with construction and declaration or execution and termination, but they are invariably present even when not readily visible.
 
-| Magic Phase  | Computing Analogy                     |
-| ------------ | ------------------------------------- |
-| Construction | Allocate hardware/runtime environment |
-| Declaration  | Define program and parameters         |
-| Activation   | Compile, validate, seal, and arm       |
-| Execution    | Run and supervise                     |
-| Termination  | Deallocate, flush, and fail safely    |
 
 **Construct Theory** is the general study of executable mana structures, their lifecycle, internal organisation, and capacity to constrain attributed operations.
+
 
 Below is a more detailed breakdown of each phase :
 
@@ -32,97 +26,94 @@ A mana construct must be contained within an insulating shell known as a **const
 
 Similar shapes sometimes occur naturally in locations with high densities of Primed mana, but these occurrences generally lack the size, organisation, or internal structure required of proper construct scaffolds.
 
-Primed mana incorporated into a scaffold is **geometrically constrained** and cannot readily undergo attunement. It retains its potential but is functionally isolated from ordinary flow. Scaffold damage releases this Primed mana, often causing uncontrolled local attunement or repulsive discharge.
+Primed mana incorporated into a scaffold is **geometrically constrained** and cannot readily undergo attunement. It retains its potential but is functionally isolated from ordinary flow. Scaffold damage releases this Primed mana, often causing uncontrolled local attunement or repulsive discharge of free flowing Primed mana.
 
-Scaffolds are generally built as intricate patterns of lines connected at their ends. The simplest stable scaffolds correspond to the edges of the 5 Platonic solids, while larger or more capable constructs require increasingly elaborate geometries, often in the form of **fractal constructs**.
+Scaffolds are typically built as intricate patterns of lines connected at their ends. The simplest stable scaffolds correspond to the 5 Platonic solids, while larger or more capable constructs require increasingly elaborate geometries, often in the form of **fractal constructs**.
 
 Scaffold topology is not merely representational. It constrains component capacity, structural stability, internal isolation, mana flow, concurrency, and fault containment. Its geometry therefore determines such properties as containment efficiency, the number of independent flow channels, maximum component density, feedback-loop stability, susceptibility to interference, dimensional embedding, and termination behaviour.
 
 Within common scaffold models :
-{ NOTE : VALIDATE }
+**{ NOTE : VALIDATE* }**
 
-- **vertices** serve as component junctions
-- **edges** serve as mana and signal channels
-- **faces** form isolation boundaries
-- **enclosed volumes** provide buffering capacity
-- **symmetry** distributes pressure and reduces drift
+- **vertices** serve as component junctions*
+- **edges** serve as mana and signal channels*
+- **faces** form isolation boundaries*
+- **enclosed volumes** provide buffering capacity*
+- **symmetry** distributes execution pressure and reduces structural drift
 - **asymmetry** permits directional processing at the cost of stability
 
 
 **Scaffold Engineering** is the study of scaffold topology, geometric stability, component capacity, isolation, flow channels, dimensional embedding, and methods of shaping Primed mana into functional structures.
 
-**Construct Materials Science** is the study of physical materials used to attract, repel, channel, stabilise, shield, or host mana constructs.
+**Construct Materiology** is the study of physical materials used to attract, repel, channel, stabilise, shield, or host mana constructs.
 
 ### Declaration
 
-An empty construct scaffold cannot enact a controlled magical effect. If improperly disassembled, it may do little more than release its Primed mana and disrupt nearby constructs. It must therefore be **imbued** with **construct components**, which embed specific functions into the scaffold and collectively define its behaviour during execution.
+An empty construct scaffold cannot enact a controlled magical effect by itself. At best, it can sequester Primed mana into its structure, as well as various mana types inside its inner volume, and may do little more than release both when disassembled, disrupting local mana flow and nearby constructs stability.
 
-This imbuing process is known as **component declaration**. The declaration specifies which mana attributes may be expended operationally, which reagents may be selected, how inputs are processed, and under what conditions the construct may activate, regulate itself, or terminate.
+To have any meaningful ability, a construct scaffold must be be **imbued** with **construct components**, which embed specific functions into the scaffold and collectively define its behaviour during execution.
+
+This imbuing process is known as **component declaration**. The declaration specifies which mana attributes may be expended operationally, which reagents may be selected, how inputs are gathered and processed, and under what conditions the construct may activate, regulate itself, or terminate.
 
 A component's semantic role does not inherently require the correspondingly named mana attribute. A Timing component can measure ordinary elapsed time without Temporal mana, a Selection component can distinguish iron from wood without Ontic mana, and a Processing component can compare values without Mnemonic mana. Specialised attributes are required only when a component must exceed ordinary construct capabilities.
 
 Mana used by a declared construct may therefore fulfil three broad roles :
 
-- **Operational attributes** are expended to alter a reagent
-- **Constructive mana** is constrained within the scaffold or its components to encode and stabilise declared behaviour
-- **Auxiliary attributes** are expended by specialised components, such as Resonant mana used for remote or persistent sensing
+- **Constructive Primed mana** is constrained within the scaffold or its components to encode and stabilise declared behaviour, as well as shield the construct from unwanted interference
+- **Operational Attuned mana** is expended to alter a reagent via directed application of its operational attribute, such as how kinetic mana is used to impart velocity or thermal changes
+- **Auxiliary Attuned mana** is expended by specialised components to regulate internal behaviour, such as how Resonant mana is used for remote or persistent sensing
 
-Components may occur any number of times within a construct and are connected to one another and to the outside world according to both their internal interfaces and the scaffold's topology.
+Components may occur any number of times within a construct and are connected to one another or to the outside world according to both their internal interfaces and the scaffold's topology itself.
 
 Commonly used components are described as **component archetypes**, which can be used to instantiate more specific **component variants**. This allows magi to reuse established designs rather than manually defining each component in every new construct.
 
-Below is a list of the most commonly used component archetypes and their functions :
+In a similar fashion, **construct archetypes** are groupings of **component archetypes** coupled to a singular and fitting **scaffold archetype**, an can thus be used to accelerate spellcasting further.
 
-| Archetype       | Function                                                     |
-| --------------- | ------------------------------------------------------------ |
-| **Sourcing**    | Defines accepted mana sources and types                      |
-| **Attuning**    | Defines the required attunement process, if any              |
-| **Selection**   | Identifies eligible reagents                                 |
-| **Bounding**    | Defines the affected region or quantity                      |
-| **Anchoring**   | Determines what the construct follows or remains attached to |
-| **Directing**   | Defines vectors, orientation, and propagation                |
-| **Regulating**  | Defines magnitude and rate of operation                      |
-| **Timing**      | Defines duration, delay, rhythm, or termination timing       |
-| **Funnelling**  | Guides mana and signals within the construct                 |
-| **Sensing**\*   | Inspects reagent or environmental properties                 |
-| **Processing**  | Converts inspected properties into component behaviour       |
-| **Warding**     | Detects, absorbs, or corrects disruptions                    |
-| **Dissipating** | Handles excess mana and permutation loss                     |
-| **Linking**     | Establishes declared interfaces between constructs           |
+Below is a list of the most commonly used component archetypes families and their function :
+
+| Archetype Family | Dedicated Function                                                                 |
+| ---------------- | ---------------------------------------------------------------------------------- |
+| **Sourcing**     | Defines accepted mana sources and types                                            |
+| **Attuning**     | Defines the required attunement process, if any                                    |
+| **Selection**    | Defines and validate eligible target reagents                                      |
+| **Bounding**     | Defines the affected region or quantity inside the selected reagent                |
+| **Anchoring**    | Determines what the construct follows or remains attached to                       |
+| **Directing**    | Defines vectors, orientation, and propagation                                      |
+| **Regulating**   | Defines magnitude and rate of operation                                            |
+| **Timing**       | Defines duration, delay, rhythm, or termination timing                             |
+| **Funnelling**   | Guides mana and mana signals within the construct                                  |
+| **Sensing**\*    | Inspects reagent or environmental properties                                       |
+| **Processing**   | Converts inspected properties and internal state into specific component behaviour |
+| **Warding**      | Detects, absorbs, or corrects internal flow disruptions                            |
+| **Dissipating**  | Handles excess mana and permutation loss in a graceful manner                      |
+| **Coupling**     | Establishes declared interfaces with another coupled constructs                    |
+| **Operating**    | Expend attuned mana onto the predefined reagent's bounded region                   |
 *\*A Sensing component may directly inspect properties of a reagent that relate to the construct's available mana attributes. Resonant mana is required for unrelated, indirect, remote, relational, or persistent inspection.*
 
-### Anchoring and Resonant Anchoring
+Components may exchange mana, values, references, and control signals through declared **interfaces**. Interfaces limit what may pass between components and constructs, preventing Coupling components from acting as unrestricted channels, which might destabilise the entire construct trough unregulated mana flow. A component may expose one or more of the following interface categories :
 
-An **Anchoring** component establishes what a construct follows, remains attached to, or treats as its reference. Ordinary anchoring may bind a construct to a physical host, location, moving object, or declared reagent.
-
-**Resonant anchoring** is an Anchoring arrangement that uses Resonant mana to maintain an inspectable relationship between a mana system and a declared reference, such as a vessel, location, host body, distributed construct, or previously measured mana state. It allows the arrangement to detect displacement or divergence from that reference and pass the result to appropriate sensing, processing, or regulation components.
-
-Resonant anchoring is not passive preservation. By itself, it neither stops Detuning nor supplies a lost structure or mana potential. It becomes useful only when containment, maintenance, or active regulation can act upon the divergence it reveals. The same technique can therefore support stable reservoirs, persistent spells, distributed assemblies, and preservation arrangements without granting any of them free permanence.
-
-Components exchange mana, values, references, and control signals through declared **interfaces**. Interfaces limit what may pass between components and constructs, preventing Linking components from acting as unrestricted channels. A component may expose one or more of the following interface categories :
-
-{ NOTE : VALIDATE }
-
-| Interface     | Carries                                                                    |
-| ------------- | -------------------------------------------------------------------------- |
-| **Flow**      | Mana of specified types and within specified throughput limits             |
-| **Control**   | Activation, gating, synchronisation, and termination signals               |
-| **Parameter** | Magnitudes, vectors, durations, rates, and other declared values           |
-| **Reference** | Reagent, component, construct, or location references                      |
-| **State**     | Sensed, processed, or retained information                                 |
-| **Fault**     | Error conditions, warnings, and emergency termination signals             |
+| Interface     | Carries                                                          |
+| ------------- | ---------------------------------------------------------------- |
+| **Flow**      | Mana of specified types and within specified throughput limits   |
+| **Control**   | Activation, gating, synchronisation, and termination signals     |
+| **Parameter** | Magnitudes, vectors, durations, rates, and other declared values |
+| **Reference** | Reagent, component, construct, or location references            |
+| **State**     | Sensed, processed, or retained information                       |
+| **Fault**     | Error conditions, warnings, and emergency termination signals    |
 
 Interfaces may be directional or bidirectional and may be local, linked, or Resonantly extended. A connection is valid only when its categories, mana types, parameter dimensions, reference domains, and throughput tolerances are mutually compatible.
 
-Information within and between constructs are carried and stored through **Primed mana packets**, which can travel along **Primed mana strands**. This information may take several forms :
+Information within and between constructs are carried and stored through **Primed mana packets**, which can travel along **Primed mana strands**, a structure similar in nature to construct scaffold, but **unable to be imbued** due to its string-like nature. This information is referred to as **component variables**, and is classified under overlapping types forms :
 
-- **constants**, fixed during declaration
-- **inputs**, supplied during activation or execution
-- **observations**, acquired by Sensing components
-- **state**, retained between execution cycles
-- **outputs**, transmitted to other components or constructs
-
-Ordinary parameter values may be encoded through component configuration and scaffold geometry. Persistent or complex state generally requires a stable scaffold arrangement, a linked physical medium, or Mnemonic mana.
+| Variable Type | Description                                                     |
+| ------------- | --------------------------------------------------------------- |
+| **Static**    | fixed during declaration                                        |
+| **Mutable**   | modifiable during execution                                     |
+| **Ephemeral** | reverted to its original state between  execution cycles        |
+| **Retained**  | retained between execution cycles                               |
+| **Queried**   | acquired through a Sensing components                           |
+| **Inputed**   | externally supplied during activation or execution              |
+| **Outputed**  | transmitted to other components during execution or termination |
 
 
 **Component Engineering** is the study of construct-component archetypes, variants, interfaces, combinations, and reusable component designs.
@@ -133,7 +124,7 @@ Ordinary parameter values may be encoded through component configuration and sca
 
 ### Activation
 
-A properly built construct remains inert until it is **sealed**. Sealing fixes its declared components and interfaces, isolates its scaffold, and enables later execution. Modifying a sealed or active construct is possible only with great difficulty and risk, which makes sealing an important safeguard against accidental or hostile alteration.
+A properly built construct remains inert until it is **sealed**. Sealing fixes its declared components and interfaces, isolates its scaffold, and enables later execution. Modifying a sealed or active construct is possible, but only with great difficulty and risk, which makes sealing an important safeguard against accidental or hostile alteration of constructs.
 
 Once sealed, the construct may be triggered by funnelling mana into it, supplying an activation signal, satisfying a declared condition, or receiving a command through a linked interface.
 
@@ -147,11 +138,11 @@ Persistent constructs may require periodic maintenance or replenishment to compe
 
 **Activation Theory** is the study of sealing, arming, triggering, dormant states, and the transition between inert and executable constructs.
 
-**Construct Security** is the study of preventing unauthorised activation, alteration, substitution, interference, or hostile access to sealed constructs.
+**Construct Warding** is the study of preventing unauthorised activation, alteration, substitution, interference, or hostile access to sealed constructs.
 
 ### Execution
 
-Execution is the **runtime behaviour** of an activated mana construct. A construct does not normally execute as one strictly linear sequence. Instead, its components form a reactive network of dependencies, flows, and conditions whose branches may operate once, repeatedly, continuously, concurrently, or only in response to faults.
+Execution is the **runtime behaviour** of an activated mana construct. Non trivial constructs do not normally execute as one strictly linear sequence. Instead, its various components form a reactive network of dependencies, flows, and conditions whose branches may operate once, repeatedly, continuously, concurrently, or only in response to faults.
 
 Once execution begins :
 
@@ -160,7 +151,7 @@ Once execution begins :
 - Sensing components update observations;
 - Processing components derive state or control values;
 - Regulating components alter throughput and output;
-- operational components expend Attuned mana upon the selected reagent;
+- Operating components expend Attuned mana upon the selected reagent;
 - termination conditions deactivate or dismantle the system.
 
 The execution cycle can nevertheless be described through three broad stages :
@@ -198,7 +189,7 @@ Constructs may also be either :
 - **stateless**, responding only to current inputs and conditions
 - **stateful**, retaining prior observations, values, or activation history between cycles
 
-Successful validation does not guarantee successful execution. Runtime conditions may change, reagents may leave their bounds, mana supplies may destabilise, feedback may diverge, or linked constructs may become unavailable. Such conditions must be routed into declared **Fault interfaces** and handled through **termination behaviour.**
+Successful validation does not guarantee successful execution. Runtime conditions may change, reagent bounds, may be invalidated, mana supplies may destabilise, feedback may diverge, or coupled constructs may become unreachable. Such conditions must be routed into declared **Fault interfaces** and handled through **termination behaviour.**
 
 
 **Execution Theory** is the study of runtime mana flow, component dependency, concurrency, feedback, state, and recurrent operation within active constructs.
@@ -207,28 +198,38 @@ Successful validation does not guarantee successful execution. Runtime condition
 
 ### Termination
 
-A properly designed construct must account for all plausible **termination cases**, meaning the different ways execution may end either purposefully or accidentally. Failure to do so can collapse the scaffold, release contained mana, and propagate damage into surrounding constructs.
+A properly designed construct must account for all plausible **termination cases**, which are the different ways execution may end, either purposefully or accidentally. Failure to do so result in scaffold collapse, uncontrolled mana release, and subsequent propagation of damage into surrounding constructs.
 
-Proper termination is known as **graceful termination**, while improper termination is known as **erroneous termination**. Avoiding erroneous termination is one of the foremost concerns of spell design, as a malformed or uncontrolled spell may cause catastrophic damage, including loss of life.
+Proper termination is known as **graceful termination**, while improper termination is known as **erroneous termination**. Avoiding erroneous termination is one of the foremost concerns of construct design, as a malformed or uncontrolled constructs may cause catastrophic damage, including permanent injuries and loss of life.
 
 Below is a list of frequent construct failure types that termination behaviour may need to handle :
 
-| Failure Type             | Description                                                     |
-| ------------------------ | --------------------------------------------------------------- |
-| **Source starvation**    | Insufficient or interrupted mana supply                         |
-| **Attribute mismatch**   | Supplied mana does not match component requirements             |
-| **Interface mismatch**   | Connected inputs and outputs are mutually incompatible          |
-| **Selection failure**    | A reagent cannot be resolved                                    |
-| **Boundary leak**        | An operation escapes its declared region                        |
-| **Regulation failure**   | Output exceeds declared or safe values                          |
-| **Feedback oscillation** | Corrective loops repeatedly overcompensate                      |
-| **Scaffold fracture**    | Construct topology loses containment                            |
-| **Component deadlock**   | Components wait indefinitely upon one another                   |
-| **Runaway execution**    | A termination condition becomes unreachable                     |
-| **Dissipation overflow** | Waste or excess mana cannot be safely discharged                |
-| **Link cascade**         | Failure propagates through linked constructs                    |
+| Failure Type             | Description                                                       |
+| ------------------------ | ----------------------------------------------------------------- |
+| **Source starvation**    | Insufficient or interrupted mana supply                           |
+| **Attribute mismatch**   | Supplied mana does not match component requirements               |
+| **Interface mismatch**   | Connected inputs and outputs are mutually incompatible            |
+| **Selection failure**    | A reagent cannot be resolved                                      |
+| **Boundary leak**        | An operation escapes its declared region                          |
+| **Regulation failure**   | Output exceeds declared or safe values                            |
+| **Feedback oscillation** | Corrective loops repeatedly overcompensate                        |
+| **Scaffold fracture**    | Construct topology loses containment                              |
+| **Component deadlock**   | Components wait indefinitely upon one another                     |
+| **Runaway execution**    | A termination condition becomes unreachable                       |
+| **Dissipation overflow** | Waste or excess mana cannot be safely discharged                  |
+| **Coupled cascade**      | Failure propagates through coupled constructs                     |
 | **Semantic mismatch**    | A valid declaration does not perform the designer's intended task |
 
 **Termination Theory** is the study of construct deactivation, scaffold dissipation, dormant return, fault containment, and safe disposal of excess mana.
 
 **Thaumaturgic Safety Engineering** is the applied study of failure prevention, redundancy, emergency shutdown, fault isolation, and mitigation of magical accidents.
+
+## META
+
+| Magic Phase  | Computing Analogy                     |
+| ------------ | ------------------------------------- |
+| Construction | Allocate hardware/runtime environment |
+| Declaration  | Define program and parameters         |
+| Activation   | Compile, validate, and arm            |
+| Execution    | Run and supervise                     |
+| Termination  | Deallocate, flush, and fail safely    |

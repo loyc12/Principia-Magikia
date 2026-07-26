@@ -43,7 +43,7 @@ The three mana states are not interchangeable stores of the same immediately usa
 | **Attuned** | Performs the primitive operation associated with its attribute when properly expended | Attribute-specific; less generally reactive than Primed mana but still subject to flow, affinity, and local concentration | Kept separated by attribute, stored in reservoirs, and supplied to a construct or direct operation |
 | **Spent** | Residual product of Expenditure and Attunement | Nearly inert and drawn upward towards eventual Priming | Dissipated, removed from active systems, or allowed to re-enter the natural Priming cycle |
 
-Primed mana is flexible because it has not yet been committed to one attribute, but this flexibility is not immediate magical power. It cannot by itself heat, move, bind, illuminate, or otherwise perform an attributed operation. Attuned mana is correspondingly less flexible but more immediately useful: it can be expended directly, provided its concentration and coupling exceed the relevant [[06 Reagent Operations|reagent's]] expenditure threshold.
+Primed mana is flexible because it has not yet been committed to one attribute, but this flexibility is not immediate magical power. It cannot by itself heat, move, bind, illuminate, or otherwise perform an attributed operation. Attuned mana is correspondingly less flexible but more immediately useful: it can be expended directly, provided its concentration and coupling exceed the relevant [[06 Spell Reagents|reagent's]] expenditure threshold.
 
 ### Primed Mana as a Constructive Medium
 
@@ -134,7 +134,7 @@ Below are summary tables pertaining to the 11 known attuned **attributes** :
 | **Galvanic**   | Lightning, Magnetism                        | Change electric charges, currents, and quasi-static electromagnetic fields.                                                        |
 | **Volumic**    | Pressure, Density, Compression, Expansion   | Modify the metric volume occupied by a bounded material system without directly changing its topology, mass, or internal momentum. |
 | **Massic**     | Mass, Weight, Gravity                       | Modify an object's inertial and gravitational mass.                                                                                |
-| **Cohesive**   | Structure, Cohesion, Binding                 | Change which portions of matter are mechanically continuous without directly specifying their chemical composition.                |
+| **Cohesive**   | Structure, Cohesion, Binding                | Change which portions of matter are mechanically continuous without directly specifying their chemical composition.                |
 | **Resonant**   | Linking, Observation, Divination            | Change the degree to which state changes in one system are detectable by, transmitted to, or correlated with another.              |
 | **Mnemonic**   | Memory, Recording, Engraving, Scrying, Mind | Encode information into, and decode information from, the physical medium in which it is stored.                                   |
 | **Temporal**\* | Acceleration, Preservation, Stasis          | Modify the local rate at which time progresses.                                                                                    |

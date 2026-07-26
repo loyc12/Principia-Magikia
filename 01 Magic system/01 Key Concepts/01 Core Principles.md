@@ -1,6 +1,6 @@
 # Principles of Magic
 
-The following principles describe the broad constraints under which all known magical phenomena operate. They are not a complete mechanical account; detailed behaviour belongs to the topical references, especially [[02 Mana Dynamics|Mana Physics]], [[06 Reagent Operations|Reagent Operations]], and [[05 Mana Constructs|Mana Constructs]].
+The following principles describe the broad constraints under which all known magical phenomena operate. They are not a complete mechanical account; detailed behaviour belongs to the topical references, especially [[02 Mana Dynamics|Mana Physics]], [[06 Spell Reagents|Reagent Operations]], and [[05 Mana Constructs|Mana Constructs]].
 
 ### Principle I - Conservation of Mana
 

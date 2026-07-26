@@ -2,7 +2,7 @@
 
 { NOTE : VALIDATE }
 
-**Mana casting** is the deliberate manipulation of mana: moving, gathering, constraining, attuning, supplying, or expending it. It is the broad term for an operator's active use of mana, whether or not that use produces an immediate attributed operation upon a [[06 Reagent Operations|reagent]].
+**Mana casting** is the deliberate manipulation of mana: moving, gathering, constraining, attuning, supplying, or expending it. It is the broad term for an operator's active use of mana, whether or not that use produces an immediate attributed operation upon a [[06 Spell Reagents|reagent]].
 
 ## Casting and Shaping Terminology
 
