@@ -16,7 +16,7 @@ Colloquially, the term _spell_ may refer to 5 distinct but interconnected concep
 
 | Term                | Definition                                                                        |
 | ------------------- | --------------------------------------------------------------------------------- |
-| **Spell Formula**   | A specification of a spell encoded in a particular glyph system                  |
+| **Spell Formula**   | A specification of a spell encoded in a particular glyph system                   |
 | **Spell Template**  | The notation-independent logical design represented by one or more formulas       |
 | **Spell Assembly**  | The concrete network of mana constructs instantiated from a template              |
 | **Spell Execution** | A particular activation and runtime instance of a spell assembly                  |
