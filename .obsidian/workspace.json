@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Magic system/01 Key Concepts/07 Spell Composition.md",
+                "file": "01 Magic system/01 Key Concepts/08 Mana Casting.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "07 Spell Composition"
+              "title": "08 Mana Casting"
             }
           }
         ]
@@ -196,14 +196,15 @@
   },
   "active": "fc1b34483ab172a3",
   "lastOpenFiles": [
-    "01 Magic system/01 Key Concepts/06 Spell Reagents.md",
+    "01 Magic system/01 Key Concepts/09 Casting Practices.md",
+    "01 Magic system/01 Key Concepts/08 Mana Casting.md",
     "01 Magic system/01 Key Concepts/07 Spell Composition.md",
     "01 Magic system/01 Key Concepts/05 Mana Constructs.md",
+    "01 Magic system/01 Key Concepts/06 Spell Reagents.md",
     "01 Magic system/01 Key Concepts/03 Soul-Forms.md",
     "01 Magic system/01 Key Concepts/02 Mana Dynamics.md",
     "01 Magic system/General Ideas.md",
     "01 Magic system/01 Key Concepts/04 Somaturgy.md",
-    "01 Magic system/01 Key Concepts/08 Mana Casting.md",
     "01 Magic system/01 Key Concepts/01 Core Principles.md",
     "02 World/Cosmology/The Expanse.md",
     "02 World/Cosmology/The Singularity.md",
@@ -222,7 +223,6 @@
     "01 Magic system/Magic System Guide mk3.md",
     "01 Magic system/00 Legacy Notes/Magic System Guide mk3.md",
     "AGENT.md",
-    "01 Magic system/00 Legacy Notes/01 Mana Flow.md",
     "01 Magic system/01 Key Concepts",
     "01 Magic system/01 Fundamentals",
     "01 Magic system/02 Additional Disciplines",
