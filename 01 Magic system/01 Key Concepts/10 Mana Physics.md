@@ -71,11 +71,9 @@ The first group of terms is conversion into the target attribute. The final two 
 
 This equation is a model rather than a universal law with fixed constants. A material may assist multiple attributes, an attribute may have several distinct stabilising conditions, and specific environments can alter any of the listed values.
 
-## Material and Condition Effects
+## Material and Condition Parameters
 
-A **selective attunement medium** increases `M_a`, `m_a`, or both for one or more attributes. It retains matching background fluctuations long enough for a seed to form; it does not directly select an attribute from otherwise inert Primed mana. A material that also attracts Primed mana increases local feedstock, but still requires a matching fluctuation or seed to determine the resulting attribute.
-
-A **decaying medium** increases `d_a` for one or more attributes. It may destabilise the attribute's local pattern, prevent its retention, or favour competing mana conditions. This makes it useful for purification, containment, and the deliberate suppression of an unwanted attribute, but it also increases waste and permutation loss.
+The classifications, mechanisms, and individual profiles of material interaction are defined in [[13 Material Affinities|Material Affinities]]. In this model, the documented seed-supporting or selective properties of a material are represented by `M_a` and `m_a`; a documented decaying effect is represented by `d_a`.
 
 Containment geometry, flow, pressure, temperature, nearby mana composition, and active regulation may behave like material conditions in this model. Their effects are represented by changes to the same constants rather than by additional mana states.
 

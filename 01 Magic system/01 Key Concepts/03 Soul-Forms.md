@@ -20,7 +20,7 @@ The relationship is asymmetrical. Nervous activity shapes mana relatively quickl
 Formation proceeds through cumulative interaction :
 
 1. neural activity produces complex and recurrent electrical, chemical, and structural patterns
-2. mana-interactive tissues weakly attract, repel, and redirect nearby mana
+2. material conditions in and around the nervous system influence nearby mana interaction, as described in [[13 Material Affinities|Material Affinities]]
 3. repeated activity causes mana to settle into partially stable configurations around neural pathways
 4. those configurations become self-reinforcing through their continued interaction with the nervous system
 5. the resulting structure gradually extends through the organism and develops a stable individual signature
@@ -216,7 +216,7 @@ The threshold behaviour of living reagents, practical attack limitations, and th
 
 Soul-forms are not restricted absolutely to biological nervous systems.
 
-Any system capable of producing sufficiently precise, complex, recurrent, integrated, and persistent patterns of thaumaturgic, galvanic, or chemical activity may potentially attract and organise mana into a soul-like structure.
+Any system capable of producing sufficiently precise, complex, recurrent, integrated, and persistent patterns of thaumaturgic, galvanic, or chemical activity may provide the conditions for mana to organise into a soul-like structure.
 
 Such **neurological analogues** may include :
 
@@ -239,7 +239,7 @@ The likelihood and complexity of formation  depend upon :
 - integration between sensing and response
 - internal differentiation
 - a stable distinction between system and environment
-- mana-attracting materials
+- a documented compatible material profile
 - continued activity
 
 For example, a large and complex ward system surrounding a house may gradually develop a faint soul-form reflecting its boundaries, recurring signals, inhabitants, and maintenance history.
@@ -333,7 +333,7 @@ Preservation may involve :
 - dense Primed-mana containment
 - Signetic reinforcement
 - simulated recurrent activity
-- mana-attracting vessels
+- vessels with a documented compatible material profile
 - preserved neural tissue
 - rapid attachment to another active substrate
 
@@ -450,7 +450,7 @@ A viable artificial substrate likely requires :
 - persistent activity
 - adaptive or plastic relationships
 - differentiation between internal and external state
-- mana-attracting materials or components
+- materials or components with documented compatible profiles
 - a stable body or system boundary
 
 Simple feed-forward constructs and fixed spell routines generally fail to produce meaningful soul-forms. They may accumulate mana or develop stable signatures, but lack the recurrent integrated activity required for a developed animic structure.

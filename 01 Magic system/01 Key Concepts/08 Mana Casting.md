@@ -14,7 +14,7 @@ Therefore, all mana shaping and spell casting are mana casting. Mana shaping is 
 
 Mana casting achieves magical effects through two broad paths :
 
-- **Unstructured Casting** directly condenses already Attuned mana against a nearby reagent until its matter-specific expenditure threshold is exceeded
+- **Unstructured Casting** directly condenses already Attuned mana against a nearby reagent until its reagent-specific expenditure threshold is exceeded
 - **Spell Casting** creates, modifies, instantiates, activates, supervises, or uses a spell assembly to select, constrain, coordinate, and regulate Expenditure
 
 These paths describe the casting mechanism. **Wild Casting** describes a different dimension: an evolved or innate anatomical system supplies the control routine rather than learned practice or conscious construction. It may therefore take either mechanical path.
@@ -115,7 +115,7 @@ These archetypes are neither exhaustive nor mutually exclusive. A structured cas
 
 **Unstructured Casting** is the direct Expenditure of already Attuned mana without the use of a declared mana construct.
 
-The caster uses their soul-form to gather and condense a specific mana attribute against a nearby reagent until its matter-specific expenditure threshold is exceeded. Once triggered, the Attuned mana performs its primitive operation according to its attribute and the local relationship between mana and reagent.
+The caster uses their soul-form to gather and condense a specific mana attribute against a nearby reagent until its reagent-specific expenditure threshold is exceeded. Once triggered, the Attuned mana performs its primitive operation according to its attribute and the local relationship between mana and reagent.
 
 Unstructured Casting does not permit the caster to declare a broad desired result. The operator can only exert coarse control over :
 
@@ -140,7 +140,7 @@ Typical Unstructured operations include :
 | **Cohesive** | Widen or remove an existing crack, weakly join compatible surfaces, or crudely separate brittle continuous matter                        |
 | **Resonant** | Establish a weak short-lived coupling between touching or strongly familiar systems                                                      |
 
-Signetic, Dimensional, and other rare or unstable attributes are not normally suitable for Unstructured Casting. Even where direct Expenditure is theoretically possible, practitioners seldom possess sufficient access, familiarity, or control to exceed the relevant threshold safely.
+Signetic and other rare or unstable attributes are not normally suitable for Unstructured Casting. Dimensional mana cannot be used unstructured: although it operates directly on space-time, that operation still requires declared selection, bounding, anchoring, and regulation. Practitioners seldom possess sufficient access, familiarity, or control to meet these requirements safely.
 
 Directional force is possible with Kinetic mana, but is significantly harder than heating, cooling, vibration, compression, or shattering. A shove can be produced by concentrating momentum transfer at one surface, but sustained telekinesis, controlled trajectories, levitation, and precise force distribution generally require structured Direction, Selection, Regulation, and feedback.
 

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Magic system/01 Key Concepts/12 Attribute Theory.md",
+                "file": "01 Magic system/01 Key Concepts/13 Material Affinities.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "12 Attribute Theory"
+              "title": "13 Material Affinities"
             }
           }
         ]
@@ -196,10 +196,11 @@
   },
   "active": "fc1b34483ab172a3",
   "lastOpenFiles": [
+    "01 Magic system/01 Key Concepts/12 Attribute Theory.md",
+    "01 Magic system/01 Key Concepts/13 Material Affinities.md",
     "01 Magic system/01 Key Concepts/08 Mana Casting.md",
     "01 Magic system/01 Key Concepts/10 Mana Physics.md",
     "01 Magic system/01 Key Concepts/09 Casting Practices.md",
-    "01 Magic system/01 Key Concepts/12 Attribute Theory.md",
     "01 Magic system/01 Key Concepts/02 Mana Dynamics.md",
     "01 Magic system/01 Key Concepts/01 Core Principles.md",
     "01 Magic system/01 Key Concepts/03 Soul-Forms.md",
@@ -222,7 +223,6 @@
     "00 Core/07 Questions.md",
     "00 Core/08 Contradictions.md",
     "00 Core/09 General Ideas.md",
-    "04 Narrative/General Ideas.md",
     "01 Magic system/01 Key Concepts",
     "01 Magic system/01 Fundamentals",
     "01 Magic system/02 Additional Disciplines",

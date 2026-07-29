@@ -41,7 +41,7 @@ Proto-animic systems occupy an uncertain middle ground. A longstanding custodian
 
 ## Body and Actuation
 
-The **body** is the physical structure upon which the golemic system is anchored. It may be stone, wood, metal, ceramics, bone, composite material, living tissue, or an architectural installation. Material choice affects structural strength, weight, movement, mana conductivity, scaffold stability, resistance to interference, ease of repair, and compatibility with attributed operations.
+The **body** is the physical structure upon which the golemic system is anchored. It may be stone, wood, metal, ceramics, bone, composite material, living tissue, or an architectural installation. Material choice affects structural strength, weight, movement, ease of repair, and the documented mana-material interaction profile described in [[13 Material Affinities|Material Affinities]].
 
 Common actuation methods include :
 

@@ -31,7 +31,7 @@ Mana types interact with themselves and one another through repellent forces, pu
 
 They are also affected by gravitational pull, with Spent mana being pulled upwards, where it eventually undergoes Priming, while the other states are pulled downwards at varying rates, pooling in low-lying areas of the surface.
 
-Different materials have distinct interactive properties with some or all mana types. Biological tissues, metals, crystals, and other materials may therefore attract, repel, channel, or retain mana to varying degrees.
+Material interactions with Primed, Spent, and Attuned mana are defined in [[13 Material Affinities|Material Affinities]].
 
 Of all mana types, Primed mana is the most reactive with itself, other mana types, and mana-interactive matter, while Spent mana is the least reactive, being nearly inert. The properties of Attuned mana generally lie between these two extremes and vary per attribute.
 
@@ -53,7 +53,7 @@ Primed mana is used to form the stable geometries of [[05 Mana Constructs|mana c
 
 Primed mana also carries information within constructs. Primed packets travel along constrained Primed strands as constants, inputs, control signals, references, retained state, and outputs. The packet or strand does not itself perform an attributed operation; it preserves and transmits the declared information by virtue of its configuration and route.
 
-The early formation of a [[03 Soul-Forms|soul-form]] likewise depends upon Primed mana. Recurrent nervous activity and mana-interactive tissues organise nearby Primed mana into partially stable configurations, which become self-reinforcing through continued interaction with the active substrate. A mature soul-form remains a dynamic mana structure rather than a fixed Primed scaffold, but Primed mana within and around it continues to reinforce animic resistance.
+The early formation of a [[03 Soul-Forms|soul-form]] likewise depends upon Primed mana. Recurrent nervous activity organises nearby Primed mana into partially stable configurations, while the relevant material conditions are defined in [[13 Material Affinities|Material Affinities]]. These configurations become self-reinforcing through continued interaction with the active substrate. A mature soul-form remains a dynamic mana structure rather than a fixed Primed scaffold, but Primed mana within and around it continues to reinforce animic resistance.
 
 
 **Flow Theory** is the study of mana movement under concentration gradients, repellent interactions, gravity, material affinity, and environmental conditions.
@@ -70,7 +70,7 @@ An isolated Attuned particle does not normally possess enough stability bias or 
 
 An **attunement seed** is a local concentration of one Attuned attribute that makes nearby fluctuations of that same attribute more likely to persist. Once a seed reaches its attribute-specific critical concentration, it can bias further nearby Primed mana towards that attribute quickly enough to maintain itself. This does not allow unlimited growth: Primed-mana supply, material capacity, repulsion, leakage, Waste mana, and competing attributes eventually limit the concentration or establish a local equilibrium.
 
-Mana-reactive materials and local conditions can create or support such seeds. A **selective attunement medium** preferentially attracts, retains, or stabilises one or more Attuned attributes. It does not command Primed mana to assume an attribute; instead, it captures the rare matching fluctuations that would otherwise vanish, allowing them to accumulate until self-stabilising concentration is reached. The same material may also attract Primed mana, but this alone does not determine the attribute produced. Materials that instead destabilise a specified attribute are discussed under [[#Attunement Decay|Detuning]].
+Material conditions can create or support seeds. The classifications, mechanisms, and individual profiles for selective attunement and destabilising media are defined in [[13 Material Affinities|Material Affinities]].
 
 Attunement can also be induced through direct mana casting. A caster uses the soul-form to gather Primed mana and restrain it around a seed of the desired attribute, bringing its local concentration to the critical point. A mana construct can perform the same task through its Attuning component, while adding declared sourcing, containment, regulation, separation, and waste handling. The mechanism is the same in both cases; the structured process is more stable, selective, and repeatable. Manual Attunement is often one of the first exercises taught to novice magi, but is rarely efficient in time, effort, or purity of results.
 
@@ -133,7 +133,7 @@ Contamination may result from leaky containment, conduit backflow, imperfect Att
 
 Detuning is ordinarily slow enough that it does not determine the outcome of a short casting. It does, however, make Attuned mana a perishable working resource. Poorly contained supplies may noticeably lose purity or usable capacity over days or weeks, while well-designed reservoirs can preserve a stable attribute supply for far longer.
 
-The rate of Detuning is measured as a half-life, and depends upon the attribute, local mana composition, material affinity, concentration, and containment. Dense reservoirs of one attribute, suitable retentive materials, and active regulation all slow the process. Turbulence, incompatible materials, Primed-mana saturation, leakage, and exposure to competing mana conditions accelerate it. Some mana-reactive materials are specifically **decaying media** for one or more attributes: they destabilise those attributes or prevent their local retention, accelerating their return towards Primed and Spent mana.
+The rate of Detuning is measured as a half-life, and depends upon the attribute, local mana composition, material interaction, concentration, and containment. Dense reservoirs and active regulation can slow the process, while turbulence, Primed-mana saturation, leakage, and exposure to competing mana conditions accelerate it. The classifications and profiles of materials that retain or destabilise attributes are defined in [[13 Material Affinities|Material Affinities]].
 
 The singularity's distant influence may bias Detuning without constituting Priming. Actual Priming remains exclusive to the singularity, while the wider field of the Expanse gradually favours the loss of unstable differentiation in poorly maintained Attuned mana.
 
@@ -169,7 +169,7 @@ The availability grade summarises the combined effects of background fluctuation
 
 Attuned mana used to power a spell and perform its attributed operation is converted into Spent mana through Expenditure.
 
-The operation boundaries, aspect ladders, and known selective or decaying media are collected in [[12 Attribute Theory|Attribute Theory]].
+Operation boundaries and aspect ladders are collected in [[12 Attribute Theory|Attribute Theory]]. Material interactions, including selective and decaying media, are collected in [[13 Material Affinities|Material Affinities]].
 
 
 **Attunement Theory** is the study of the processes by which Primed mana is converted into particular Attuned attributes, including their rates, efficiencies, waste ratios, and environmental dependencies.

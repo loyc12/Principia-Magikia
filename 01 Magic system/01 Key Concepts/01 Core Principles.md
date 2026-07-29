@@ -22,15 +22,15 @@ No construct can directly extract an attributed operation from Primed or Spent m
 
 Each mana attribute authorises only a bounded class of primitive operations upon reality.
 
-Attributes do not encode macroscopic intentions such as _burn_, _heal_, _protect_, or _destroy_. They instead permit operations upon momentum, photons, electric charge, volume, mass, material continuity, coupling, information, or other attributed domains.
+Attributes do not encode macroscopic intentions such as _burn_, _heal_, _protect_, or _destroy_. They instead permit operations upon momentum, photons, electric charge, material continuity, relational coupling, declared physical patterns, or bounded dimensional relations.
 
 All complex magical results must ultimately be reducible to one or more such primitive operations and their natural consequences.
 
 ### Principle IV - Reagent Specificity
 
-Every attributed operation must act upon an identified and bounded reagent.
+Every non-Dimensional attributed operation must act upon an identified and bounded reagent. Dimensional mana directly operates upon an identified and bounded region of space-time instead.
 
-A structured spell identifies its reagent through selection, bounding, anchoring, and reference resolution. Unstructured Casting identifies it through direct local coupling. Neither method can directly operate upon an undefined target or freely extend beyond its operative region; all other affected systems belong to the surrounding environment.
+A structured spell identifies its reagent through selection, bounding, anchoring, and reference resolution. Unstructured Casting identifies it through direct local coupling. A Dimensional spell declares an equivalent bounded space-time region. Neither method can directly operate upon an undefined target or freely extend beyond its operative region; all other affected systems belong to the surrounding environment.
 
 ### Principle V - Composability
 
@@ -42,7 +42,7 @@ Construct components may be composed within a scaffold, mana constructs may be c
 
 Mana directly performs only the primitive operations permitted by its attribute and, where a construct is used, constrained by its declaration.
 
-All unconstrained subsequent effects arise through the ordinary physical, biological, or metaphysical behaviour of the affected reagent and its environment. A casting may increase temperature, sever continuity, redistribute charge, or alter mass, but combustion, collapse, injury, motion, and other consequences propagate naturally unless separately regulated.
+All unconstrained subsequent effects arise through the ordinary physical, biological, or metaphysical behaviour of the affected reagent and its environment. A casting may increase temperature, sever continuity, redistribute charge, or establish a dimensional gradient, but combustion, collapse, injury, motion, and other consequences propagate naturally unless separately regulated.
 
 ### Principle VII - Declarative Constraint
 

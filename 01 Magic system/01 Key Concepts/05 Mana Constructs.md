@@ -45,7 +45,7 @@ Within common scaffold models :
 
 **Scaffold Engineering** is the study of scaffold topology, geometric stability, component capacity, isolation, flow channels, dimensional embedding, and methods of shaping Primed mana into functional structures.
 
-**Construct Materiology** is the study of physical materials used to attract, repel, channel, stabilise, shield, or host mana constructs.
+**Construct Materiology** is the study of how construct design applies the mana-material interactions defined in [[13 Material Affinities|Material Affinities]].
 
 ### Declaration
 

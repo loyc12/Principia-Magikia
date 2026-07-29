@@ -30,7 +30,7 @@ An artificial substrate can also produce a soul-form when it sustains sufficient
 
 A construct is not necessarily a spell. A [[07 Spell Composition|structured spell]] is a purposeful arrangement of components that governs a magical effect, normally combining a constructive arrangement with the appropriate Attuned mana and conditions. Its possible complexity is constrained by available mana, component compatibility, stability, and the caster's control.
 
-[[06 Spell Reagents|Reagents]] are materials or living systems whose properties permit, constrain, or receive magic. Their local composition, thresholds, and coupling determine whether an attribute can operate upon them. Living bodies carry additional resistance through their organisation and soul-form; magic cannot simply disregard biology, matter, or injury.
+[[06 Spell Reagents|Reagents]] are the selected systems upon which non-Dimensional magic operates; their coupling and thresholds determine whether an attribute can act. [[13 Material Affinities|Material Affinities]] defines the material-side interactions involved. Dimensional mana instead directly operates upon a bounded region of space-time. Living bodies carry additional resistance through their organisation and soul-form; magic cannot simply disregard biology, matter, or injury.
 
 ## Casting
 
