@@ -22,7 +22,7 @@ P( output = Spent ) = w_a
 
 ## Background Attunement and Seed Stability
 
-For each attribute, Primed mana has a small baseline chance of forming a short-lived Attuned fluctuation. This **background attunement** is represented by `b_a`. Simpler or more common attributes may have larger `b_a` values than rarer or more complex attributes.
+For each attribute, Primed mana has a small baseline chance of forming a short-lived Attuned fluctuation. This **background attunement rate** is represented by `b_a`. A high `b_a` can contribute to natural availability, but availability also depends upon critical seed concentration, selective media, Detuning, and attainable conversion yield; it is not a measure of operational complexity.
 
 An isolated Attuned particle ordinarily Detunes, disperses, or is spent before it can establish a meaningful local bias. A concentration of matching particles, called an **attunement seed**, can instead stabilise matching fluctuations and make further attunement more likely. The seed becomes self-sustaining only after it reaches an attribute-specific critical concentration.
 

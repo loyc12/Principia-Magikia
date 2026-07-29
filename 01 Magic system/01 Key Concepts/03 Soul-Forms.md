@@ -158,7 +158,7 @@ Animic resistance impedes :
 - unauthorised reagent selection
 - unauthorised Resonant links
 - alteration of internal bodily boundaries
-- manipulation of neural or Mnemonic activity
+- manipulation of neural or Signetic activity
 
 This resistance is not absolute. It varies according to :
 
@@ -222,7 +222,7 @@ Such **neurological analogues** may include :
 
 - artificial conductive lattices
 - Galvanic signal networks
-- recurrent Mnemonic systems
+- recurrent Signetic systems
 - living or semi-living tissues
 - complex ward networks
 - distributed sensor and control systems
@@ -273,7 +273,7 @@ The rate of decay depends upon :
 - surrounding mana types
 - physical preservation of the nervous system
 - Resonant anchor-and-feedback arrangements
-- Mnemonic reinforcement
+- Signetic reinforcement
 - containment within suitable materials or constructs
 
 A decaying soul-form loses fine and recently maintained structures before its deepest and most stable patterns.
@@ -331,7 +331,7 @@ Soul-form preservation attempts to slow decay by replacing the stabilising influ
 Preservation may involve :
 
 - dense Primed-mana containment
-- Mnemonic reinforcement
+- Signetic reinforcement
 - simulated recurrent activity
 - mana-attracting vessels
 - preserved neural tissue
@@ -458,7 +458,7 @@ Simple feed-forward constructs and fixed spell routines generally fail to produc
 Artificial soul-forms may be induced within :
 
 - golemic nervous analogues
-- Mnemonic lattices
+- Signetic lattices
 - Galvanic circuits
 - fluidic control networks
 - living hybrid tissues

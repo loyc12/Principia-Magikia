@@ -47,9 +47,7 @@ Common actuation methods include :
 
 | Actuation Method | Description |
 | --- | --- |
-| **Kinetic** | Directly imparts momentum to limbs, joints, tools, or the whole frame |
-| **Volumic** | Expands and contracts chambers, artificial muscles, or pressure systems |
-| **Massic** | Alters effective mass or weight to assist movement and balance |
+| **Kinetic** | Directly imparts momentum, including through compressive or expansive systems, to limbs, joints, tools, or the whole frame |
 | **Cohesive** | Reconfigures flexible joints or continuous structures |
 | **Galvanic** | Drives electrical or electromagnetic actuators where suitable materials and designs exist |
 | **Mechanical** | Uses ordinary motors, springs, counterweights, or hydraulics supplied or regulated by magical engines |
@@ -66,7 +64,7 @@ For an animic golem, the sensorium must be sufficiently stable and integrated fo
 
 ## Neurological Substrate
 
-The **neurological substrate** is the recurrent system that coordinates observations, retained state, and actuation. It may be realised through Mnemonic lattices, Galvanic signal networks, fluidic control systems, living or semi-living tissue, distributed constructs, or a combination of these.
+The **neurological substrate** is the recurrent system that coordinates observations, retained state, and actuation. It may be realised through Signetic lattices, Galvanic signal networks, fluidic control systems, living or semi-living tissue, distributed constructs, or a combination of these.
 
 For golemancers, the practical question is whether this system can sustain continuous, coherent sensorimotor activity across one body. The general conditions for artificial soul-form formation belong to **Soul-Forms**. A fixed routine may perform useful work without meeting them; a substrate that does meet them must be designed so that its developing animic responses remain compatible with declared safeguards and bodily mappings.
 

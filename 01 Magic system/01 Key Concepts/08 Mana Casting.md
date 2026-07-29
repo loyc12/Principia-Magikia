@@ -1,7 +1,5 @@
 # Mana Casting
 
-**{ NOTE : VALIDATE }**
-
 **Mana casting** is the deliberate manipulation of mana, including moving, gathering, constraining, attuning, supplying, and expending it. It is the broad term for an operator's active use of mana, whether or not that use produces an immediate attributed operation upon a [[06 Spell Reagents|reagent]].
 
 ## Casting and Shaping Terminology
@@ -139,12 +137,10 @@ Typical Unstructured operations include :
 | **Kinetic**  | Heat or cool a touched object, induce vibration, apply a crude point compression, crack brittle matter, or produce a short shove or pull |
 | **Radiant**  | Make a touched object glow, dim a small illuminated surface, emit a flash, or crudely alter colour                                       |
 | **Galvanic** | Charge or discharge a galvanic object, create a spark, or weakly magnetise a compatible material                                         |
-| **Volumic**  | Compress a soft material, expand a confined gas, or produce a local pressure pulse                                                       |
-| **Massic**   | Temporarily make a touched object heavier or lighter while mana remains concentrated                                                     |
-| **Cohesive** | Widen an existing crack, weakly join compatible surfaces, or crudely separate brittle continuous matter                                  |
+| **Cohesive** | Widen or remove an existing crack, weakly join compatible surfaces, or crudely separate brittle continuous matter                        |
 | **Resonant** | Establish a weak short-lived coupling between touching or strongly familiar systems                                                      |
 
-Mnemonic, Temporal, Spatial, Ontic, and other rare or unstable attributes are not normally suitable for Unstructured Casting. Even where direct Expenditure is theoretically possible, practitioners seldom possess sufficient access, familiarity, or control to exceed the relevant threshold safely.
+Signetic, Dimensional, and other rare or unstable attributes are not normally suitable for Unstructured Casting. Even where direct Expenditure is theoretically possible, practitioners seldom possess sufficient access, familiarity, or control to exceed the relevant threshold safely.
 
 Directional force is possible with Kinetic mana, but is significantly harder than heating, cooling, vibration, compression, or shattering. A shove can be produced by concentrating momentum transfer at one surface, but sustained telekinesis, controlled trajectories, levitation, and precise force distribution generally require structured Direction, Selection, Regulation, and feedback.
 

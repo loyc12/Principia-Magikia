@@ -137,44 +137,39 @@ The rate of Detuning is measured as a half-life, and depends upon the attribute,
 
 The singularity's distant influence may bias Detuning without constituting Priming. Actual Priming remains exclusive to the singularity, while the wider field of the Expanse gradually favours the loss of unstable differentiation in poorly maintained Attuned mana.
 
-Rare or poorly understood attributes are generally the hardest to preserve. Temporal, Spatial, and Ontic mana may Detune rapidly, irregularly, or under conditions not yet understood, contributing to their scarcity and the difficulty of experimental work involving them.
+Rare or poorly understood attributes are generally the hardest to preserve. Dimensional mana may Detune rapidly, irregularly, or under conditions not yet understood, contributing to its scarcity and the difficulty of experimental work involving it.
 
 Soul-forms and other persistent active systems may locally stabilise their associated mana through continuing organisation and feedback. This does not prevent Detuning indefinitely, but helps explain why a living organism's mana environment is more coherent and resistant to disturbance than an equivalent inactive volume.
 
-> *Reminder : Attunement refers to a permutation process, while an attribute refers to the differentiated potential produced by that process.*
+> *Reminder : Attunement refers to a permutation process, while an attribute refers to the differentiated potential produced by that process. An aspect is a recognised mode of applying an attribute, not a further mana type.*
 
-Below are summary tables pertaining to the 11 known attuned **attributes**, in order of rarity :
+## The Seven Mana Attributes
 
-| Attribute      | Common Names                                | Operation Domain Description                                                                                                      |
-| -------------- | ------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
-| **Kinetic**    | Motion, Force, Heat, Explosion              | Change the momentum distribution of matter, whether uniformly or microscopically                                                  |
-| **Radiant**    | Light, Illusion, Cloaking, Optics           | Emit, absorb, redirect, or otherwise manipulate free photons                                                                      |
-| **Galvanic**   | Lightning, Magnetism                        | Change electric charges, currents, and quasi-static electromagnetic fields                                                        |
-| **Volumic**    | Pressure, Density, Compression, Expansion   | Modify the metric volume occupied by a bounded material system without directly changing its topology, mass, or internal momentum |
-| **Massic**     | Mass, Weight, Gravity                       | Modify an object's inertial and gravitational mass                                                                                |
-| **Cohesive**   | Structure, Cohesion, Binding                | Change which portions of matter are mechanically continuous without directly specifying their chemical composition                |
-| **Resonant**   | Linking, Observation, Divination            | Change the degree to which state changes in one system are detectable by, transmitted to, or correlated with another              |
-| **Mnemonic**   | Memory, Recording, Engraving, Scrying, Mind | Encode information into, and decode information from, the physical medium in which it is stored                                   |
-| **Temporal**\* | Acceleration, Preservation, Stasis          | Modify the local rate at which time progresses                                                                                    |
-| **Spatial**\*  | Portal, Dimension, Teleportation            | Modify the layout of space itself                                                                                                 |
-| **Ontic**\*    | Identity, Essence, Classification, Soul     | Modify what an object fundamentally _is_ according to magical law                                                                 |
+The seven known Attuned **attributes** are listed below. Their natural availability is classified by the conditions required for unmanaged seeds and practical reservoirs to form; it is not a measure of a caster's operational skill.
 
-| Attribute      | Domain Type    | Reality Layer  | Operation Domain    | Waste Ratio | Persistence Mechanism                                              |
-| -------------- | -------------- | -------------- | ------------------- | ----------- | ------------------------------------------------------------------ |
-| **Kinetic**    | State          | Physical       | Momentum            | Low         | Imparted state                                                     |
-| **Radiant**    | State          | Physical       | Photon field        | Low         | Active emission                                                    |
-| **Galvanic**   | State          | Physical       | Electric field      | Low         | Usually active field; charge redistribution may persist            |
-| **Volumic**    | State          | Emergent       | Volume, Pressure    | Medium      | Usually sustained unless natural structure supports the new volume |
-| **Massic**     | State          | Physical       | Mass                | Medium      | Sustained                                                          |
-| **Cohesive**   | Organizational | Emergent       | Connectivity        | High        | Structural                                                         |
-| **Resonant**   | Relational     | Physical       | Coupling, Detection | High        | Anchored relationship                                              |
-| **Mnemonic**   | Organizational | Emergent       | Information         | High        | Encoded state                                                      |
-| **Temporal**\* | Organizational | Emergent       | Time rate           | Very High   | Sustained                                                          |
-| **Spatial**\*  | Relational     | Emergent       | Spatial layout      | Very High   | Sustained                                                          |
-| **Ontic**\*    | Ontological    | Metaphysical   | Identity            | Extreme     | Metaphysical                                                       |
-*\*Little is known of these attributes, and what is known remains highly speculative and contested.*
+| Attribute         | Common Names                      | Availability | Operation Domain Description                                                                                         |
+| ----------------- | --------------------------------- | ------------ | -------------------------------------------------------------------------------------------------------------------- |
+| **Kinetic**       | Motion, Force, Heat, Pressure     | Widespread   | Change the momentum distribution of matter, whether disordered, periodic, converging, diverging, or directional      |
+| **Radiant**       | Light, Illusion, Cloaking, Optics | Widespread   | Emit, absorb, redirect, or otherwise manipulate free photons                                                         |
+| **Galvanic**      | Lightning, Magnetism              | Localised    | Change electric charges, currents, and quasi-static electromagnetic fields                                           |
+| **Cohesive**      | Structure, Cohesion, Binding      | Localised    | Change which portions of matter are mechanically continuous without directly specifying their chemical composition   |
+| **Resonant**      | Linking, Observation, Divination  | Scarce       | Change the degree to which state changes in one system are detectable by, transmitted to, or correlated with another |
+| **Signetic**      | Inscription, Recording, Decoding  | Scarce       | Establish, preserve, inspect, translate, or erase declared distinguishable patterns in a bounded physical medium     |
+| **Dimensional**\* | Scale, Curvature, Gravity, Time   | Exceptional  | Modify proper distance, duration, and their gradients within a bounded region                                        |
+*\*Dimensional mana is exceptionally difficult to find, retain, and control. Its reported operations remain restricted to carefully bounded, structured work.*
+
+| Availability    | Natural-source criterion                                                                                |
+| --------------- | ------------------------------------------------------------------------------------------------------- |
+| **Widespread**  | Unmanaged seeds and practical deposits frequently form under ordinary conditions                        |
+| **Localised**   | Common favourable media or particular environmental conditions or event  are required                   |
+| **Scarce**      | Specialised media or unusual sites are required; practical reservoirs are limited                       |
+| **Exceptional** | Active maintenance or extraordinary conditions are required; reliable natural reservoirs are negligible |
+
+The availability grade summarises the combined effects of background fluctuation, critical seed concentration, selective media, Detuning, and attainable conversion yield. It does not replace those measurements, and it may differ sharply between regions.
 
 Attuned mana used to power a spell and perform its attributed operation is converted into Spent mana through Expenditure.
+
+The operation boundaries, aspect ladders, and known selective or decaying media are collected in [[12 Attribute Theory|Attribute Theory]].
 
 
 **Attunement Theory** is the study of the processes by which Primed mana is converted into particular Attuned attributes, including their rates, efficiencies, waste ratios, and environmental dependencies.

@@ -66,7 +66,7 @@ Every attunement process produces Spent mana, commonly called Waste mana in this
 
 Constructs cannot select, sense, process, or regulate properties that are unavailable through their declared interfaces and observational means.
 
-Information must be encoded, transmitted, inspected, or retained through physical structure, Primed-mana packets, component state, Resonant coupling, Mnemonic storage, or another defined mechanism. Information and control are therefore limited resources rather than implicit properties of spellcraft.
+Information must be encoded, transmitted, inspected, or retained through physical structure, Primed-mana packets, component state, Resonant coupling, Signetic storage, or another defined mechanism. Information and control are therefore limited resources rather than implicit properties of spellcraft.
 
 ### Principle XI - Structural Realisation
 

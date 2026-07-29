@@ -55,7 +55,7 @@ To have any meaningful ability, a construct scaffold must be be **imbued** with 
 
 This imbuing process is known as **component declaration**. The declaration specifies which mana attributes may be expended operationally, which reagents may be selected, how inputs are gathered and processed, and under what conditions the construct may activate, regulate itself, or terminate.
 
-A component's semantic role does not inherently require the correspondingly named mana attribute. A Timing component can measure ordinary elapsed time without Temporal mana, a Selection component can distinguish iron from wood without Ontic mana, and a Processing component can compare values without Mnemonic mana. Specialised attributes are required only when a component must exceed ordinary construct capabilities.
+A component's semantic role does not inherently require a specialised mana attribute. A Timing component can measure ordinary elapsed time, a Selection component can distinguish iron from wood, and a Processing component can compare values without Signetic mana. Specialised attributes are required only when a component must exceed ordinary construct capabilities.
 
 Mana used by a declared construct may therefore fulfil three broad roles :
 

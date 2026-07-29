@@ -20,7 +20,7 @@ More advanced enchanting methods may permit :
 
 - interchangeable component modules
 - resettable parameters
-- writable Mnemonic storage
+- writable Signetic storage
 - replaceable or repairable constructs
 - standardised interfaces
 - self-testing and fault reporting

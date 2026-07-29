@@ -124,7 +124,7 @@ Two spells may resemble one another without being equivalent in every respect :
 - **Operation equivalent spells** perform the same primitive attributed operations.
 - **Architecture equivalent spells** use the same construct organisation and interface graph.
 
-For example, direct Kinetic excitation, Radiant absorption, and Volumic compression may all heat a reagent, but they are only effect-equivalent. Their primitive operations, reagent constraints, waste profiles, and risks remain distinct.
+For example, direct Kinetic excitation, Radiant absorption, and Galvanic resistance heating may all heat a reagent, but they are only effect-equivalent. Their primitive operations, reagent constraints, waste profiles, and risks remain distinct.
 
 Templates may be **derived** by extending, constraining, or specialising an earlier design. A general Kinetic impulse template may therefore serve as the basis for projectile-launching, recoil-compensating, or self-correcting variants without requiring each design to be recreated from first principles.
 
