@@ -10,7 +10,7 @@ Mana is a particulate field governed by the [[01 Core Principles|core principles
 | **Attuned** | Mana bearing an attribute; it supplies the directed effects of magic. |
 | **Spent** | Mana whose usable potential has been exhausted. |
 
-Attunement converts Primed mana into an attribute under the influence of a source, while expenditure releases an Attuned particle's operation and leaves it Spent. Priming is the [[The Singularity|Singularity]]-bound return of mana to its raw, reactive state. [[02 Mana Dynamics|Mana Physics]] describes the cycle, storage, flow, and constraints in detail.
+Attunement converts Primed mana into an attribute under the influence of a source, while expenditure releases an Attuned particle's operation and leaves it Spent. Priming is the [[The Singularity|Singularity]]-bound return of mana to its raw, reactive state. [[02 Mana Dynamics|Mana Dynamics]] describes the cycle, storage, flow, and constraints in detail; [[10 Mana Physics|Mana Physics]] provides an optional quantitative appendix.
 
 Attuned mana is not permanently fixed. Through **Detuning**, it slowly relaxes toward Primed mana, losing some potential as Spent mana and permutation loss. Detuning is usually too slow to decide a brief casting, but it makes poorly contained stores perishable. The distant influence of the singularity biases this relaxation without replacing true Priming.
 

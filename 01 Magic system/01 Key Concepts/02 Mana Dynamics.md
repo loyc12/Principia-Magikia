@@ -1,4 +1,6 @@
-# Mana Physics
+# Mana Dynamics
+
+This reference describes mana's observable states, flow, conversion, storage, and practical behaviour. [[10 Mana Physics|Mana Physics]] provides an optional quantitative model of these processes; it is useful for calibration and theory, but is not required to understand the wider magic system.
 
 ## Mana Flow
 
@@ -62,13 +64,29 @@ The early formation of a [[03 Soul-Forms|soul-form]] likewise depends upon Prime
 
 **Mana potential** is the capacity of a mana particle to perform an attributed operation. Physical energy may be created, redistributed, consumed, or conserved depending on the attribute involved.
 
-**Attunement** is the process of converting Primed mana into Attuned mana. This process occurs naturally, at a rate dependent on the local concentration of the target Attuned mana relative to the concentrations of Primed mana and, to a lesser degree, Spent mana.
+**Attunement** is the process of converting Primed mana into Attuned mana. It occurs at a low **background rate** even without a caster or apparatus: Primed mana occasionally produces short-lived fluctuations of particular attributes. Simpler and more common attributes tend to appear more readily than rare, complex, or poorly understood ones.
 
-The greatest rates of **Background Attunement** are found in locales with high concentrations of Primed mana and low concentrations of Attuned and Spent mana. Existing Attuned mana biases nearby Primed mana towards the same attribute, making attunement partially self-propagating, though its rate diminishes as the local concentration of that attribute rises, eventually reaching a local equilibrium.
+An isolated Attuned particle does not normally possess enough stability bias or local concentration to remain Attuned. It usually Detunes, disperses, or is spent before it can influence neighbouring Primed mana. A background attunement event also has a variable chance of immediately producing Spent mana rather than the intended Attuned particle. This portion is **Waste mana**, while the accompanying residual energy and disordered mana-field disturbance are **permutation loss**. The resulting **waste ratio** depends upon the attribute, process, and conditions; faster or less controlled conversion is generally less efficient.
 
-This conversion also generates an amount of Spent mana, called **Waste mana** in this context. The **Waste ratio**, which is the proportion of used Primed mana converted into Spent mana, depends on both the selected attribute and the attunement process. Faster processes are generally less efficient than slower ones.
+An **attunement seed** is a local concentration of one Attuned attribute that makes nearby fluctuations of that same attribute more likely to persist. Once a seed reaches its attribute-specific critical concentration, it can bias further nearby Primed mana towards that attribute quickly enough to maintain itself. This does not allow unlimited growth: Primed-mana supply, material capacity, repulsion, leakage, Waste mana, and competing attributes eventually limit the concentration or establish a local equilibrium.
 
-Attunement can also be performed directly by a caster and is often one of the first exercises taught to novice magi. Doing so is rarely efficient in time, effort, or purity of results. As such, there exists a wide range of mana constructs dedicated to automating the attunement of Primed mana into specific attributes.
+Mana-reactive materials and local conditions can create or support such seeds. A **selective attunement medium** preferentially attracts, retains, or stabilises one or more Attuned attributes. It does not command Primed mana to assume an attribute; instead, it captures the rare matching fluctuations that would otherwise vanish, allowing them to accumulate until self-stabilising concentration is reached. The same material may also attract Primed mana, but this alone does not determine the attribute produced. Materials that instead destabilise a specified attribute are discussed under [[#Attunement Decay|Detuning]].
+
+Attunement can also be induced through direct mana casting. A caster uses the soul-form to gather Primed mana and restrain it around a seed of the desired attribute, bringing its local concentration to the critical point. A mana construct can perform the same task through its Attuning component, while adding declared sourcing, containment, regulation, separation, and waste handling. The mechanism is the same in both cases; the structured process is more stable, selective, and repeatable. Manual Attunement is often one of the first exercises taught to novice magi, but is rarely efficient in time, effort, or purity of results.
+
+The quantitative relationships behind background, material-assisted, and induced Attunement are collected in [[10 Mana Physics|Mana Physics]].
+
+### Modes of Induced Attunement
+
+**Induced Attunement** is the broad practical field of establishing or maintaining an attunement seed long enough for it to reach critical concentration. Its modes are distinguished by the means used to create and control that seed:
+
+| Mode | Means | Ordinary use |
+| --- | --- | --- |
+| **Material Attunement** | A selective attunement medium or favourable local condition captures and stabilises matching background fluctuations. | Natural deposits, passive reservoirs, ecological adaptations, and simple Attuning apparatus. |
+| **Unstructured Attunement** | A magus directly manipulates local mana through the soul-form, without a declared mana construct. | Training, small adjustments, emergency conversion, and improvised work. |
+| **Structured Attunement** | A declared spell assembly or Attuning component sources, confines, regulates, and separates the conversion process. | Reliable supply, high purity, controlled throughput, and safe waste handling. |
+
+These modes may be combined. A structured Attuner often uses selective materials, and an unstructured practitioner may use a material core to make manual induction possible. **Unstructured Attunement** is direct mana casting, not **Unstructured Casting**: the latter is the direct Expenditure of mana that is already Attuned.
 
 Already Attuned mana can be expended directly without first undergoing attunement, making it substantially more efficient and immediately useful than an equivalent supply of Primed mana. This advantage is offset by the difficulty of obtaining, separating, storing, transporting, and replenishing particular attributes, whose natural distributions are highly heterogeneous along the surface of the Expanse.
 
@@ -84,7 +102,7 @@ An attunement process is evaluated by more than whether it produces the intended
 - **stability**, the extent to which the produced mana remains contained, separated, and usable before it disperses or causes further local Attunement
 - **control**, the operator's ability to select the target attribute, throughput, and destination of the output
 
-Manual Attunement is useful for training, small adjustments, and circumstances where no instrument is available. Dedicated Attuners are preferred where a reliable supply, high purity, controlled throughput, or safe waste handling is required.
+Unstructured Attunement is useful for training, small adjustments, and circumstances where no instrument is available. Structured Attuners are preferred where a reliable supply, high purity, controlled throughput, or safe waste handling is required. Neither is Unstructured Casting: that term refers only to the direct Expenditure of already Attuned mana.
 
 ### Distribution, Storage, and State Interactions
 
@@ -115,7 +133,7 @@ Contamination may result from leaky containment, conduit backflow, imperfect Att
 
 Detuning is ordinarily slow enough that it does not determine the outcome of a short casting. It does, however, make Attuned mana a perishable working resource. Poorly contained supplies may noticeably lose purity or usable capacity over days or weeks, while well-designed reservoirs can preserve a stable attribute supply for far longer.
 
-The rate of Detuning is measured as a half-life, and depends upon the attribute, local mana composition, material affinity, concentration, and containment. Dense reservoirs of one attribute, suitable retentive materials, and active regulation all slow the process. Turbulence, incompatible materials, Primed-mana saturation, leakage, and exposure to competing mana conditions accelerate it.
+The rate of Detuning is measured as a half-life, and depends upon the attribute, local mana composition, material affinity, concentration, and containment. Dense reservoirs of one attribute, suitable retentive materials, and active regulation all slow the process. Turbulence, incompatible materials, Primed-mana saturation, leakage, and exposure to competing mana conditions accelerate it. Some mana-reactive materials are specifically **decaying media** for one or more attributes: they destabilise those attributes or prevent their local retention, accelerating their return towards Primed and Spent mana.
 
 The singularity's distant influence may bias Detuning without constituting Priming. Actual Priming remains exclusive to the singularity, while the wider field of the Expanse gradually favours the loss of unstable differentiation in poorly maintained Attuned mana.
 

@@ -12,7 +12,7 @@
 | **Mana shaping**  | The purposeful manipulation of Primed mana to form or alter a mana construct's scaffold.                               | A specialised form of mana casting; it does not describe direct construct-free Expenditure.                                                     |
 | **Spell casting** | Creating, modifying, instantiating, activating, supervising, or using a [[07 Spell Composition\|spell assembly]].      | A form of mana casting concerned with spells. It may include mana shaping, but an already-existing spell can also be activated without shaping. |
 
-Therefor, all mana shaping and spell casting are mana casting. Mana shaping is not synonymous with casting in general, and direct Unstructured Casting is mana casting, but is not mana shaping.
+Therefore, all mana shaping and spell casting are mana casting. Mana shaping is not synonymous with casting in general, and direct Unstructured Casting is mana casting, but is not mana shaping.
 
 Mana casting achieves magical effects through two broad paths :
 
@@ -157,12 +157,12 @@ Its primary limitations are :
 - weak directional control
 - no automatic feedback or termination
 - inability to compose several operations reliably
-- high danger when large concentrations are used
+- increased failure risks when large concentrations are used
 - strong interference from Primed-mana saturation and soul-forms
 
-Unstructured Casting is widely treated as an ordinary practical skill rather than a spell tradition. Heating tinder, cooling a cup, making a walking stick glow, discharging static, or cracking a brittle object are often described simply as things a mana-sensitive person can learn to do.
+Unstructured Casting is widely treated as an ordinary practical skill rather than a spell tradition. Heating tinder, cooling a cup, making a walking stick glow, discharging static, or cracking a brittle object are often described as "something any mana-sensitive person can learn to do", rather than a magus-specific ability, despite being reliant on magic itself.
 
-Reservoirs greatly extend its usefulness. A container of pre-Attuned mana may function as a general-purpose supply even without containing a spell assembly, though each reservoir remains limited by its stored attribute, capacity, leakage, transport requirements, and need for replenishment.
+Reservoirs greatly extend Unstructured Casting's usefulness. A container of pre-Attuned mana may function as a general-purpose supply even without containing a spell assembly, though each reservoir remains limited by its stored attribute, capacity, leakage, transport requirements, and need for replenishment.
 
 **Unstructured Casting Theory** is the study of direct, construct-free Expenditure and its limits.
 
@@ -260,7 +260,7 @@ Knowing two cantrips does not normally permit their direct combination. A caster
 
 **Somaturgy** is the study of somatic and cognitive mana manipulation, including procedural reconstruction, casting fatigue, pattern interference, and trained reflexes.
 
-**Thaumaturgic Pedagogy** is the study of teaching, memorisation, practice, correction, and safe transmission of casting patterns.
+[[11 Magical Training|Magical Training]] describes the staged practice, exercises, assessment, and safe transmission through which these casting abilities are acquired.
 
 ## Structured Casting
 

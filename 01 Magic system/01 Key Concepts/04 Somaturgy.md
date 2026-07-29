@@ -140,28 +140,7 @@ Excessive use may cause tremors, sensory distortion, loss of fine control, invol
 
 ## Training
 
-Somaturgic training generally progresses from direct flow manipulation towards increasingly abstract construct work.
-
-A typical curriculum includes :
-
-1. detecting nearby mana
-2. distinguishing flow and concentration
-3. gathering and releasing Primed mana
-4. safely condensing accessible Attuned mana for simple Unstructured Casting
-5. maintaining simple strands
-6. forming stable junctions and surfaces
-7. constructing basic Platonic scaffolds
-8. instantiating standard component archetypes
-9. sealing and safely dissipating simple constructs
-10. coordinating several flows simultaneously
-11. shaping the construct scaffolds of complete spell assemblies
-
-Gestures, postures, breathing patterns, spoken sequences, and physical focuses are commonly used as training aids because they make somatic routines easier to reproduce. Experienced magi may eventually perform the same operations with minimal visible movement.
-
-**Mana casting exercises** ( which includes the more narrow **mana shaping exercises** ) are commonly used to reinforce one's ability to properly manipulate mana, and as such, there exist an innumerable amount of variations of such exercises, focusing on one or more shaping primitive(s), on top of fine mana manipulation in general.
-
-
-**Thaumaturgic Pedagogy** is the study of how casting patterns, formulas, safety procedures, and construct reasoning are taught and retained.
+Somaturgy provides the bodily technique underlying perception, direct mana manipulation, Unstructured Attunement, Unstructured Casting, and the shaping of construct scaffolds. These skills are normally developed through staged curriculums and **mana casting exercises** described in [[11 Magical Training|Magical Training]]. Gestures, postures, breathing patterns, spoken sequences, and physical focuses remain common somaturgic training aids because they make routines easier to reproduce.
 
 ## Somatic Interfaces
 
