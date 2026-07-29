@@ -6,13 +6,13 @@
 
 ## Casting and Shaping Terminology
 
-| Term | Meaning | Relation to the others |
-|---|---|---|
-| **Mana casting** | Any deliberate manipulation of mana, including its movement, containment, Attunement, supply, shaping, or Expenditure. | The broadest term. |
-| **Mana shaping** | The purposeful manipulation of Primed mana to form or alter a mana construct's scaffold. | A specialised form of mana casting; it does not describe direct construct-free Expenditure. |
-| **Spell casting** | Creating, modifying, instantiating, activating, supervising, or using a [[07 Spell Composition|spell assembly]]. | A form of mana casting concerned with spells. It may include mana shaping, but an already-existing spell can also be activated without shaping. |
+| Term              | Meaning                                                                                                                | Relation to the others                                                                                                                          |
+| ----------------- | ---------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Mana casting**  | Any deliberate manipulation of mana, including its movement, containment, Attunement, supply, shaping, or Expenditure. | The broadest term.                                                                                                                              |
+| **Mana shaping**  | The purposeful manipulation of Primed mana to form or alter a mana construct's scaffold.                               | A specialised form of mana casting; it does not describe direct construct-free Expenditure.                                                     |
+| **Spell casting** | Creating, modifying, instantiating, activating, supervising, or using a [[07 Spell Composition\|spell assembly]].      | A form of mana casting concerned with spells. It may include mana shaping, but an already-existing spell can also be activated without shaping. |
 
-Thus, all mana shaping and spell casting are mana casting. Mana shaping is not synonymous with casting in general, and direct Unstructured Casting is casting but not shaping.
+Therefor, all mana shaping and spell casting are mana casting. Mana shaping is not synonymous with casting in general, and direct Unstructured Casting is mana casting, but is not mana shaping.
 
 Mana casting achieves magical effects through two broad paths :
 
@@ -21,32 +21,30 @@ Mana casting achieves magical effects through two broad paths :
 
 **Structured Casting** is the conscious, analytical form of spell casting in which an operator understands and works with the assembly's construct logic. Reflexive, wild, and instrumental spell casting may use an assembly without that degree of conscious construction or modification.
 
-Unstructured Casting is comparable to entering individual low-level commands one at a time. Structured Casting is comparable to writing, compiling, and executing a script or program whose operations can be composed, parameterised, repeated, and supervised.
-
 The distinction concerns the presence of executable construct logic rather than the skill or intention of the operator. Unstructured Casting may still require substantial training, while an existing spell assembly may be activated by an untrained user through an instrument without that user performing Structured Casting.
 
-People capable of intentionally manipulating mana are most commonly called **magi** ( singular : **magus** ), though _mage_, _magician_, _wizard_, _witch_, _invocater_, and _caster_ are also used according to region, tradition, and profession.
+People capable of intentionally manipulating mana are most commonly called **magi** ( singular : **magus** ), though _mage_, _magician_, _wizard_, _witch_, _priest_, _invocater_, _shaper_, and _caster_ are also used according to region, tradition, and profession.
 
 ## Casting Roles
 
-A casting process may involve several functional roles. These roles need not correspond to separate physical objects, and a single caster, organ, instrument, or construct may fulfil several of them simultaneously.
+A casting process may involve several functional roles. These roles need not correspond to separate physical objects, and a single caster, organ, instrument, or construct may fulfil several of them simultaneously. Below is a list of the casting roles most often encountered :
 
-|Casting Role|Function|
-|---|---|
-|**Source**|Provides Primed or Attuned mana to the spell assembly|
-|**Reservoir**|Stores or buffers mana before or during execution|
-|**Conduit**|Carries mana between sources, constructs, instruments, and reagents|
-|**Attuner**|Permutes Primed mana into one or more required attributes|
-|**Host**|Physically or somatically maintains a structured spell assembly|
-|**Operator**|Manipulates mana directly or supplies parameters, references, activation, or supervision|
-|**Reagent**|Receives the casting's attributed operations|
-|**Sink**|Receives Spent mana, excess flow, or permutation loss|
+| Casting Role  | Function                                                                                 |
+| ------------- | ---------------------------------------------------------------------------------------- |
+| **Source**    | Provides Primed or Attuned mana to the spell assembly                                    |
+| **Reservoir** | Stores or buffers mana before or during execution                                        |
+| **Conduit**   | Carries mana between sources, constructs, instruments, and/or reagents                   |
+| **Attuner**   | Permutes Primed mana into one or more required attributes                                |
+| **Host**      | Physically or somatically maintains a structured spell assembly                          |
+| **Operator**  | Manipulates mana directly or supplies parameters, references, activation, or supervision |
+| **Reagent**   | Receives the casting's attributed operations                                             |
+| **Sink**      | Receives Spent mana, excess flow, or permutation loss                                    |
 
 These casting roles describe the participants and physical pathways involved in casting. They are distinct from **construct components**, which define the internal behaviour of an individual mana construct and are absent from purely Unstructured Casting.
 
 For example, an Unstructured caster may simultaneously serve as operator and conduit while drawing from an external reservoir. A structured caster may additionally act as a temporary host, while an instrument acts as reservoir, attuner, and persistent host.
 
-A living operator normally manipulates mana through their soul-form, whose sensorimotor fringe converts trained neural activity into low-level attraction, repulsion, condensation, release, and directional bias.
+A living operator normally manipulates mana through their soul-form, whose sensorimotor fringe converts trained neural activity into low-level attraction, repulsion, condensation, release, and directional mana forces.
 
 ## Casting Dimensions
 
@@ -60,12 +58,12 @@ These dimensions may be combined freely where physically and logically compatibl
 
 ### By Authoring Source
 
-|Authoring Source|Description|
-|---|---|
-|**Instinctive**|Spell logic is biologically encoded and instantiated through inherited anatomy, development, or instinctive behaviour.|
-|**Reflexive**|A previously learned formula or template is reconstructed from procedural memory with little or no conscious alteration.|
-|**Structured**|The spell is consciously assembled, modified, derived, or supervised by a caster who understands its internal logic.|
-|**Inherited**|Spell logic is copied from an external specification, retained assembly, instrument, environment, or other pre-existing source.|
+| Authoring Source | Description                                                                                                                    |
+| ---------------- | ------------------------------------------------------------------------------------------------------------------------------ |
+| **Instinctive**  | Spell logic is biologically encoded and instantiated through inherited anatomy, development, or instinctive behaviour          |
+| **Reflexive**    | A previously learned formula or template is reconstructed from procedural memory with little or no conscious alteration        |
+| **Structured**   | The spell is consciously assembled, modified, derived, or supervised by a caster who understands its internal logic            |
+| **Inherited**    | Spell logic is copied from an external specification, retained assembly, instrument, environment, or other pre-existing source |
 
 The authoring source describes where the executable design comes from, not where it is ultimately hosted. An inherited formula may be reconstructed somatically, while a structured caster may design a spell that is later hosted instrumentally.
 
@@ -83,20 +81,20 @@ A distributed spell may combine several other substrates. For example, an archit
 
 ### By Supervision Mode
 
-|Supervision Mode|Description|
-|---|---|
-|**Direct**|An operator continuously supplies parameters, regulation, or control during execution.|
-|**Triggered**|An operator initiates the spell, after which its declared behaviour proceeds without continuous supervision.|
-|**Conditional**|Execution begins, changes, or terminates when declared sensed conditions are satisfied.|
-|**Continuous**|The assembly remains in an active regulatory state for as long as its required mana and conditions persist.|
-|**Adaptive**|The assembly selects among predefined behaviours or parameters in response to observations and retained state.|
-|**Autonomous**|The assembly performs its declared function without routine external intervention, including its own regulation and ordinary fault handling.|
+| Supervision Mode | Description                                                                                                                                 |
+| ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Direct**       | An operator continuously supplies parameters, regulation, or control during execution                                                       |
+| **Triggered**    | An operator initiates the spell, after which its declared behaviour proceeds without continuous supervision                                 |
+| **Conditional**  | Execution begins, changes, or terminates when declared sensed conditions are satisfied                                                      |
+| **Continuous**   | The assembly remains in an active regulatory state for as long as its required mana and conditions persist                                  |
+| **Adaptive**     | The assembly selects among predefined behaviours or parameters in response to observations and retained state                               |
+| **Autonomous**   | The assembly performs its declared function without routine external intervention, including its own regulation and ordinary fault handling |
 
 Supervision does not grant a spell unrestricted intelligence. Conditional, Adaptive, and Autonomous spells remain limited to their declared observations, state, interfaces, and possible responses.
 
 ## Casting Archetypes
 
-Every individual casting may be described through the preceding dimensions. Nevertheless, several recurring combinations are recognised as conventional **casting archetypes**.
+Every individual casting attempt may be described through the preceding dimensions. Nevertheless, several recurring combinations are recognised as conventional **casting archetypes**.
 
 | Casting Archetype        | Typical Classification           | Description                                                                                                                                         |
 | ------------------------ | -------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -117,7 +115,7 @@ These archetypes are neither exhaustive nor mutually exclusive. A structured cas
 
 **Unstructured Casting** is the direct Expenditure of already Attuned mana without the use of a declared mana construct.
 
-The caster uses their soul-form to gather and condense one mana attribute against a nearby reagent until its matter-specific expenditure threshold is exceeded. Once triggered, the Attuned mana performs its primitive operation according to its attribute and the local relationship between mana and reagent.
+The caster uses their soul-form to gather and condense a specific mana attribute against a nearby reagent until its matter-specific expenditure threshold is exceeded. Once triggered, the Attuned mana performs its primitive operation according to its attribute and the local relationship between mana and reagent.
 
 Unstructured Casting does not permit the caster to declare a broad desired result. The operator can only exert coarse control over :
 
@@ -128,25 +126,25 @@ Unstructured Casting does not permit the caster to declare a broad desired resul
 - a crude directional bias where the operation naturally supports one
 - when the caster stops supplying mana
 
-Unstructured Casting is normally limited to touch or near-touch range. Direct somatic control weakens rapidly with distance, while the absence of Selection, Bounding, Directing, Regulating, and Sensing components makes remote application unreliable.
+Unstructured Casting is normally limited to touch or near-touch range, as direct somatic control weakens rapidly with distance, while the absence of Selection, Bounding, Directing, Regulating, and Sensing components makes remote application unreliable at best, and impossible at worse.
 
-The method is easiest with abundant, stable, familiar attributes and simple reagents. Kinetic and Radiant mana are therefore the most common attributes used in this manner, while rare, unstable, or weakly understood attributes are seldom handled unstructured.
+This casting method is easiest with abundant, stable, and familiar attributes and simple reagents. Kinetic and Radiant mana are therefore the most common attributes to be used in this manner, while rare, unstable, or weakly understood attributes are seldom handled non structurally.
 
 Typical Unstructured operations include :
 
-| Attribute | Typical Unstructured Operations |
-| --- | --- |
-| **Kinetic** | Heat or cool a touched object, induce vibration, apply a crude point compression, crack brittle matter, or produce a short shove |
-| **Radiant** | Make a touched object glow, dim a small illuminated surface, emit a flash, or crudely alter colour |
-| **Galvanic** | Charge or discharge an object, create a spark, or weakly magnetise a compatible material |
-| **Volumic** | Compress a soft material, expand a confined gas, or produce a local pressure pulse |
-| **Massic** | Temporarily make a touched object heavier or lighter while mana remains concentrated |
-| **Cohesive** | Widen an existing crack, weakly join compatible surfaces, or crudely separate brittle continuous matter |
-| **Resonant** | Establish a weak short-lived coupling between touching or strongly familiar systems |
+| Attribute    | Typical Unstructured Operations                                                                                                          |
+| ------------ | ---------------------------------------------------------------------------------------------------------------------------------------- |
+| **Kinetic**  | Heat or cool a touched object, induce vibration, apply a crude point compression, crack brittle matter, or produce a short shove or pull |
+| **Radiant**  | Make a touched object glow, dim a small illuminated surface, emit a flash, or crudely alter colour                                       |
+| **Galvanic** | Charge or discharge a galvanic object, create a spark, or weakly magnetise a compatible material                                         |
+| **Volumic**  | Compress a soft material, expand a confined gas, or produce a local pressure pulse                                                       |
+| **Massic**   | Temporarily make a touched object heavier or lighter while mana remains concentrated                                                     |
+| **Cohesive** | Widen an existing crack, weakly join compatible surfaces, or crudely separate brittle continuous matter                                  |
+| **Resonant** | Establish a weak short-lived coupling between touching or strongly familiar systems                                                      |
 
 Mnemonic, Temporal, Spatial, Ontic, and other rare or unstable attributes are not normally suitable for Unstructured Casting. Even where direct Expenditure is theoretically possible, practitioners seldom possess sufficient access, familiarity, or control to exceed the relevant threshold safely.
 
-Directional force is possible with Kinetic mana, but is significantly harder than heating, cooling, vibration, compression, or shattering. A shove can be produced by concentrating momentum transfer at one surface, but sustained telekinesis, controlled trajectories, levitation, and precise force distribution require structured Direction, Selection, Regulation, and feedback.
+Directional force is possible with Kinetic mana, but is significantly harder than heating, cooling, vibration, compression, or shattering. A shove can be produced by concentrating momentum transfer at one surface, but sustained telekinesis, controlled trajectories, levitation, and precise force distribution generally require structured Direction, Selection, Regulation, and feedback.
 
 Unstructured Casting is often highly efficient for small immediate tasks when the correct Attuned mana is already available, as it incurs no scaffold or declaration cost. It becomes inefficient when the caster must first attune Primed mana manually, compensate for leakage, overcome resistance, or repeatedly reproduce a precise result.
 
@@ -344,3 +342,8 @@ Not every mana instrument performs structured casting. Reservoirs, conduits, and
 **Instrumental Thaumaturgy** is the study of artefacts and installations that host, assist, regulate, or execute spell assemblies.
 
 **Enchantment Engineering** is the study of anchoring persistent or reconstructible constructs to physical hosts.
+
+
+## META
+
+Unstructured Casting is comparable to entering individual low-level commands one at a time. Structured Casting is comparable to writing, compiling, and executing a script or program whose operations can be composed, parameterised, repeated, and supervised.
