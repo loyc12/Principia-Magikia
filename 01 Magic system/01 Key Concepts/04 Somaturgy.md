@@ -79,7 +79,7 @@ More advanced techniques arise from the simultaneous or sequential combination o
 
 ## Unstructured Casting
 
-Somaturgy supplies the learned bodily technique for **Unstructured Casting**: a soul-form gathers and condenses already Attuned mana against a nearby reagent. This is distinct from mana shaping, which arranges Primed mana into a scaffold that will later receive declared logic. Some wild organisms achieve an equivalent fixed direct-control routine through specialised anatomy rather than learned Somaturgy.
+Somaturgy supplies the learned bodily technique for **Unstructured Casting**: a soul-form gathers and condenses already Attuned mana against a nearby subject. This is distinct from mana shaping, which arranges Primed mana into a scaffold that will later receive declared logic. Some wild organisms achieve an equivalent fixed direct-control routine through specialised anatomy rather than learned Somaturgy.
 
 The phrase **unstructured shaping** is sometimes used informally for direct mana manipulation. It is imprecise: direct, construct-free Expenditure is **Unstructured Casting**, because no stable construct geometry is formed. The attributes, practical operations, and full limits of Unstructured Casting belong to [[08 Mana Casting|Mana Casting]].
 
@@ -92,7 +92,7 @@ During conscious declaration, the operator uses trained somatic patterns to esta
 - where mana may flow
 - which mana types are accepted
 - which parameters may vary
-- which reagents may be referenced
+- which subjects may be referenced and which reagent profiles may be required
 - how components activate
 - how state and control signals are transmitted
 - how faults and termination are handled
@@ -107,7 +107,7 @@ In casting terminology, **intent** is a trained volitional control state used to
 
 Intent may provide such inputs as :
 
-- a reagent reference
+- a subject reference
 - a direction
 - a magnitude
 - a duration
@@ -151,7 +151,7 @@ Somatic interfaces may receive :
 - activation and termination signals
 - continuous directional input
 - bounded scalar parameters
-- reagent selections
+- subject selections
 - regulation adjustments
 - simple fault acknowledgements
 

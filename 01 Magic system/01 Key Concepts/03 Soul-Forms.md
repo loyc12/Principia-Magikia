@@ -127,7 +127,7 @@ Disturbances in nearby mana deform or excite the soul-form, and those changes we
 
 Conversely, deliberate neural and physiological activity alters the soul-form, allowing it to exert small forces upon nearby mana. This process forms the basis of conscious mana manipulation.
 
-The mere presence of a soul-form does not give an organism practical casting ability. Reliable Unstructured Casting requires sufficient sensing, integrated control, and sustained mana coupling to gather an attribute at a reagent; most organisms lack some or all of these capacities even though their soul-forms still interact with mana. A specialised wild-casting organ may supply one fixed routine of this kind, but does not grant general casting skill or conscious control.
+The mere presence of a soul-form does not give an organism practical casting ability. Reliable Unstructured Casting requires sufficient sensing, integrated control, and sustained mana coupling to gather an attribute at a subject; most organisms lack some or all of these capacities even though their soul-forms still interact with mana. A specialised wild-casting organ may supply one fixed routine of this kind, but does not grant general casting skill or conscious control.
 
 The relationship between mana and neurology may be summarised as :
 
@@ -155,7 +155,7 @@ The soul-form continuously associates the organism's tissues with one coherent i
 Animic resistance impedes :
 
 - direct expenditure upon living tissue
-- unauthorised reagent selection
+- unauthorised subject selection
 - unauthorised Resonant links
 - alteration of internal bodily boundaries
 - manipulation of neural or Signetic activity
@@ -185,7 +185,7 @@ Primed-mana saturation may :
 - raise the concentration required for Attuned mana to operate
 - destabilise foreign mana flows
 - increase permutation loss
-- impede reagent binding
+- impede subject binding or required reagent coupling
 - obscure precise mana sensing
 - disrupt construct formation
 - provide passive resistance against unstructured casting
@@ -205,7 +205,7 @@ Animic resistance makes living organisms poor targets for crude or unstructured 
 
 Structured spells may overcome this resistance through greater throughput, prolonged exposure, precise interfaces, Resonant familiarity, exploitation of weak boundaries, cooperation, or specialised countermeasures. Resistance is nevertheless a general protection rather than an absolute prohibition.
 
-The threshold behaviour of living reagents, practical attack limitations, and the limits of magical medicine belong to **Reagent Operations**.
+The threshold behaviour of living subjects, practical attack limitations, and the limits of magical medicine belong to **[[06 Spell Subjects|Spell Subjects]]**.
 
 
 **Animic Medicine** is the study of soul-form health, injury, resistance, and its role in medical practice.
@@ -525,7 +525,7 @@ Possible consequences include :
 - loss of fine manipulation
 - phantom sensations
 - altered animic signature
-- unstable reagent boundaries
+- unstable subject boundaries
 - susceptibility to foreign anchoring
 - partial dissociation between body and soul-form
 - persistent leakage or turbulence

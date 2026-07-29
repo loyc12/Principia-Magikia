@@ -1,6 +1,6 @@
 # Mana Casting
 
-**Mana casting** is the deliberate manipulation of mana, including moving, gathering, constraining, attuning, supplying, and expending it. It is the broad term for an operator's active use of mana, whether or not that use produces an immediate attributed operation upon a [[06 Spell Reagents|reagent]].
+**Mana casting** is the deliberate manipulation of mana, including moving, gathering, constraining, attuning, supplying, and expending it. It is the broad term for an operator's active use of mana, whether or not that use produces an immediate attributed operation upon a [[06 Spell Subjects|spell subject]].
 
 ## Casting and Shaping Terminology
 
@@ -14,7 +14,7 @@ Therefore, all mana shaping and spell casting are mana casting. Mana shaping is 
 
 Mana casting achieves magical effects through two broad paths :
 
-- **Unstructured Casting** directly condenses already Attuned mana against a nearby reagent until its reagent-specific expenditure threshold is exceeded
+- **Unstructured Casting** directly condenses already Attuned mana against a nearby subject until its subject-specific expenditure threshold is exceeded
 - **Spell Casting** creates, modifies, instantiates, activates, supervises, or uses a spell assembly to select, constrain, coordinate, and regulate Expenditure
 
 These paths describe the casting mechanism. **Wild Casting** describes a different dimension: an evolved or innate anatomical system supplies the control routine rather than learned practice or conscious construction. It may therefore take either mechanical path.
@@ -33,11 +33,12 @@ A casting process may involve several functional roles. These roles need not cor
 | ------------- | ---------------------------------------------------------------------------------------- |
 | **Source**    | Provides Primed or Attuned mana to the spell assembly                                    |
 | **Reservoir** | Stores or buffers mana before or during execution                                        |
-| **Conduit**   | Carries mana between sources, constructs, instruments, and/or reagents                   |
+| **Conduit**   | Carries mana between sources, constructs, instruments, and/or subjects                   |
 | **Attuner**   | Permutes Primed mana into one or more required attributes                                |
 | **Host**      | Physically or somatically maintains a structured spell assembly                          |
 | **Operator**  | Manipulates mana directly or supplies parameters, references, activation, or supervision |
-| **Reagent**   | Receives the casting's attributed operations                                             |
+| **Subject**   | Receives the casting's attributed operations                                             |
+| **Reagent**   | A material subject or subject component whose mana-relevant profile the casting deliberately uses |
 | **Sink**      | Receives Spent mana, excess flow, or permutation loss                                    |
 
 These casting roles describe the participants and physical pathways involved in casting. They are distinct from **construct components**, which define the internal behaviour of an individual mana construct and are absent from purely Unstructured Casting.
@@ -98,7 +99,7 @@ Every individual casting attempt may be described through the preceding dimensio
 
 | Casting Archetype        | Typical Classification           | Description                                                                                                                                         |
 | ------------------------ | -------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Unstructured Casting** | Non-formulaic + Somatic          | An operator directly condenses available Attuned mana against a nearby reagent until its expenditure threshold is exceeded.                         |
+| **Unstructured Casting** | Non-formulaic + Somatic          | An operator directly condenses available Attuned mana against a nearby subject until its expenditure threshold is exceeded.                         |
 | **Wild Casting**         | Instinctive + Somatic            | A specialised biological system supplies a fixed mana-control routine, producing either direct Unstructured Casting or a narrow spell assembly.     |
 | **Reflexive Casting**    | Reflexive + Somatic              | A caster reconstructs and activates a memorised spell pattern through trained procedural memory and external helper cues.                         |
 | **Structured Casting**   | Structured + Usually Somatic     | A caster consciously assembles, modifies, derives, or supervises a spell according to understood construct logic.                                   |
@@ -115,11 +116,11 @@ These archetypes are neither exhaustive nor mutually exclusive. A structured cas
 
 **Unstructured Casting** is the direct Expenditure of already Attuned mana without the use of a declared mana construct.
 
-The caster uses their soul-form to gather and condense a specific mana attribute against a nearby reagent until its reagent-specific expenditure threshold is exceeded. Once triggered, the Attuned mana performs its primitive operation according to its attribute and the local relationship between mana and reagent.
+The caster uses their soul-form to gather and condense a specific mana attribute against a nearby subject until its subject-specific expenditure threshold is exceeded. Once triggered, the Attuned mana performs its primitive operation according to its attribute and the local relationship between mana and subject. A caster may deliberately choose a reagent subject for a helpful or inhibiting material affinity, but ordinary direct casting does not require one.
 
 Unstructured Casting does not permit the caster to declare a broad desired result. The operator can only exert coarse control over :
 
-- which nearby reagent is contacted
+- which nearby subject is contacted
 - the approximate point or surface of application
 - how much Attuned mana is condensed
 - whether the mana is added or withdrawn where the attribute permits it
@@ -128,7 +129,7 @@ Unstructured Casting does not permit the caster to declare a broad desired resul
 
 Unstructured Casting is normally limited to touch or near-touch range, as direct somatic control weakens rapidly with distance, while the absence of Selection, Bounding, Directing, Regulating, and Sensing components makes remote application unreliable at best, and impossible at worse.
 
-This casting method is easiest with abundant, stable, and familiar attributes and simple reagents. Kinetic and Radiant mana are therefore the most common attributes to be used in this manner, while rare, unstable, or weakly understood attributes are seldom handled non structurally.
+This casting method is easiest with abundant, stable, and familiar attributes and simple nearby subjects. It becomes more controllable when a subject is selected as a reagent for a known affinity or threshold profile. Kinetic and Radiant mana are therefore the most common attributes to be used in this manner, while rare, unstable, or weakly understood attributes are seldom handled non structurally.
 
 Typical Unstructured operations include :
 
@@ -150,7 +151,7 @@ Its primary limitations are :
 
 - dependence upon locally available or stored Attuned mana
 - touch or near-touch range
-- poor reagent discrimination
+- poor subject discrimination
 - imprecise boundaries
 - weak directional control
 - no automatic feedback or termination
@@ -170,13 +171,13 @@ Reservoirs greatly extend Unstructured Casting's usefulness. A container of pre-
 
 A soul-form is necessary for such organisms to couple to mana, but it is not sufficient to make an ordinary organism a caster. Wild-casting organisms require specialised anatomical, biochemical, crystalline, symbiotic, or otherwise biologically coupled systems that supply a fixed sensory, control, and discharge routine. These systems may take the form of a single organ or of functions distributed across tissues, mineral inclusions, symbionts, developmental structures, or several cooperating organisms.
 
-Wild casting is most often observed in animals, though certain plants, fungi, colonies, bacteria, and composite or artificial organisms also display comparable phenomena. Its effects are generally narrow, strongly constrained, and specific to particular reagents or environmental conditions. Within the circumstances for which they evolved, however, they may be extremely rapid, reliable, and mana-efficient.
+Wild casting is most often observed in animals, though certain plants, fungi, colonies, bacteria, and composite or artificial organisms also display comparable phenomena. Its effects are generally narrow, strongly constrained, and specific to particular subjects, reagent profiles, or environmental conditions. Within the circumstances for which they evolved, however, they may be extremely rapid, reliable, and mana-efficient.
 
 ### Wild Unstructured Casting
 
-**Wild Unstructured Casting** occurs when specialised anatomy shapes the organism's soul-form into a fixed direct-control routine. That routine gathers and condenses already Attuned mana against a compatible nearby reagent without instantiating a spell assembly. It is mechanically Unstructured Casting, but it is not learned, consciously parameterised, or generally adaptable.
+**Wild Unstructured Casting** occurs when specialised anatomy shapes the organism's soul-form into a fixed direct-control routine. That routine gathers and condenses already Attuned mana against a compatible nearby subject without instantiating a spell assembly. It is mechanically Unstructured Casting, but it is not learned, consciously parameterised, or generally adaptable.
 
-Such adaptations commonly produce a single reflexive operation: a defensive discharge, a warming or cooling response, a crude pressure pulse, a charge transfer, or another direct effect tied to a narrow trigger and reagent class. An organism may possess Attuned-mana storage tissue without this discharge mechanism; storage or passive Attunement alone does not constitute Wild Casting.
+Such adaptations commonly produce a single reflexive operation: a defensive discharge, a warming or cooling response, a crude pressure pulse, a charge transfer, or another direct effect tied to a narrow trigger, subject class, or reagent profile. An organism may possess Attuned-mana storage tissue without this discharge mechanism; storage or passive Attunement alone does not constitute Wild Casting.
 
 ### Wild Structured Casting
 
@@ -211,7 +212,7 @@ Reports of sapient children performing Wild Casting without identifiable special
 
 ### Limitations
 
-- narrow range of valid reagents and effects
+- narrow range of valid subjects, reagent profiles, and effects
 - little or no conscious parameterisation
 - poor composability
 - difficult to alter through training
@@ -226,11 +227,11 @@ The caster does not preserve a continuously existing construct within their mind
 
 Reflexive casting is to structured casting what executing a rehearsed procedure is to designing or modifying that procedure.
 
-Nearly all commonly shared reflexive spells are **cantrips** : standardised, overconstrained spell templates designed for safe and repeatable public use. Their accepted mana types, reagent classes, parameter ranges, throughput, and termination behaviour are deliberately limited to prevent misuses or accidents.
+Nearly all commonly shared reflexive spells are **cantrips** : standardised, overconstrained spell templates designed for safe and repeatable public use. Their accepted mana types, subject classes, reagent profiles where applicable, parameter ranges, throughput, and termination behaviour are deliberately limited to prevent misuses or accidents.
 
 A reflexive caster may normally adjust only the inputs exposed by the cantrip's template, such as :
 
-- reagent selection
+- subject selection
 - direction
 - magnitude within a safe range
 - duration
@@ -287,7 +288,7 @@ Its common practices include :
 | -------------------- | ------------------------------------------------------------------------------------- |
 | **Composition**      | Arranging established components and constructs into a compatible assembly            |
 | **Parameterisation** | Safely modifying exposed constants, ranges, references, or thresholds                 |
-| **Derivation**       | Adapting a known template to a new reagent, attribute, source, or operating condition |
+| **Derivation**       | Adapting a known template to a new subject, reagent profile, attribute, source, or operating condition |
 | **Refactoring**      | Replacing or reorganising components while preserving the spell's declared operation  |
 | **Original design**  | Producing a novel template or construct architecture                                  |
 | **Live shaping**     | Altering a construct's Primed scaffold during activation or execution                  |
@@ -295,7 +296,7 @@ Its common practices include :
 | **Supervision**      | Continuously regulating a complex, unstable, or partially autonomous execution        |
 | **Maintenance**      | Realigning an activated spell assembly towards its intended state                      |
 
-A novice structured caster may be capable of adjusting a known reagent boundary or replacing a standard Sourcing component while remaining unable to design a stable regulator or original feedback system.
+A novice structured caster may be capable of adjusting a known subject boundary or substituting a known reagent profile while remaining unable to design a stable regulator or original feedback system.
 
 **Glyph systems** are the principal pedagogical and analytical tools of Structured Casting. They permit spell logic to be represented in a reproducible form suitable for inspection, communication, derivation, and criticism.
 
@@ -306,7 +307,7 @@ Glyphs remain abstractions rather than sources of magical efficacy, and are dist
 - highly flexible
 - capable of composing several primitive operations together
 - capable of producing novel spells and combined effects
-- permits adaptation to unusual reagents and environments
+- permits adaptation to unusual subjects, reagent profiles, and environments
 - forms the basis of research, diagnostics, enchanting, medical thaumaturgy, and advanced invocation
 
 ### Limitations
@@ -329,7 +330,7 @@ Glyphs remain abstractions rather than sources of magical efficacy, and are dist
 
 **Instrumental Casting** is the use of an external artefact or installation to host and execute part or all of a spell assembly.
 
-The user may provide mana, activation, reagent references, direction, magnitude, or a choice among predefined modes, while the instrument performs the construct operations assigned to it.
+The user may provide mana, activation, subject references, direction, magnitude, or a choice among predefined modes, while the instrument performs the construct operations assigned to it. An instrument may additionally require a declared reagent profile for a material subject that it is designed to exploit.
 
 Instrumental Casting ranges from supportive tools that offload one or more components or concern from a structured caster to autonomous engines that perform repeated regulated work without routine supervision.
 

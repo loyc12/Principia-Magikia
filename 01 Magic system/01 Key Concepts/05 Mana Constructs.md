@@ -53,14 +53,14 @@ An empty construct scaffold cannot enact a controlled magical effect by itself. 
 
 To have any meaningful ability, a construct scaffold must be be **imbued** with **construct components**, which embed specific functions into the scaffold and collectively define its behaviour during execution.
 
-This imbuing process is known as **component declaration**. The declaration specifies which mana attributes may be expended operationally, which reagents may be selected, how inputs are gathered and processed, and under what conditions the construct may activate, regulate itself, or terminate.
+This imbuing process is known as **component declaration**. The declaration specifies which mana attributes may be expended operationally, which subjects may be selected, which reagent profiles are required where applicable, how inputs are gathered and processed, and under what conditions the construct may activate, regulate itself, or terminate.
 
 A component's semantic role does not inherently require a specialised mana attribute. A Timing component can measure ordinary elapsed time, a Selection component can distinguish iron from wood, and a Processing component can compare values without Signetic mana. Specialised attributes are required only when a component must exceed ordinary construct capabilities.
 
 Mana used by a declared construct may therefore fulfil three broad roles :
 
 - **Constructive Primed mana** is constrained within the scaffold or its components to encode and stabilise declared behaviour, as well as shield the construct from unwanted interference
-- **Operational Attuned mana** is expended to alter a reagent via directed application of its operational attribute, such as how kinetic mana is used to impart velocity or thermal changes
+- **Operational Attuned mana** is expended to alter a subject via directed application of its operational attribute, such as how kinetic mana is used to impart velocity or thermal changes
 - **Auxiliary Attuned mana** is expended by specialised components to regulate internal behaviour, such as how Resonant mana is used for remote or persistent sensing
 
 Components may occur any number of times within a construct and are connected to one another or to the outside world according to both their internal interfaces and the scaffold's topology itself.
@@ -75,20 +75,20 @@ Below is a list of the most commonly used component archetypes families and thei
 | ---------------- | ---------------------------------------------------------------------------------- |
 | **Sourcing**     | Defines accepted mana sources and types                                            |
 | **Attuning**     | Defines the required attunement process, if any                                    |
-| **Selection**    | Defines and validate eligible target reagents                                      |
-| **Bounding**     | Defines the affected region or quantity inside the selected reagent                |
+| **Selection**    | Defines and validates eligible target subjects and any required reagent criteria   |
+| **Bounding**     | Defines the affected region or quantity inside the selected subject                |
 | **Anchoring**    | Determines what the construct follows or remains attached to                       |
 | **Directing**    | Defines vectors, orientation, and propagation                                      |
 | **Regulating**   | Defines magnitude and rate of operation                                            |
 | **Timing**       | Defines duration, delay, rhythm, or termination timing                             |
 | **Funnelling**   | Guides mana and mana signals within the construct                                  |
-| **Sensing**\*    | Inspects reagent or environmental properties                                       |
+| **Sensing**\*    | Inspects subject or environmental properties                                       |
 | **Processing**   | Converts inspected properties and internal state into specific component behaviour |
 | **Warding**      | Detects, absorbs, or corrects internal flow disruptions                            |
 | **Dissipating**  | Handles excess mana and permutation loss in a graceful manner                      |
 | **Coupling**     | Establishes declared interfaces with another coupled constructs                    |
-| **Operating**    | Expend attuned mana onto the predefined reagent's bounded region                   |
-*\*A Sensing component may directly inspect properties of a reagent that relate to the construct's available mana attributes. Resonant mana is required for unrelated, indirect, remote, relational, or persistent inspection.*
+| **Operating**    | Expends Attuned mana upon the predefined subject's bounded region                  |
+*\*A Sensing component may directly inspect subject properties relevant to the construct's available mana attributes, including a required reagent profile. Resonant mana is required for unrelated, indirect, remote, relational, or persistent inspection.*
 
 Components may exchange mana, values, references, and control signals through declared **interfaces**. Interfaces limit what may pass between components and constructs, preventing Coupling components from acting as unrestricted channels, which might destabilise the entire construct trough unregulated mana flow. A component may expose one or more of the following interface categories :
 
@@ -97,7 +97,7 @@ Components may exchange mana, values, references, and control signals through de
 | **Flow**      | Mana of specified types and within specified throughput limits   |
 | **Control**   | Activation, gating, synchronisation, and termination signals     |
 | **Parameter** | Magnitudes, vectors, durations, rates, and other declared values |
-| **Reference** | Reagent, component, construct, or location references            |
+| **Reference** | Subject, reagent-profile, component, construct, or location references |
 | **State**     | Sensed, processed, or retained information                       |
 | **Fault**     | Error conditions, warnings, and emergency termination signals    |
 
@@ -151,7 +151,7 @@ Once execution begins :
 - Sensing components update observations;
 - Processing components derive state or control values;
 - Regulating components alter throughput and output;
-- Operating components expend Attuned mana upon the selected reagent;
+- Operating components expend Attuned mana upon the selected subject;
 - termination conditions deactivate or dismantle the system.
 
 The execution cycle can nevertheless be described through three broad stages :
@@ -160,14 +160,14 @@ The execution cycle can nevertheless be described through three broad stages :
 #### Initialisation
 
 1. **Acquire** - Sourcing components draw or accept mana
-2. **Validate** - The construct checks mana types, interface compatibility, reagent eligibility, and activation conditions
+2. **Validate** - The construct checks mana types, interface compatibility, subject eligibility, required reagent profiles, and activation conditions
 3. **Attune** - Primed mana is converted where required
-4. **Address** - The reagent and affected region are resolved
+4. **Address** - The subject and affected region are resolved
 5. **Parameterise** - Magnitude, direction, rate, duration, and other variable constraints are established
 
 #### Active Operation
 
-6. **Apply** - Attuned mana performs its primitive operation upon the reagent
+6. **Apply** - Attuned mana performs its primitive operation upon the subject
 7. **Observe** - Sensing components inspect relevant changes
 8. **Process** - Processing components convert observations into state, parameters, or control signals
 9. **Regulate** - Feedback modifies mana flow, parameters, or termination state
@@ -189,7 +189,7 @@ Constructs may also be either :
 - **stateless**, responding only to current inputs and conditions
 - **stateful**, retaining prior observations, values, or activation history between cycles
 
-Successful validation does not guarantee successful execution. Runtime conditions may change, reagent bounds, may be invalidated, mana supplies may destabilise, feedback may diverge, or coupled constructs may become unreachable. Such conditions must be routed into declared **Fault interfaces** and handled through **termination behaviour.**
+Successful validation does not guarantee successful execution. Runtime conditions may change, subject bounds may be invalidated, required reagent conditions may cease to hold, mana supplies may destabilise, feedback may diverge, or coupled constructs may become unreachable. Such conditions must be routed into declared **Fault interfaces** and handled through **termination behaviour.**
 
 
 **Execution Theory** is the study of runtime mana flow, component dependency, concurrency, feedback, state, and recurrent operation within active constructs.
@@ -209,7 +209,7 @@ Below is a list of frequent construct failure types that termination behaviour m
 | **Source starvation**    | Insufficient or interrupted mana supply                           |
 | **Attribute mismatch**   | Supplied mana does not match component requirements               |
 | **Interface mismatch**   | Connected inputs and outputs are mutually incompatible            |
-| **Selection failure**    | A reagent cannot be resolved                                      |
+| **Selection failure**    | A required subject or reagent profile cannot be resolved           |
 | **Boundary leak**        | An operation escapes its declared region                          |
 | **Regulation failure**   | Output exceeds declared or safe values                            |
 | **Feedback oscillation** | Corrective loops repeatedly overcompensate                        |

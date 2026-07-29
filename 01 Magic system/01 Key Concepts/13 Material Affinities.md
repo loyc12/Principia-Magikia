@@ -64,7 +64,7 @@ Use one profile for each distinct material, prepared material, biological tissue
 #### Operational Notes
 
 - **Attunement and storage:**
-- **Expenditure and reagent use:**
+- **Expenditure and reagent use:** _identify whether the material profile is deliberately required by a spell operating on a subject_
 - **Construct use:**
 - **Hazards, contamination, or failure modes:**
 - **Open questions:**
@@ -75,4 +75,4 @@ The Dimensional row records only how Dimensional mana interacts with the materia
 
 A **selective attunement medium** retains matching background Attuned fluctuations long enough for a seed to form. It does not command nearby Primed mana to assume an attribute. A **decaying medium** destabilises one or more Attuned attributes or prevents their local retention, increasing Detuning and associated loss.
 
-An **affinity** is any recorded tendency in a material's interaction with a mana state or attribute, positive or negative. It is not a guarantee of successful Attunement, storage, or Expenditure: concentration, thresholds, compatible reagents, containment, and control remain decisive.
+An **affinity** is any recorded tendency in a material's interaction with a mana state or attribute, positive or negative. A spell may declare a material subject or subject component a **reagent** when it deliberately relies upon such an interaction. An affinity is not a guarantee of successful Attunement, storage, or Expenditure: concentration, subject thresholds, containment, and control remain decisive.

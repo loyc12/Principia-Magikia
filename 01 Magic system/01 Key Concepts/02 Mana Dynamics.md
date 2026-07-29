@@ -45,7 +45,7 @@ The three mana states are not interchangeable stores of the same immediately usa
 | **Attuned** | Performs the primitive operation associated with its attribute when properly expended | Attribute-specific; less generally reactive than Primed mana but still subject to flow, affinity, and local concentration | Kept separated by attribute, stored in reservoirs, and supplied to a construct or direct operation |
 | **Spent** | Residual product of Expenditure and Attunement | Nearly inert and drawn upward towards eventual Priming | Dissipated, removed from active systems, or allowed to re-enter the natural Priming cycle |
 
-Primed mana is flexible because it has not yet been committed to one attribute, but this flexibility is not immediate magical power. It cannot by itself heat, move, bind, illuminate, or otherwise perform an attributed operation. Attuned mana is correspondingly less flexible but more immediately useful: it can be expended directly, provided its concentration and coupling exceed the relevant [[06 Spell Reagents|reagent's]] expenditure threshold.
+Primed mana is flexible because it has not yet been committed to one attribute, but this flexibility is not immediate magical power. It cannot by itself heat, move, bind, illuminate, or otherwise perform an attributed operation. Attuned mana is correspondingly less flexible but more immediately useful: it can be expended directly, provided its concentration and coupling exceed the relevant [[06 Spell Subjects|subject's]] expenditure threshold.
 
 ### Primed Mana as a Constructive Medium
 
@@ -112,7 +112,7 @@ Attuned mana is more valuable as a working supply but less convenient as a gener
 
 Existing Attuned mana biases nearby Primed mana toward the same attribute, making local Attunement partly self-propagating. This permits reservoirs and dedicated Attuning installations to cultivate favourable conditions, but excessive concentration also increases the difficulty of separation, containment, and waste management.
 
-Attuned mana does not normally perform its primitive operation merely by being stored beside a compatible reagent. Expenditure requires sufficient local concentration and coupling. Primed mana presents the opposite practical concern: its reactivity makes it useful for construction and conversion, but also makes saturation, interference, and uncontrolled permutation the central risks of handling it.
+Attuned mana does not normally perform its primitive operation merely by being stored beside a compatible subject. Expenditure requires sufficient local concentration and coupling; a deliberately exploited material affinity may additionally make that subject a reagent. Primed mana presents the opposite practical concern: its reactivity makes it useful for construction and conversion, but also makes saturation, interference, and uncontrolled permutation the central risks of handling it.
 
 ### Mana Purity and Contamination
 

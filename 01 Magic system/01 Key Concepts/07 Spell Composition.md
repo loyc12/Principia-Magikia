@@ -2,11 +2,11 @@
 
 At their core, spells are **operationally unified systems** of one or more [[05 Mana Constructs|mana constructs]], connected through declared interfaces and directed towards a shared process, effect, or termination condition. They are the defining products of [[08 Mana Casting|Structured Casting]] and are distinct from the isolated attributed operations produced through Unstructured Casting.
 
-A collection of nearby or interacting constructs does not necessarily constitute a single spell by themselves. Constructs form one spell when their activation, reagent bindings, execution dependencies, supervisory structure, or termination behaviour establish them as parts of one coherent operation. This is of course a somewhat blurry line, and as such, the terms spell and spell-combination sometimes overlap in their use.
+A collection of nearby or interacting constructs does not necessarily constitute a single spell by themselves. Constructs form one spell when their activation, subject bindings, execution dependencies, supervisory structure, or termination behaviour establish them as parts of one coherent operation. Required reagent profiles may be part of a subject binding where the spell deliberately relies upon material affinities. This is of course a somewhat blurry line, and as such, the terms spell and spell-combination sometimes overlap in their use.
 
 While it is technically possible to accomplish any valid spell effect with a single sufficiently complex mana construct, such constructs rapidly become unwieldy and unstable. It is therefore preferable to **compose spells** by interconnecting more self-contained constructs, each with a dedicated purpose or task.
 
-Wholly disjoint spells targeting the same reagent often interfere with each other's attributed operations onto said reagent, hence the need to compose spells, so as to make each mana construct aware of each other's action where necessary.
+Wholly disjoint spells targeting the same subject often interfere with each other's attributed operations, hence the need to compose spells, so as to make each mana construct aware of each other's action where necessary. This is especially likely when they rely upon competing reagent profiles or operate on the same bounded material region.
 
 There are many ways to represent spells, but all rely upon **glyph systems**, which are abstract representations of construct components, scaffolds, interfaces, parameters, and other mana based elements.
 
@@ -22,7 +22,7 @@ Colloquially, the term _spell_ may refer to 5 distinct but interconnected concep
 | **Spell Execution** | A particular activation and runtime instance of a spell assembly                  |
 | **Spell Results**   | The attributed operations of an execution and their natural consequences          |
 
-**Spell Architecture** is the study of composing constructs into operationally unified assemblies through interfaces, shared reagents, dependencies, and supervisory structures.
+**Spell Architecture** is the study of composing constructs into operationally unified assemblies through interfaces, shared subjects, dependencies, and supervisory structures.
 
 **Compositional Thaumaturgy** is the study of how primitive operations and construct functions may be combined sequentially, concurrently, conditionally, or recurrently.
 
@@ -39,7 +39,7 @@ A connection is valid only when :
 - the input and output interface categories match
 - the transmitted mana types are accepted
 - parameter dimensions and ranges are compatible
-- reagent and construct references are meaningful to the receiver
+- subject, reagent-profile, and construct references are meaningful to the receiver
 - directionality is respected
 - throughput remains within the tolerances of both interfaces
 
@@ -64,7 +64,7 @@ A complete formula may specify :
 - component parameters
 - construct interfaces
 - mana types, sources, and expected throughput
-- reagent constraints
+- subject constraints and any required reagent profiles
 - activation conditions
 - execution dependencies
 - termination behaviour
@@ -99,7 +99,7 @@ A template defines :
 - required constructs and their responsibilities
 - component relationships
 - required input mana types and permissible sources
-- accepted reagent types
+- accepted subject types and required reagent profiles
 - parameters and their valid ranges
 - required primitive operations
 - inputs, outputs, and interface connections
@@ -110,13 +110,13 @@ A template defines :
 - termination cases
 - safety invariants
 
-Templates may be fixed, parameterised, generic over a reagent class, generic over an attribute, or partially specialised.
+Templates may be fixed, parameterised, generic over a subject class, generic over a reagent profile, generic over an attribute, or partially specialised.
 
 For example :
 
 > Transfer Kinetic momentum to a bounded object along a declared vector until a target velocity is reached.
 
-This describes a spell template. A formula that fixes the reagent as a 2 kg iron sphere, the direction as northward, and the target velocity as 10 m/s describes a more specialised instantiation of that template.
+This describes a spell template. A formula that fixes the subject as a 2 kg iron sphere, the direction as northward, and the target velocity as 10 m/s describes a more specialised instantiation of that template. If it relies upon iron's Kinetic affinity, it additionally declares iron as a reagent profile.
 
 Two spells may resemble one another without being equivalent in every respect :
 
@@ -124,7 +124,7 @@ Two spells may resemble one another without being equivalent in every respect :
 - **Operation equivalent spells** perform the same primitive attributed operations.
 - **Architecture equivalent spells** use the same construct organisation and interface graph.
 
-For example, direct Kinetic excitation, Radiant absorption, and Galvanic resistance heating may all heat a reagent, but they are only effect-equivalent. Their primitive operations, reagent constraints, waste profiles, and risks remain distinct.
+For example, direct Kinetic excitation, Radiant absorption, and Galvanic resistance heating may all heat a subject, but they are only effect-equivalent. Their primitive operations, subject constraints, reagent requirements, waste profiles, and risks remain distinct.
 
 Templates may be **derived** by extending, constraining, or specialising an earlier design. A general Kinetic impulse template may therefore serve as the basis for projectile-launching, recoil-compensating, or self-correcting variants without requiring each design to be recreated from first principles.
 
@@ -143,7 +143,7 @@ An assembly includes :
 - the couplings and interfaces between them
 - active and dormant components
 - contained and flowing mana
-- reagent bindings
+- subject bindings and any required reagent profiles
 - runtime state
 - scaffold and interface integrity
 - anchoring, hosting, or ownership relationships
@@ -177,19 +177,19 @@ Complex assemblies may be orchestrated through a central supervisory construct, 
 
 A **spell execution** is a particular runtime instance of an activated spell assembly.
 
-While construct execution describes the behaviour of one scaffold and its components, spell execution describes the coordinated behaviour of the entire assembly. It determines when constructs activate, how they exchange inputs and outputs, how shared reagents and mana sources are resolved, and how local failures affect the wider spell.
+While construct execution describes the behaviour of one scaffold and its components, spell execution describes the coordinated behaviour of the entire assembly. It determines when constructs activate, how they exchange inputs and outputs, how shared subjects, reagent profiles, and mana sources are resolved, and how local failures affect the wider spell.
 
 A spell execution forms a directed graph of mana flows, parameter dependencies, state changes, and control signals. Its branches may occur sequentially, concurrently, recurrently, or conditionally. The graph may remain fixed throughout execution or change among predefined configurations in response to observations.
 
 Spell execution is generally divided into :
 
-- **Assembly initialisation**, during which shared sources, interfaces, parameters, and reagent bindings are validated;
+- **Assembly initialisation**, during which shared sources, interfaces, parameters, subject bindings, and required reagent profiles are validated;
 - **Coordinated operation**, during which constructs perform and regulate their assigned tasks;
 - **Assembly finalisation**, during which outputs are completed, faults are contained, and constructs terminate or return to dormancy in a safe order.
 
 The failure of one construct does not necessarily terminate the entire spell. Fault interfaces may allow the assembly to isolate a damaged branch, substitute a redundant construct, degrade its output, or initiate graceful termination. Unhandled failures may instead cascade through shared mana sources, references, or control couplings.
 
-Each activation of the same assembly constitutes a distinct execution, even when its formula, template, constructs, and nominal parameters remain unchanged. Environmental conditions, reagent state, and prior assembly wear may therefore cause repeated executions to produce slightly different results.
+Each activation of the same assembly constitutes a distinct execution, even when its formula, template, constructs, and nominal parameters remain unchanged. Environmental conditions, subject state, required reagent conditions, and prior assembly wear may therefore cause repeated executions to produce slightly different results.
 
 A continuously executing spell, such as wards, may still be made up of **sub-executions**, which are discrete events, generally occurring inside one or multiple default stand-by state.
 
@@ -200,7 +200,7 @@ A continuously executing spell, such as wards, may still be made up of **sub-exe
 
 ### Spell Types
 
-Spell types are not exclusive natural categories. They are independent classifications describing different aspects of a spell's operation, architecture, reagent relationship, or use. As such, there are a multitude of axis along which spell can be broken into. Below are the most common ones :
+Spell types are not exclusive natural categories. They are independent classifications describing different aspects of a spell's operation, architecture, subject relationship, reagent reliance, or use. As such, there are a multitude of axis along which spell can be broken into. Below are the most common ones :
 
 #### By Duration
 
@@ -232,14 +232,14 @@ Spell types are not exclusive natural categories. They are independent classific
 | **Hierarchical**  | The spell is organised into supervisory layers, with higher-level constructs coordinating, activating, or regulating lower-level constructs                                                 |
 | **Networked**     | The spell consists of multiple interconnected constructs or assemblies that exchange mana, state, references, or control signals without necessarily relying on a single central supervisor |
 
-#### By Reagent Relationship
+#### By Subject Relationship
 
 | Type                 | Description                                                    |
 | -------------------- | -------------------------------------------------------------- |
-| **Directed**         | Acts upon a separately selected reagent                        |
+| **Directed**         | Acts upon a separately selected subject                        |
 | **Anchored**         | Acts upon what the spell or one of its constructs is attached to |
 | **Volumetric**       | Acts throughout a bounded region                               |
-| **Relational**       | Acts upon a link or relationship between reagents              |
+| **Relational**       | Acts upon a link or relationship between subjects              |
 | **Self-referential** | Acts upon the construct, assembly, instrument, or caster itself |
 
 #### By Hosting Substrate
@@ -257,7 +257,7 @@ Magical traditions also classify spells in **schools** based on various subjecti
 Prime examples of the school system would be the various widespread **Elemental Schools** and **Applicative Schools**, which each classify spells based on the elemental association and spell outcome respectively.
 
 
-**Thaumaturgic Taxonomy** is the study of spell classification according to duration, control behaviour, architecture, reagent relationship, hosting substrate, practical use, or any other target attribute.
+**Thaumaturgic Taxonomy** is the study of spell classification according to duration, control behaviour, architecture, subject relationship, reagent reliance, hosting substrate, practical use, or any other target attribute.
 
 **Comparative Spellcraft** is the study of equivalent or competing spell designs across different attributes, architectures, traditions, and applications.
 

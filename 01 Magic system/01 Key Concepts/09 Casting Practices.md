@@ -95,7 +95,7 @@ Engines differ from ordinary implements chiefly in operational duration, through
 
 **Ward Casting** is the construction or activation of spells whose primary purpose is detection, regulation, exclusion, containment, correction, or response.
 
-Wards may detect crossings, mana flows, selected reagents, construct interference, or other declared conditions. Their response may include signalling, blocking, redirecting, dissipating, isolating, or activating another spell.
+Wards may detect crossings, mana flows, selected subjects, required reagent conditions, construct interference, or other declared conditions. Their response may include signalling, blocking, redirecting, dissipating, isolating, or activating another spell.
 
 Because wards frequently remain dormant for extended periods before activation, their reliability depends heavily upon persistent scaffold stability, environmental tolerance, stable long term mana sourcing, maintenance frequency, and graceful handling of degraded components.
 
@@ -117,4 +117,4 @@ Their principal difficulties include :
 - local environmental variation
 - partial failure
 - fault cascades
-- maintaining a coherent shared reagent or boundary
+- maintaining a coherent shared subject, required reagent condition, or boundary

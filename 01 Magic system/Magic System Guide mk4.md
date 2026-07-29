@@ -24,13 +24,13 @@ Soul-forms are not identical to minds, personalities, or consciousness. They ena
 
 An artificial substrate can also produce a soul-form when it sustains sufficiently integrated, recurrent, and differentiated activity. This does not make an artificial body conscious; its design and development remain decisive.
 
-## Constructs, Reagents, and Spells
+## Constructs, Subjects, Reagents, and Spells
 
 [[05 Mana Constructs|Mana constructs]] are stable arrangements of Primed mana that establish form, relation, logic, and persistence. They can carry information: constants, inputs, controls, references, retained state, and outputs. Attuned mana provides the effect or work directed through that structure.
 
 A construct is not necessarily a spell. A [[07 Spell Composition|structured spell]] is a purposeful arrangement of components that governs a magical effect, normally combining a constructive arrangement with the appropriate Attuned mana and conditions. Its possible complexity is constrained by available mana, component compatibility, stability, and the caster's control.
 
-[[06 Spell Reagents|Reagents]] are the selected systems upon which non-Dimensional magic operates; their coupling and thresholds determine whether an attribute can act. [[13 Material Affinities|Material Affinities]] defines the material-side interactions involved. Dimensional mana instead directly operates upon a bounded region of space-time. Living bodies carry additional resistance through their organisation and soul-form; magic cannot simply disregard biology, matter, or injury.
+[[06 Spell Subjects|Spell subjects]] are the selected systems upon which magic operates; for Dimensional mana, the subject is a bounded region of space-time. **Targets** are subjects selected or aimed at by a particular casting. **Reagents** are the narrower material subjects, or components of them, whose mana affinities or interactions a spell deliberately uses. [[13 Material Affinities|Material Affinities]] defines those material-side interactions. Living bodies carry additional resistance through their organisation and soul-form; magic cannot simply disregard biology, matter, or injury.
 
 ## Casting
 

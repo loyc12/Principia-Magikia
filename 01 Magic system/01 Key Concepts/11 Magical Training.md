@@ -35,7 +35,7 @@ Each stage reinforces earlier ones. A learner who can reproduce a component arch
 | **Flow exercises** | Gathering, separating, moving, condensing, and releasing mana | The specified amount reaches its destination without harmful leakage, contamination, or fatigue. |
 | **Attunement exercises** | Establishing, maintaining, measuring, and terminating an attunement seed | The intended attribute reaches a specified purity, rate, or stability while Waste mana remains within limits. |
 | **Mana shaping exercises** | Forming stable Primed-mana scaffolds and instantiating component archetypes | The scaffold matches its intended geometry, survives inspection, and dissipates safely when released. |
-| **Unstructured Casting exercises** | Coupling already Attuned mana to a simple nearby reagent | Expenditure occurs at the intended threshold and location without uncontrolled spread. |
+| **Unstructured Casting exercises** | Coupling already Attuned mana to a simple nearby subject | Expenditure occurs at the intended threshold and location without uncontrolled spread. |
 | **Structured casting exercises** | Instantiating, parameterising, testing, and supervising declared spell assemblies | The assembly follows its declared behaviour, detects its required faults, and terminates safely. |
 
 Exercises can overlap. For example, an Attunement exercise may require flow control and a selective material core, while a structured casting exercise may use a pre-Attuned reservoir to isolate assembly behaviour from conversion. **Composite exercises** group two or more distinct exercises families into a single manipulation.
@@ -56,14 +56,14 @@ The exercise does not require the learner to understand every internal detail of
 
 An exercise is evaluated by more than whether it appears to work. Instructors and instruments may assess :
 
-- accuracy of sensing, geometry, state, or reagent coupling
+- accuracy of sensing, geometry, state, subject coupling, or reagent-profile assessment
 - rate, yield, purity, and stability of an Attunement process
 - containment, leakage, contamination, and Waste-mana handling
 - repeatability across attempts and changing conditions
 - fatigue, recovery, and retention of control under sustained load
 - correct recognition of fault conditions and safe termination
 
-Practice normally begins with small quantities, approved materials, simple reagents, accessible sinks, and a supervisor or passive safeguard. Exercises involving unstable attributes, living reagents, large Primed-mana concentrations, active spell assemblies, or difficult termination conditions require progressively stronger containment and oversight.
+Practice normally begins with small quantities, approved materials, simple subjects, accessible sinks, and a supervisor or passive safeguard. Exercises involving unstable attributes, living subjects, deliberately exploited reagent profiles, large Primed-mana concentrations, active spell assemblies, or difficult termination conditions require progressively stronger containment and oversight.
 
 ## Training Aids and Instruction
 

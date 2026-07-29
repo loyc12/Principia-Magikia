@@ -93,4 +93,4 @@ The modes describe how induced Attunement is achieved, not different forms of ma
 
 ## Use of the Model
 
-The model can be used to compare candidate materials, describe natural attunement sites, design reservoirs and Attuners, or explain why a conversion fails. It does not by itself specify a spell, a reagent interaction, or an attributed operation. Those subjects remain governed by [[05 Mana Constructs|Mana Constructs]], [[06 Spell Reagents|Reagent Operations]], and [[08 Mana Casting|Mana Casting]].
+The model can be used to compare candidate materials, describe natural attunement sites, design reservoirs and Attuners, or explain why a conversion fails. It does not by itself specify a spell, a reagent interaction, or an attributed operation. Those matters remain governed by [[05 Mana Constructs|Mana Constructs]], [[06 Spell Subjects|Spell Subjects]], and [[08 Mana Casting|Mana Casting]].

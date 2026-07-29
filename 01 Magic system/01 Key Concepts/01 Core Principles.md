@@ -1,6 +1,6 @@
 # Principles of Magic
 
-The following principles describe the broad constraints under which all known magical phenomena operate. They are not a complete mechanical account; detailed behaviour belongs to the topical references, especially [[02 Mana Dynamics|Mana Dynamics]], [[06 Spell Reagents|Reagent Operations]], and [[05 Mana Constructs|Mana Constructs]]. [[10 Mana Physics|Mana Physics]] provides an optional quantitative appendix.
+The following principles describe the broad constraints under which all known magical phenomena operate. They are not a complete mechanical account; detailed behaviour belongs to the topical references, especially [[02 Mana Dynamics|Mana Dynamics]], [[06 Spell Subjects|Spell Subjects]], and [[05 Mana Constructs|Mana Constructs]]. [[10 Mana Physics|Mana Physics]] provides an optional quantitative appendix.
 
 ### Principle I - Conservation of Mana
 
@@ -26,11 +26,11 @@ Attributes do not encode macroscopic intentions such as _burn_, _heal_, _protect
 
 All complex magical results must ultimately be reducible to one or more such primitive operations and their natural consequences.
 
-### Principle IV - Reagent Specificity
+### Principle IV - Subject Specificity
 
-Every non-Dimensional attributed operation must act upon an identified and bounded reagent. Dimensional mana directly operates upon an identified and bounded region of space-time instead.
+Every attributed operation must act upon an identified and bounded subject. For Dimensional mana, that subject is a bounded region of space-time.
 
-A structured spell identifies its reagent through selection, bounding, anchoring, and reference resolution. Unstructured Casting identifies it through direct local coupling. A Dimensional spell declares an equivalent bounded space-time region. Neither method can directly operate upon an undefined target or freely extend beyond its operative region; all other affected systems belong to the surrounding environment.
+A structured spell identifies its subject through selection, bounding, anchoring, and reference resolution. Unstructured Casting identifies it through direct local coupling. A subject is a **target** when a casting selects or aims at it. Neither method can directly operate upon an undefined target or freely extend beyond its operative region; all other affected systems belong to the surrounding environment. A **reagent** is the narrower case in which a spell deliberately relies upon the material profile of its subject or a bounded component of it.
 
 ### Principle V - Composability
 
@@ -42,11 +42,11 @@ Construct components may be composed within a scaffold, mana constructs may be c
 
 Mana directly performs only the primitive operations permitted by its attribute and, where a construct is used, constrained by its declaration.
 
-All unconstrained subsequent effects arise through the ordinary physical, biological, or metaphysical behaviour of the affected reagent and its environment. A casting may increase temperature, sever continuity, redistribute charge, or establish a dimensional gradient, but combustion, collapse, injury, motion, and other consequences propagate naturally unless separately regulated.
+All unconstrained subsequent effects arise through the ordinary physical, biological, or metaphysical behaviour of the affected subject and its environment. A casting may increase temperature, sever continuity, redistribute charge, or establish a dimensional gradient, but combustion, collapse, injury, motion, and other consequences propagate naturally unless separately regulated.
 
 ### Principle VII - Declarative Constraint
 
-A construct can enact only behaviour represented by its declaration and permitted by its available components, attributes, interfaces, and reagent bindings.
+A construct can enact only behaviour represented by its declaration and permitted by its available components, attributes, interfaces, subject bindings, and any required reagent profiles.
 
 Intent may select among declared possibilities or provide admissible parameters, but it cannot substitute for missing spell logic. A caster cannot command a construct to achieve an unspecified desired outcome.
 
@@ -78,7 +78,7 @@ Glyphs and formulas represent spell logic but do not themselves perform magic. A
 
 A structurally valid spell is not necessarily safe, useful, or semantically correct.
 
-Constructs may fail through malformed scaffolds, incompatible interfaces, environmental interference, unstable feedback, inadequate termination behaviour, or incorrect assumptions about their reagents. A spell may also execute exactly as declared while producing a result its designer did not intend.
+Constructs may fail through malformed scaffolds, incompatible interfaces, environmental interference, unstable feedback, inadequate termination behaviour, or incorrect assumptions about their subjects or reagent profiles. A spell may also execute exactly as declared while producing a result its designer did not intend.
 
 ### Principle XIII - Organisational Distinction
 

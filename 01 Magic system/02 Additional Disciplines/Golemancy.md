@@ -14,7 +14,7 @@ A golem is best understood as several interdependent layers :
 | --- | --- |
 | **Body** | Frame, materials, joints, tools, and other physical structures through which the golem affects the world |
 | **Actuation** | The attributed operations and mechanical systems that produce movement or other work |
-| **Sensorium** | Inputs concerning the body, environment, mana, and declared reagents |
+| **Sensorium** | Inputs concerning the body, environment, mana, declared subjects, and reagent profiles |
 | **Neurological substrate** | Recurrent control, sensorimotor mapping, memory, feedback, and persistent internal activity |
 | **Construct infrastructure** | Persistent spell assemblies for mana sourcing, attunement, control, safeguards, and termination |
 | **Operational identity** | Declared references defining the body, components, and authority of one coherent golemic system |
@@ -56,7 +56,7 @@ Movement is not a single primitive operation. A capable golem must account for i
 
 ## Sensorium
 
-A golem's **sensorium** consists of the components and instruments through which it observes itself and its environment. Possible senses include contact, joint position, structural strain, orientation, acceleration, light, sound, temperature, mana concentration and flow, Resonant links, and declared reagent or boundary detection.
+A golem's **sensorium** consists of the components and instruments through which it observes itself and its environment. Possible senses include contact, joint position, structural strain, orientation, acceleration, light, sound, temperature, mana concentration and flow, Resonant links, and declared subject, reagent-profile, or boundary detection.
 
 Sensing does not automatically imply understanding. A sensor produces observations; the neurological substrate or another declared construct must map those observations to values that can guide a response.
 
@@ -74,7 +74,7 @@ The **construct infrastructure** sources, stores, attunes, distributes, regulate
 
 Non-animic golems perform all meaningful work through this declared infrastructure. Animic golems still depend upon it: a soul-form cannot supply absent control pathways, interpret unmapped senses, execute an undeclared task, or create intelligence unsupported by the substrate.
 
-A mature animic golem may perform limited **Unstructured Casting** through its soul-form by condensing already Attuned mana against a nearby reagent. This permits coarse near-touch operations such as heating, cooling, vibration, charging, or crude binding. It does not replace declared actuation, selection, sensing, regulation, or safe termination, and it is strongly impeded by another organism's animic resistance.
+A mature animic golem may perform limited **Unstructured Casting** through its soul-form by condensing already Attuned mana against a nearby subject. This permits coarse near-touch operations such as heating, cooling, vibration, charging, or crude binding. It does not replace declared actuation, selection, sensing, regulation, or safe termination, and it is strongly impeded by another organism's animic resistance.
 
 ## Operational Identity and Animic Boundary
 
@@ -98,7 +98,7 @@ The theory of preservation, echoes, derivation, and artificial formation belongs
 
 ## Interface and Command
 
-Golems do not ordinarily interpret unrestricted natural language or abstract intention. Commands must correspond to inputs understood by declared interfaces, such as an activation signal, recognised task, destination, reagent reference, quantity, duration, priority, mode selection, or permission to begin or terminate a routine.
+Golems do not ordinarily interpret unrestricted natural language or abstract intention. Commands must correspond to inputs understood by declared interfaces, such as an activation signal, recognised task, destination, subject reference, quantity, duration, priority, mode selection, or permission to begin or terminate a routine.
 
 Animic golems may use somatic or Resonant interfaces that couple with their soul-forms. Such interfaces can provide richer bodily control and more flexible local adjustment, but they remain bounded inputs rather than direct access to thought. An animic signature may also support authorised-operator recognition or persistent Resonant relationships.
 
