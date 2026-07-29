@@ -127,7 +127,9 @@ Disturbances in nearby mana deform or excite the soul-form, and those changes we
 
 Conversely, deliberate neural and physiological activity alters the soul-form, allowing it to exert small forces upon nearby mana. This process forms the basis of conscious mana manipulation.
 
-The relationship may be summarised as :
+The mere presence of a soul-form does not give an organism practical casting ability. Reliable Unstructured Casting requires sufficient sensing, integrated control, and sustained mana coupling to gather an attribute at a reagent; most organisms lack some or all of these capacities even though their soul-forms still interact with mana. A specialised wild-casting organ may supply one fixed routine of this kind, but does not grant general casting skill or conscious control.
+
+The relationship between mana and neurology may be summarised as :
 
 > Mana disturbance -> Soul-form response -> Neural sensation
 

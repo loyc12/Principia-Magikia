@@ -224,13 +224,13 @@ Spell types are not exclusive natural categories. They are independent classific
 
 #### By Architecture
 
-|Architecture Type|Description|
-|---|---|
-|**Monolithic**|The spell is contained within a single mana construct, with all sourcing, processing, regulation, and operational functions sharing one scaffold.|
-|**Modular**|The spell is divided into several specialised constructs, each handling a distinct function and communicating through declared interfaces.|
-|**Distributed**|The spell's constructs are physically separated across multiple locations while remaining part of the same operationally unified assembly.|
-|**Hierarchical**|The spell is organised into supervisory layers, with higher-level constructs coordinating, activating, or regulating lower-level constructs.|
-|**Networked**|The spell consists of multiple interconnected constructs or assemblies that exchange mana, state, references, or control signals without necessarily relying on a single central supervisor.|
+| Architecture Type | Description                                                                                                                                                                                 |
+| ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Monolithic**    | The spell is contained within a single mana construct, with all sourcing, processing, regulation, and operational functions sharing one scaffold                                            |
+| **Modular**       | The spell is divided into several specialised constructs, each handling a distinct function and communicating through declared interfaces                                                   |
+| **Distributed**   | The spell's constructs are physically separated across multiple locations while remaining part of the same operationally unified assembly                                                   |
+| **Hierarchical**  | The spell is organised into supervisory layers, with higher-level constructs coordinating, activating, or regulating lower-level constructs                                                 |
+| **Networked**     | The spell consists of multiple interconnected constructs or assemblies that exchange mana, state, references, or control signals without necessarily relying on a single central supervisor |
 
 #### By Reagent Relationship
 

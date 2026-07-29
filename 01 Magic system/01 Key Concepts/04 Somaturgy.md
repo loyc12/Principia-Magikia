@@ -79,7 +79,7 @@ More advanced techniques arise from the simultaneous or sequential combination o
 
 ## Unstructured Casting
 
-Somaturgy supplies the bodily technique for **Unstructured Casting**: a soul-form gathers and condenses already Attuned mana against a nearby reagent. This is distinct from mana shaping, which arranges Primed mana into a scaffold that will later receive declared logic.
+Somaturgy supplies the learned bodily technique for **Unstructured Casting**: a soul-form gathers and condenses already Attuned mana against a nearby reagent. This is distinct from mana shaping, which arranges Primed mana into a scaffold that will later receive declared logic. Some wild organisms achieve an equivalent fixed direct-control routine through specialised anatomy rather than learned Somaturgy.
 
 The phrase **unstructured shaping** is sometimes used informally for direct mana manipulation. It is imprecise: direct, construct-free Expenditure is **Unstructured Casting**, because no stable construct geometry is formed. The attributes, practical operations, and full limits of Unstructured Casting belong to [[08 Mana Casting|Mana Casting]].
 

@@ -80,11 +80,11 @@ The quantitative relationships behind background, material-assisted, and induced
 
 **Induced Attunement** is the broad practical field of establishing or maintaining an attunement seed long enough for it to reach critical concentration. Its modes are distinguished by the means used to create and control that seed:
 
-| Mode | Means | Ordinary use |
-| --- | --- | --- |
-| **Material Attunement** | A selective attunement medium or favourable local condition captures and stabilises matching background fluctuations. | Natural deposits, passive reservoirs, ecological adaptations, and simple Attuning apparatus. |
-| **Unstructured Attunement** | A magus directly manipulates local mana through the soul-form, without a declared mana construct. | Training, small adjustments, emergency conversion, and improvised work. |
-| **Structured Attunement** | A declared spell assembly or Attuning component sources, confines, regulates, and separates the conversion process. | Reliable supply, high purity, controlled throughput, and safe waste handling. |
+| Mode                        | Means                                                                                                                | Ordinary use                                                                                |
+| --------------------------- | -------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
+| **Material Attunement**     | A selective attunement medium or favourable local condition captures and stabilises matching background fluctuations | Natural deposits, passive reservoirs, ecological adaptations, and simple Attuning apparatus |
+| **Unstructured Attunement** | A magus directly manipulates local mana through the soul-form, without a declared mana construct                     | Training, small adjustments, emergency conversion, and improvised work                      |
+| **Structured Attunement**   | A declared spell assembly or Attuning component sources, confines, regulates, and separates the conversion process   | Reliable supply, high purity, controlled throughput, and safe waste handling                |
 
 These modes may be combined. A structured Attuner often uses selective materials, and an unstructured practitioner may use a material core to make manual induction possible. **Unstructured Attunement** is direct mana casting, not **Unstructured Casting**: the latter is the direct Expenditure of mana that is already Attuned.
 
@@ -143,21 +143,21 @@ Soul-forms and other persistent active systems may locally stabilise their assoc
 
 > *Reminder : Attunement refers to a permutation process, while an attribute refers to the differentiated potential produced by that process.*
 
-Below are summary tables pertaining to the 11 known attuned **attributes** :
+Below are summary tables pertaining to the 11 known attuned **attributes**, in order of rarity :
 
-| Attribute      | Common Names                                | Operation Domain Description                                                                                                       |
-| -------------- | ------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
-| **Kinetic**    | Motion, Force, Heat, Explosion              | Change the momentum distribution of matter, whether uniformly or microscopically.                                                  |
-| **Radiant**    | Light, Illusion, Cloaking, Optics           | Emit, absorb, redirect, or otherwise manipulate free photons.                                                                      |
-| **Galvanic**   | Lightning, Magnetism                        | Change electric charges, currents, and quasi-static electromagnetic fields.                                                        |
-| **Volumic**    | Pressure, Density, Compression, Expansion   | Modify the metric volume occupied by a bounded material system without directly changing its topology, mass, or internal momentum. |
-| **Massic**     | Mass, Weight, Gravity                       | Modify an object's inertial and gravitational mass.                                                                                |
-| **Cohesive**   | Structure, Cohesion, Binding                | Change which portions of matter are mechanically continuous without directly specifying their chemical composition.                |
-| **Resonant**   | Linking, Observation, Divination            | Change the degree to which state changes in one system are detectable by, transmitted to, or correlated with another.              |
-| **Mnemonic**   | Memory, Recording, Engraving, Scrying, Mind | Encode information into, and decode information from, the physical medium in which it is stored.                                   |
-| **Temporal**\* | Acceleration, Preservation, Stasis          | Modify the local rate at which time progresses.                                                                                    |
-| **Spatial**\*  | Portal, Dimension, Teleportation            | Modify the layout of space itself.                                                                                                 |
-| **Ontic**\*    | Identity, Essence, Classification, Soul     | Modify what an object fundamentally _is_ according to magical law.                                                                 |
+| Attribute      | Common Names                                | Operation Domain Description                                                                                                      |
+| -------------- | ------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
+| **Kinetic**    | Motion, Force, Heat, Explosion              | Change the momentum distribution of matter, whether uniformly or microscopically                                                  |
+| **Radiant**    | Light, Illusion, Cloaking, Optics           | Emit, absorb, redirect, or otherwise manipulate free photons                                                                      |
+| **Galvanic**   | Lightning, Magnetism                        | Change electric charges, currents, and quasi-static electromagnetic fields                                                        |
+| **Volumic**    | Pressure, Density, Compression, Expansion   | Modify the metric volume occupied by a bounded material system without directly changing its topology, mass, or internal momentum |
+| **Massic**     | Mass, Weight, Gravity                       | Modify an object's inertial and gravitational mass                                                                                |
+| **Cohesive**   | Structure, Cohesion, Binding                | Change which portions of matter are mechanically continuous without directly specifying their chemical composition                |
+| **Resonant**   | Linking, Observation, Divination            | Change the degree to which state changes in one system are detectable by, transmitted to, or correlated with another              |
+| **Mnemonic**   | Memory, Recording, Engraving, Scrying, Mind | Encode information into, and decode information from, the physical medium in which it is stored                                   |
+| **Temporal**\* | Acceleration, Preservation, Stasis          | Modify the local rate at which time progresses                                                                                    |
+| **Spatial**\*  | Portal, Dimension, Teleportation            | Modify the layout of space itself                                                                                                 |
+| **Ontic**\*    | Identity, Essence, Classification, Soul     | Modify what an object fundamentally _is_ according to magical law                                                                 |
 
 | Attribute      | Domain Type    | Reality Layer  | Operation Domain    | Waste Ratio | Persistence Mechanism                                              |
 | -------------- | -------------- | -------------- | ------------------- | ----------- | ------------------------------------------------------------------ |
