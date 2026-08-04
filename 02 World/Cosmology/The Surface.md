@@ -29,17 +29,16 @@ Small aquifers can also be found near the bottom of this stratum, especially whe
 
 ### Third Stratum
 
-The **third stratum** conventionally begins 2 km below sea level. Near coastlines, the top of the stratum experiences about 0.75 G, while it can be as low as 0.6 G under large mountains. This gravitational non-uniformity is thought to be the result of a theorised gravity-insulating property of mana-dense solid matter, as gravity varies much more gradually inside the Expanse.
+The **third stratum** conventionally begins 2 km below sea level. Near coastlines, the top of the stratum experiences about 0.75 G, while it can be as low as 0.65 G under large mountains. The cause of this gravitational non-uniformity remains unresolved, as gravity varies much more gradually inside the Expanse.
 
 The third stratum is at its warmest point at its top, being nearly 45 °C on average. Coupled with the extreme humidity there, it is generally impossible for delvers to reach it without magical assistance.
 
-However, temperature and humidity progressively begin to decrease from there on out, except in regions with significant volcanic activity, magma chambers, or large underground aquifers. Mana concentrations also peak in the middle of this stratum, at around 4 km deep.
+However, temperature and humidity progressively begin to decrease from there on out, except in regions with significant volcanic activity, magma chambers, or large underground aquifers. Mana concentrations also peak in the middle of this stratum, at around 4 km deep. This broad maximum is provisionally attributed to the balance among potential-dependent gravity, the opposed inward mana-field gradient, mana repulsion and interference, and retention by local matter. Its exact profile varies by region and remains incompletely measured.
 
 ### Fourth Stratum
 
 The **fourth stratum** begins when average underground temperatures reach the freezing point of freshwater, at about 6 km below sea level. Gravity there is only about 0.4 G. This is the last recorded stratum, and very few delvers have reached this depth. Fewer still have dared venture deeper.
 
-From there on out, magmatic activity and mana concentrations start to significantly decrease, presumably due to the increasing distance and isolation from the Singularity's effects. Remaining ecologies also gradually disappear, leaving large, barren caverns with little of value outside of sparse ores and small pockets of mana crystals, both of which can be found higher up with fewer difficulties.
+From there on out, magmatic activity and mana concentrations start to significantly decrease. The weakening downward gravitational coupling is no longer sufficient to carry most potential-bearing mana farther into the shell against the inward mana-field gradient, while local repulsion, interference, and material retention establish sparse and isolated equilibria. Remaining ecologies also gradually disappear, leaving large, barren caverns with little of value outside of sparse ores and small pockets of mana crystals, both of which can be found higher up with fewer difficulties.
 
 The deepest recorded expedition is reported to have reached 9.5 km below sea level, with ambient temperatures at around -20 °C. At this depth, mana had become too sparse to support the long-term operation of the life-support magic used by the delving team at the time. Gravity there remained unmeasured, but was reportedly uncomfortably too low.
-

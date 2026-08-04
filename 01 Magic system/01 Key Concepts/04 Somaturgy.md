@@ -40,7 +40,7 @@ With training, a magus may distinguish :
 - tension or instability within a construct
 - whether a mana pathway is open, obstructed, or leaking
 
-Somatic perception remains local and limited. Remote, indirect, or highly precise inspection generally requires Sensing components, Resonant mana, or dedicated instruments.
+Somatic perception remains local and limited. Remote, indirect, or highly precise inspection requires information to arrive through a physical path, mana cord, paired finite-speed Resonant disturbance, or another declared sensing instrument.
 
 ## Mana Shaping
 

@@ -4,15 +4,17 @@ This reference defines the seven known Attuned attributes, their operation bound
 
 ## Attribute, Aspect, and Effect
 
-An **attribute** is the differentiated potential carried by an Attuned mana particle and determines its primitive operation. An **aspect** is a recognised mode of applying one attribute. An aspect is not a mana type: it has no independent Attunement seed, rarity, reservoir-purity category, or Detuning behaviour.
+An **attribute** is the differentiated, quantised potential carried by an Attuned mana particle and determines its primitive operation. Every attribute occupies its own discrete potential level below Primed mana and above Spent mana, although their exact ordering has not been established. An **aspect** is a recognised mode of applying one attribute. An aspect is not a mana type: it has no independent potential level, Attunement seed, rarity, reservoir-purity category, or Detuning behaviour.
 
 An **effect** is an observable result that may arise from one or more operations. An explosion, for example, may result from Kinetic compression, Kinetic heating, Galvanic ignition, or an ordinary chemical process. Similar effects do not make the underlying operations equivalent.
+
+An attributed operation may act only upon matter, non-mana energy fields, or bounded regions and relationships of space-time. Mana particles, construct scaffolds, spell assemblies, soul-forms, and the mana field are governed by intrinsic mana interactions and cannot be selected as operational subjects. A spell may still move or damage a mana structure indirectly by operating upon its physical anchor, carrier, or surrounding space-time.
 
 Operational complexity concerns the degree of ordering, selection, precision, and feedback required to apply an aspect reliably. It does not determine an attribute's natural availability.
 
 ## Availability
 
-An attribute's natural availability is classified in [[02 Mana Dynamics#Mana Attunement|Mana Dynamics]]. The classification summarises background fluctuation, critical seed concentration, material interactions, Detuning, and practical conversion yield. Material interactions belong solely to [[13 Material Affinities|Material Affinities]]; an aspect has no independent attractor or affinity.
+An attribute's natural availability is classified in [[02 Mana Dynamics#Mana Attunement|Mana Dynamics]]. The classification summarises its potential drop, activation barrier, background fluctuation, critical seed concentration, material interactions, Detuning, and practical conversion yield. Availability therefore does not establish potential order by itself. Material interactions belong solely to [[13 Material Affinities|Material Affinities]]; an aspect has no independent attractor or affinity.
 
 ## Kinetic
 
@@ -54,11 +56,21 @@ Cohesive mana cannot reconstruct a complex living body, change its chemistry at 
 
 ## Resonant
 
-**Primitive operation:** change the degree to which state changes in one system are detectable by, transmitted to, or correlated with another.
+**Primitive operation:** change the degree to which state changes in one qualifying physical system are detectable by, transmitted to, or correlated with another.
 
 Recognised aspects include contact coupling, remote observation, persistent association, and anchored feedback.
 
-Resonant mana establishes an inspectable relationship; it does not itself store a complete record, determine a relationship's meaning, or stabilise a system without sensing, processing, and a responding maintenance arrangement.
+Resonant mana establishes an inspectable relationship between declared physical systems. Formation begins through local contact, common preparation, a continuous intermediary, or another physically delivered interaction; it cannot select arbitrary distant endpoints through description or intent alone.
+
+The endpoint matter or non-mana energy fields are the operational subjects. The correlation between their prepared interfaces is the operation's result, not an abstract subject independent of those systems.
+
+A paired Resonant arrangement gives its endpoints a selective affinity analogous to a tuned channel. A change at one endpoint does not alter the other instantaneously. Resonant Expenditure locally couples an eligible physical change into a mana-field disturbance, which propagates at finite speed and is selectively detected at the paired endpoint. Distance, field curvature, mana turbulence, shielding, and competing disturbances may delay, attenuate, distort, or interrupt the signal.
+
+Pairing is an intrinsic correlation established during joint preparation, not an attributed operation upon the separated mana particles. Resonant Expenditure acts locally upon the physical endpoint systems to encode or receive a change, while the intervening disturbance follows ordinary mana-field propagation. Paired transmission generally carries less information and is less reliable than a maintained mana cord, but does not require a continuous material or construct conduit.
+
+The correlation decays under interference and ordinarily requires periodic local maintenance at both prepared endpoints. Such maintenance does not synchronise them instantaneously; any exchanged correction still propagates through a cord or Resonant disturbance.
+
+Resonant mana does not itself store a complete record, determine a relationship's meaning, or stabilise either endpoint without sensing, processing, and a responding physical arrangement.
 
 ## Signetic
 
@@ -72,7 +84,7 @@ Resonant mana establishes an inspectable relationship; it does not itself store 
 | **Translation** | High | Map between declared encodings or representations. |
 | **Revision** | High | Alter a declared pattern without invalidating its required relationships. |
 
-Signetic mana complements Resonant mana rather than subsuming it. A distant archive requires Resonant coupling to establish a relationship and Signetic operation to read or write its records.
+Signetic mana complements Resonant mana rather than subsuming it. A distant archive requires prepared paired Resonant transmission to exchange signals and Signetic operation to read or write its physical records.
 
 ## Dimensional
 

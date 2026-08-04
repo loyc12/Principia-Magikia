@@ -15,7 +15,7 @@ A typical progression includes :
 3. gathering, separating, and releasing Primed mana
 4. forming and safely dissipating simple strands
 5. recognising and managing basic Attuned-mana reservoirs
-6. performing controlled Unstructured Attunement with an appropriate material core
+6. cultivating controlled Attunement fluctuations with an appropriate seed or material core
 7. condensing accessible Attuned mana for simple Unstructured Casting
 8. forming stable junctions, surfaces, and basic Platonic scaffolds
 9. instantiating and testing standard component archetypes
@@ -38,13 +38,15 @@ Each stage reinforces earlier ones. A learner who can reproduce a component arch
 | **Unstructured Casting exercises** | Coupling already Attuned mana to a simple nearby subject | Expenditure occurs at the intended threshold and location without uncontrolled spread. |
 | **Structured casting exercises** | Instantiating, parameterising, testing, and supervising declared spell assemblies | The assembly follows its declared behaviour, detects its required faults, and terminates safely. |
 
-Exercises can overlap. For example, an Attunement exercise may require flow control and a selective material core, while a structured casting exercise may use a pre-Attuned reservoir to isolate assembly behaviour from conversion. **Composite exercises** group two or more distinct exercises families into a single manipulation.
+Exercises can overlap. For example, an Attunement exercise may require flow control and a selective material core, while a structured casting exercise may use a pre-Attuned reservoir to isolate assembly behaviour from fluctuation and seed retention. **Composite exercises** group two or more distinct exercises families into a single manipulation.
 
 ### Attunement Exercises
 
-Attunement exercises train the practical modes described in [[02 Mana Dynamics#Modes of Induced Attunement|Induced Attunement]]. Early exercises use a known Attuned core or selective material so that the learner can observe seed stability without attempting to create a large conversion. Later work introduces controlled Primed-mana supply, measurement of purity and Waste mana, competing attributes, and deliberate termination.
+Attunement exercises train the practical modes described in [[02 Mana Dynamics#Modes of Induced Attunement|Induced Attunement]]. Early exercises use a known Attuned core or selective material so that the learner can observe the retention of random fluctuations without attempting to cultivate a large output. Later work introduces controlled Primed-mana supply, measurement of purity and Waste mana, competing attributes, and deliberate termination.
 
 **Material Attunement exercises** compare how approved media retain, reject, or destabilise particular attributes. **Unstructured Attunement exercises** train the soul-form's restraint of Primed mana around a seed. **Structured Attunement exercises** train the configuration and supervision of an Attuning component, including sourcing, containment, separation, regulation, and waste handling. The quantitative conditions behind these exercises are optional material in [[10 Mana Physics|Mana Physics]].
+
+Advanced specialists may train established Cross-Attunement transitions between compatible higher- and lower-potential attributes. Such exercises require stricter containment because the destination seed, released permutation disturbance, and possible lower-attribute contamination must all be controlled.
 
 ### Mana Shaping Exercises
 

@@ -4,7 +4,7 @@
 
 A **golem** is an artificial or substantially artificial body whose motion and behaviour arise from a persistent combination of physical structure, [[05 Mana Constructs|mana constructs]], sensing, and control. It need not possess human form, intelligence, autonomy, or a [[03 Soul-Forms|soul-form]].
 
-The central distinction in golemancy is not between a golem with or without an added animic component. A soul-form is an emergent mana structure produced by a sufficiently active, integrated, and persistent golemic neurological substrate. It cannot be installed as an ordinary component or meaningfully separated from the system of activity that sustains it.
+The central distinction in golemancy is not between a golem with or without an added animic component. A soul-form is an emergent mana structure produced by a sufficiently active, integrated, and persistent physical neurological substrate carrying recurrent electrical, electrochemical, or chemical impulses. It cannot be installed as an ordinary component or produced by construct logic alone.
 
 ## Golemic Architecture
 
@@ -19,7 +19,7 @@ A golem is best understood as several interdependent layers :
 | **Construct infrastructure** | Persistent spell assemblies for mana sourcing, attunement, control, safeguards, and termination |
 | **Operational identity** | Declared references defining the body, components, and authority of one coherent golemic system |
 | **Animic development** | The possible emergence, transplantation, or derivation of a soul-form across the active substrate |
-| **Interface** | Commands, permissions, Resonant links, and other exchanges with an operator or external system |
+| **Interface** | Commands, permissions, paired Resonant channels, and other exchanges with an operator or external system |
 
 Every reliable golem requires the first six layers in some form. Animic development is not a separate appliance: it is a condition that may arise across the body, sensorium, neurological substrate, and mana interaction when those layers become sufficiently integrated.
 
@@ -30,14 +30,14 @@ Golems are commonly divided according to whether their organisation is capable o
 | Design Family | Description |
 | --- | --- |
 | **Non-animic golem** | A narrow, declared system whose control remains insufficiently recurrent, integrated, or plastic to produce a meaningful soul-form |
-| **Proto-animic golem** | A long-lived and recurrent system that has accumulated a weak or vestigial soul-form without deliberate animic cultivation |
+| **Proto-animic golem** | A body whose qualifying physical neurological substrate has produced a weak or incompletely developed soul-form |
 | **Animic golem** | An artificial body with a mature transplanted, derived, or synthetic soul-form supported by a compatible neurological substrate |
 
 Non-animic golems are usually purpose-built mechanisms. Their frames, sensors, actuators, and commands are chosen for one bounded task or a small family of related tasks: lifting, grinding, pumping, opening gates, maintaining a ward, carrying material along a known path, or repeating a craft operation. Their physical forms often resemble fixed apparatus, specialised tools, or simple articulated mechanisms because broad bodily interpretation would add cost and failure points without helping their declared work.
 
 Animic golems tend instead towards creature-like bodies with several coordinated senses, varied movement, and broadly useful manipulators. This does not require a human shape: animal-like, insectile, serpentine, or otherwise unfamiliar forms may better suit their intended environment. The tendency follows from their need for coherent sensorimotor mapping, a stable bodily boundary, and continuing adaptive activity. Such bodies can be more general-purpose, but they are more difficult to build, calibrate, repair, and govern.
 
-Proto-animic systems occupy an uncertain middle ground. A longstanding custodian, mobile ward, or complex vessel may develop a recognisable signature, preferential response to familiar operators, resistance to unfamiliar alteration, and faint retained tendencies without becoming a general-purpose animic body or a conscious being.
+Proto-animic systems occupy an uncertain middle ground. Their physical neurological activity has begun to organise mana, but has not yet produced the mature boundary, integration, and sensorimotor relationships of an animic golem. A longstanding custodian, mobile ward, or complex vessel without such a substrate may still develop recognisable construct-state and operator-specific responses, but these are not proto-animic by themselves.
 
 ## Body and Actuation
 
@@ -56,7 +56,7 @@ Movement is not a single primitive operation. A capable golem must account for i
 
 ## Sensorium
 
-A golem's **sensorium** consists of the components and instruments through which it observes itself and its environment. Possible senses include contact, joint position, structural strain, orientation, acceleration, light, sound, temperature, mana concentration and flow, Resonant links, and declared subject, reagent-profile, or boundary detection.
+A golem's **sensorium** consists of the components and instruments through which it observes itself and its environment. Possible senses include contact, joint position, structural strain, orientation, acceleration, light, sound, temperature, mana concentration and flow, paired Resonant signals, and declared subject, reagent-profile, or boundary detection.
 
 Sensing does not automatically imply understanding. A sensor produces observations; the neurological substrate or another declared construct must map those observations to values that can guide a response.
 
@@ -64,7 +64,7 @@ For an animic golem, the sensorium must be sufficiently stable and integrated fo
 
 ## Neurological Substrate
 
-The **neurological substrate** is the recurrent system that coordinates observations, retained state, and actuation. It may be realised through Signetic lattices, Galvanic signal networks, fluidic control systems, living or semi-living tissue, distributed constructs, or a combination of these.
+The **neurological substrate** is the physical recurrent system that coordinates observations, retained state, and actuation through electrical, electrochemical, or differentiated chemical impulses. It may be realised through conductive lattices, Galvanic signal networks, fluidic control systems, living or semi-living tissue, or a combination of these. Signetic storage and mana constructs may support its memory and regulation, but cannot substitute for the impulse-bearing substrate.
 
 For golemancers, the practical question is whether this system can sustain continuous, coherent sensorimotor activity across one body. The general conditions for artificial soul-form formation belong to **Soul-Forms**. A fixed routine may perform useful work without meeting them; a substrate that does meet them must be designed so that its developing animic responses remain compatible with declared safeguards and bodily mappings.
 
@@ -100,7 +100,7 @@ The theory of preservation, echoes, derivation, and artificial formation belongs
 
 Golems do not ordinarily interpret unrestricted natural language or abstract intention. Commands must correspond to inputs understood by declared interfaces, such as an activation signal, recognised task, destination, subject reference, quantity, duration, priority, mode selection, or permission to begin or terminate a routine.
 
-Animic golems may use somatic or Resonant interfaces that couple with their soul-forms. Such interfaces can provide richer bodily control and more flexible local adjustment, but they remain bounded inputs rather than direct access to thought. An animic signature may also support authorised-operator recognition or persistent Resonant relationships.
+Animic golems may use somatic or Resonant interfaces coupled to their physical neurological substrates. Such interfaces can provide richer bodily control and more flexible local adjustment, but they remain bounded inputs rather than direct access to thought. The resulting local mana-flow consequences may also support authorised-operator recognition or the calibration of persistent paired Resonant relationships. Neither interface performs an attributed operation upon the soul-form itself.
 
 ## Construction and Commissioning
 
@@ -146,7 +146,7 @@ Common failure modes include :
 | **Animic scarring** | Repeated damage stabilises into persistent distortion or leakage |
 | **Orphaning** | The golem loses the authority, reference, operator, or infrastructure needed to interpret its task |
 
-Routine repair may include replacing frame elements, recalibrating sensors and actuators, replenishing mana reservoirs, clearing Spent mana and permutation loss, repairing scaffolds, validating declared identity, and testing emergency termination.
+Routine repair may include replacing frame elements, recalibrating sensors and actuators, replenishing mana reservoirs, clearing contaminating Attributes, repairing scaffolds, inspecting disruption-routing paths, validating declared identity, and testing emergency termination.
 
 For animic golems, repair must additionally preserve the active substrate and remap changed sensors, limbs, or control pathways gradually. Abrupt replacement, prolonged inactivity, incompatible additions, excessive mana saturation, or attempts to force a soul-form into a radically different frame may deepen animic injury rather than restore function.
 

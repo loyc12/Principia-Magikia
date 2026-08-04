@@ -12,15 +12,18 @@ There are many ways to represent spells, but all rely upon **glyph systems**, wh
 
 The only requirements of a valid glyph system are that its glyphs be reproducible, distinguishable from one another, and composable into **spell formulas**. Glyph systems need not be visual, as they may be expressed through symbols, text, speech, music, gesture, spatial arrangements, or other reproducible patterns, but visual systems are most common across magical traditions.
 
-Colloquially, the term _spell_ may refer to 5 distinct but interconnected concepts :
+Colloquially, the term _spell_ may refer to several distinct but interconnected concepts :
 
 | Term                | Definition                                                                        |
 | ------------------- | --------------------------------------------------------------------------------- |
 | **Spell Formula**   | A specification of a spell encoded in a particular glyph system                   |
 | **Spell Template**  | The notation-independent logical design represented by one or more formulas       |
 | **Spell Assembly**  | The concrete network of mana constructs instantiated from a template              |
+| **Spell-Form**      | The concrete executable mana organisation of a spell, whether one construct or a wider assembly |
 | **Spell Execution** | A particular activation and runtime instance of a spell assembly                  |
 | **Spell Results**   | The attributed operations of an execution and their natural consequences          |
+
+**Spell-form** is an umbrella term used when the difference between one mana construct and a composite spell assembly is not relevant. It does not introduce another architectural layer: a monolithic spell-form is one construct, while a composite spell-form is an assembly of constructs. A formula or template is not a spell-form until instantiated in mana.
 
 **Spell Architecture** is the study of composing constructs into operationally unified assemblies through interfaces, shared subjects, dependencies, and supervisory structures.
 
@@ -30,7 +33,7 @@ Colloquially, the term _spell_ may refer to 5 distinct but interconnected concep
 
 **Spell interfaces** are [[05 Mana Constructs|construct]] interfaces exposed across construct boundaries within a spell assembly. They are not a wholly separate concept, as their categories, carried values, directionality, and compatibility requirements are those of the component-based interfaces defined in mana constructs.
 
-A cross-construct connection begins at compatible declared interfaces. It is realised by a **Coupling component**, which establishes the declared relationship between the constructs without granting unrestricted access to either one's internal structure. A Coupling component may provide a local, linked, or Resonantly extended connection, and may regulate its activation, translation, supervision, or termination. It does not override the permissions or tolerances declared by the interfaces it couples.
+A cross-construct connection begins at compatible declared interfaces. It is realised by a **Coupling component**, which establishes the declared relationship between the constructs without granting unrestricted access to either one's internal structure. A Coupling component may provide a local connection, a continuous [[05 Mana Constructs#Mana Cords|mana cord]], or paired Resonant transmission between physical endpoint instruments, and may regulate its activation, translation, supervision, or termination. It does not override the permissions or tolerances declared by the interfaces it couples.
 
 At the assembly level, such connections may be required, optional, or conditional. They may expose fixed values, accept parameters supplied during activation, or transmit values produced during execution.
 
@@ -121,8 +124,8 @@ This describes a spell template. A formula that fixes the subject as a 2 kg iron
 Two spells may resemble one another without being equivalent in every respect :
 
 - **Effect-equivalent spells** produce similar observable results.
-- **Operation equivalent spells** perform the same primitive attributed operations.
-- **Architecture equivalent spells** use the same construct organisation and interface graph.
+- **Operation-equivalent spells** perform the same primitive attributed operations.
+- **Architecture-equivalent spells** use the same construct organisation and interface graph.
 
 For example, direct Kinetic excitation, Radiant absorption, and Galvanic resistance heating may all heat a subject, but they are only effect-equivalent. Their primitive operations, subject constraints, reagent requirements, waste profiles, and risks remain distinct.
 
@@ -146,7 +149,7 @@ An assembly includes :
 - subject bindings and any required reagent profiles
 - runtime state
 - scaffold and interface integrity
-- anchoring, hosting, or ownership relationships
+- anchorage, mobility, and supervisory relationships
 
 A spell assembly may exist without currently executing. An enchanted implement may contain a dormant assembly, a ward may contain a continuously active assembly, and a structured caster may build an ephemeral assembly immediately before activating it.
 
@@ -162,7 +165,7 @@ Assemblies may be classified by architecture :
 | **Monolithic**  | Consists of a single mana construct                                          |
 | **Modular**     | Uses several specialised constructs with declared interfaces                 |
 | **Distributed** | Separates its constructs across multiple locations                           |
-| **Nested**      | Contains constructs that activate, host, or supervise subordinate assemblies |
+| **Nested**      | Contains constructs that activate, anchor, or supervise subordinate assemblies |
 | **Recursive\*** | Produces or reconstructs assemblies based upon its own template              |
 *\*Recursive assemblies are theoretically possible but are difficult to constrain, highly susceptible to compounding error, and generally disused outside of formal research.*
 
@@ -171,7 +174,38 @@ Complex assemblies may be orchestrated through a central supervisory construct, 
 
 **Assembly Engineering** is the study of instantiated construct networks, their topology, anchoring, orchestration, integrity, repair, and persistent operation.
 
-**Distributed Thaumaturgy** is the study of spatially separated constructs, Resonant couplings, synchronisation, propagation delays, partial failure, and distributed control.
+**Distributed Thaumaturgy** is the study of spatially separated constructs, corded and paired Resonant transmission, synchronisation, propagation delays, partial failure, and distributed control.
+
+### Spell Payloads
+
+A **spell payload**, commonly shortened to **payload**, is a spell-form designed to detach from its point of construction or preparation, travel through space, and deliver one or more declared operations elsewhere. A moving offensive payload is commonly called a **spell projectile**. Payload is a functional classification rather than a distinct structure or mana type; all payloads remain ordinary constructs or spell assemblies and obey their usual rules.
+
+Delayed activation alone does not make an assembly a payload. A stationary ward, deposited trap, or dormant instrument remains an ordinary spell assembly unless its declared function includes detachment and travel before delivery.
+
+A payload may be :
+
+- **free-floating**, maintaining its scaffold without a physical anchor
+- **carried**, anchored to an arrow, stone, vehicle, organism, or other moving matter
+- **ballistic**, launched once and thereafter moving by mana-field inertia and external forces
+- **propelled**, repeatedly accelerated by Primed-mana repulsion, controlled Primed-mana ejection, or operation upon a physical carrier or surrounding space-time
+- **directed**, receiving updated parameters through a mana cord or paired Resonant signal
+- **guided**, using local Sensing, Processing, Directing, and an admissible propulsion mechanism to adjust its motion
+
+A payload must account for five operational responsibilities :
+
+1. **Transit integrity** - preserve its scaffold through detachment, acceleration, interference, and impact
+2. **Motion** - identify the mana, material, or environmental interaction that launches and redirects it
+3. **Supply** - carry, gather, attune, or receive its constructive and operational mana
+4. **Delivery** - resolve a local or relational subject and determine when to apply its operation
+5. **Termination** - handle a missed destination, invalid subject, connection loss, starvation, damage, recovery, or completed discharge
+
+Payloads commonly carry valuable or mana-intensive Attuned supplies, but may also gather mana locally, receive it through a cord over a viable distance, or contain an Attuning component. Construct-bound Attuners are ordinarily slower and less compact than physical apparatus exploiting a prepared material affinity, and therefore remain uncommon in short-lived projectiles.
+
+Arming and detachment are separate lifecycle events. A payload may be detached while dormant, although practical projection usually arms it immediately before or during release. Its triggers may include release, elapsed time, impact, proximity, boundary crossing, a locally sensed condition, a received corded or paired Resonant signal, or manual activation after recovery, provided the required logic and observations exist within its declaration.
+
+A payload whose failure behaviour does not cover its expected transit conditions may terminate erroneously and collapse. It receives no special exemption from scaffold fracture, released mana, expenditure thresholds, animic resistance, or ward interference.
+
+**Payload Engineering** is the study of mobile spell-forms, their transit integrity, supply, delivery, guidance, and termination.
 
 ### Spell Execution
 
@@ -191,7 +225,7 @@ The failure of one construct does not necessarily terminate the entire spell. Fa
 
 Each activation of the same assembly constitutes a distinct execution, even when its formula, template, constructs, and nominal parameters remain unchanged. Environmental conditions, subject state, required reagent conditions, and prior assembly wear may therefore cause repeated executions to produce slightly different results.
 
-A continuously executing spell, such as wards, may still be made up of **sub-executions**, which are discrete events, generally occurring inside one or multiple default stand-by state.
+A continuously executing spell, such as a ward, may still be made up of **sub-executions**, which are discrete events generally occurring within one or more default standby states.
 
 
 **Spell Dynamics** is the study of coordinated runtime behaviour across an entire spell assembly.
@@ -200,7 +234,9 @@ A continuously executing spell, such as wards, may still be made up of **sub-exe
 
 ### Spell Types
 
-Spell types are not exclusive natural categories. They are independent classifications describing different aspects of a spell's operation, architecture, subject relationship, reagent reliance, or use. As such, there are a multitude of axis along which spell can be broken into. Below are the most common ones :
+Spell types are not exclusive natural categories. They are independent classifications describing different aspects of a spell's operation, architecture, subject relationship, reagent reliance, or use. There are therefore many axes along which spells can be classified.
+
+Below are the most common ones :
 
 #### By Duration
 
@@ -240,24 +276,35 @@ Spell types are not exclusive natural categories. They are independent classific
 | **Anchored**         | Acts upon what the spell or one of its constructs is attached to |
 | **Volumetric**       | Acts throughout a bounded region                               |
 | **Relational**       | Acts upon a link or relationship between subjects              |
-| **Self-referential** | Acts upon the construct, assembly, instrument, or caster itself |
+| **Self-referential** | Acts upon the caster, physical instrument, carrier, anchor, reservoir, or surrounding bounded space-time associated with the assembly |
 
-#### By Hosting Substrate
+#### By Anchorage
 
-| Type              | Description                                                           |
-| ----------------- | --------------------------------------------------------------------- |
-| **Ephemeral**     | Exists only for one execution                                         |
-| **Somatic**       | Hosted or continuously maintained by a living body                    |
-| **Instrumental**  | Hosted within a portable or purpose-built artefact                    |
-| **Architectural** | Embedded into a structure or fixed installation                       |
-| **Environmental** | Anchored to terrain, ambient mana flows, or naturally occurring media |
+| Type | Description |
+| --- | --- |
+| **Material** | Attached to and follows a physical object, instrument, or structure |
+| **Somatic** | Attached to and supported by a living body's mana organisation |
+| **Environmental** | Attached to terrain, a location, an ambient mana flow, or another local condition |
+| **Construct** | Attached to and follows another construct or spell assembly |
+| **Free-floating** | Maintains its own scaffold without an external anchor |
+
+#### By Mobility
+
+| Type | Description |
+| --- | --- |
+| **Fixed** | Remains stationary relative to its anchor |
+| **Carried** | Moves with a physical, somatic, environmental, or construct anchor |
+| **Drifting** | Moves freely under existing mana flows, gravity, repulsion, and field inertia |
+| **Propelled** | Receives one or more declared forces during transit |
+| **Directed** | Accepts external updates to its motion through an available interface |
+| **Guided** | Locally observes and corrects its own motion through declared components |
 
 Magical traditions also classify spells in **schools** based on various subjective classification systems. These are social and functional categories rather than divisions inherent to mana or construct theory, and as such, vary widely across the expanse, and are generally associated with a specific accompanying glyph tradition.
 
 Prime examples of the school system would be the various widespread **Elemental Schools** and **Applicative Schools**, which each classify spells based on the elemental association and spell outcome respectively.
 
 
-**Thaumaturgic Taxonomy** is the study of spell classification according to duration, control behaviour, architecture, subject relationship, reagent reliance, hosting substrate, practical use, or any other target attribute.
+**Thaumaturgic Taxonomy** is the study of spell classification according to duration, control behaviour, architecture, subject relationship, reagent reliance, anchorage, mobility, practical use, or any other relevant property.
 
 **Comparative Spellcraft** is the study of equivalent or competing spell designs across different attributes, architectures, traditions, and applications.
 

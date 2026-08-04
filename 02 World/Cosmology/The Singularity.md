@@ -1,6 +1,8 @@
 # The Singularity
 
-The **Singularity** is the luminous body at the centre of [[the Expanse]]. It provides the world with illumination and is the only known site at which Spent mana is Primed back into its raw, reactive state. To inhabitants of the Expanse, it serves the practical role that suns or skylights serve in sourceworlds, though its nature and behaviour are unlike either.
+The **Singularity** is the luminous body at the centre of [[the Expanse]]. It provides the world with illumination and is the only known site at which Spent mana is Primed back into its raw, reactive state. The curved mana field carries free disruption potential towards it, while potentialless Spent particles rise along the same broad gradient.
+
+At and around the Singularity, returned field potential is rebound into Spent particles as Primed potential. To inhabitants of the Expanse, it serves the practical role that suns or skylights serve in sourceworlds, though its nature and behaviour are unlike either.
 
 ## Illumination and Night
 
@@ -10,7 +12,7 @@ At night, luminous specks of varying size rise from near [[the Surface]] towards
 
 The Singularity itself is also surrounded by a dim, turbulent cloud of lights, often compared colloquially to a swarm of fireflies or a starry nebula.
 
-Both the speck and cloud phenomena are thought to be linked to the mana Priming that occurs at and around the Singularity itself.
+Both the speck and cloud phenomena are thought to be linked to the mana Priming that occurs at and around the Singularity itself. Whether Priming produces their light, merely concentrates already luminous processes, or shares a deeper cause with the illumination cycle remains unresolved.
 
 ## Seasonal Motion
 

@@ -25,7 +25,7 @@ Formation proceeds through cumulative interaction :
 4. those configurations become self-reinforcing through their continued interaction with the nervous system
 5. the resulting structure gradually extends through the organism and develops a stable individual signature
 
-A soul-form is not consciously designed, nor does it necessarily resemble a deliberately constructed scaffold. It is an **autogenic somatic construct** whose organisation emerges from sustained biological activity rather than formulaic declaration.
+A soul-form is not consciously designed, nor does it necessarily resemble a deliberately constructed scaffold. It is an **autogenic somatic mana structure** whose organisation emerges from sustained neurological activity rather than formulaic declaration.
 
 Newly formed soul-forms are weak, poorly differentiated, and highly dependent upon the nervous system that produces them. Their strength and complexity increase gradually with continued neural activity, development, and exposure to mana.
 
@@ -108,7 +108,7 @@ Animic signatures may be used for :
 
 - personal identification
 - recognising authorised operators
-- establishing persistent Resonant links
+- calibrating persistent Resonant links between prepared physical interfaces
 - configuring wards
 - distinguishing an organism from an imitation
 - coupling derived soul-forms to their source
@@ -137,7 +137,7 @@ and :
 
 > Neural activity -> Soul-form deformation -> Mana displacement
 
-The soul-form does not translate unrestricted thought into magical effects. It permits only low-level manipulations such as attracting, repelling, condensing, releasing, and crudely directing or attuning mana near its surface.
+The soul-form does not translate unrestricted thought into magical effects. It permits only low-level manipulations such as attracting, repelling, condensing, releasing, and crudely directing mana near its surface. During manual Attunement, these abilities gather Primed mana around a stabilising seed and retain favourable random fluctuations; they do not command particles to assume a chosen attribute.
 
 More sophisticated effects require either direct expenditure of Attuned mana or the construction and execution of a structured spell assembly.
 
@@ -156,7 +156,7 @@ Animic resistance impedes :
 
 - direct expenditure upon living tissue
 - unauthorised subject selection
-- unauthorised Resonant links
+- unauthorised Resonant coupling to bodily physical systems
 - alteration of internal bodily boundaries
 - manipulation of neural or Signetic activity
 
@@ -184,7 +184,7 @@ Primed-mana saturation may :
 
 - raise the concentration required for Attuned mana to operate
 - destabilise foreign mana flows
-- increase permutation loss
+- increase quenching and mana-field disruption
 - impede subject binding or required reagent coupling
 - obscure precise mana sensing
 - disrupt construct formation
@@ -203,7 +203,7 @@ Excessive Primed-mana saturation can also interfere with allied spells, prevent 
 
 Animic resistance makes living organisms poor targets for crude or unstructured magical operation. A soul-form resists the concentration, binding, and Expenditure of foreign mana within its protected volume, while the complexity of living tissue makes even successful operations difficult to perform safely.
 
-Structured spells may overcome this resistance through greater throughput, prolonged exposure, precise interfaces, Resonant familiarity, exploitation of weak boundaries, cooperation, or specialised countermeasures. Resistance is nevertheless a general protection rather than an absolute prohibition.
+Structured spells may overcome this resistance through greater throughput, prolonged exposure, precise physical interfaces, prepared Resonant familiarity, exploitation of weak boundaries, cooperation, or specialised countermeasures. Resistance is nevertheless a general protection rather than an absolute prohibition.
 
 The threshold behaviour of living subjects, practical attack limitations, and the limits of magical medicine belong to **[[06 Spell Subjects|Spell Subjects]]**.
 
@@ -216,17 +216,16 @@ The threshold behaviour of living subjects, practical attack limitations, and th
 
 Soul-forms are not restricted absolutely to biological nervous systems.
 
-Any system capable of producing sufficiently precise, complex, recurrent, integrated, and persistent patterns of thaumaturgic, galvanic, or chemical activity may provide the conditions for mana to organise into a soul-like structure.
+Any physical system capable of producing sufficiently precise, complex, recurrent, integrated, and persistent patterns of electrical, electrochemical, or chemically propagated impulses may provide the conditions for mana to organise into a soul-form. Construct activity may support, regulate, or interact with such a substrate, but mana logic and recurrent spell execution are not themselves neurological activity.
 
 Such **neurological analogues** may include :
 
-- artificial conductive lattices
-- Galvanic signal networks
-- recurrent Signetic systems
+- artificial conductive lattices carrying recurrent electrical impulses
+- Galvanic or electrochemical signal networks
+- Signetic storage coupled to a qualifying impulse-bearing network
 - living or semi-living tissues
-- complex ward networks
-- distributed sensor and control systems
-- long-lived architectural assemblies
+- fluidic systems carrying differentiated chemical signals
+- distributed physical sensorimotor networks
 - symbiotic combinations of biological and artificial structures
 
 Most such systems produce only weak or partial soul-forms.
@@ -242,7 +241,7 @@ The likelihood and complexity of formation  depend upon :
 - a documented compatible material profile
 - continued activity
 
-For example, a large and complex ward system surrounding a house may gradually develop a faint soul-form reflecting its boundaries, recurring signals, inhabitants, and maintenance history.
+For example, an artificial body whose conductive and chemical network continually integrates sensation, internal state, and motion may gradually develop a faint soul-form. A ward that merely repeats declared sensing and response routines cannot do so, no matter how old or elaborate it becomes.
 
 Such a structure would not implicitly be conscious or behaviourally autonomous. It may nevertheless possess :
 
@@ -250,13 +249,13 @@ Such a structure would not implicitly be conscious or behaviourally autonomous. 
 - stronger internal thaumaturgic cohesion
 - resistance to unfamiliar alterations
 - preferential response to familiar operators
-- persistent Resonant relationships
+- persistent Resonant relationships between associated physical interfaces
 - rudimentary state retention
 
-These emergent structures are generally termed **protoanimic constructs**.
+Weak or incompletely developed examples are generally termed **protoanimic structures**.
 
 
-**Comparative Animistics** is the study of soul-form formation across biological, artificial, architectural, and distributed systems.
+**Comparative Animistics** is the study of soul-form formation across biological and artificial neurological systems.
 
 **Emergent Construct Theory** is the study of construct-like mana organisation arising without deliberate scaffold construction.
 
@@ -272,8 +271,8 @@ The rate of decay depends upon :
 - ambient mana concentration and flow
 - surrounding mana types
 - physical preservation of the nervous system
-- Resonant anchor-and-feedback arrangements
-- Signetic reinforcement
+- Resonant measurement and feedback through prepared physical interfaces
+- Signetic records and physically enacted correction
 - containment within suitable materials or constructs
 
 A decaying soul-form loses fine and recently maintained structures before its deepest and most stable patterns.
@@ -331,7 +330,7 @@ Soul-form preservation attempts to slow decay by replacing the stabilising influ
 Preservation may involve :
 
 - dense Primed-mana containment
-- Signetic reinforcement
+- Signetic records coupled to physical sensing and correction
 - simulated recurrent activity
 - vessels with a documented compatible material profile
 - preserved neural tissue
@@ -339,7 +338,7 @@ Preservation may involve :
 
 Preservation is notoriously difficult, because excessive stabilisation may freeze the structure in a distorted state, while insufficient stabilisation permits continued decay.
 
-In this context, Resonant anchoring preserves a reference relationship between the remnant and a measured animic state, vessel, or compatible substrate. It can reveal drift or displacement, but it does not preserve a soul-form by itself; any benefit depends upon the containment, reinforcement, or simulated activity that responds to that information.
+In this context, Resonant instrumentation compares local physical and mana-flow consequences associated with the remnant against measurements retained in a vessel or compatible substrate. Paired signals may report drift or displacement to a separate regulator, but they propagate at finite speed and do not operate upon the soul-form. Any preservation benefit depends upon containment, physical correction, or simulated neurological activity that responds to the information.
 
 A preserved soul-form remains dependent upon the compatibility of any later substrate. The more that substrate differs from the original body, the greater the difficulty of mapping sensory, motor, bodily, and behavioural relationships.
 
@@ -453,17 +452,16 @@ A viable artificial substrate likely requires :
 - materials or components with documented compatible profiles
 - a stable body or system boundary
 
-Simple feed-forward constructs and fixed spell routines generally fail to produce meaningful soul-forms. They may accumulate mana or develop stable signatures, but lack the recurrent integrated activity required for a developed animic structure.
+Simple feed-forward constructs and fixed spell routines cannot produce soul-forms. Recurrent or adaptive spell logic alone also remains insufficient: a qualifying artificial system requires a physical neurological analogue carrying integrated electrical, electrochemical, or chemical impulses. Constructs may regulate this activity, but do not replace it.
 
 Artificial soul-forms may be induced within :
 
 - golemic nervous analogues
-- Signetic lattices
-- Galvanic circuits
-- fluidic control networks
+- Signetic lattices coupled to electrical or electrochemical signalling
+- recurrent Galvanic circuits
+- chemically differentiated fluidic control networks
 - living hybrid tissues
-- distributed ward systems
-- architectural control assemblies
+- distributed physical sensorimotor substrates
 
 Creating a soul-form is not equivalent to creating consciousness.
 
@@ -482,40 +480,19 @@ The design, construction, command, and maintenance of soul-bearing artificial bo
 
 **Golemic Neurothaumaturgy** is the study of neurological analogues used to support soul-forms in artificial bodies.
 
-## Soul-Forms in Long-Lived Constructs
+## Constructs and Animic Misattribution
 
-Golems are not the only constructs capable of developing soul-like structures.
+Long-lived constructs often acquire recognisable non-animic peculiarities through material wear, repaired topology, retained state, operator-specific interfaces, Resonant associations, and repeated maintenance. These can make a house appear to recognise its family, a weapon appear to accept its owner, or an ancient ward appear temperamental.
 
-Any long-lived system combining mana attraction, recurrent activity, persistent state, sensing, and regulated response may gradually accumulate a vestigial soul-form.
+Such behaviour is not evidence of a soul-form. A construct develops an animic structure only when it is coupled to a qualifying physical neurological analogue whose recurrent electrical, electrochemical, or chemical impulses organise nearby mana. Age, complexity, adaptation, persistent state, mana attraction, and repeated spell execution remain insufficient by themselves.
 
-Possible examples include :
-
-- complex household wards
-- ancient fortifications
-- temple networks
-- ships with integrated magical systems
-- large industrial engines
-- cities with interconnected mana infrastructure
-- distributed agricultural or environmental arrays
-
-These soul-forms are usually far weaker and less integrated than biological ones.
-
-They may nevertheless cause the system to :
-
-- develop a distinctive animic signature
-- respond more readily to familiar operators
-- resist unfamiliar modification
-- retain faint behavioural biases
-- preserve old state patterns
-- maintain persistent Resonant associations
-
-Such effects may be interpreted culturally as a house recognising its family, a weapon accepting its owner, or an ancient ward becoming temperamental.
-
-These phenomena need not involve consciousness, despite common beliefs.
+This distinction is diagnostically important. A design pattern or construct signature may reveal its maker's habits without being an animic signature, and a familiar response may arise from declared recognition logic without implying an organising bodily boundary.
 
 ## Soul-Form Injury
 
-Soul-forms may be damaged through magical trauma, neurological injury, hostile Resonant interaction, excessive Primed-mana saturation, failed transplantation, or prolonged construct interference.
+Soul-forms may be damaged through magical trauma to their physical substrates, neurological injury, hostile Resonant signals coupled into nervous activity, excessive Primed-mana saturation, failed transplantation, or prolonged construct interference.
+
+Mana Attributes do not operate upon the soul-form directly; animic damage arises from altered neurological support, intrinsic mana interference, or disruption of the local conditions that sustain its organisation.
 
 Possible consequences include :
 

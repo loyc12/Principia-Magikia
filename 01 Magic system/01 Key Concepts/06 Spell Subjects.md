@@ -1,18 +1,39 @@
 # Spell Subjects
 
-A **spell subject**, or simply **subject**, is the physical or metaphysical system whose state a spell directly operates upon. Every spell has at least one declared subject. Depending on the operation, a subject may be an object, a bounded volume, several related objects, a field, a relationship, a process, a living organism, another construct, or the spell assembly, instrument, or caster itself.
+A **spell subject**, or simply **subject**, is the portion of physical reality upon which a spell directly performs an attributed operation. Every spell has at least one declared subject. Depending on the attribute, a subject may be matter, a bounded material volume, several physical endpoint systems participating in a Resonant operation, photons, an electromagnetic field, a physically instantiated pattern, or a bounded region or relationship of space-time.
+
+Mana particles, mana structures, soul-forms, and the mana field are not operational subjects. They interact through intrinsic mana physics, including flow, repulsion, permutation, shaping, interference, and propagated disturbance. A spell may affect a mana structure indirectly by operating upon a physical anchor or carrier, or upon the bounded space-time through which it moves.
 
 Dimensional mana operates upon a bounded region of space-time. That region is consequently a Dimensional spell's subject, rather than an exception to the requirement for one. It still requires precise selection, bounding, anchoring, and regulation.
 
 ## Subjects, Targets, and Reagents
 
-**Subject** is the general operational term: it identifies what is directly changed, maintained, measured, or otherwise operated upon. A spell may have a primary subject and one or more auxiliary subjects.
+**Subject** is the general operational term: it identifies what is directly changed or maintained by an attributed operation. A spell may have a primary subject and one or more auxiliary subjects. What a construct observes, stores, or uses to regulate itself is instead a **control reference** unless an attributed operation directly changes it.
 
 **Target** describes a subject's relationship to a particular casting. A subject is a target when the spell selects, addresses, or aims at it; it is not a separate kind of thing. An anchored, volumetric, relational, or self-referential spell may therefore have a subject without using the everyday language of aiming at a target.
 
-A **reagent** is a material subject, or a bounded material component of one, whose documented mana-relevant profile is deliberately used by the spell. That profile may help or impede the operation through affinity, storage, conduction, coupling, threshold behaviour, or another material interaction. A reagent need not be consumed or altered in any way by the spell at hand.
+A **reagent** is a material subject, or a bounded material component of one, whose documented mana-relevant profile is deliberately used by the spell. That profile may help or impede the operation through affinity, storage, conduction, coupling, threshold behaviour, or another material interaction. A reagent need not be consumed or permanently altered by the spell at hand.
 
-Thus, not every subject is a reagent. A spell may directly heat an ordinary volume of air or move am object without exploiting a special material profile. Conversely, a Kinetic-mana storage device may be both the spell's subject and a Kinetic reagent when its storage or coupling affinity is intentionally used to make the resulting operation faster, hotter, more efficient, or more stable.
+Thus, not every subject is a reagent. A spell may directly heat an ordinary volume of air or move an object without exploiting a special material profile. Conversely, a Kinetic-mana storage device may be both the spell's subject and a Kinetic reagent when its storage or coupling affinity is intentionally used to make the resulting operation faster, hotter, more efficient, or more stable.
+
+## Local and Relational Resolution
+
+A subject need not be named as one particular object before a spell is activated. A declaration may instead identify a subject through a physically available local relation, including :
+
+- matter touching a construct or its physical anchor
+- matter overlapping a declared coupling region
+- the first eligible system crossing a construct boundary
+- a bounded volume defined relative to the construct's position
+- the caster's body, a physical instrument, carrier, anchor, or reservoir associated with the assembly
+- a physical system connected through a continuous conduit or prepared Resonant relationship
+
+Such declarations are **implicit local subjects**. They remain specific because the eligible class, operative relation, and affected boundary are declared even when the particular object is unknown until execution. A spell payload that releases its entire Kinetic supply into eligible matter overlapping its contact boundary therefore has a local subject; it does not operate upon an undefined target.
+
+Contact, impact, or overlap supplies a clear local candidate but does not automatically establish eligibility, lower its expenditure threshold, or bypass its resistance. Selection and Bounding components must still validate whatever distinctions the operation requires. A broad discharge may deliberately accept coarse bounds and little discrimination, while a precise operation requires correspondingly precise local observation.
+
+Ordinary Sensing can inspect properties made available through the construct's own boundary, contact, overlap, or another declared local coupling. Identifying an unrelated, obscured, or distant system requires information to arrive through matter, a continuous mana structure, or a propagating field disturbance. A paired Resonant signal is one such disturbance and remains limited by travel time, attenuation, and interference. Intent and a stored description cannot by themselves locate a distant subject.
+
+A moving subject may be selected anew from local criteria as a construct approaches it. Continuing to track the same subject after it leaves local observation requires an established physical or corded connection, or repeated signals through a prepared Resonant pairing. The exact observational means must be declared rather than implied by the subject reference.
 
 Spell design distinguishes between :
 
@@ -21,7 +42,7 @@ Spell design distinguishes between :
 - a **reagent binding**, which declares the material profile that a spell intentionally relies upon, where applicable
 - the **affected environment**, which changes only through the natural consequences of that operation
 
-Attuned mana performs **only the primitive operations** associated with its attributes. All unconstrained subsequent effects arise through ordinary physical, biological, or metaphysical processes.
+Attuned mana performs **only the primitive operations** associated with its attributes. All unconstrained subsequent effects arise through ordinary physical, biological, or dimensional processes.
 
 For example, a Kinetic heating spell directly increases the disorganised microscopic momentum of a bounded subject. Ignition, combustion, pressure changes, chemical reactions, and fire damage to nearby matter occur as natural consequences, unless separately constrained by a spell, be it itself or another. If that subject is a purpose-built Kinetic storage device, its material profile may additionally be bound as a reagent.
 
@@ -43,7 +64,7 @@ These thresholds depend upon :
 
 Natural concentrations rarely exceed these thresholds, preventing ordinary subjects from spontaneously undergoing attributed operations merely because mana is present. [[13 Material Affinities|Material Affinities]] addresses the material-side properties that may be declared as reagent profiles and that influence coupling, thresholds, storage, and Attunement.
 
-A construct may lower, localise, or continuously maintain the effective threshold through precise sourcing, selection, bounding, and regulation. An Unstructured caster instead forces already Attuned mana above the threshold through direct concentration onto or inside a nearby subject.
+A construct may lower, localise, or continuously maintain the effective threshold through precise sourcing, selection, bounding, local coupling, and regulation. An Unstructured caster instead forces already Attuned mana above the threshold through direct concentration onto or inside a nearby subject.
 
 ## Living Subjects
 
@@ -68,4 +89,4 @@ True restoration of complex tissue remains one of the foremost unsolved goals of
 
 **Threshold Dynamics** is the study of the concentrations, couplings, and material conditions required to initiate and sustain Expenditure.
 
-**Consequential Thaumaturgy** is the study of how primitive magical operations propagate into larger physical, biological, and metaphysical results.
+**Consequential Thaumaturgy** is the study of how primitive magical operations propagate into larger physical, biological, and dimensional results.

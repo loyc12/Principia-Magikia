@@ -73,6 +73,6 @@ The Dimensional row records only how Dimensional mana interacts with the materia
 
 ## Terminology
 
-A **selective attunement medium** retains matching background Attuned fluctuations long enough for a seed to form. It does not command nearby Primed mana to assume an attribute. A **decaying medium** destabilises one or more Attuned attributes or prevents their local retention, increasing Detuning and associated loss.
+A **selective attunement medium** retains matching background Attuned fluctuations long enough for a seed to form. It does not command nearby Primed mana to assume an attribute or create the underlying fluctuations. A **decaying medium** destabilises one or more Attuned attributes or prevents their local retention, increasing downhill Detuning into lower-potential attributes or Spent mana and the associated permutation discharge.
 
 An **affinity** is any recorded tendency in a material's interaction with a mana state or attribute, positive or negative. A spell may declare a material subject or subject component a **reagent** when it deliberately relies upon such an interaction. An affinity is not a guarantee of successful Attunement, storage, or Expenditure: concentration, subject thresholds, containment, and control remain decisive.

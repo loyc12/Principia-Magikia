@@ -33,6 +33,6 @@ A historical formula may be misread because its glyph system encoded topology ra
 Magohistoriology therefore plays an important role in the emerging magical renaissance. It identifies forgotten techniques, exposes false continuities, distinguishes genuine discovery from later attribution, and reveals where contemporary magical knowledge still rests upon inherited assumptions rather than reproducible evidence.
 
 
-**Manametry** is the science of measuring mana concentration, potential, type, flow, purity, throughput, and permutation loss.
+**Manametry** is the science of measuring mana concentration, potential, state, type, flow, purity, throughput, permutation discharge, and mana-field disruption.
 
 **Thaumaturgic Metrology** is the study and standardisation of magical units, calibration procedures, reference materials, and measurement uncertainty.

@@ -34,16 +34,16 @@ A casting process may involve several functional roles. These roles need not cor
 | **Source**    | Provides Primed or Attuned mana to the spell assembly                                    |
 | **Reservoir** | Stores or buffers mana before or during execution                                        |
 | **Conduit**   | Carries mana between sources, constructs, instruments, and/or subjects                   |
-| **Attuner**   | Permutes Primed mana into one or more required attributes                                |
-| **Host**      | Physically or somatically maintains a structured spell assembly                          |
+| **Attuner**   | Cultivates and retains random fluctuations towards one or more required attributes        |
+| **Anchor**    | Establishes the matter, organism, location, flow, or construct that an assembly follows  |
 | **Operator**  | Manipulates mana directly or supplies parameters, references, activation, or supervision |
 | **Subject**   | Receives the casting's attributed operations                                             |
 | **Reagent**   | A material subject or subject component whose mana-relevant profile the casting deliberately uses |
-| **Sink**      | Receives Spent mana, excess flow, or permutation loss                                    |
+| **Sink**      | Receives Spent mana, excess flow, or local mana-field disruption                         |
 
 These casting roles describe the participants and physical pathways involved in casting. They are distinct from **construct components**, which define the internal behaviour of an individual mana construct and are absent from purely Unstructured Casting.
 
-For example, an Unstructured caster may simultaneously serve as operator and conduit while drawing from an external reservoir. A structured caster may additionally act as a temporary host, while an instrument acts as reservoir, attuner, and persistent host.
+For example, an Unstructured caster may simultaneously serve as operator and conduit while drawing from an external reservoir. A structured caster may temporarily anchor an assembly to their own soul-form, while an instrument may act as material anchor, reservoir, attuner, conduit, and operator.
 
 A living operator normally manipulates mana through their soul-form, whose sensorimotor fringe converts trained neural activity into low-level attraction, repulsion, condensation, release, and directional mana forces.
 
@@ -52,7 +52,7 @@ A living operator normally manipulates mana through their soul-form, whose senso
 Structured casting methods are most rigorously described through three independent dimensions :
 
 1. the **authoring source** from which the spell logic originates
-2. the **execution substrate** upon which the assembly is hosted
+2. the **anchorage** that fixes what the assembly follows, if any
 3. the **supervision mode** by which execution is controlled
 
 These dimensions may be combined freely where physically and logically compatible.
@@ -66,19 +66,19 @@ These dimensions may be combined freely where physically and logically compatibl
 | **Structured**   | The spell is consciously assembled, modified, derived, or supervised by a caster who understands its internal logic            |
 | **Inherited**    | Spell logic is copied from an external specification, retained assembly, instrument, environment, or other pre-existing source |
 
-The authoring source describes where the executable design comes from, not where it is ultimately hosted. An inherited formula may be reconstructed somatically, while a structured caster may design a spell that is later hosted instrumentally.
+The authoring source describes where the executable design comes from, not how its spell-form is anchored. An inherited formula may be reconstructed somatically, while a structured caster may design a spell that is later anchored to an instrument.
 
-### By Execution Substrate
+### By Anchorage
 
-| Execution Substrate | Description                                                                                                   |
-| ------------------- | ------------------------------------------------------------------------------------------------------------- |
-| **Somatic**         | The spell assembly is generated, hosted, or continuously maintained by a living body or mind.                 |
-| **Instrumental**    | The assembly is hosted within an artefact, implement, device, or other purpose-built object.                  |
-| **Architectural**   | The assembly is embedded into a building, vessel, fortification, road, or fixed installation.                 |
-| **Environmental**   | The assembly is anchored to terrain, ambient mana flows, naturally occurring structures, or local conditions. |
-| **Distributed**     | The assembly is divided across several linked substrates or locations.                                        |
+| Anchorage | Description |
+| --- | --- |
+| **Somatic** | The spell-form is attached to and follows a living body's mana organisation. |
+| **Material** | The spell-form is attached to an artefact, implement, vehicle, building, or other physical object. |
+| **Environmental** | The spell-form is attached to terrain, an ambient mana flow, a naturally occurring structure, or another local condition. |
+| **Construct** | The spell-form is attached to another construct or assembly. |
+| **Free-floating** | The spell-form maintains its scaffold without an external anchor. |
 
-A distributed spell may combine several other substrates. For example, an architectural ward may use environmental anchors, instrumental reservoirs, and somatic supervision.
+A distributed spell may combine several other anchorages. For example, an architectural ward may use environmental and material anchors, instrumental reservoirs, and somatic supervision. Anchorage does not determine mobility: a materially anchored assembly may move with a projectile, while a free-floating assembly may remain nearly stationary until disturbed.
 
 ### By Supervision Mode
 
@@ -103,12 +103,12 @@ Every individual casting attempt may be described through the preceding dimensio
 | **Wild Casting**         | Instinctive + Somatic            | A specialised biological system supplies a fixed mana-control routine, producing either direct Unstructured Casting or a narrow spell assembly.     |
 | **Reflexive Casting**    | Reflexive + Somatic              | A caster reconstructs and activates a memorised spell pattern through trained procedural memory and external helper cues.                         |
 | **Structured Casting**   | Structured + Usually Somatic     | A caster consciously assembles, modifies, derives, or supervises a spell according to understood construct logic.                                   |
-| **Instrumental Casting** | Usually Inherited + Instrumental | A pre-existing artefact hosts and executes most or all spell logic, while its user supplies only permitted inputs, mana, references, or activation. |
+| **Instrumental Casting** | Usually Inherited + Material | A pre-existing artefact anchors, supports, and executes most or all spell logic, while its user supplies only permitted inputs, mana, references, or activation. |
 
 These archetypes are neither exhaustive nor mutually exclusive. A structured caster may work through an instrument, a wild-casting organism may incorporate mineral structures, and an instrumental assembly may require direct somatic supervision. Wild Casting remains one anatomy-driven category with two mechanical subtypes: **Wild Unstructured Casting** directly expends already Attuned mana, while **Wild Structured Casting** instantiates a narrow spell assembly. Unstructured Casting sits partly outside the authoring-source taxonomy because it instantiates no formula or spell assembly.
 
 
-**Casting Theory** is the study of how spell assemblies are instantiated, hosted, supplied, parameterised, activated, and supervised.
+**Casting Theory** is the study of how spell assemblies are instantiated, anchored, supplied, parameterised, activated, and supervised.
 
 **Praxeothaumaturgy** is the applied study of practical casting technique, operator behaviour, efficiency, reliability, and performance under real conditions.
 
@@ -127,7 +127,7 @@ Unstructured Casting does not permit the caster to declare a broad desired resul
 - a crude directional bias where the operation naturally supports one
 - when the caster stops supplying mana
 
-Unstructured Casting is normally limited to touch or near-touch range, as direct somatic control weakens rapidly with distance, while the absence of Selection, Bounding, Directing, Regulating, and Sensing components makes remote application unreliable at best, and impossible at worse.
+Unstructured Casting is normally limited to touch or near-touch range, as direct somatic control weakens rapidly with distance, while the absence of Selection, Bounding, Directing, Regulating, and Sensing components makes remote application unreliable at best and impossible at worst.
 
 This casting method is easiest with abundant, stable, and familiar attributes and simple nearby subjects. It becomes more controllable when a subject is selected as a reagent for a known affinity or threshold profile. Kinetic and Radiant mana are therefore the most common attributes to be used in this manner, while rare, unstable, or weakly understood attributes are seldom handled non structurally.
 
@@ -139,13 +139,13 @@ Typical Unstructured operations include :
 | **Radiant**  | Make a touched object glow, dim a small illuminated surface, emit a flash, or crudely alter colour                                       |
 | **Galvanic** | Charge or discharge a galvanic object, create a spark, or weakly magnetise a compatible material                                         |
 | **Cohesive** | Widen or remove an existing crack, weakly join compatible surfaces, or crudely separate brittle continuous matter                        |
-| **Resonant** | Establish a weak short-lived coupling between touching or strongly familiar systems                                                      |
+| **Resonant** | Establish a weak short-lived coupling between touching physical systems or operate through a previously prepared pairing                 |
 
 Signetic and other rare or unstable attributes are not normally suitable for Unstructured Casting. Dimensional mana cannot be used unstructured: although it operates directly on space-time, that operation still requires declared selection, bounding, anchoring, and regulation. Practitioners seldom possess sufficient access, familiarity, or control to meet these requirements safely.
 
 Directional force is possible with Kinetic mana, but is significantly harder than heating, cooling, vibration, compression, or shattering. A shove can be produced by concentrating momentum transfer at one surface, but sustained telekinesis, controlled trajectories, levitation, and precise force distribution generally require structured Direction, Selection, Regulation, and feedback.
 
-Unstructured Casting is often highly efficient for small immediate tasks when the correct Attuned mana is already available, as it incurs no scaffold or declaration cost. It becomes inefficient when the caster must first attune Primed mana manually, compensate for leakage, overcome resistance, or repeatedly reproduce a precise result.
+Unstructured Casting is often highly efficient for small immediate tasks when the correct Attuned mana is already available, as it incurs no scaffold or declaration cost. It becomes inefficient when the caster must first cultivate Attunement from random fluctuations, compensate for leakage, overcome resistance, or repeatedly reproduce a precise result.
 
 Its primary limitations are :
 
@@ -328,7 +328,7 @@ Glyphs remain abstractions rather than sources of magical efficacy, and are dist
 
 ## Instrumental Casting
 
-**Instrumental Casting** is the use of an external artefact or installation to host and execute part or all of a spell assembly.
+**Instrumental Casting** is the use of an external artefact or installation to anchor, support, or execute part or all of a spell assembly.
 
 The user may provide mana, activation, subject references, direction, magnitude, or a choice among predefined modes, while the instrument performs the construct operations assigned to it. An instrument may additionally require a declared reagent profile for a material subject that it is designed to exploit.
 
@@ -357,9 +357,19 @@ Not every mana instrument performs structured casting. Reservoirs, conduits, and
 - may conceal faults from users unable to inspect its internal design
 
 
-**Instrumental Thaumaturgy** is the study of artefacts and installations that host, assist, regulate, or execute spell assemblies.
+**Instrumental Thaumaturgy** is the study of artefacts and installations that anchor, assist, regulate, or execute spell assemblies.
 
-**Enchantment Engineering** is the study of anchoring persistent or reconstructible constructs to physical hosts.
+**Enchantment Engineering** is the study of anchoring persistent or reconstructible constructs to physical artefacts and structures.
+
+## Projection Casting
+
+**Projection Casting** is the structured practice of preparing, arming, releasing, transporting, directing, and delivering a [[07 Spell Composition#Spell Payloads|spell payload]]. It may be reflexively reconstructed, consciously designed, or instrumentally launched, but always depends upon an executable spell-form and is therefore never Unstructured Casting.
+
+Projection does not itself supply range, motion, observation, or homing. A payload may be launched or steered by Primed-mana repulsion, controlled ejection of Primed mana, an environmental force, operation upon a physical carrier, or Dimensional operation upon its surrounding space-time. No attribute operates upon the payload scaffold itself. Remote supervision requires a mana cord or prepared paired Resonant transmission, while autonomous guidance requires local Sensing, Processing, Directing, and an admissible means of changing motion.
+
+A projected payload may carry its mana, gather it locally, Attune it after arrival, or receive it through a viable cord. It may identify its subject through impact, contact, local criteria, a bounded region relative to itself, or an available relationship. None of these methods bypasses ordinary expenditure thresholds or animic resistance.
+
+Projection Casting differs from merely launching matter with Kinetic mana. A mundane stone moved by a spell is a projectile but not a spell payload; an arrow bearing an executable assembly may be both an enchanted projectile and a payload.
 
 
 ## META
