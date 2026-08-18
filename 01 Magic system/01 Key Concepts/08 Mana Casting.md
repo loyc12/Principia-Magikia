@@ -8,20 +8,20 @@
 | ----------------- | --------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Mana casting**  | Any deliberate manipulation of mana, including its movement, containment, Attunement, supply, shaping, or Expenditure | The broadest term                                                                                                                              |
 | **Mana shaping**  | The purposeful manipulation of Primed mana to form or alter a mana construct's scaffold                               | A specialised form of mana casting; it does not describe direct construct-free Expenditure                                                     |
-| **Spell casting** | Creating, modifying, instantiating, activating, supervising, or using a [[07 Spell Composition\|spell assembly]]      | A form of mana casting concerned with spells. It may include mana shaping, but an already-existing spell can also be activated without shaping |
+| **Spell casting** | Creating, modifying, instantiating, sealing, triggering, supervising, or using a [[07 Spell Composition\|spell assembly]] | A form of mana casting concerned with spells. It may include mana shaping, but an already-existing spell can also be triggered without shaping |
 
 Therefore, all mana shaping and spell casting are mana casting. Mana shaping is not synonymous with casting in general, and direct Unstructured Casting is mana casting, but is not mana shaping.
 
 Mana casting achieves magical effects through two broad paths :
 
 - **Unstructured Casting** directly condenses already Attuned mana against a nearby subject until its subject-specific expenditure threshold is exceeded
-- **Spell Casting** creates, modifies, instantiates, activates, supervises, or uses a spell assembly to select, constrain, coordinate, and regulate Expenditure
+- **Spell Casting** creates, modifies, instantiates, seals, triggers, supervises, or uses a spell assembly to select, constrain, coordinate, and regulate Expenditure
 
 These paths describe the casting mechanism. **Wild Casting** describes a different dimension: an evolved or innate anatomical system supplies the control routine rather than learned practice or conscious construction. It may therefore take either mechanical path.
 
 **Structured Casting** is the conscious, analytical form of spell casting in which an operator understands and works with the assembly's construct logic. Reflexive, wild, and instrumental spell casting may use an assembly without that degree of conscious construction or modification.
 
-The distinction concerns the presence of executable construct logic rather than the skill or intention of the operator. Unstructured Casting may still require substantial training, while an existing spell assembly may be activated by an untrained user through an instrument without that user performing Structured Casting.
+The distinction concerns the presence of executable construct logic rather than the skill or intention of the operator. Unstructured Casting may still require substantial training, while an existing spell assembly may be triggered by an untrained user through an instrument without that user performing Structured Casting.
 
 People capable of intentionally manipulating mana are most commonly called **magi** ( singular : **magus** ), though _mage_, _magician_, _wizard_, _witch_, _priest_, _invocater_, _shaper_, and _caster_ are also used according to region, tradition, and profession.
 
@@ -36,7 +36,7 @@ A casting process may involve several functional roles. These roles need not cor
 | **Conduit**   | Carries mana between sources, constructs, instruments, and/or subjects                   |
 | **Attuner**   | Cultivates and retains random fluctuations towards one or more required attributes        |
 | **Anchor**    | Establishes the matter, organism, location, flow, or construct that an assembly follows  |
-| **Operator**  | Manipulates mana directly or supplies parameters, references, activation, or supervision |
+| **Operator**  | Manipulates mana directly or supplies parameters, references, trigger signals, or supervision |
 | **Subject**   | Receives the casting's attributed operations                                             |
 | **Reagent**   | A material subject or subject component whose mana-relevant profile the casting deliberately uses |
 | **Sink**      | Receives Spent mana, excess flow, or local mana-field disruption                         |
@@ -87,7 +87,7 @@ A distributed spell may combine several other anchorages. For example, an archit
 | **Direct**       | An operator continuously supplies parameters, regulation, or control during execution                                                       |
 | **Triggered**    | An operator initiates the spell, after which its declared behaviour proceeds without continuous supervision                                 |
 | **Conditional**  | Execution begins, changes, or terminates when declared sensed conditions are satisfied                                                      |
-| **Continuous**   | The assembly remains in an active regulatory state for as long as its required mana and conditions persist                                  |
+| **Continuous**   | The assembly remains in a continuous regulatory state for as long as its required mana and conditions persist                              |
 | **Adaptive**     | The assembly selects among predefined behaviours or parameters in response to observations and retained state                               |
 | **Autonomous**   | The assembly performs its declared function without routine external intervention, including its own regulation and ordinary fault handling |
 
@@ -101,14 +101,14 @@ Every individual casting attempt may be described through the preceding dimensio
 | ------------------------ | -------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Unstructured Casting** | Non-formulaic + Somatic          | An operator directly condenses available Attuned mana against a nearby subject until its expenditure threshold is exceeded.                         |
 | **Wild Casting**         | Instinctive + Somatic            | A specialised biological system supplies a fixed mana-control routine, producing either direct Unstructured Casting or a narrow spell assembly.     |
-| **Reflexive Casting**    | Reflexive + Somatic              | A caster reconstructs and activates a memorised spell pattern through trained procedural memory and external helper cues.                         |
+| **Reflexive Casting**    | Reflexive + Somatic              | A caster reconstructs, seals, and triggers a memorised spell pattern through trained procedural memory and external helper cues.                  |
 | **Structured Casting**   | Structured + Usually Somatic     | A caster consciously assembles, modifies, derives, or supervises a spell according to understood construct logic.                                   |
-| **Instrumental Casting** | Usually Inherited + Material | A pre-existing artefact anchors, supports, and executes most or all spell logic, while its user supplies only permitted inputs, mana, references, or activation. |
+| **Instrumental Casting** | Usually Inherited + Material | A pre-existing artefact anchors, supports, and executes most or all spell logic, while its user supplies only permitted inputs, mana, references, or trigger signals. |
 
 These archetypes are neither exhaustive nor mutually exclusive. A structured caster may work through an instrument, a wild-casting organism may incorporate mineral structures, and an instrumental assembly may require direct somatic supervision. Wild Casting remains one anatomy-driven category with two mechanical subtypes: **Wild Unstructured Casting** directly expends already Attuned mana, while **Wild Structured Casting** instantiates a narrow spell assembly. Unstructured Casting sits partly outside the authoring-source taxonomy because it instantiates no formula or spell assembly.
 
 
-**Casting Theory** is the study of how spell assemblies are instantiated, anchored, supplied, parameterised, activated, and supervised.
+**Casting Theory** is the study of how spell assemblies are instantiated, anchored, supplied, parameterised, sealed, triggered, and supervised.
 
 **Praxeothaumaturgy** is the applied study of practical casting technique, operator behaviour, efficiency, reliability, and performance under real conditions.
 
@@ -204,7 +204,7 @@ Reports of sapient children performing Wild Casting without identifiable special
 
 ### Strengths
 
-- extremely rapid activation
+- extremely rapid triggering
 - reliable under stress
 - integrated with ordinary anatomy and behaviour
 - potentially efficient within its evolved function
@@ -223,7 +223,7 @@ Reports of sapient children performing Wild Casting without identifiable special
 
 **Reflexive Casting**, commonly called **Cantrip Casting**, is the reconstruction of a memorised spell template through trained procedural memory and the facultative use of external queues, such as grimoires, scrolls, or pseudoglyphs.
 
-The caster does not preserve a continuously existing construct within their mind. Instead, training establishes a reproducible neural, soul-form, and sensorimotor pattern through which the necessary scaffold, declaration, interfaces, parameters, activation, and termination behaviour may be rapidly reinstantiated.
+The caster does not preserve a continuously existing construct within their mind. Instead, training establishes a reproducible neural, soul-form, and sensorimotor pattern through which the necessary scaffold, declaration, interfaces, parameters, sealing, and termination behaviour may be rapidly reinstantiated.
 
 Reflexive casting is to structured casting what executing a rehearsed procedure is to designing or modifying that procedure.
 
@@ -235,12 +235,12 @@ A reflexive caster may normally adjust only the inputs exposed by the cantrip's 
 - direction
 - magnitude within a safe range
 - duration
-- activation timing
+- trigger timing
 - selection among a small number of predefined modes
 
 Intent does not generate new spell logic. It acts only as a trained control signal used to supply these admissible inputs.
 
-The practical number of cantrips a caster can retain depends upon their similarity, complexity, training, and frequency of use. Cantrips with closely related scaffold or activation patterns interfere more strongly than highly distinct ones, meaning it is much easier to recall a large variety of distinct and frequently used cantrips than a similar variety of similar and rarely used ones.
+The practical number of cantrips a caster can retain depends upon their similarity, complexity, training, and frequency of use. Cantrips with closely related scaffold or trigger patterns interfere more strongly than highly distinct ones, meaning it is much easier to recall a large variety of distinct and frequently used cantrips than a similar variety of similar and rarely used ones.
 
 Poorly practised cantrips may undergo **pattern drift**, in which the caster's reconstruction gradually diverges from the original template. This produces regional variants, folk adaptations, inefficient forms, incompatible traditions, and occasionally dangerous malformed executions.
 
@@ -276,7 +276,7 @@ Knowing two cantrips does not normally permit their direct combination. A caster
 
 ## Structured Casting
 
-**Structured Casting** is the conscious construction, modification, derivation, or supervision of a spell assembly by a caster who understands its components, interfaces, parameters, and execution behaviour. It is the analytical and design-intensive subset of spell casting, not a synonym for every use or activation of a spell.
+**Structured Casting** is the conscious construction, modification, derivation, or supervision of a spell assembly by a caster who understands its components, interfaces, parameters, and execution behaviour. It is the analytical and design-intensive subset of spell casting, not a synonym for every use or triggering of a spell.
 
 Structured casters are significantly less common than reflexive casters, as it requires much longer training periods and offers comparatively little practical gains until the later stages of training.
 
@@ -291,10 +291,10 @@ Its common practices include :
 | **Derivation**       | Adapting a known template to a new subject, reagent profile, attribute, source, or operating condition |
 | **Refactoring**      | Replacing or reorganising components while preserving the spell's declared operation  |
 | **Original design**  | Producing a novel template or construct architecture                                  |
-| **Live shaping**     | Altering a construct's Primed scaffold during activation or execution                  |
+| **Live shaping**     | Altering a construct's Primed scaffold during sealing or execution                     |
 | **Diagnostics**      | Inspecting, testing, isolating, and repairing malformed or degraded constructs        |
 | **Supervision**      | Continuously regulating a complex, unstable, or partially autonomous execution        |
-| **Maintenance**      | Realigning an activated spell assembly towards its intended state                      |
+| **Maintenance**      | Realigning a sealed spell assembly towards its intended state                          |
 
 A novice structured caster may be capable of adjusting a known subject boundary or substituting a known reagent profile while remaining unable to design a stable regulator or original feedback system.
 
@@ -317,7 +317,7 @@ Glyphs remain abstractions rather than sources of magical efficacy, and are dist
 - sensitive to interruption and distraction
 - dependent upon theoretical and practical education
 - capable of subtle semantic errors
-- dangerous when performed upon activated or unstable constructs
+- dangerous when performed upon executing or unstable constructs
 
 
 **Constructive Thaumaturgy** is the practical discipline of designing, composing, modifying, and supervising spells through conscious construct manipulation.
@@ -330,7 +330,7 @@ Glyphs remain abstractions rather than sources of magical efficacy, and are dist
 
 **Instrumental Casting** is the use of an external artefact or installation to anchor, support, or execute part or all of a spell assembly.
 
-The user may provide mana, activation, subject references, direction, magnitude, or a choice among predefined modes, while the instrument performs the construct operations assigned to it. An instrument may additionally require a declared reagent profile for a material subject that it is designed to exploit.
+The user may provide mana, a trigger signal, subject references, direction, magnitude, or a choice among predefined modes, while the instrument performs the construct operations assigned to it. An instrument may additionally require a declared reagent profile for a material subject that it is designed to exploit.
 
 Instrumental Casting ranges from supportive tools that offload one or more components or concern from a structured caster to autonomous engines that perform repeated regulated work without routine supervision.
 

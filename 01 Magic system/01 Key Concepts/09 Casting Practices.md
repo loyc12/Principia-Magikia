@@ -16,12 +16,12 @@ An invocation normally ends when its assembly dissipates or its persistent const
 
 Projection may be **autonomous**, with all guidance and delivery logic sealed into the payload, or **supervised**, with permitted updates supplied through a mana cord or paired Resonant transmission. Autonomous combat payloads avoid exposing a control connection but must carry every observation and response they may require. Supervised payloads remain adaptable while their signal survives, but create an additional path for delay, attenuation, leakage, or disruption.
 
-Common payload triggers include release, impact, contact, elapsed time, proximity, boundary crossing, a locally sensed condition, a received signal, and manual activation after recovery. Arming and detachment are mechanically separate even when performed together in ordinary practice.
+Common payload triggers include release, impact, contact, elapsed time, proximity, boundary crossing, a locally sensed condition, a received signal, and manual triggering after recovery. Arming and detachment are mechanically separate even when performed together in ordinary practice.
 
 Projection adds characteristic transit failures to the ordinary construct failure model :
 
 - launch deformation or anchor failure
-- premature activation
+- premature triggering
 - loss or corruption of a control cord
 - failure to encounter an eligible local subject
 - steering divergence or missed delivery
@@ -29,7 +29,7 @@ Projection adds characteristic transit failures to the ordinary construct failur
 - destructive interference with another scaffold
 - fracture and uncontrolled mana release upon impact
 
-Each expected failure requires declared behaviour such as dormancy, safe dissipation, harmless discharge, attempted return, continued waiting, or recoverable deactivation. If the declaration does not handle it, the payload fails like any other malformed assembly and may collapse violently.
+Each expected failure requires declared behaviour such as dormancy, safe dissipation, harmless discharge, attempted return, continued waiting, or recoverable return to dormancy. If the declaration does not handle it, the payload fails like any other malformed assembly and may collapse violently.
 
 Although projection has peaceful uses, rapid offensive casting remains difficult. Military projection therefore favours prepared artillery-like instruments, enchanted or mundane physical projectiles, portable wards, and maintained artefacts over exchanges of improvised free-floating spells. Defending a bounded position is ordinarily easier than producing a fast, reliable, discriminating, and difficult-to-disrupt payload.
 
@@ -118,7 +118,7 @@ Engines differ from ordinary implements chiefly in operational duration, through
 
 ### Ward Casting
 
-**Ward Casting** is the construction or activation of spells whose primary purpose is detection, regulation, exclusion, containment, correction, or response.
+**Ward Casting** is the construction or triggering of spells whose primary purpose is detection, regulation, exclusion, containment, correction, or response.
 
 Wards may detect crossings, mana flows, selected subjects, required reagent conditions, construct interference, or other declared conditions. Their response may include signalling, blocking, redirecting, dissipating, isolating, or triggering another secondary spell.
 
@@ -126,7 +126,7 @@ A ward can detect or impede a payload only through observations and responses av
 
 A purpose-built containment assembly may isolate and capture a compatible payload without rewriting its sealed declaration. Flooding a bounded region with simple free-floating scaffolds is a viable temporary defence because organised structures interfere strongly with an entering payload, although the same clutter impedes friendly constructs and eventually decays.
 
-Because wards frequently remain dormant for extended periods before activation, their reliability depends heavily upon persistent scaffold stability, environmental tolerance, stable long term mana sourcing, maintenance frequency, and graceful handling of degraded components. Soundly built wards commonly require annual inspection and repair, while neglected installations eventually fail even under unusually favourable conditions.
+Because wards frequently remain dormant for extended periods before triggering, their reliability depends heavily upon persistent scaffold stability, environmental tolerance, stable long term mana sourcing, maintenance frequency, and graceful handling of degraded components. Soundly built wards commonly require annual inspection and repair, while neglected installations eventually fail even under unusually favourable conditions.
 
 Wards may be keyed to the local physical and mana-flow consequences associated with animic signatures, allowing them to recognise authorised individuals, distinguish familiar inhabitants, or detect signs consistent with damaged and altered soul-forms. They do not perform attributed operations upon the soul-form itself. Primed-mana saturation wards may also imitate part of a soul-form's defensive function by making a protected volume resistant to foreign Expenditure and construct formation.
 

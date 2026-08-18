@@ -93,7 +93,7 @@ During conscious declaration, the operator uses trained somatic patterns to esta
 - which mana types are accepted
 - which parameters may vary
 - which subjects may be referenced and which reagent profiles may be required
-- how components activate
+- how components trigger
 - how state and control signals are transmitted
 - how faults and termination are handled
 
@@ -103,7 +103,7 @@ A novice may be able to reproduce a known component archetype without understand
 
 ## The Role of Intent
 
-In casting terminology, **intent** is a trained volitional control state used to activate or parameterise an already defined operation.
+In casting terminology, **intent** is a trained volitional control state used to trigger or parameterise an already defined operation.
 
 Intent may provide such inputs as :
 
@@ -111,7 +111,7 @@ Intent may provide such inputs as :
 - a direction
 - a magnitude
 - a duration
-- an activation signal
+- a trigger signal
 - a choice among predefined modes
 
 Intent cannot provide undefined spell behaviour. A construct cannot interpret a desire such as _protect me_, _heal this person_, or _strike my enemy_ unless its declaration already contains the components, observations, parameters, and operations required to translate admissible inputs into those results.
@@ -148,7 +148,7 @@ A living operator may interact with a spell assembly through **somatic interface
 
 Somatic interfaces may receive :
 
-- activation and termination signals
+- trigger and termination signals
 - continuous directional input
 - bounded scalar parameters
 - subject selections
@@ -158,7 +158,7 @@ Somatic interfaces may receive :
 They cannot safely accept arbitrary thoughts or concepts. Their admissible inputs must be defined during declaration, much like any other Parameter, Reference, Control, or State interface.
 
 
-**Somatic Thaumaturgy** is the applied discipline concerned with using somaturgic control to construct, activate, and supervise spells.
+**Somatic Thaumaturgy** is the applied discipline concerned with using somaturgic control to construct, seal, trigger, and supervise spells.
 
 **Thaumaturgic Neurology** is the study of the nervous and sensory mechanisms underlying volitional mana coupling.
 

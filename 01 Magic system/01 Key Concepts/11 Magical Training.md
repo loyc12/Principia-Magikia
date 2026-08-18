@@ -65,7 +65,7 @@ An exercise is evaluated by more than whether it appears to work. Instructors an
 - fatigue, recovery, and retention of control under sustained load
 - correct recognition of fault conditions and safe termination
 
-Practice normally begins with small quantities, approved materials, simple subjects, accessible sinks, and a supervisor or passive safeguard. Exercises involving unstable attributes, living subjects, deliberately exploited reagent profiles, large Primed-mana concentrations, active spell assemblies, or difficult termination conditions require progressively stronger containment and oversight.
+Practice normally begins with small quantities, approved materials, simple subjects, accessible sinks, and a supervisor or passive safeguard. Exercises involving unstable attributes, living subjects, deliberately exploited reagent profiles, large Primed-mana concentrations, executing spell assemblies, or difficult termination conditions require progressively stronger containment and oversight.
 
 ## Training Aids and Instruction
 

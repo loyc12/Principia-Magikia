@@ -98,7 +98,7 @@ The theory of preservation, echoes, derivation, and artificial formation belongs
 
 ## Interface and Command
 
-Golems do not ordinarily interpret unrestricted natural language or abstract intention. Commands must correspond to inputs understood by declared interfaces, such as an activation signal, recognised task, destination, subject reference, quantity, duration, priority, mode selection, or permission to begin or terminate a routine.
+Golems do not ordinarily interpret unrestricted natural language or abstract intention. Commands must correspond to inputs understood by declared interfaces, such as a trigger signal, recognised task, destination, subject reference, quantity, duration, priority, mode selection, or permission to begin or terminate a routine.
 
 Animic golems may use somatic or Resonant interfaces coupled to their physical neurological substrates. Such interfaces can provide richer bodily control and more flexible local adjustment, but they remain bounded inputs rather than direct access to thought. The resulting local mana-flow consequences may also support authorised-operator recognition or the calibration of persistent paired Resonant relationships. Neither interface performs an attributed operation upon the soul-form itself.
 

@@ -8,9 +8,9 @@ There are **5 essential phases** to creating and triggering a functioning mana c
 
 - **Construction** - **create** a stable **construct scaffold** out of Primed mana
 - **Declaration** - **imbue** the construct with the desired **conditions** and **parameters** components
-- **Activation** - **seal** the construct and **enable** its later execution
+- **Sealing** - **seal** the construct and **enable** its later execution
 - **Execution** - **enact** the construct's function according to its declaration
-- **Termination** - gracefully **dissipate or deactivate** the construct
+- **Termination** - gracefully **dissipate or return the construct to dormancy**
 
 These phases may overlap, as with construction and declaration or execution and termination, but they are invariably present even when not readily visible.
 
@@ -69,7 +69,7 @@ An empty construct scaffold cannot enact a controlled magical effect by itself. 
 
 To have any meaningful ability, a construct scaffold must be **imbued** with **construct components**, which embed specific functions into the scaffold and collectively define its behaviour during execution.
 
-This imbuing process is known as **component declaration**. The declaration specifies which mana attributes may be expended operationally, which subjects may be selected, which reagent profiles are required where applicable, how inputs are gathered and processed, and under what conditions the construct may activate, regulate itself, or terminate.
+This imbuing process is known as **component declaration**. The declaration specifies which mana attributes may be expended operationally, which subjects may be selected, which reagent profiles are required where applicable, how inputs are gathered and processed, and under what conditions the construct may trigger, regulate itself, or terminate.
 
 A component's semantic role does not inherently require a specialised mana attribute. A Timing component can measure ordinary elapsed time, a Selection component can distinguish iron from wood, and a Processing component can compare values without Signetic mana. Specialised attributes are required only when a component must exceed ordinary construct capabilities.
 
@@ -113,7 +113,7 @@ Components may exchange mana, values, references, and control signals through de
 | Interface     | Carries                                                          |
 | ------------- | ---------------------------------------------------------------- |
 | **Flow**      | Mana of specified types and within specified throughput limits   |
-| **Control**   | Activation, gating, synchronisation, and termination signals     |
+| **Control**   | Trigger, gating, synchronisation, and termination signals        |
 | **Parameter** | Magnitudes, vectors, durations, rates, and other declared values |
 | **Reference** | Subject, reagent-profile, component, construct, or location references |
 | **State**     | Sensed, processed, or retained information                       |
@@ -130,7 +130,7 @@ Information within and between constructs is carried and stored through **Primed
 | **Ephemeral** | reverted to its original state between  execution cycles        |
 | **Retained**  | retained between execution cycles                               |
 | **Queried**   | acquired through a Sensing component                            |
-| **Input**     | externally supplied during activation or execution              |
+| **Input**     | externally supplied during triggering or execution              |
 | **Output**    | transmitted to other components during execution or termination |
 
 #### Mana Cords
@@ -146,11 +146,13 @@ An unsupported cord leaks Primed mana, loses packet integrity, and becomes incre
 
 **Thaumaturgic Informatics** is the study of information representation, transmission, storage, processing, and validation within constructs and spell assemblies.
 
-### Activation
+### Sealing
 
-A properly built construct remains inert until it is **sealed**. Sealing fixes its declared components and interfaces, isolates its scaffold, and enables later execution. Modifying a sealed or active construct is possible, but only with great difficulty and risk, which makes sealing an important safeguard against accidental or hostile alteration of constructs.
+A properly built construct remains inert until it is **sealed**. Sealing fixes its declared components and interfaces, isolates its scaffold, and enables later execution. Modifying a sealed or executing construct is possible, but only with great difficulty and risk, which makes sealing an important safeguard against accidental or hostile alteration of constructs.
 
-Once sealed, the construct may be triggered by funnelling mana into it, supplying an activation signal, satisfying a declared condition, or receiving a command through a linked interface.
+Once sealed, the construct may be triggered by funnelling mana into it, supplying a trigger signal, satisfying a declared condition, or receiving a command through a linked interface.
+
+**Triggering** is the initiation of execution. A **trigger criterion** is a declared condition under which execution may begin, while a **trigger event** is the occurrence that satisfies such a criterion. **Activate** remains a synonym for **trigger** in ordinary use, but **trigger** is the preferred technical term; **activation** is not a construct-lifecycle phase.
 
 Constructs may be built for two primary lifecycle patterns :
 
@@ -162,23 +164,23 @@ Persistent constructs require periodic inspection, maintenance, or replenishment
 A sealed construct does not retain an intrinsic identity of its maker. Its scaffold habits, component choices, parameter preferences, material preparation, and characteristic errors may nevertheless permit attribution through forensic analysis, in the same manner as workmanship upon a physical artefact can.
 
 
-**Activation Theory** is the study of sealing, arming, triggering, dormant states, and the transition between inert and executable constructs.
+**Sealing Theory** is the study of sealing, arming, triggering, dormant states, and the transition between inert and executable constructs.
 
-**Construct Warding** is the study of preventing unauthorised activation, alteration, substitution, interference, or hostile access to sealed constructs.
+**Construct Warding** is the study of preventing unauthorised triggering, alteration, substitution, interference, or hostile access to sealed constructs.
 
 ### Execution
 
-Execution is the **runtime behaviour** of an activated mana construct. Non-trivial constructs do not normally execute as one strictly linear sequence. Instead, their various components form a reactive network of dependencies, flows, and conditions whose branches may operate once, repeatedly, continuously, concurrently, or only in response to faults.
+Execution is the **runtime behaviour** of a triggered mana construct. Non-trivial constructs do not normally execute as one strictly linear sequence. Instead, their various components form a reactive network of dependencies, flows, and conditions whose branches may operate once, repeatedly, continuously, concurrently, or only in response to faults.
 
 Once execution begins :
 
 - mana moves through available Flow interfaces;
-- components activate when their prerequisites are satisfied;
+- components trigger when their prerequisites are satisfied;
 - Sensing components update observations;
 - Processing components derive state or control values;
 - Regulating components alter throughput and output;
 - Operating components expend Attuned mana upon the selected subject;
-- termination conditions deactivate or dismantle the system.
+- termination conditions end execution or dismantle the system.
 
 The execution cycle can nevertheless be described through three broad stages :
 
@@ -186,7 +188,7 @@ The execution cycle can nevertheless be described through three broad stages :
 #### Initialisation
 
 1. **Acquire** - Sourcing components draw or accept mana
-2. **Validate** - The construct checks mana types, interface compatibility, subject eligibility, required reagent profiles, and activation conditions
+2. **Validate** - The construct checks mana types, interface compatibility, subject eligibility, required reagent profiles, and trigger criteria
 3. **Attune** - Matching random fluctuations are cultivated and retained where Attuned mana must be sourced locally
 4. **Address** - The subject and affected region are resolved
 5. **Parameterise** - Magnitude, direction, rate, duration, and other variable constraints are established
@@ -202,23 +204,23 @@ The execution cycle can nevertheless be described through three broad stages :
 #### Finalisation
 
 11. **Discharge** - Expended mana becomes Spent mana, while excess mana and local mana-field disruption are routed through Dissipating components
-12. **Terminate** - Interfaces are released, active components are disabled, and the scaffold either dissipates or returns to dormancy
+12. **Terminate** - Interfaces are released, executing components are disabled, and the scaffold either dissipates or returns to dormancy
 
-Not every construct performs every stage explicitly. Validation, Attunement, Observation, Processing, and Regulation may be absent from simple constructs, while persistent or adaptive constructs may perform parts of the active cycle continuously, at the cost of continuous mana expenditure.
+Not every construct performs every stage explicitly. Validation, Attunement, Observation, Processing, and Regulation may be absent from simple constructs, while persistent or adaptive constructs may perform parts of the execution cycle continuously, at the cost of continuous mana expenditure.
 
-**Repetition** is not normally declared as an instruction to repeat a procedure. Instead, it emerges from persistent flow paths, timed reactivation, feedback cycles, or external signals that continue until a termination condition is satisfied. This permits thermostatic spells, pulsed engines, periodic wards, tracking systems, and other self-regulating behaviour without requiring imperative execution.
+**Repetition** is not normally declared as an instruction to repeat a procedure. Instead, it emerges from persistent flow paths, timed retriggering, feedback cycles, or external signals that continue until a termination condition is satisfied. This permits thermostatic spells, pulsed engines, periodic wards, tracking systems, and other self-regulating behaviour without requiring imperative execution.
 
 **Independent branches** may execute concurrently. Scaffold topology determines whether branches have isolated mana supplies, compete for shared throughput, wait upon one another, or expend several attributes simultaneously.
 
 Constructs may also be either :
 
 - **stateless**, responding only to current inputs and conditions
-- **stateful**, retaining prior observations, values, or activation history between cycles
+- **stateful**, retaining prior observations, values, or trigger history between cycles
 
 Successful validation does not guarantee successful execution. Runtime conditions may change, subject bounds may be invalidated, required reagent conditions may cease to hold, mana supplies may destabilise, feedback may diverge, or coupled constructs may become unreachable. Such conditions must be routed into declared **Fault interfaces** and handled through **termination behaviour.**
 
 
-**Execution Theory** is the study of runtime mana flow, component dependency, concurrency, feedback, state, and recurrent operation within active constructs.
+**Execution Theory** is the study of runtime mana flow, component dependency, concurrency, feedback, state, and recurrent operation within executing constructs.
 
 **Thaumaturgic Control Theory** is the study of regulation, sensing, feedback stability, adaptive behaviour, oscillation, and fault-responsive control.
 
@@ -249,7 +251,7 @@ Below is a list of frequent construct failure types that termination behaviour m
 | **Transit deformation**  | Acceleration, collision, turbulence, or interference damages a moving scaffold |
 | **Connection loss**      | A required mana cord, physical conduit, or paired Resonant signal becomes unavailable |
 
-**Termination Theory** is the study of construct deactivation, scaffold dissipation, dormant return, fault containment, and safe disposal of excess mana.
+**Termination Theory** is the study of execution cessation, scaffold dissipation, dormant return, fault containment, and safe disposal of excess mana.
 
 **Thaumaturgic Safety Engineering** is the applied study of failure prevention, redundancy, emergency shutdown, fault isolation, and mitigation of magical accidents.
 
@@ -259,6 +261,6 @@ Below is a list of frequent construct failure types that termination behaviour m
 | ------------ | ------------------------------------- |
 | Construction | Allocate hardware/runtime environment |
 | Declaration  | Define program and parameters         |
-| Activation   | Compile, validate, and arm            |
+| Sealing      | Compile, validate, and arm            |
 | Execution    | Run and supervise                     |
 | Termination  | Deallocate, flush, and fail safely    |

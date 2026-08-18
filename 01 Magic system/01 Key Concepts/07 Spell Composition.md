@@ -2,7 +2,7 @@
 
 At their core, spells are **operationally unified systems** of one or more [[05 Mana Constructs|mana constructs]], connected through declared interfaces and directed towards a shared process, effect, or termination condition. They are the defining products of [[08 Mana Casting|Structured Casting]] and are distinct from the isolated attributed operations produced through Unstructured Casting.
 
-A collection of nearby or interacting constructs does not necessarily constitute a single spell by themselves. Constructs form one spell when their activation, subject bindings, execution dependencies, supervisory structure, or termination behaviour establish them as parts of one coherent operation. Required reagent profiles may be part of a subject binding where the spell deliberately relies upon material affinities. This is of course a somewhat blurry line, and as such, the terms spell and spell-combination sometimes overlap in their use.
+A collection of nearby or interacting constructs does not necessarily constitute a single spell by themselves. Constructs form one spell when their triggering, subject bindings, execution dependencies, supervisory structure, or termination behaviour establish them as parts of one coherent operation. Required reagent profiles may be part of a subject binding where the spell deliberately relies upon material affinities. This is of course a somewhat blurry line, and as such, the terms spell and spell-combination sometimes overlap in their use.
 
 While it is technically possible to accomplish any valid spell effect with a single sufficiently complex mana construct, such constructs rapidly become unwieldy and unstable. It is therefore preferable to **compose spells** by interconnecting more self-contained constructs, each with a dedicated purpose or task.
 
@@ -20,7 +20,7 @@ Colloquially, the term _spell_ may refer to several distinct but interconnected 
 | **Spell Template**  | The notation-independent logical design represented by one or more formulas       |
 | **Spell Assembly**  | The concrete network of mana constructs instantiated from a template              |
 | **Spell-Form**      | The concrete executable mana organisation of a spell, whether one construct or a wider assembly |
-| **Spell Execution** | A particular activation and runtime instance of a spell assembly                  |
+| **Spell Execution** | A trigger event and its resulting runtime instance of a spell assembly             |
 | **Spell Results**   | The attributed operations of an execution and their natural consequences          |
 
 **Spell-form** is an umbrella term used when the difference between one mana construct and a composite spell assembly is not relevant. It does not introduce another architectural layer: a monolithic spell-form is one construct, while a composite spell-form is an assembly of constructs. A formula or template is not a spell-form until instantiated in mana.
@@ -33,9 +33,9 @@ Colloquially, the term _spell_ may refer to several distinct but interconnected 
 
 **Spell interfaces** are [[05 Mana Constructs|construct]] interfaces exposed across construct boundaries within a spell assembly. They are not a wholly separate concept, as their categories, carried values, directionality, and compatibility requirements are those of the component-based interfaces defined in mana constructs.
 
-A cross-construct connection begins at compatible declared interfaces. It is realised by a **Coupling component**, which establishes the declared relationship between the constructs without granting unrestricted access to either one's internal structure. A Coupling component may provide a local connection, a continuous [[05 Mana Constructs#Mana Cords|mana cord]], or paired Resonant transmission between physical endpoint instruments, and may regulate its activation, translation, supervision, or termination. It does not override the permissions or tolerances declared by the interfaces it couples.
+A cross-construct connection begins at compatible declared interfaces. It is realised by a **Coupling component**, which establishes the declared relationship between the constructs without granting unrestricted access to either one's internal structure. A Coupling component may provide a local connection, a continuous [[05 Mana Constructs#Mana Cords|mana cord]], or paired Resonant transmission between physical endpoint instruments, and may regulate its triggering, translation, supervision, or termination. It does not override the permissions or tolerances declared by the interfaces it couples.
 
-At the assembly level, such connections may be required, optional, or conditional. They may expose fixed values, accept parameters supplied during activation, or transmit values produced during execution.
+At the assembly level, such connections may be required, optional, or conditional. They may expose fixed values, accept parameters supplied during triggering, or transmit values produced during execution.
 
 A connection is valid only when :
 
@@ -68,7 +68,7 @@ A complete formula may specify :
 - construct interfaces
 - mana types, sources, and expected throughput
 - subject constraints and any required reagent profiles
-- activation conditions
+- trigger criteria
 - execution dependencies
 - termination behaviour
 - safety constraints
@@ -106,7 +106,7 @@ A template defines :
 - parameters and their valid ranges
 - required primitive operations
 - inputs, outputs, and interface connections
-- activation model
+- trigger model
 - execution dependencies and ordering constraints
 - runtime behaviour
 - output and completion conditions
@@ -144,14 +144,14 @@ An assembly includes :
 
 - the location and topology of its constructs
 - the couplings and interfaces between them
-- active and dormant components
+- executing and dormant components
 - contained and flowing mana
 - subject bindings and any required reagent profiles
 - runtime state
 - scaffold and interface integrity
 - anchorage, mobility, and supervisory relationships
 
-A spell assembly may exist without currently executing. An enchanted implement may contain a dormant assembly, a ward may contain a continuously active assembly, and a structured caster may build an ephemeral assembly immediately before activating it.
+A spell assembly may exist without currently executing. An enchanted implement may contain a dormant assembly, a ward may contain a continuously executing assembly, and a structured caster may build an ephemeral assembly immediately before triggering it.
 
 A memorised cantrip, by contrast, is a retained formula or template and does not become an assembly until instantiated.
 
@@ -165,11 +165,11 @@ Assemblies may be classified by architecture :
 | **Monolithic**  | Consists of a single mana construct                                          |
 | **Modular**     | Uses several specialised constructs with declared interfaces                 |
 | **Distributed** | Separates its constructs across multiple locations                           |
-| **Nested**      | Contains constructs that activate, anchor, or supervise subordinate assemblies |
+| **Nested**      | Contains constructs that trigger, anchor, or supervise subordinate assemblies |
 | **Recursive\*** | Produces or reconstructs assemblies based upon its own template              |
 *\*Recursive assemblies are theoretically possible but are difficult to constrain, highly susceptible to compounding error, and generally disused outside of formal research.*
 
-Complex assemblies may be orchestrated through a central supervisory construct, distributed peer coordination, sequential dependencies, event-driven activation, or continuous shared feedback. Their orchestration is part of the spell template rather than an incidental consequence of physical proximity.
+Complex assemblies may be orchestrated through a central supervisory construct, distributed peer coordination, sequential dependencies, event-driven triggering, or continuous shared feedback. Their orchestration is part of the spell template rather than an incidental consequence of physical proximity.
 
 
 **Assembly Engineering** is the study of instantiated construct networks, their topology, anchoring, orchestration, integrity, repair, and persistent operation.
@@ -180,7 +180,7 @@ Complex assemblies may be orchestrated through a central supervisory construct, 
 
 A **spell payload**, commonly shortened to **payload**, is a spell-form designed to detach from its point of construction or preparation, travel through space, and deliver one or more declared operations elsewhere. A moving offensive payload is commonly called a **spell projectile**. Payload is a functional classification rather than a distinct structure or mana type; all payloads remain ordinary constructs or spell assemblies and obey their usual rules.
 
-Delayed activation alone does not make an assembly a payload. A stationary ward, deposited trap, or dormant instrument remains an ordinary spell assembly unless its declared function includes detachment and travel before delivery.
+Delayed triggering alone does not make an assembly a payload. A stationary ward, deposited trap, or dormant instrument remains an ordinary spell assembly unless its declared function includes detachment and travel before delivery.
 
 A payload may be :
 
@@ -201,7 +201,7 @@ A payload must account for five operational responsibilities :
 
 Payloads commonly carry valuable or mana-intensive Attuned supplies, but may also gather mana locally, receive it through a cord over a viable distance, or contain an Attuning component. Construct-bound Attuners are ordinarily slower and less compact than physical apparatus exploiting a prepared material affinity, and therefore remain uncommon in short-lived projectiles.
 
-Arming and detachment are separate lifecycle events. A payload may be detached while dormant, although practical projection usually arms it immediately before or during release. Its triggers may include release, elapsed time, impact, proximity, boundary crossing, a locally sensed condition, a received corded or paired Resonant signal, or manual activation after recovery, provided the required logic and observations exist within its declaration.
+Arming and detachment are separate lifecycle events. A payload may be detached while dormant, although practical projection usually arms it immediately before or during release. Its triggers may include release, elapsed time, impact, proximity, boundary crossing, a locally sensed condition, a received corded or paired Resonant signal, or manual triggering after recovery, provided the required logic and observations exist within its declaration.
 
 A payload whose failure behaviour does not cover its expected transit conditions may terminate erroneously and collapse. It receives no special exemption from scaffold fracture, released mana, expenditure thresholds, animic resistance, or ward interference.
 
@@ -209,9 +209,9 @@ A payload whose failure behaviour does not cover its expected transit conditions
 
 ### Spell Execution
 
-A **spell execution** is a particular runtime instance of an activated spell assembly.
+A **spell execution** is a particular runtime instance of a triggered spell assembly.
 
-While construct execution describes the behaviour of one scaffold and its components, spell execution describes the coordinated behaviour of the entire assembly. It determines when constructs activate, how they exchange inputs and outputs, how shared subjects, reagent profiles, and mana sources are resolved, and how local failures affect the wider spell.
+While construct execution describes the behaviour of one scaffold and its components, spell execution describes the coordinated behaviour of the entire assembly. It determines when constructs trigger, how they exchange inputs and outputs, how shared subjects, reagent profiles, and mana sources are resolved, and how local failures affect the wider spell.
 
 A spell execution forms a directed graph of mana flows, parameter dependencies, state changes, and control signals. Its branches may occur sequentially, concurrently, recurrently, or conditionally. The graph may remain fixed throughout execution or change among predefined configurations in response to observations.
 
@@ -223,14 +223,14 @@ Spell execution is generally divided into :
 
 The failure of one construct does not necessarily terminate the entire spell. Fault interfaces may allow the assembly to isolate a damaged branch, substitute a redundant construct, degrade its output, or initiate graceful termination. Unhandled failures may instead cascade through shared mana sources, references, or control couplings.
 
-Each activation of the same assembly constitutes a distinct execution, even when its formula, template, constructs, and nominal parameters remain unchanged. Environmental conditions, subject state, required reagent conditions, and prior assembly wear may therefore cause repeated executions to produce slightly different results.
+Each triggering of the same assembly constitutes a distinct execution, even when its formula, template, constructs, and nominal parameters remain unchanged. Environmental conditions, subject state, required reagent conditions, and prior assembly wear may therefore cause repeated executions to produce slightly different results.
 
 A continuously executing spell, such as a ward, may still be made up of **sub-executions**, which are discrete events generally occurring within one or more default standby states.
 
 
 **Spell Dynamics** is the study of coordinated runtime behaviour across an entire spell assembly.
 
-**Thaumaturgic Orchestration** is the study of activation ordering, shared state, supervisory control, redundancy, and fault propagation among linked constructs.
+**Thaumaturgic Orchestration** is the study of trigger ordering, shared state, supervisory control, redundancy, and fault propagation among linked constructs.
 
 ### Spell Types
 
@@ -243,7 +243,7 @@ Below are the most common ones :
 | Type              | Description                                                     |
 | ----------------- | --------------------------------------------------------------- |
 | **Instantaneous** | Performs one bounded operation and terminates                   |
-| **Sustained**     | Remains active while continuously supplied                      |
+| **Sustained**     | Continues executing while continuously supplied                 |
 | **Persistent**    | Remains instantiated between sub-executions                     |
 | **Periodic**      | Executes at declared intervals                                  |
 | **Latched**       | Enters and retains a state until explicitly reset or terminated |
@@ -265,7 +265,7 @@ Below are the most common ones :
 | **Monolithic**    | The spell is contained within a single mana construct, with all sourcing, processing, regulation, and operational functions sharing one scaffold                                            |
 | **Modular**       | The spell is divided into several specialised constructs, each handling a distinct function and communicating through declared interfaces                                                   |
 | **Distributed**   | The spell's constructs are physically separated across multiple locations while remaining part of the same operationally unified assembly                                                   |
-| **Hierarchical**  | The spell is organised into supervisory layers, with higher-level constructs coordinating, activating, or regulating lower-level constructs                                                 |
+| **Hierarchical**  | The spell is organised into supervisory layers, with higher-level constructs coordinating, triggering, or regulating lower-level constructs                                                 |
 | **Networked**     | The spell consists of multiple interconnected constructs or assemblies that exchange mana, state, references, or control signals without necessarily relying on a single central supervisor |
 
 #### By Subject Relationship

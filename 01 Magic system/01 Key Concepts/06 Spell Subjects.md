@@ -18,7 +18,7 @@ Thus, not every subject is a reagent. A spell may directly heat an ordinary volu
 
 ## Local and Relational Resolution
 
-A subject need not be named as one particular object before a spell is activated. A declaration may instead identify a subject through a physically available local relation, including :
+A subject need not be named as one particular object before a spell is triggered. A declaration may instead identify a subject through a physically available local relation, including :
 
 - matter touching a construct or its physical anchor
 - matter overlapping a declared coupling region
