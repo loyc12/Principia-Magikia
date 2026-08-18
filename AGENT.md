@@ -9,7 +9,7 @@ Surface contradictions, uncertain implications, and consequential choices instea
 
 ## Hard rules
 
-- Do not alter `.obsidian` workspace state.
+- Do not alter or mention the `.obsidian` workspace state folder : simply ignore it and its content.
 
 ## Documentation Style
 

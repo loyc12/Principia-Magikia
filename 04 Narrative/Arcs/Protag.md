@@ -1,15 +1,15 @@
 # Protagonist Arc
 
-|Stage|Internal Goal|
-|---|---|
-|Arrival|Return home|
-|Survival|Stay alive|
-|Isolation|Find companionship|
-|Integration|Become accepted|
-|Discovery|Understand magic|
-|Application|Improve lives|
-|Reform|Change magical scholarship|
-|Legacy|Build institutions that outlast him|
+| Stage       | Internal Goal                       |
+| ----------- | ----------------------------------- |
+| Arrival     | Return home                         |
+| Survival    | Stay alive                          |
+| Isolation   | Find companionship                  |
+| Integration | Become accepted                     |
+| Discovery   | Understand magic                    |
+| Application | Improve lives                       |
+| Reform      | Change magical scholarship          |
+| Legacy      | Build institutions that outlast him |
 
 # Rough Sequence of Events
 
