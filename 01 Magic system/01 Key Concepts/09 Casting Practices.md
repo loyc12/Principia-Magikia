@@ -81,27 +81,27 @@ Magical instruments may be classified independently by their function, form, and
 
 #### By Form
 
-|Instrument Form|Description|
-|---|---|
-|**Handheld**|Designed to be held and directed by one user|
-|**Worn**|Integrated into clothing, armour, jewellery, or the body|
-|**Embedded**|Installed into another object, machine, or vehicle|
-|**Architectural**|Integrated into a building or fixed installation|
-|**Array**|Distributed across several linked anchors, surfaces, or locations|
+| Instrument Form   | Description                                                       |
+| ----------------- | ----------------------------------------------------------------- |
+| **Handheld**      | Designed to be held and directed by one user                      |
+| **Worn**          | Integrated into clothing, armour, jewellery, or the body          |
+| **Embedded**      | Installed into another object, machine, or vehicle                |
+| **Architectural** | Integrated into a building or fixed installation                  |
+| **Distributed**   | Distributed across several linked anchors, surfaces, or locations |
 
 #### By Operational Role
 
-|Operational Role|Description|
-|---|---|
-|**Autonomous**|Executes its declared functions without routine operator control|
-|**Supportive**|Offloads components or improves the casting of another operator|
-|**Supervisory**|Coordinates or regulates subordinate constructs or instruments|
-|**Protective**|Detects and responds to hazards or hostile interference|
-|**Distributive**|Routes mana, parameters, references, or control signals across an assembly|
+| Operational Role | Description                                                                |
+| ---------------- | -------------------------------------------------------------------------- |
+| **Autonomous**   | Executes its declared functions without routine operator control           |
+| **Supportive**   | Offloads components or improves the casting of another operator            |
+| **Supervisory**  | Coordinates or regulates subordinate constructs or instruments             |
+| **Protective**   | Detects and responds to hazards or hostile interference                    |
+| **Routing**      | Routes mana, parameters, references, or control signals across an assembly |
 
-### Engine Casting
+### Engine Building
 
-**Engine Casting** is the sustained or repeated operation of persistent instrumental assemblies to produce useful work.
+**Engine Building** is the creation of persistent instrumental assemblies which can continuously produce useful work.
 
 A magical engine normally includes :
 
@@ -120,11 +120,11 @@ Engines differ from ordinary implements chiefly in operational duration, through
 
 **Ward Casting** is the construction or activation of spells whose primary purpose is detection, regulation, exclusion, containment, correction, or response.
 
-Wards may detect crossings, mana flows, selected subjects, required reagent conditions, construct interference, or other declared conditions. Their response may include signalling, blocking, redirecting, dissipating, isolating, or activating another spell.
+Wards may detect crossings, mana flows, selected subjects, required reagent conditions, construct interference, or other declared conditions. Their response may include signalling, blocking, redirecting, dissipating, isolating, or triggering another secondary spell.
 
 A ward can detect or impede a payload only through observations and responses available to its design. Local mana-field disturbances may reveal an approaching scaffold; an intercepting construct, physical barrier, counterflow, or saturated defensive region may then overlap and disrupt it through intrinsic mana interference. A ward may also operate upon a payload's physical carrier, the surrounding material medium, or a bounded region of space-time, but cannot apply an attributed operation to the payload itself.
 
-A purpose-built containment assembly may isolate and capture a compatible payload without rewriting its sealed declaration. Flooding a bounded region with simple free-floating scaffolds is a viable temporary defence because organised structures interfere strongly with an entering payload, although the same clutter impedes friendly constructs and eventually decays. None of these responses acts across an unoccupied separation.
+A purpose-built containment assembly may isolate and capture a compatible payload without rewriting its sealed declaration. Flooding a bounded region with simple free-floating scaffolds is a viable temporary defence because organised structures interfere strongly with an entering payload, although the same clutter impedes friendly constructs and eventually decays.
 
 Because wards frequently remain dormant for extended periods before activation, their reliability depends heavily upon persistent scaffold stability, environmental tolerance, stable long term mana sourcing, maintenance frequency, and graceful handling of degraded components. Soundly built wards commonly require annual inspection and repair, while neglected installations eventually fail even under unusually favourable conditions.
 
@@ -132,9 +132,9 @@ Wards may be keyed to the local physical and mana-flow consequences associated w
 
 Large, recurrent, long-maintained ward networks may develop distinctive construct signatures, retained responses to familiar operators, and resistance to unfamiliar modification through wear, repair history, Signetic state, keyed interfaces, and persistent Resonant associations. These properties are not soul-forms unless the ward includes a qualifying physical neurological substrate.
 
-### Array Casting
+### Distributed Casting
 
-**Array Casting** is the use of a distributed assembly whose constructs are anchored across several objects, structures, environments, or locations.
+**Distributed Casting** relies on a **distributed array** whose constructs are anchored across several objects, structures, environments, or locations.
 
 Arrays may be architectural, environmental, instrumental, or mixed. They are commonly used where one scaffold would be too large, where broad spatial coverage is required, or where mana sourcing and operation must be distributed.
 
