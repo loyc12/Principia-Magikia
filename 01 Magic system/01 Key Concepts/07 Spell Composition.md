@@ -193,7 +193,7 @@ A payload may be :
 
 A payload must account for five operational responsibilities :
 
-1. **Transit integrity** - preserve its scaffold through detachment, acceleration, interference, and impact
+1. **Transit integrity** - preserve its scaffold through detachment, acceleration, interference, and any impact suffered by its physical carrier
 2. **Motion** - identify the mana, material, or environmental interaction that launches and redirects it
 3. **Supply** - carry, gather, attune, or receive its constructive and operational mana
 4. **Delivery** - resolve a local or relational subject and determine when to apply its operation
@@ -201,7 +201,7 @@ A payload must account for five operational responsibilities :
 
 Payloads commonly carry valuable or mana-intensive Attuned supplies, but may also gather mana locally, receive it through a cord over a viable distance, or contain an Attuning component. Construct-bound Attuners are ordinarily slower and less compact than physical apparatus exploiting a prepared material affinity, and therefore remain uncommon in short-lived projectiles.
 
-Arming and detachment are separate lifecycle events. A payload may be detached while dormant, although practical projection usually arms it immediately before or during release. Its triggers may include release, elapsed time, impact, proximity, boundary crossing, a locally sensed condition, a received corded or paired Resonant signal, or manual triggering after recovery, provided the required logic and observations exist within its declaration.
+Arming and detachment are separate lifecycle events. A payload may be detached while dormant, although practical projection usually arms it immediately before or during release. Its triggers may include release, physical-carrier impact, coupling-region overlap, proximity, boundary crossing, a locally sensed condition, a received corded or paired Resonant signal, or manual triggering after recovery, provided the required logic and observations exist within its declaration.
 
 A payload whose failure behaviour does not cover its expected transit conditions may terminate erroneously and collapse. It receives no special exemption from scaffold fracture, released mana, expenditure thresholds, animic resistance, or ward interference.
 

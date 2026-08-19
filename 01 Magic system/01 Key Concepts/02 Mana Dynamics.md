@@ -42,6 +42,16 @@ Material interactions with Primed, Spent, and Attuned mana are defined in [[13 M
 
 Of all mana types, Primed mana is the most reactive with itself, other mana types, and mana-interactive matter, while Spent mana is the least reactive, being nearly inert. The properties of Attuned mana generally lie between these two extremes and vary per attribute.
 
+## Permeability, Momentum, and Local Conditions
+
+Mana particles have **mana-field inertia** and can therefore carry field momentum, but they have no ordinary rest mass, hard surface, or exclusive volume. Multiple mana particles, coherent mana structures, and ordinary matter may occupy the same region. Attraction, repulsion, gradients, and scaffold-restoring interactions alter their relative motion without making mana an impenetrable substance.
+
+Matter influences nearby mana through its documented [[13 Material Affinities|material affinities]], changing the local force and transition conditions. The reciprocal momentum transfer to matter is established but ordinarily too slight to detect outside extremely sensitive measurement: mana particles and structures are not known to repel, support, abrade, or obstruct a physical object merely by being present. Existing models predict that exceptionally dense, coherent mana gradients could produce a measurable macroscopic back-reaction, but no practical experiment or instrument has yet reached the required scale to verify that extreme regime.
+
+A coherent mana structure is a sustained arrangement of Primed mana whose local restoring interactions maintain its relative geometry. It is resilient because disruption must overcome or deform those interactions, not because it excludes other mana or matter. Coherent structures can therefore pass through one another while overlapping. Their topologies may nevertheless interfere, corrupt signals, alter local transition conditions, or deform either scaffold; severity depends upon Primed concentration, compatibility, relative motion, protection, and duration of overlap.
+
+The **local transition landscape** is the combined mana and material environment governing **permutational stability**: the statistical tendency of a mana particle to retain its current state. For Primed mana, it governs whether an Attuned fluctuation persists to committed permutation; for Attuned mana, it governs resistance to Detuning. Local mana concentrations and gradients, compatible or competing attributes, free or structured Primed mana, material affinity, imposed confinement, and mana-field disruption can all change this tendency. A scaffold or affinity crystal affects the landscape through organised local interactions, not by physically enclosing a volume.
+
 ## Mana States in Practice
 
 The three mana states are not interchangeable stores of the same immediately usable resource. Their different potential and behaviour determine how magi, instruments, and living systems can use them.
@@ -67,19 +77,21 @@ The early formation of a [[03 Soul-Forms|soul-form]] likewise depends upon Prime
 
 **Mana Hydrodynamics** is the applied study of large-scale mana currents, pooling, circulation, turbulence, and transport through natural or artificial channels.
 
-### Mana-Field Motion and Contact
+### Mana-Field Motion and Local Coupling
 
-Individual mana particles behave as a mobile particulate field, but do not possess ordinary mass in the same manner as matter. Instead, they possesse **mana-field inertia**: once displaced, they continue to move through the field until mana forces, interference, or material interaction change that motion.
+Individual mana particles behave as a mobile particulate field, but do not possess ordinary mass in the same manner as matter. Instead, they possess **mana-field inertia**: once displaced, they continue to move through the field until mana forces, interference, or material interaction change that motion.
 
-Mana particles may drift under concentration gradients, mana-field curvature, gravity, material interaction, or small irregular collisions analogous to Brownian motion. Continued interference with surrounding mana opposes sustained motion. Therefore, a particle or coherent structure approaches a condition-dependent terminal velocity rather than accelerating without bound.
+Mana particles may drift under concentration gradients, mana-field curvature, gravity, material interaction, or small irregular force fluctuations analogous to Brownian motion. Continued interference with surrounding mana opposes sustained motion. Therefore, a particle or coherent structure experiencing a stable displacement force approaches a condition-dependent terminal velocity rather than accelerating without bound.
 
 Mana structures can thus be launched by the ordinary repulsion produced by a controlled concentration of Primed mana. Such a burst does not expend Primed mana as an attributed operation; it applies the same repellent interaction already present between mana particles.
 
-A construct may instead attach itself to moving matter, be carried by an environmental current, steer by ejecting Primed mana, or travel through a bounded region altered by Dimensional operation. An attributed operation may move a physical carrier or anchor, but cannot act upon the construct itself. Acceleration, turbulence, collision, and abrupt redirection can deform or fracture its scaffold.
+A construct may instead be attached to moving anchor, be carried by an environmental current, steer by ejecting Primed mana, or travel through a bounded region altered by Dimensional operation. An attributed operation may move a physical carrier or anchor, but cannot act upon the construct itself. Acceleration, turbulence, abrupt local force changes, and structural interference can deform or fracture its scaffold.
 
-Mana interaction is local. Particles, matter, construct boundaries, continuous Primed-mana structures, or propagated disturbances must touch or overlap for an interaction to occur. A paired Resonant arrangement improves selective transmission between prepared endpoints, but the encoded disturbance still crosses the intervening mana field at finite speed and remains subject to attenuation and interference. Dense free mana ordinarily produces diffuse pressure and interference, while an organised mana structure produces much stronger topological interference when its geometry overlaps another structure.
+Mana interaction is local. Particles and structures must overlap or enter a shared interaction region, while matter couples locally through an applicable material affinity; physical contact is neither necessary nor sufficient. A paired Resonant arrangement improves selective transmission between prepared endpoints, but the encoded disturbance still crosses the intervening mana field at finite speed and remains subject to attenuation and interference. Dense free mana ordinarily produces diffuse force gradients and interference, while an organised mana structure produces much stronger topological interference when its geometry overlaps another structure.
 
-**Mana Kinematics** is the study of mana-field inertia, drift, propulsion, collision, and the motion of coherent mana structures.
+Mana particles are not know to have a maximal velocity, but such a velocity is hypothesised to exist, even if yet unmeasured.
+
+**Mana Kinematics** is the study of mana-field inertia, momentum, drift, propulsion, local force perturbation, and the motion of coherent mana structures.
 
 ## Mana Attunement
 

@@ -16,7 +16,7 @@ An invocation normally ends when its assembly dissipates or its persistent const
 
 Projection may be **autonomous**, with all guidance and delivery logic sealed into the payload, or **supervised**, with permitted updates supplied through a mana cord or paired Resonant transmission. Autonomous combat payloads avoid exposing a control connection but must carry every observation and response they may require. Supervised payloads remain adaptable while their signal survives, but create an additional path for delay, attenuation, leakage, or disruption.
 
-Common payload triggers include release, impact, contact, elapsed time, proximity, boundary crossing, a locally sensed condition, a received signal, and manual triggering after recovery. Arming and detachment are mechanically separate even when performed together in ordinary practice.
+Common payload triggers include release, physical-carrier impact, coupling-region overlap, elapsed time, proximity, boundary crossing, a locally sensed condition, a received signal, and manual triggering after recovery. Arming and detachment are mechanically separate even when performed together in ordinary practice.
 
 Projection adds characteristic transit failures to the ordinary construct failure model :
 
@@ -27,7 +27,7 @@ Projection adds characteristic transit failures to the ordinary construct failur
 - steering divergence or missed delivery
 - operational-mana starvation before arrival
 - destructive interference with another scaffold
-- fracture and uncontrolled mana release upon impact
+- fracture and uncontrolled mana release after physical-carrier impact or abrupt structural interference
 
 Each expected failure requires declared behaviour such as dormancy, safe dissipation, harmless discharge, attempted return, continued waiting, or recoverable return to dormancy. If the declaration does not handle it, the payload fails like any other malformed assembly and may collapse violently.
 
@@ -122,9 +122,9 @@ Engines differ from ordinary implements chiefly in operational duration, through
 
 Wards may detect crossings, mana flows, selected subjects, required reagent conditions, construct interference, or other declared conditions. Their response may include signalling, blocking, redirecting, dissipating, isolating, or triggering another secondary spell.
 
-A ward can detect or impede a payload only through observations and responses available to its design. Local mana-field disturbances may reveal an approaching scaffold; an intercepting construct, physical barrier, counterflow, or saturated defensive region may then overlap and disrupt it through intrinsic mana interference. A ward may also operate upon a payload's physical carrier, the surrounding material medium, or a bounded region of space-time, but cannot apply an attributed operation to the payload itself.
+A ward can detect or impede a payload only through observations and responses available to its design. Local mana-field disturbances may reveal an approaching scaffold; a counterflow or saturated defensive region may then overlap and disrupt it through intrinsic mana interference. A physical barrier can instead impede the payload's carrier or alter its available local conditions. A ward may operate upon that carrier, the surrounding material medium, or a bounded region of space-time, but cannot apply an attributed operation to the payload itself.
 
-A purpose-built containment assembly may isolate and capture a compatible payload without rewriting its sealed declaration. Flooding a bounded region with simple free-floating scaffolds is a viable temporary defence because organised structures interfere strongly with an entering payload, although the same clutter impedes friendly constructs and eventually decays.
+A purpose-built containment assembly may recognise, isolate, and neutralise a compatible payload without rewriting its sealed declaration, for example by inducing a declared safe termination or redirecting its physical carrier. It does not physically confine the scaffold. Flooding a bounded region with simple free-floating scaffolds is a viable temporary defence because organised structures interfere strongly with an entering payload even as both remain mutually permeable; the same clutter similarly interferes with friendly constructs and eventually decays.
 
 Because wards frequently remain dormant for extended periods before triggering, their reliability depends heavily upon persistent scaffold stability, environmental tolerance, stable long term mana sourcing, maintenance frequency, and graceful handling of degraded components. Soundly built wards commonly require annual inspection and repair, while neglected installations eventually fail even under unusually favourable conditions.
 

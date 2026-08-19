@@ -367,7 +367,7 @@ Not every mana instrument performs structured casting. Reservoirs, conduits, and
 
 Projection does not itself supply range, motion, observation, or homing. A payload may be launched or steered by Primed-mana repulsion, controlled ejection of Primed mana, an environmental force, operation upon a physical carrier, or Dimensional operation upon its surrounding space-time. No attribute operates upon the payload scaffold itself. Remote supervision requires a mana cord or prepared paired Resonant transmission, while autonomous guidance requires local Sensing, Processing, Directing, and an admissible means of changing motion.
 
-A projected payload may carry its mana, gather it locally, Attune it after arrival, or receive it through a viable cord. It may identify its subject through impact, contact, local criteria, a bounded region relative to itself, or an available relationship. None of these methods bypasses ordinary expenditure thresholds or animic resistance.
+A projected payload may carry its mana, gather it locally, Attune it after arrival, or receive it through a viable cord. It may identify its subject through physical-carrier impact, coupling-region overlap, local criteria, a bounded region relative to itself, or an available relationship. None of these methods bypasses ordinary expenditure thresholds or animic resistance.
 
 Projection Casting differs from merely launching matter with Kinetic mana. A mundane stone moved by a spell is a projectile but not a spell payload; an arrow bearing an executable assembly may be both an enchanted projectile and a payload.
 

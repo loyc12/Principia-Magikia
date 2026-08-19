@@ -223,7 +223,7 @@ R_priming = k_priming * C_spent * rho_phi * S(x)
 
 ## Mana-Field Motion and Structural Interference
 
-A coherent mana structure has no assigned ordinary rest mass, but responds to mana forces with measurable field inertia. A minimal kinematic model may therefore represent its motion as:
+A coherent mana structure has no assigned ordinary rest mass, but responds to mana forces with measurable field inertia and therefore carries field momentum. A minimal kinematic model may therefore represent its motion as:
 
 ```text
 I_i * dv/dt =
@@ -235,7 +235,7 @@ I_i * dv/dt =
     - Gamma_i(C_local, v)v
 ```
 
-`I_i` is effective mana-field inertia rather than ordinary rest mass. `chi(V_i)` is potential-dependent gravitational coupling, while `F_field` follows the mana-field gradient towards the Singularity. The remaining terms represent concentration gradients, mana repulsion, material interaction, and the interference of surrounding mana. An attributed operation is absent because mana structures are not valid subjects of attributed operation.
+`I_i` is effective mana-field inertia rather than ordinary rest mass; for this model, `p_m = I_i v` is the corresponding field momentum. `chi(V_i)` is potential-dependent gravitational coupling, while `F_field` follows the mana-field gradient towards the Singularity. The remaining terms represent concentration gradients, mana repulsion, material interaction, and the interference of surrounding mana. Material deflection has an equal and opposite but ordinarily negligible physical back-reaction; no hard-surface or excluded-volume term is present because mana structures remain permeable. An attributed operation is absent because mana structures are not valid subjects of attributed operation.
 
 The qualitative gravitational ordering is:
 
@@ -259,9 +259,9 @@ For approximately linear interference:
 v_terminal = F_drive / Gamma_i
 ```
 
-The terminal velocity depends upon particle state, local mana concentration, relative flow, material conditions, and, for a coherent structure, topology and cross-section. Even nearly inert Spent particles therefore do not accelerate without bound.
+The terminal velocity depends upon particle state, local mana concentration, relative flow, material conditions, and, for a coherent structure, topology and effective interaction cross-section. Even nearly inert Spent particles therefore do not accelerate without bound.
 
-A coherent construct may be accelerated by Primed-mana repulsion, environmental mana flow, collision, or material interaction. Attributed operation may instead act upon a physical carrier or anchor, while Dimensional mana may alter the bounded space-time through which the construct moves.
+A coherent construct may be accelerated by Primed-mana repulsion, environmental mana flow, overlap with another structure's force field, or material interaction. Attributed operation may instead act upon a physical carrier or anchor, while Dimensional mana may alter the bounded space-time through which the construct moves.
 
 Free particles ordinarily produce diffuse perturbations. Where two coherent structures overlap, their constrained geometries can instead produce strong **structural interference**. Its severity depends upon local Primed concentration, topological compatibility, relative motion, scaffold protection, and duration of overlap. Destructive interference may deform either scaffold without requiring an attributed operation.
 

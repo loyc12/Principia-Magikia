@@ -10,10 +10,11 @@ Surface contradictions, uncertain implications, and consequential choices instea
 ## Hard rules
 
 - Do not alter or mention the `.obsidian` workspace state folder : simply ignore it and its content.
+- Use canadian spelling, especially when editing documentation.
 
 ## Documentation Style
 
-- Write clear, precise prose that could plausibly exist as scholarly or technical material within the setting.
+- Write clear, precise prose that could plausibly exist as advanced scholarly or technical material within the setting.
 - Explain mechanisms, constraints, consequences, and uncertainty; avoid mystical hand-waving, assume document writer is omniscient but from the setting.
 - Use the setting's established vocabulary consistently: mana states, Attunement, Expenditure, constructs, reagents, soul-forms, and related disciplines.
 - Preserve the soft historical-fantasy tone. Avoid conspicuously modern industrial, corporate, or computing language unless the document's voice or subject explicitly warrants it.

@@ -22,29 +22,29 @@ Below is a more detailed breakdown of each phase :
 
 ### Construction
 
-A mana construct must be contained within an insulating shell known as a **construct scaffold**. These scaffolds are built from Primed mana, which can form and maintain stable shapes when properly manipulated via **mana shaping**.
+A mana construct requires a **construct scaffold**: a bounded topology of Primed mana formed and maintained through **mana shaping**. A scaffold is a functional pattern rather than an insulating shell or physical container; its boundary distinguishes declared flows, state, and interference domains without excluding co-located mana or matter. [[02 Mana Dynamics#Permeability, Momentum, and Local Conditions|Mana Dynamics]] defines the underlying permeability and restoring interactions.
 
 Similar shapes sometimes occur naturally in locations with high densities of Primed mana, but these occurrences generally lack the size, organisation, or internal structure required of proper construct scaffolds.
 
 Natural Primed-mana structures most often nucleate through interaction with matter or an existing mana structure. They may later detach and drift under mana flow, repulsion, and gravity. Detachment does not distinguish a false structure from a true one; origin, declaration, and internal organisation do.
 
-Primed mana incorporated into a scaffold is **geometrically constrained** and cannot readily undergo attunement. It retains its potential but is functionally isolated from ordinary flow. Scaffold damage releases this Primed mana, often causing uncontrolled local attunement or repulsive discharge of free flowing Primed mana.
+Primed mana incorporated into a scaffold is **geometrically constrained** by its restoring interactions and cannot readily undergo Attunement. It retains its potential but is functionally isolated from ordinary flow. Scaffold damage releases this Primed mana, often causing uncontrolled local Attunement or repulsive discharge of free-flowing Primed mana.
 
-Scaffolds are typically built as intricate patterns of lines connected at their ends. The simplest stable scaffolds correspond to the 5 Platonic solids, while larger or more capable constructs require increasingly elaborate geometries, often in the form of **fractal constructs**.
+Scaffolds are typically represented as intricate patterns of lines connected at their ends. The simplest stable scaffolds correspond to the 5 Platonic solids, while larger or more capable constructs require increasingly elaborate geometries, often in the form of **fractal constructs**.
 
-Scaffold topology is not merely representational. It constrains component capacity, structural stability, internal isolation, mana flow, concurrency, and fault containment. Its geometry therefore determines such properties as containment efficiency, the number of independent flow channels, maximum component density, feedback-loop stability, susceptibility to interference, dimensional embedding, and termination behaviour.
+Scaffold topology is not merely representational. It constrains component capacity, structural stability, functional isolation, mana flow, concurrency, and fault containment. Its geometry therefore determines such properties as containment efficiency, the number of independent flow channels, maximum component density, feedback-loop stability, susceptibility to interference, dimensional embedding, and termination behaviour.
 
-A scaffold may be physically **anchored** to matter, somatically anchored to a living system, environmentally anchored to a location or current, anchored to another construct, or **free-floating**. An anchor is a maintained physical or mana relationship that fixes what the scaffold follows; it is not a container required for the scaffold to exist. A free-floating scaffold maintains its own geometry but receives no stabilising benefit from an anchor. Anchored constructs travel with moving anchors, while free-floating constructs drift according to mana-field forces unless propelled or directed.
+A scaffold may be materially **anchored** to matter, somatically anchored to a living system, environmentally anchored to a location or current, anchored to another construct, or **free-floating**. An anchor is a maintained local material or mana relationship that fixes what the scaffold follows; it is not a container required for the scaffold to exist. A material anchor uses an applicable affinity through which matter influences the scaffold's motion and stability. A free-floating scaffold maintains its own geometry but receives no stabilising benefit from an anchor. Anchored constructs travel with moving anchors, while free-floating constructs drift according to mana-field forces unless propelled or directed.
 
-Anchorage begins through contact or overlap with a compatible physical or mana interaction; declaring an anchor does not establish one across a separation. Most scaffolds can be detached by deliberately releasing or overcoming that interaction, although the transition may temporarily deform them. Enchantments, wards, and other persistent assemblies are often designed around materials and topologies that strongly resist detachment or fail safely when it occurs.
+Anchorage begins through local overlap or a compatible physical or mana interaction; declaring an anchor does not establish one across a separation. Most scaffolds can be detached by deliberately releasing or overcoming that interaction, although the transition may temporarily deform them. Enchantments, wards, and other persistent assemblies are often designed around materials and topologies that strongly resist detachment or fail safely when it occurs.
 
 Within common scaffold models :
 **{ NOTE : VALIDATE* }**
 
 - **vertices** serve as component junctions*
 - **edges** serve as mana and signal channels*
-- **faces** form isolation boundaries*
-- **enclosed volumes** provide buffering capacity*
+- **faces** form functional isolation boundaries*
+- **enclosed volumes** define buffering regions*
 - **symmetry** distributes execution pressure and reduces structural drift
 - **asymmetry** permits directional processing at the cost of stability
 
@@ -55,7 +55,7 @@ Within common scaffold models :
 
 ### Structural Decay and Maintenance
 
-No known construct scaffold is perfectly permanent. Ambient mana collisions, mana-field disruption, structural interference, material change, internal flow, and accumulated execution stress gradually produce **structural decay**. Its rate depends upon scaffold topology, materials, anchorage, local mana conditions, operational load, and protection from interference.
+No known construct scaffold is perfectly permanent. Ambient mana perturbation, mana-field disruption, structural interference, material change, internal flow, and accumulated execution stress gradually produce **structural decay**. Its rate depends upon scaffold topology, materials, anchorage, local mana conditions, operational load, and protection from interference.
 
 Well-designed dormant constructs may lose so little mana that their ordinary maintenance involves realignment and replacement of local Primed mana rather than substantial Attuned-mana Expenditure. Poorly designed or badly situated constructs may leak, deform, or fail within minutes. Durable wards commonly remain serviceable through annual inspection and repair, but even exceptionally stable unmaintained constructs are not expected to survive intact for more than roughly a century. Conditions can make decay practically negligible over an intended service interval, but do not abolish it.
 
@@ -65,7 +65,7 @@ Repair requires mana manipulation and access to compatible structure or material
 
 ### Declaration
 
-An empty construct scaffold cannot enact a controlled magical effect by itself. At best, it can sequester Primed mana into its structure, as well as various mana types inside its inner volume, and may do little more than release both when disassembled, disrupting local mana flow and nearby constructs' stability.
+An empty construct scaffold cannot enact a controlled magical effect by itself. At best, it can sequester Primed mana into its structure and organise other mana within a declared buffering region; it may then do little more than release this mana when disassembled, disrupting local mana flow and nearby constructs' stability.
 
 To have any meaningful ability, a construct scaffold must be **imbued** with **construct components**, which embed specific functions into the scaffold and collectively define its behaviour during execution.
 
@@ -106,7 +106,7 @@ Below is a list of the most commonly used component archetype families and their
 | **Dissipating**  | Routes excess mana and mana-field disruption in a controlled manner                |
 | **Coupling**     | Establishes declared interfaces with other coupled constructs                      |
 | **Operating**    | Expends Attuned mana upon the predefined subject's bounded region                  |
-*\*A Sensing component may directly inspect properties available through contact, overlap, its own boundary, or another declared local coupling, including a required reagent profile. Unrelated, obscured, remote, or persistently tracked properties require a transported signal through matter, a mana cord, or a prepared finite-speed Resonant channel.*
+*\*A Sensing component may directly inspect properties available through a declared local coupling region, overlap, its own boundary, or a physical carrier's contact, including a required reagent profile. Unrelated, obscured, remote, or persistently tracked properties require a transported signal through matter, a mana cord, or a prepared finite-speed Resonant channel.*
 
 Components may exchange mana, values, references, and control signals through declared **interfaces**. Interfaces limit what may pass between components and constructs, preventing Coupling components from acting as unrestricted channels, which might destabilise the entire construct through unregulated mana flow. A component may expose one or more of the following interface categories :
 
@@ -248,7 +248,7 @@ Below is a list of frequent construct failure types that termination behaviour m
 | **Coupled cascade**      | Failure propagates through coupled constructs                     |
 | **Semantic mismatch**    | A valid declaration does not perform the designer's intended task |
 | **Anchor failure**       | A construct detaches, shifts, or follows the wrong physical or mana relationship |
-| **Transit deformation**  | Acceleration, collision, turbulence, or interference damages a moving scaffold |
+| **Transit deformation**  | Acceleration, abrupt force change, turbulence, or interference damages a moving scaffold |
 | **Connection loss**      | A required mana cord, physical conduit, or paired Resonant signal becomes unavailable |
 
 **Termination Theory** is the study of execution cessation, scaffold dissipation, dormant return, fault containment, and safe disposal of excess mana.

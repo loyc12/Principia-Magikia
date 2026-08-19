@@ -6,6 +6,8 @@ This is the authoritative reference for interactions between physical materials,
 
 No individual material affinities are established yet. The registry below is deliberately blank so that each material can be added only after its interactions have been decided.
 
+Material affinities describe local conditions through which matter influences mana. They may alter force, flow, and the **permutational stability** of a mana state: whether a Primed fluctuation persists towards Attunement or an Attuned particle persists against Detuning. Unless a separately documented extreme regime applies, they do not make matter physically impermeable to mana or give ordinary mana a significant mechanical back-reaction upon matter. [[02 Mana Dynamics#Permeability, Momentum, and Local Conditions|Mana Dynamics]] defines the broader local transition landscape to which material affinity contributes.
+
 ## Interaction Properties
 
 **{ NOTE : VALIDATE }**
@@ -15,10 +17,10 @@ Material profiles may record the following properties. A property may be positiv
 | Property | What it records |
 | --- | --- |
 | **Attraction / repulsion** | Whether a mana state or Attuned attribute tends to accumulate near or move away from the material. |
-| **Retention / exclusion** | Whether the material holds mana locally, permits passage, or prevents local persistence. |
-| **Conduction / resistance** | Whether mana can travel through the material efficiently, slowly, directionally, or not at all. |
-| **Separation / filtration** | Whether the material preferentially admits, blocks, or separates particular mana states or attributes. |
-| **Primed reactivity** | How the material affects Primed-mana accumulation, containment, construct stability, or uncontrolled local Attunement. |
+| **Retention / local exclusion** | Whether the material holds mana locally, permits passage, or makes local persistence statistically unlikely through force or transition conditions rather than impenetrability. |
+| **Conduction / resistance** | Whether mana follows paths through the material efficiently, slowly, directionally, or only weakly. |
+| **Separation / filtration** | Whether the material preferentially favours, redirects, or separates particular mana states or attributes. |
+| **Primed reactivity / permutational stability** | How the material affects Primed-mana accumulation, state persistence, construct stability, or uncontrolled local Attunement. |
 | **Seed support** | Whether conditions involving the material assist or inhibit the formation and maintenance of an Attunement seed. |
 | **Selective Attunement** | Whether the material preferentially captures matching Attuned fluctuations without directly determining an attribute from Primed mana. |
 | **Detuning effect** | Whether the material retains an Attuned attribute, leaves it neutral, or acts as a decaying medium that increases its loss. |
@@ -27,7 +29,7 @@ Material profiles may record the following properties. A property may be positiv
 | **Construct compatibility** | How the material supports, distorts, shields, interfaces with, or interferes with Primed-mana scaffolds and components. |
 | **Spent interaction** | Whether the material affects the accumulation, transport, retention, or removal of Spent mana. |
 
-These properties describe material interaction, not an aspect of an Attuned attribute. The same material may have several properties across different mana states, and any effect may depend upon form, purity, preparation, temperature, pressure, geometry, local mana composition, and active regulation.
+These properties describe material interaction, not an aspect of an Attuned attribute. The same material may have several properties across different mana states, and any effect may depend upon form, purity, preparation, temperature, pressure, geometry, local mana composition, nearby scaffolds, and active regulation. However, there is a clear tendency for properties to remain somewhat consistent across various conditions and affinities, with many notable exceptions.
 
 ## Registry Template
 
@@ -44,7 +46,7 @@ Use one profile for each distinct material, prepared material, biological tissue
 | Property | Primed | Spent | Notes |
 | --- | --- | --- | --- |
 | Attraction / repulsion |  |  |  |
-| Retention / exclusion |  |  |  |
+| Retention / local exclusion |  |  |  |
 | Conduction / resistance |  |  |  |
 | Separation / filtration |  |  |  |
 | Construct compatibility |  |  |  |
@@ -73,6 +75,10 @@ The Dimensional row records only how Dimensional mana interacts with the materia
 
 ## Terminology
 
-A **selective attunement medium** retains matching background Attuned fluctuations long enough for a seed to form. It does not command nearby Primed mana to assume an attribute or create the underlying fluctuations. A **decaying medium** destabilises one or more Attuned attributes or prevents their local retention, increasing downhill Detuning into lower-potential attributes or Spent mana and the associated permutation discharge.
-
 An **affinity** is any recorded tendency in a material's interaction with a mana state or attribute, positive or negative. A spell may declare a material subject or subject component a **reagent** when it deliberately relies upon such an interaction. An affinity is not a guarantee of successful Attunement, storage, or Expenditure: concentration, subject thresholds, containment, and control remain decisive.
+
+A **selective attunement medium** retains matching background Attuned fluctuations long enough for a seed to form. It does not command nearby Primed mana to assume an attribute or create the underlying fluctuations.
+
+A **decaying medium** destabilises one or more Attuned attributes or prevents their local retention, increasing downhill Detuning into lower-potential attributes or Spent mana and the associated permutation discharge.
+
+An **affinity crystal** is a physical mineral crystal whose documented profile makes it useful for one or more such local effects; it is not mana condensed into a physical solid.

@@ -20,18 +20,18 @@ Thus, not every subject is a reagent. A spell may directly heat an ordinary volu
 
 A subject need not be named as one particular object before a spell is triggered. A declaration may instead identify a subject through a physically available local relation, including :
 
-- matter touching a construct or its physical anchor
+- matter overlapping a construct's declared coupling region or that of its physical anchor
 - matter overlapping a declared coupling region
 - the first eligible system crossing a construct boundary
 - a bounded volume defined relative to the construct's position
 - the caster's body, a physical instrument, carrier, anchor, or reservoir associated with the assembly
 - a physical system connected through a continuous conduit or prepared Resonant relationship
 
-Such declarations are **implicit local subjects**. They remain specific because the eligible class, operative relation, and affected boundary are declared even when the particular object is unknown until execution. A spell payload that releases its entire Kinetic supply into eligible matter overlapping its contact boundary therefore has a local subject; it does not operate upon an undefined target.
+Such declarations are **implicit local subjects**. They remain specific because the eligible class, operative relation, and affected boundary are declared even when the particular object is unknown until execution. A spell payload that releases its entire Kinetic supply into eligible matter overlapping its coupling boundary therefore has a local subject; it does not operate upon an undefined target.
 
-Contact, impact, or overlap supplies a clear local candidate but does not automatically establish eligibility, lower its expenditure threshold, or bypass its resistance. Selection and Bounding components must still validate whatever distinctions the operation requires. A broad discharge may deliberately accept coarse bounds and little discrimination, while a precise operation requires correspondingly precise local observation.
+Physical-carrier impact or coupling-region overlap supplies a clear local candidate but does not automatically establish eligibility, lower its expenditure threshold, or bypass its resistance. Selection and Bounding components must still validate whatever distinctions the operation requires. A broad discharge may deliberately accept coarse bounds and little discrimination, while a precise operation requires correspondingly precise local observation.
 
-Ordinary Sensing can inspect properties made available through the construct's own boundary, contact, overlap, or another declared local coupling. Identifying an unrelated, obscured, or distant system requires information to arrive through matter, a continuous mana structure, or a propagating field disturbance. A paired Resonant signal is one such disturbance and remains limited by travel time, attenuation, and interference. Intent and a stored description cannot by themselves locate a distant subject.
+Ordinary Sensing can inspect properties made available through the construct's own boundary, coupling-region overlap, a physical carrier's contact, or another declared local coupling. Identifying an unrelated, obscured, or distant system requires information to arrive through matter, a continuous mana structure, or a propagating field disturbance. A paired Resonant signal is one such disturbance and remains limited by travel time, attenuation, and interference. Intent and a stored description cannot by themselves locate a distant subject.
 
 A moving subject may be selected anew from local criteria as a construct approaches it. Continuing to track the same subject after it leaves local observation requires an established physical or corded connection, or repeated signals through a prepared Resonant pairing. The exact observational means must be declared rather than implied by the subject reference.
 
@@ -74,7 +74,7 @@ This **animic resistance** raises expenditure thresholds within protected tissue
 
 Animic resistance can be imitated less efficiently through Primed-mana reservoirs, saturation wards, or other systems that flood a protected volume with reactive Primed mana. Any material contribution is governed by its documented profile in [[13 Material Affinities|Material Affinities]].
 
-This makes crude internal attacks difficult. Heating a branch or shattering a stone through Unstructured Casting may be straightforward, while producing the same operation inside a living body requires vastly greater concentration, prolonged contact, a specialised structured spell, or prior disruption of the target's soul-form.
+This makes crude internal attacks difficult. Heating a branch or shattering a stone through Unstructured Casting may be straightforward, while producing the same operation inside a living body requires vastly greater concentration, prolonged local coupling, a specialised structured spell, or prior disruption of the target's soul-form.
 
 Cooperative targets who have finer control over their own soul-form may partially relax their resistance or accept a declared interface, but this alone does not make complex biological manipulation simple.
 

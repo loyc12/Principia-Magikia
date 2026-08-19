@@ -6,6 +6,8 @@ The following principles describe the broad constraints under which all known ma
 
 Mana particles are neither created nor destroyed through any known magical process. All magical phenomena arise from the movement, permutation, containment, or release of preexisting mana.
 
+Mana has field inertia rather than ordinary rest mass and occupies no hard, exclusive volume. Its detailed permeability, momentum, and material coupling are defined in [[02 Mana Dynamics|Mana Dynamics]].
+
 Potential may move between mana particles, physical systems, the mana field, and the [[The Singularity|Singularity]], but is not known to disappear. Downhill permutation releases the difference as an attributed operation or a disruption of the surrounding mana field. An operation may add potential-equivalent energy to a physical system or remove it, in which case the removed amount joins the accompanying field disruption. The only established means by which a Spent particle regains full Primed potential is Priming at the Singularity.
 
 Ordinary matter and energy therefore need not conserve energy when considered in isolation. Conservation applies to the combined physical and mana system.
@@ -32,7 +34,7 @@ All complex magical results must ultimately be reducible to one or more such pri
 
 ### Principle IV - Subject Specificity
 
-Every attributed operation must act upon an identified and bounded subject. A subject may be resolved explicitly or through a declared local relation, such as matter touching a construct, crossing its boundary, or overlapping its coupling region. For Dimensional mana, the subject is a bounded region of space-time.
+Every attributed operation must act upon an identified and bounded subject. A subject may be resolved explicitly or through a declared local relation, such as matter overlapping a construct's coupling region or crossing its boundary. For Dimensional mana, the subject is a bounded region of space-time, which may or may not contain matter.
 
 A structured spell identifies its subject through selection, bounding, anchoring, local coupling, and reference resolution. Unstructured Casting identifies it through direct local coupling. A subject is a **target** when a casting selects or aims at it. Neither method can directly operate upon an undefined target or freely extend beyond its operative region; all other affected systems belong to the surrounding environment. A **reagent** is the narrower case in which a spell deliberately relies upon the material profile of its subject or a bounded component of it.
 

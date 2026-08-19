@@ -19,11 +19,11 @@ The **first stratum** is the one we inhabit, and upon which various bodies of wa
 
 ### Second Stratum
 
-The **second stratum** begins, on average, between 25 and 100 meters below the ground, and is notably more mana dense. It is traversed by an increasingly dense and wide cavern network, which hosts dispersed and distinct cave-based ecologies. It is also where most natural mana crystals are extracted.
+The **second stratum** begins, on average, between 25 and 100 meters below the ground, and is notably more mana dense. It is traversed by an increasingly dense and wide cavern network, which hosts dispersed and distinct cave-based ecologies. It is also where most natural [[13 Material Affinities|affinity crystals]] are extracted.
 
-The density of caves and mana crystals generally increases the further down one goes, as does the frequency of wild magic endowed beasts, their ferocity, and their size, while the gravitational force experienced decreases.
+The density of caves and affinity crystals generally increases the further down one goes, as does the frequency of wild magic endowed beasts, their ferocity, and their size, while the gravitational force experienced decreases.
 
-Its climate is increasingly warm and humid, proportionally to depth, except near large cavern entrances and the nearby cave systems, which are commonly called **labyrinths**. These are frequently explored by delvers in order to gather mana crystals of various attributes, as well as for mundane mineral mining purposes.
+Its climate is increasingly warm and humid, proportionally to depth, except near large cavern entrances and the nearby cave systems, which are commonly called **labyrinths**. These are frequently explored by delvers in order to gather affinity crystals with useful attribute-specific profiles, as well as for mundane mineral mining purposes.
 
 Small aquifers can also be found near the bottom of this stratum, especially where large quantities of surface water are present closeby.
 
@@ -39,6 +39,8 @@ However, temperature and humidity progressively begin to decrease from there on 
 
 The **fourth stratum** begins when average underground temperatures reach the freezing point of freshwater, at about 6 km below sea level. Gravity there is only about 0.4 G. This is the last recorded stratum, and very few delvers have reached this depth. Fewer still have dared venture deeper.
 
-From there on out, magmatic activity and mana concentrations start to significantly decrease. The weakening downward gravitational coupling is no longer sufficient to carry most potential-bearing mana farther into the shell against the inward mana-field gradient, while local repulsion, interference, and material retention establish sparse and isolated equilibria. Remaining ecologies also gradually disappear, leaving large, barren caverns with little of value outside of sparse ores and small pockets of mana crystals, both of which can be found higher up with fewer difficulties.
+From there on out, magmatic activity and mana concentrations start to significantly decrease. The weakening downward gravitational coupling is no longer sufficient to carry most potential-bearing mana farther into the shell against the inward mana-field gradient, while local repulsion, interference, and material retention establish sparse and isolated equilibria.
+
+Remaining ecologies also gradually disappear, leaving large, barren caverns with little of value outside of sparse ores and small pockets of affinity crystals, both of which can be found higher up with fewer difficulties, making exploration and exploitation of this strata unappealing.
 
 The deepest recorded expedition is reported to have reached 9.5 km below sea level, with ambient temperatures at around -20 °C. At this depth, mana had become too sparse to support the long-term operation of the life-support magic used by the delving team at the time. Gravity there remained unmeasured, but was reportedly uncomfortably too low.
