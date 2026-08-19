@@ -44,13 +44,13 @@ Somatic perception remains local and limited. Remote, indirect, or highly precis
 
 ## Mana Shaping
 
-**Mana shaping** is the deliberate use of volitional mana coupling to arrange Primed mana into constrained geometries that form or alter a mana construct scaffold. It is a specialised kind of mana casting, rather than a general synonym for all direct mana manipulation.
+**Mana shaping** is the deliberate use of volitional mana coupling to arrange Primed mana into constrained coherence arrangements that form or alter a mana construct scaffold. It is a specialised kind of mana casting, rather than a general synonym for all direct mana manipulation.
 
 The operator does not imagine a complete scaffold and cause it to appear. Instead, shaping is performed through repeated low-level manipulations :
 
 1. mana is gathered into a workable concentration
 2. portions of that mana are displaced or held in place
-3. stable lines, junctions, surfaces, and enclosed volumes are progressively established
+3. stable coherence arrangements are progressively established
 4. local instabilities are corrected through continuous sensory feedback
 5. the completed geometry is stabilised long enough to receive its declaration
 
@@ -68,11 +68,10 @@ Although complete scaffold geometries may be extremely complex, conscious mana m
 |**Displacing**|Moves mana along a chosen direction|
 |**Holding**|Maintains mana at a location against ordinary flow|
 |**Drawing**|Extends a constrained strand between two points|
-|**Joining**|Connects strands or surfaces into a shared junction|
-|**Separating**|Breaks an existing connection or isolates adjacent flows|
+|**Joining**|Brings compatible coherence arrangements into a maintained local relation|
+|**Separating**|Breaks an existing coherence relation or reduces local interference|
 |**Bending**|Alters the direction or curvature of a constrained strand|
-|**Enclosing**|Forms an isolating surface or volume|
-|**Tensioning**|Adjusts density and internal pressure to improve stability|
+|**Tensioning**|Adjusts local concentration and coherence-well depth to improve stability|
 |**Releasing**|Removes an imposed constraint in a controlled manner|
 
 More advanced techniques arise from the simultaneous or sequential combination of these primitives.
@@ -81,11 +80,11 @@ More advanced techniques arise from the simultaneous or sequential combination o
 
 Somaturgy supplies the learned bodily technique for **Unstructured Casting**: a soul-form gathers and condenses already Attuned mana against a nearby subject. This is distinct from mana shaping, which arranges Primed mana into a scaffold that will later receive declared logic. Some wild organisms achieve an equivalent fixed direct-control routine through specialised anatomy rather than learned Somaturgy.
 
-The phrase **unstructured shaping** is sometimes used informally for direct mana manipulation. It is imprecise: direct, construct-free Expenditure is **Unstructured Casting**, because no stable construct geometry is formed. The attributes, practical operations, and full limits of Unstructured Casting belong to [[08 Mana Casting|Mana Casting]].
+The phrase **unstructured shaping** is sometimes used informally for direct mana manipulation. It is imprecise: direct, construct-free Expenditure is **Unstructured Casting**, because no stable construct scaffold is formed. The attributes, practical operations, and full limits of Unstructured Casting belong to [[08 Mana Casting|Mana Casting]].
 
 ## Declaration Through Somatic Control
 
-A scaffold alone contains no meaningful operational logic. Once its geometry is stable, an operator must imbue it with construct components and interfaces.
+A scaffold alone contains no meaningful operational logic. Once its arrangement is stable, an operator must imbue it with construct components and interfaces.
 
 During conscious declaration, the operator uses trained somatic patterns to establish specific internal configurations within the scaffold. These configurations determine :
 

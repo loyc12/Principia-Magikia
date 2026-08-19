@@ -8,15 +8,15 @@ Mana is a particulate field governed by the [[01 Core Principles|core principles
 |---|---|
 | **Primed** | Unattributed, highly reactive mana; the raw medium of transformation, constructs, and soul-form formation. |
 | **Attuned** | Mana bearing an attribute; it supplies the directed effects of magic. |
-| **Spent** | Mana carrying no bound potential after that potential has been transferred elsewhere. |
+| **Spent** | Mana carrying no bound potentia after that potentia has been transferred elsewhere. |
 
-Primed mana occupies the highest known particle-potential state, the Attuned attributes occupy discrete lower levels, and Spent mana occupies the lowest. Attunement begins as random, noise-like fluctuation. Existing seeds, material affinities, and imposed confinement selectively retain matching fluctuations until a local concentration can sustain itself; they do not command deterministic conversion.
+Primed mana occupies the highest known potentia state, the Attuned attributes occupy discrete lower potentia levels, and Spent mana occupies the lowest. Attunement begins as random, noise-like fluctuation. Existing seeds, material affinities, and imposed confinement selectively retain matching fluctuations until a local concentration can sustain itself; they do not command deterministic conversion.
 
-An attempted permutation either reaches its intended lower state or quenches into Spent mana, and all unretained potential enters the mana field as disruption. Expenditure releases an Attuned particle's operation and leaves it Spent. Ordinary permutation is downhill; Priming is the [[The Singularity|Singularity]]-bound return of mana to its raw, reactive state. [[02 Mana Dynamics|Mana Dynamics]] describes the cycle, storage, flow, and constraints in detail; [[10 Mana Physics|Mana Physics]] provides an optional quantitative appendix.
+An attempted permutation either reaches its intended lower state or quenches into Spent mana, and all unretained potentia enters the mana field as disruption. Expenditure releases an Attuned particle's operation and leaves it Spent. Ordinary permutation is downhill; Priming is the [[The Singularity|Singularity]]-bound return of mana to its raw, reactive state. [[02 Mana Dynamics|Mana Dynamics]] describes the cycle, storage, flow, and constraints in detail; [[10 Mana Physics|Mana Physics]] provides an optional quantitative appendix.
 
-Attuned mana is not permanently fixed. Through **Detuning**, it slowly falls into a lower-potential attribute or becomes Spent, releasing permutation discharge into the mana field. It never returns to Primed mana through passive decay. Detuning is usually too slow to decide a brief casting, but it makes poorly contained stores perishable and can contaminate them with lower attributes.
+Attuned mana is not permanently fixed. Through **Detuning**, it slowly falls into a lower-potentia attribute or becomes Spent, releasing permutation discharge into the mana field. It never returns to Primed mana through passive decay. Detuning is usually too slow to decide a brief casting, but it makes poorly contained stores perishable and can contaminate them with lower attributes.
 
-Potential is conserved across the combined physical and mana system. An attributed operation may add energy to or remove it from a physical subject; cooling and related drainage increase the accompanying mana-field disruption. No particle may remove more than its own initial potential-equivalent. Field disruptions follow the curved mana field towards the Singularity, where their potential can support Priming.
+Bound potentia, free mana-field potential, and physical energy are conserved across the combined system. An attributed operation may add energy to or remove it from a physical subject; cooling and related drainage increase the accompanying mana-field disruption. No particle may remove more than its own initial potentia-equivalent. Field disruptions follow the curved mana field towards the Singularity, where their field potential can support Priming.
 
 Mana stores are also assessed for **purity**: whether their state, attribute, concentration, and supporting materials match their intended use. *Contamination* is mana outside that specification, rather than a fourth state or a universal affliction. It can reduce reliability and become dangerous when it enters an active component or reaches an expenditure threshold.
 
@@ -60,10 +60,10 @@ Other applications remain answerable to the same cycle of mana, the behaviour of
 
 ## Persistent Constraints
 
-- Magic redirects and transforms mana; it does not create limitless usable potential.
-- Potential is conserved across matter, ordinary energy, mana particles, the mana field, and the Singularity rather than within matter alone.
-- Primed mana is the constructive and informational medium; Attuned mana supplies directed operation; Spent mana carries no bound potential.
-- Ordinary mana permutation is downhill between discrete potential levels; only the Singularity is known to restore full Primed potential.
+- Magic redirects and transforms mana; it does not create limitless usable potentia.
+- Bound potentia, free mana-field potential, and physical energy are conserved across the combined system rather than within matter alone.
+- Primed mana is the constructive and informational medium; Attuned mana supplies directed operation; Spent mana carries no bound potentia.
+- Ordinary mana permutation is downhill between discrete potentia levels; only the Singularity is known to restore full Primed potentia.
 - Attunement is statistical fluctuation selectively retained by seeds, conditions, and material affinity, not deterministic transmutation.
 - Attributed operations act only upon matter, non-mana energy fields, or bounded regions and relationships of space-time.
 - Every effect depends on a viable path through compatible matter, mana, structure, and conditions.

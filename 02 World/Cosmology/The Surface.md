@@ -33,13 +33,13 @@ The **third stratum** conventionally begins 2 km below sea level. Near coastline
 
 The third stratum is at its warmest point at its top, being nearly 45 °C on average. Coupled with the extreme humidity there, it is generally impossible for delvers to reach it without magical assistance.
 
-However, temperature and humidity progressively begin to decrease from there on out, except in regions with significant volcanic activity, magma chambers, or large underground aquifers. Mana concentrations also peak in the middle of this stratum, at around 4 km deep. This broad maximum is provisionally attributed to the balance among potential-dependent gravity, the opposed inward mana-field gradient, mana repulsion and interference, and retention by local matter. Its exact profile varies by region and remains incompletely measured.
+However, temperature and humidity progressively begin to decrease from there on out, except in regions with significant volcanic activity, magma chambers, or large underground aquifers. Mana concentrations also peak in the middle of this stratum, at around 4 km deep. This broad maximum is provisionally attributed to the balance among potentia-dependent gravity, the opposed inward mana-field gradient, mana repulsion and interference, and retention by local matter. Its exact profile varies by region and remains incompletely measured.
 
 ### Fourth Stratum
 
 The **fourth stratum** begins when average underground temperatures reach the freezing point of freshwater, at about 6 km below sea level. Gravity there is only about 0.4 G. This is the last recorded stratum, and very few delvers have reached this depth. Fewer still have dared venture deeper.
 
-From there on out, magmatic activity and mana concentrations start to significantly decrease. The weakening downward gravitational coupling is no longer sufficient to carry most potential-bearing mana farther into the shell against the inward mana-field gradient, while local repulsion, interference, and material retention establish sparse and isolated equilibria.
+From there on out, magmatic activity and mana concentrations start to significantly decrease. The weakening downward gravitational coupling is no longer sufficient to carry most potentia-bearing mana farther into the shell against the inward mana-field gradient, while local repulsion, interference, and material retention establish sparse and isolated equilibria.
 
 Remaining ecologies also gradually disappear, leaving large, barren caverns with little of value outside of sparse ores and small pockets of affinity crystals, both of which can be found higher up with fewer difficulties, making exploration and exploitation of this strata unappealing.
 

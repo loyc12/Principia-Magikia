@@ -4,7 +4,7 @@ This reference defines the seven known Attuned attributes, their operation bound
 
 ## Attribute, Aspect, and Effect
 
-An **attribute** is the differentiated, quantised potential carried by an Attuned mana particle and determines its primitive operation. Every attribute occupies its own discrete potential level below Primed mana and above Spent mana, although their exact ordering has not been established. An **aspect** is a recognised mode of applying one attribute. An aspect is not a mana type: it has no independent potential level, Attunement seed, rarity, reservoir-purity category, or Detuning behaviour.
+An **attribute** is the differentiated, quantised potentia carried by an Attuned mana particle and determines its primitive operation. Every attribute occupies its own discrete potentia level below Primed mana and above Spent mana, although their exact ordering has not been established. An **aspect** is a recognised mode of applying one attribute. An aspect is not a mana type: it has no independent potentia level, Attunement seed, rarity, reservoir-purity category, or Detuning behaviour.
 
 An **effect** is an observable result that may arise from one or more operations. An explosion, for example, may result from Kinetic compression, Kinetic heating, Galvanic ignition, or an ordinary chemical process. Similar effects do not make the underlying operations equivalent.
 
@@ -14,7 +14,7 @@ Operational complexity concerns the degree of ordering, selection, precision, an
 
 ## Availability
 
-An attribute's natural availability is classified in [[02 Mana Dynamics#Mana Attunement|Mana Dynamics]]. The classification summarises its potential drop, activation barrier, background fluctuation, critical seed concentration, material interactions, Detuning, and practical conversion yield. Availability therefore does not establish potential order by itself. Material interactions belong solely to [[13 Material Affinities|Material Affinities]]; an aspect has no independent attractor or affinity.
+An attribute's natural availability is classified in [[02 Mana Dynamics#Mana Attunement|Mana Dynamics]]. The classification summarises its potentia drop, activation barrier, background fluctuation, critical seed concentration, material interactions, Detuning, and practical conversion yield. Availability therefore does not establish potentia order by itself. Lower potentia generally reduces generic field and material coupling, but does not override an attribute's specific affinities or determine its availability alone. Material interactions belong solely to [[13 Material Affinities|Material Affinities]]; an aspect has no independent attractor or affinity.
 
 ## Kinetic
 

@@ -27,6 +27,8 @@ Material profiles may record the following properties. A property may be positiv
 | **Expenditure coupling** | How the material affects an attribute's ability to operate on it once the expenditure threshold is reached. |
 | **Threshold effect** | How the material changes the concentration, rate, or control needed to begin and sustain Expenditure. |
 | **Construct compatibility** | How the material supports, distorts, shields, interfaces with, or interferes with Primed-mana scaffolds and components. |
+| **Coherence nucleation** | How the material raises or lowers the local Primed concentration and formation barrier required for a positional coherence nucleus. |
+| **Topology bias** | Whether the material favours, stabilises, redirects, or dissolves particular Primed coherence geometries during growth. |
 | **Spent interaction** | Whether the material affects the accumulation, transport, retention, or removal of Spent mana. |
 
 These properties describe material interaction, not an aspect of an Attuned attribute. The same material may have several properties across different mana states, and any effect may depend upon form, purity, preparation, temperature, pressure, geometry, local mana composition, nearby scaffolds, and active regulation. However, there is a clear tendency for properties to remain somewhat consistent across various conditions and affinities, with many notable exceptions.
@@ -50,6 +52,7 @@ Use one profile for each distinct material, prepared material, biological tissue
 | Conduction / resistance |  |  |  |
 | Separation / filtration |  |  |  |
 | Construct compatibility |  |  |  |
+| Coherence nucleation / topology bias |  |  |  |
 
 #### Attuned-Attribute Profile
 
@@ -79,6 +82,6 @@ An **affinity** is any recorded tendency in a material's interaction with a mana
 
 A **selective attunement medium** retains matching background Attuned fluctuations long enough for a seed to form. It does not command nearby Primed mana to assume an attribute or create the underlying fluctuations.
 
-A **decaying medium** destabilises one or more Attuned attributes or prevents their local retention, increasing downhill Detuning into lower-potential attributes or Spent mana and the associated permutation discharge.
+A **decaying medium** destabilises one or more Attuned attributes or prevents their local retention, increasing downhill Detuning into lower-potentia attributes or Spent mana and the associated permutation discharge.
 
-An **affinity crystal** is a physical mineral crystal whose documented profile makes it useful for one or more such local effects; it is not mana condensed into a physical solid.
+A **coherence catalyst** alters the formation barrier or preferred growth geometry of Primed positional coherence without commanding a finished scaffold into existence. An **affinity crystal** is a physical mineral crystal whose documented profile makes it useful for one or more local effects, including coherence catalysis where established; it is not mana condensed into a physical solid.

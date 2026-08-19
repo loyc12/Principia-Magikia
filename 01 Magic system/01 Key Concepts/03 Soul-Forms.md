@@ -21,11 +21,11 @@ Formation proceeds through cumulative interaction :
 
 1. neural activity produces complex and recurrent electrical, chemical, and structural patterns
 2. material conditions in and around the nervous system influence nearby mana interaction, as described in [[13 Material Affinities|Material Affinities]]
-3. repeated activity causes mana to settle into partially stable configurations around neural pathways
-4. those configurations become self-reinforcing through their continued interaction with the nervous system
+3. repeated activity creates and reshapes local coherence wells around neural pathways, allowing Primed mana to nucleate into short-lived microstructures
+4. continued activity renews, deforms, and replaces those microstructures faster than they decay
 5. the resulting structure gradually extends through the organism and develops a stable individual signature
 
-A soul-form is not consciously designed, nor does it necessarily resemble a deliberately constructed scaffold. It is an **autogenic somatic mana structure** whose organisation emerges from sustained neurological activity rather than formulaic declaration.
+A soul-form is not consciously designed, nor does it necessarily resemble a deliberately constructed scaffold. It is an **autogenic somatic mana structure** whose organisation emerges from sustained neurological activity rather than formulaic declaration. Its constituent Primed mana microstructures form a non-equilibrium ecology: they are continually nucleated, grown, deformed, and dissolved by local electrochemical activity rather than fixed permanently in one scaffold.
 
 Newly formed soul-forms are weak, poorly differentiated, and highly dependent upon the nervous system that produces them. Their strength and complexity increase gradually with continued neural activity, development, and exposure to mana.
 
@@ -78,7 +78,7 @@ Its structure may be understood as containing several overlapping functional reg
 
 These regions are descriptive rather than sharply separated anatomical parts.
 
-Soul-forms are dynamic structures. Their precise organisation shifts continuously with activity, sleep, health, injury, emotional state, and magical exertion.
+Soul-forms are dynamic structures. Their precise organisation shifts continuously with activity, sleep, health, injury, emotional state, and magical exertion. Their signature is the persistent statistical pattern of this turnover, not an unchanging arrangement of particles.
 
 They are generally most active during waking consciousness and rapid-eye-movement (REM) sleep, when neural activity is complex and highly variable. They become calmer during ordinary sleep, anaesthesia, or unconsciousness, but do not disappear and continue to provide substantial magical resistance.
 
@@ -137,7 +137,7 @@ and :
 
 > Neural activity -> Soul-form deformation -> Mana displacement
 
-The soul-form does not translate unrestricted thought into magical effects. It permits only low-level manipulations such as attracting, repelling, condensing, releasing, and crudely directing mana near its surface. During manual Attunement, these abilities gather Primed mana around a stabilising seed and retain favourable random fluctuations; they do not command particles to assume a chosen attribute.
+The soul-form does not translate unrestricted thought into magical effects. It permits only low-level manipulations such as attracting, repelling, condensing, releasing, and crudely directing mana near its surface. During mana shaping, these abilities can squeeze Primed mana until a coherence nucleus becomes statistically viable, but cannot dictate every later detail of its growth. During manual Attunement, they gather Primed mana around a stabilising seed and retain favourable random fluctuations; they do not command particles to assume a chosen attribute.
 
 More sophisticated effects require either direct expenditure of Attuned mana or the construction and execution of a structured spell assembly.
 
@@ -150,7 +150,7 @@ The detailed use of soul-forms for conscious manipulation belongs to [[04 Somatu
 
 A soul-form protects its organism by resisting foreign magical intrusion. This protection is known as **animic resistance**.
 
-The soul-form continuously associates the organism's tissues with one coherent internal system. Foreign mana attempting to enter, bind to, or operate directly upon those tissues must overcome the soul-form's accumulated mana, dynamic activity, and internal coherence.
+The soul-form continuously associates the organism's tissues with one coherent internal system. Its active Primed microstructures continually alter local concentration, positional coherence, and transition conditions around those tissues. Foreign mana attempting to enter, bind to, or operate directly upon them must overcome that accumulated mana, dynamic activity, and internal coherence.
 
 Animic resistance impedes :
 
@@ -176,7 +176,7 @@ Consciousness and rapid-eye-movement (REM) sleep increase the soul-form's intern
 
 Animic resistance is reinforced by the soul-form's accumulation of Primed mana within and around the itself.
 
-Primed mana is highly reactive to other mana types, and therefore, dense Primed mana clouds disrupts incoming Attuned mana, interferes with controlled expenditure, and makes foreign constructs more difficult to establish or maintain.
+Primed mana is highly reactive to other mana types, and therefore dense Primed mana clouds disrupt incoming Attuned mana, interfere with controlled expenditure, and make foreign constructs more difficult to establish or maintain. In a mature soul-form, continually renewed microstructures make this effect more responsive and selective than an equivalent unstructured cloud.
 
 This effect may be reproduced artificially through **Primed-mana saturation**, in which an object, region, reservoir, or ward is deliberately flooded with Primed mana.
 

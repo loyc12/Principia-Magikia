@@ -8,17 +8,17 @@ Mana particles are neither created nor destroyed through any known magical proce
 
 Mana has field inertia rather than ordinary rest mass and occupies no hard, exclusive volume. Its detailed permeability, momentum, and material coupling are defined in [[02 Mana Dynamics|Mana Dynamics]].
 
-Potential may move between mana particles, physical systems, the mana field, and the [[The Singularity|Singularity]], but is not known to disappear. Downhill permutation releases the difference as an attributed operation or a disruption of the surrounding mana field. An operation may add potential-equivalent energy to a physical system or remove it, in which case the removed amount joins the accompanying field disruption. The only established means by which a Spent particle regains full Primed potential is Priming at the Singularity.
+Bound **potentia**, free mana-field potential, and physical energy may move within the combined system, but are not known to disappear. Downhill permutation releases a potentia difference as an attributed operation or a disruption of the surrounding mana field. An operation may add potentia-equivalent energy to a physical system or remove it, in which case the removed amount joins the accompanying field disruption. The only established means by which a Spent particle regains full Primed potentia is Priming at the Singularity.
 
 Ordinary matter and energy therefore need not conserve energy when considered in isolation. Conservation applies to the combined physical and mana system.
 
 ### Principle II - Permutational Direction
 
-Mana may perform attributed operations only after undergoing the appropriate permutation. Primed mana occupies the highest known particle-potential state, each Attuned attribute occupies a discrete lower level, and Spent mana occupies the lowest.
+Mana may perform attributed operations only after undergoing the appropriate permutation. Primed mana occupies the highest known potentia state, each Attuned attribute occupies a discrete lower potentia level, and Spent mana occupies the lowest.
 
-Primed mana provides undifferentiated potential, Attuned mana provides differentiated operational potential, and Spent mana provides none. Ordinary permutation proceeds downhill from Primed to an Attuned attribute, between compatible higher- and lower-potential attributes, or from an Attuned attribute to Spent. Priming alone proceeds uphill, and all observed Priming occurs around the central [[The Singularity|Singularity]].
+Primed mana provides undifferentiated potentia, Attuned mana provides differentiated operational potentia, and Spent mana provides none. Ordinary permutation proceeds downhill from Primed to an Attuned attribute, between compatible higher- and lower-potentia attributes, or from an Attuned attribute to Spent. Priming alone proceeds uphill, and all observed Priming occurs around the central [[The Singularity|Singularity]].
 
-Attuned mana may also decay passively into a lower-potential attribute or Spent mana. This **Detuning** is the loss of the particle's original differentiation, not a return towards Primed mana and not a substitute for Priming.
+Attuned mana may also decay passively into a lower-potentia attribute or Spent mana. This **Detuning** is the loss of the particle's original differentiation, not a return towards Primed mana and not a substitute for Priming.
 
 No construct can directly extract an attributed operation from Primed or Spent mana without first producing or sourcing the corresponding Attuned mana.
 
@@ -68,7 +68,7 @@ Greater magnitude, speed, range, duration, precision, adaptability, and fault to
 
 Attunement is a stochastic process. Random fluctuations continually carry Primed mana towards possible differentiation, while suitable mana concentrations, material affinities, and imposed confinement allow some fluctuations to persist long enough to cross an activation barrier and contribute to a self-sustaining seed.
 
-An attempted downhill permutation either reaches its intended lower-potential type or quenches directly into Spent mana. The latter particle is commonly called **Waste mana**. Both outcomes discharge the unretained potential into the mana field. Their probabilities depend upon the transition, local mana composition, material conditions, rate, confinement, and purity of the input mana.
+An attempted downhill permutation either reaches its intended lower-potentia type or quenches directly into Spent mana. The latter particle is commonly called **Waste mana**. Both outcomes discharge the unretained potentia into the mana field. Their probabilities depend upon the transition, local mana composition, material conditions, rate, confinement, and purity of the input mana.
 
 ### Principle X - Informational Limitation
 

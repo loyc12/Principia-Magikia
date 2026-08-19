@@ -25,6 +25,14 @@ The distinction concerns the presence of executable construct logic rather than 
 
 People capable of intentionally manipulating mana are most commonly called **magi** ( singular : **magus** ), though _mage_, _magician_, _wizard_, _witch_, _priest_, _invocater_, _shaper_, and _caster_ are also used according to region, tradition, and profession.
 
+## Mana Shaping
+
+**Mana shaping** forms or alters a Primed-mana scaffold by controlling positional coherence. A shaper gathers Primed mana until the relevant local concentration makes a coherence nucleus statistically viable, then protects, redirects, and completes the growing arrangement into its intended form. It does not place particles into a finished form by unrestricted command.
+
+Simple shaping often consists chiefly of squeezing Primed mana through a soul-form or prepared material context until two compatible monadic particles form a dyad. More advanced shaping controls the subsequent triads, tetrads, and larger arrangements through active regulation, material support, and declared construct practice. A nucleus's initial form biases later growth but does not make that growth deterministic.
+
+This process is distinct from **Attunement**. Mana shaping stabilises a Primed positional configuration, whereas Attunement stabilises a fluctuation towards an Attuned state. A single assembly may use both processes, but a coherence nucleus is not an Attunement seed.
+
 ## Casting Roles
 
 A casting process may involve several functional roles. These roles need not correspond to separate physical objects, and a single caster, organ, instrument, or construct may fulfil several of them simultaneously. Below is a list of the casting roles most often encountered :

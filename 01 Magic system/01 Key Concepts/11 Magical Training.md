@@ -17,7 +17,7 @@ A typical progression includes :
 5. recognising and managing basic Attuned-mana reservoirs
 6. cultivating controlled Attunement fluctuations with an appropriate seed or material core
 7. condensing accessible Attuned mana for simple Unstructured Casting
-8. forming stable junctions, surfaces, and basic Platonic scaffolds
+8. forming stable basic scaffold arrangements
 9. instantiating and testing standard component archetypes
 10. sealing, inspecting, and safely dissipating simple constructs
 11. coordinating several flows and components simultaneously
@@ -46,11 +46,11 @@ Attunement exercises train the practical modes described in [[02 Mana Dynamics#M
 
 **Material Attunement exercises** compare how approved media retain, reject, or destabilise particular attributes. **Unstructured Attunement exercises** train the soul-form's restraint of Primed mana around a seed. **Structured Attunement exercises** train the configuration and supervision of an Attuning component, including sourcing, containment, separation, regulation, and waste handling. The quantitative conditions behind these exercises are optional material in [[10 Mana Physics|Mana Physics]].
 
-Advanced specialists may train established Cross-Attunement transitions between compatible higher- and lower-potential attributes. Such exercises require stricter containment because the destination seed, released permutation disturbance, and possible lower-attribute contamination must all be controlled.
+Advanced specialists may train established Cross-Attunement transitions between compatible higher- and lower-potentia attributes. Such exercises require stricter containment because the destination seed, released permutation disturbance, and possible lower-attribute contamination must all be controlled.
 
 ### Mana Shaping Exercises
 
-Mana shaping exercises are a narrower family of mana casting exercises. They build the reliable routines needed to form construct scaffolds and instantiate component archetypes. Early forms isolate individual shaping primitives; later forms combine them into stable junctions, surfaces, standard geometries, interfaces, and complete assemblies.
+Mana shaping exercises are a narrower family of mana casting exercises. They build the reliable routines needed to form construct scaffolds and instantiate component archetypes. Early forms isolate individual shaping primitives; later forms combine them into stable scaffold arrangements, interfaces, and complete assemblies.
 
 The exercise does not require the learner to understand every internal detail of a standard component before reproducing it. Advanced training progressively replaces rote reproduction with inspection, modification, derivation, and fault diagnosis.
 

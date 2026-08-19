@@ -22,46 +22,49 @@ Below is a more detailed breakdown of each phase :
 
 ### Construction
 
-A mana construct requires a **construct scaffold**: a bounded topology of Primed mana formed and maintained through **mana shaping**. A scaffold is a functional pattern rather than an insulating shell or physical container; its boundary distinguishes declared flows, state, and interference domains without excluding co-located mana or matter. [[02 Mana Dynamics#Permeability, Momentum, and Local Conditions|Mana Dynamics]] defines the underlying permeability and restoring interactions.
+A mana construct requires a **construct scaffold**: a bounded arrangement of Primed-mana coherence wells formed and maintained through **mana shaping**. A scaffold is an organised coherence arrangement rather than an insulating shell or physical container; its boundaries can later distinguish declared flows, state, and interference domains without excluding co-located mana or matter. [[02 Mana Dynamics#Permeability, Momentum, and Local Conditions|Mana Dynamics]] defines the underlying permeability, positional coherence, and restoring interactions.
 
-Similar shapes sometimes occur naturally in locations with high densities of Primed mana, but these occurrences generally lack the size, organisation, or internal structure required of proper construct scaffolds.
+#### Formation Conditions
 
-Natural Primed-mana structures most often nucleate through interaction with matter or an existing mana structure. They may later detach and drift under mana flow, repulsion, and gravity. Detachment does not distinguish a false structure from a true one; origin, declaration, and internal organisation do.
+Primed-mana arrangements sometimes arise naturally where local concentration, material conditions, or an existing mana structure make coherence favourable. Such arrangements generally lack the organisation and declaration required of a construct scaffold. They may detach and drift under mana flow, repulsion, and gravity; origin alone does not distinguish a natural arrangement from a deliberately built scaffold.
 
-Primed mana incorporated into a scaffold is **geometrically constrained** by its restoring interactions and cannot readily undergo Attunement. It retains its potential but is functionally isolated from ordinary flow. Scaffold damage releases this Primed mana, often causing uncontrolled local Attunement or repulsive discharge of free-flowing Primed mana.
+Primed mana incorporated into a scaffold is **geometrically constrained** by its coherence wells and cannot readily undergo Attunement. It retains its potentia while remaining apart from ordinary flow. Scaffold damage releases this Primed mana, often causing uncontrolled local Attunement or repulsive discharge of free-flowing Primed mana.
 
-Scaffolds are typically represented as intricate patterns of lines connected at their ends. The simplest stable scaffolds correspond to the 5 Platonic solids, while larger or more capable constructs require increasingly elaborate geometries, often in the form of **fractal constructs**.
+#### Nucleation and Directed Growth
 
-Scaffold topology is not merely representational. It constrains component capacity, structural stability, functional isolation, mana flow, concurrency, and fault containment. Its geometry therefore determines such properties as containment efficiency, the number of independent flow channels, maximum component density, feedback-loop stability, susceptibility to interference, dimensional embedding, and termination behaviour.
+When a new scaffold region is formed, construction begins by establishing a viable **coherence nucleus**. In ordinary free formation, two compatible monadic Primed particles enter a shared well and form a dyad; a third or fourth particle may join before that dyad disperses, producing a triad or tetrad. Material conditions, available Primed concentration, nearby structures, and active shaping decide whether a nucleus forms at all and what further wells it exposes.
 
-A scaffold may be materially **anchored** to matter, somatically anchored to a living system, environmentally anchored to a location or current, anchored to another construct, or **free-floating**. An anchor is a maintained local material or mana relationship that fixes what the scaffold follows; it is not a container required for the scaffold to exist. A material anchor uses an applicable affinity through which matter influences the scaffold's motion and stability. A free-floating scaffold maintains its own geometry but receives no stabilising benefit from an anchor. Anchored constructs travel with moving anchors, while free-floating constructs drift according to mana-field forces unless propelled or directed.
+Nucleus form biases but does not determine later growth. Dyads tend towards filamentary paths, triads towards sheets or shells, and tetrads towards volumetric, lattice-like arrangements. These are intangible and permeable positional arrangements, not physical solids. Ongoing conditions, interference, material affinity, and deliberate shaping can redirect, arrest, or remodel a growing arrangement.
 
-Anchorage begins through local overlap or a compatible physical or mana interaction; declaring an anchor does not establish one across a separation. Most scaffolds can be detached by deliberately releasing or overcoming that interaction, although the transition may temporarily deform them. Enchantments, wards, and other persistent assemblies are often designed around materials and topologies that strongly resist detachment or fail safely when it occurs.
+Simple mana shaping gathers and squeezes Primed mana until a nucleus becomes statistically viable. Advanced shaping establishes, protects, redirects, and completes a chosen arrangement of wells as it grows.
 
-Within common scaffold models :
-**{ NOTE : VALIDATE* }**
+#### Completed Scaffold Form
 
-- **vertices** serve as component junctions*
-- **edges** serve as mana and signal channels*
-- **faces** form functional isolation boundaries*
-- **enclosed volumes** define buffering regions*
-- **symmetry** distributes execution pressure and reduces structural drift
-- **asymmetry** permits directional processing at the cost of stability
+A completed scaffold is a stable, bounded coherence arrangement prepared to receive a declaration. Its form affects its stability, maintenance needs, and vulnerability to interference, but does not by itself prescribe component capacity, mana routing, information processing, or fault behaviour. Those are established through the construct's declaration, components, interfaces, and available mana.
 
+Completed substructures may expose higher-scale favourable positions, allowing complex and fractal scaffolds to be grown recursively rather than assembled particle by particle. The detailed relationship between scaffold form and construct function remains an open engineering question.
 
-**Scaffold Engineering** is the study of scaffold topology, geometric stability, component capacity, isolation, flow channels, dimensional embedding, and methods of shaping Primed mana into functional structures.
+#### Anchorage
+
+**Material anchorage** is a local, maintained relation through which a physical object, body, site, or other material setting fixes a scaffold's position or orientation. An applicable material affinity causes the scaffold to follow changes in that material reference; mana does not thereby push, support, or move the anchor in return. Instruments, living tissue, terrain, buildings, and prepared environmental media are all possible material anchors.
+
+**Somatic anchorage** is a lighter, semi-anchored condition. A magus uses their soul-form to hold a construct loosely in a desired position relative to their body through continuing mana manipulation. It is not a material bond and does not make the construct mechanically follow or support the body: concentration, motion, interference, or release can let it drift. A free-floating scaffold receives neither material anchorage nor this continuing somatic maintenance.
+
+Constructs may be coupled or share a material anchor, but one construct does not anchor another merely by existing nearby. Material anchorage begins through local overlap and an applicable affinity; somatic anchorage begins only while a magus actively maintains it. Declaring an anchor does not establish either relation across a separation. Enchantments, wards, and other persistent assemblies are commonly designed around materials that resist detachment or fail safely when their anchor changes.
+
+**Scaffold Engineering** is the study of scaffold form, geometric stability, material anchorage, maintenance, and methods of shaping Primed mana into functional structures.
 
 **Construct Materiology** is the study of how construct design applies the mana-material interactions defined in [[13 Material Affinities|Material Affinities]].
 
 ### Structural Decay and Maintenance
 
-No known construct scaffold is perfectly permanent. Ambient mana perturbation, mana-field disruption, structural interference, material change, internal flow, and accumulated execution stress gradually produce **structural decay**. Its rate depends upon scaffold topology, materials, anchorage, local mana conditions, operational load, and protection from interference.
+No known construct scaffold is perfectly permanent. Ambient mana perturbation, mana-field disruption, structural interference, material change, internal flow, and accumulated execution stress gradually produce **structural decay**. Its rate depends upon scaffold form, materials, anchorage, local mana conditions, operational load, and protection from interference.
 
 Well-designed dormant constructs may lose so little mana that their ordinary maintenance involves realignment and replacement of local Primed mana rather than substantial Attuned-mana Expenditure. Poorly designed or badly situated constructs may leak, deform, or fail within minutes. Durable wards commonly remain serviceable through annual inspection and repair, but even exceptionally stable unmaintained constructs are not expected to survive intact for more than roughly a century. Conditions can make decay practically negligible over an intended service interval, but do not abolish it.
 
 Repair requires mana manipulation and access to compatible structure or material. Primed mana can usually be gathered locally, while damaged operational reservoirs, specialised components, and physical anchors may require prepared replacements. Active maintenance can slow or correct decay, but consumes whatever control, sensing, material, and mana supply its architecture requires.
 
-**Coherence** is an informal engineering assessment of how well a construct preserves its intended topology and operation. It may summarise scaffold integrity, containment, interface synchronisation, leakage, waste, and resistance to interference, but is not a separate physical quantity and does not replace those measurements.
+**Coherence** is an informal engineering assessment of how well a construct preserves its intended arrangement and operation. It may summarise scaffold integrity, declaration integrity, interface synchronisation, leakage, waste, and resistance to interference, but is not a separate physical quantity and does not replace those measurements.
 
 ### Declaration
 
@@ -81,11 +84,11 @@ Mana used by a declared construct may therefore fulfil three broad roles :
 
 Mana particles and structures are not operational subjects. Components may shape, route, observe, compare, or interfere with mana through intrinsic construct behaviour, but an Operating component can apply an attribute only to matter, a non-mana energy field, or a bounded region or relationship of space-time. References to the construct's scaffold, components, mana stores, and execution state are **control references**, not subject bindings.
 
-Components may occur any number of times within a construct and are connected to one another or to the outside world according to both their internal interfaces and the scaffold's topology itself.
+Components may occur any number of times within a construct and are connected to one another or to the outside world through their declared interfaces within the completed scaffold.
 
 Commonly used components are described as **component archetypes**, which can be used to instantiate more specific **component variants**. This allows magi to reuse established designs rather than manually defining each component in every new construct.
 
-In a similar fashion, **construct archetypes** are groupings of **component archetypes** coupled to a singular and fitting **scaffold archetype**, and can thus be used to accelerate spellcasting further.
+In a similar fashion, **construct archetypes** are groupings of **component archetypes** coupled to a compatible **scaffold form**, and can thus be used to accelerate spellcasting further.
 
 Below is a list of the most commonly used component archetype families and their function :
 
@@ -121,7 +124,7 @@ Components may exchange mana, values, references, and control signals through de
 
 Interfaces may be directional or bidirectional and may be local, corded, or paired through Resonant transmission. A connection is valid only when its categories, mana types, parameter dimensions, reference domains, propagation tolerances, and throughput limits are mutually compatible. A Resonant interface receives a propagated disturbance rather than sharing instantaneous state with its counterpart.
 
-Information within and between constructs is carried and stored through **Primed mana packets**, which can travel along **Primed mana strands**, structures similar in nature to construct scaffolds but **unable to be imbued** due to their string-like nature. This information is represented by **component variables**, which are classified under overlapping types :
+Information within and between constructs is carried and stored through **Primed mana packets**, which can travel along open Primed coherence paths. Such paths cannot themselves serve as declared construct scaffolds. This information is represented by **component variables**, which are classified under overlapping types :
 
 | Variable Type | Description                                                     |
 | ------------- | --------------------------------------------------------------- |
@@ -135,9 +138,13 @@ Information within and between constructs is carried and stored through **Primed
 
 #### Mana Cords
 
-A **mana cord** is an extended bundle of Primed-mana strands and compatible interfaces that maintains a continuous connection between separated constructs. Information packets, control signals, parameters, references, and sensed state travel through the cord as encoded Primed configurations. Operational or constructive mana may also move through a declared Flow interface, but this bulk mana flow remains distinct from the information packets that regulate it.
+A **mana cord** is an extended, exceptionally thin Primed coherence path and compatible interfaces that maintains a continuous connection between separated constructs. Information packets, control signals, parameters, references, and sensed state travel through the cord as encoded Primed configurations. Operational or constructive mana may also move through a declared Flow interface, but this bulk mana flow remains distinct from the information packets that regulate it.
 
-An unsupported cord leaks Primed mana, loses packet integrity, and becomes increasingly vulnerable to disruption with length and time. Renewal replaces or realigns its strands. A physical conduit can confine and protect a cord, permitting more stable and sustained transmission at the cost of fixing its route. Severance, starvation, or corruption of a cord must be handled through the connected constructs' Fault interfaces; it does not permit either endpoint to act through the missing span.
+A **filamentary cord** is a one-dimensional succession of coherence wells. Its interior particles are ordinarily dyadic, while free ends may remain monadic. Packets travel as ring-like positional configurations around the path, analogous to rings moving along a rope; this is topological guidance rather than contact with a solid filament.
+
+A **tubular cord** is an open, shell-like coherence path whose shallow transverse structure guides packets along an axial channel. Packets travel through that channel, but the cord and its channel remain permeable to matter and other mana. A tubular cord remains a cord unless it is further shaped and declared as a construct scaffold.
+
+The thinness and low coherence capacity of either cord form make its wells shallower, packet guidance weaker, and redundancy lower than those of a scaffold. An unsupported cord therefore leaks Primed mana, loses packet integrity, and becomes increasingly vulnerable to interference with length and time. Renewal replaces or realigns its coherence path. A physical conduit can improve the local conditions that protect a cord, permitting more stable and sustained transmission at the cost of fixing its route. Severance, starvation, or corruption of a cord must be handled through the connected constructs' Fault interfaces; it does not permit either endpoint to act through the missing span.
 
 
 **Component Engineering** is the study of construct-component archetypes, variants, interfaces, combinations, and reusable component designs.
@@ -148,7 +155,7 @@ An unsupported cord leaks Primed mana, loses packet integrity, and becomes incre
 
 ### Sealing
 
-A properly built construct remains inert until it is **sealed**. Sealing fixes its declared components and interfaces, isolates its scaffold, and enables later execution. Modifying a sealed or executing construct is possible, but only with great difficulty and risk, which makes sealing an important safeguard against accidental or hostile alteration of constructs.
+A properly built construct remains inert until it is **sealed**. Sealing fixes its declared components and interfaces, makes that configuration resistant to alteration, and enables later execution. Modifying a sealed or executing construct is possible, but only with great difficulty and risk, which makes sealing an important safeguard against accidental or hostile alteration of constructs.
 
 Once sealed, the construct may be triggered by funnelling mana into it, supplying a trigger signal, satisfying a declared condition, or receiving a command through a linked interface.
 
@@ -210,7 +217,7 @@ Not every construct performs every stage explicitly. Validation, Attunement, Obs
 
 **Repetition** is not normally declared as an instruction to repeat a procedure. Instead, it emerges from persistent flow paths, timed retriggering, feedback cycles, or external signals that continue until a termination condition is satisfied. This permits thermostatic spells, pulsed engines, periodic wards, tracking systems, and other self-regulating behaviour without requiring imperative execution.
 
-**Independent branches** may execute concurrently. Scaffold topology determines whether branches have isolated mana supplies, compete for shared throughput, wait upon one another, or expend several attributes simultaneously.
+**Independent branches** may execute concurrently. Their declared components, interfaces, and available mana determine whether they have isolated supplies, compete for shared throughput, wait upon one another, or expend several attributes simultaneously.
 
 Constructs may also be either :
 

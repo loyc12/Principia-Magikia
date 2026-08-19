@@ -61,7 +61,7 @@ A formula may be written, engraved, spoken, sung, gestured, arranged spatially, 
 
 A complete formula may specify :
 
-- scaffold topology
+- scaffold form
 - construct count and organisation
 - component archetypes and variants
 - component parameters
@@ -142,7 +142,7 @@ A **spell assembly** is the concrete arrangement of one or more sealed mana cons
 
 An assembly includes :
 
-- the location and topology of its constructs
+- the locations and scaffold forms of its constructs
 - the couplings and interfaces between them
 - executing and dormant components
 - contained and flowing mana
@@ -172,7 +172,7 @@ Assemblies may be classified by architecture :
 Complex assemblies may be orchestrated through a central supervisory construct, distributed peer coordination, sequential dependencies, event-driven triggering, or continuous shared feedback. Their orchestration is part of the spell template rather than an incidental consequence of physical proximity.
 
 
-**Assembly Engineering** is the study of instantiated construct networks, their topology, anchoring, orchestration, integrity, repair, and persistent operation.
+**Assembly Engineering** is the study of instantiated construct networks, their arrangement, anchorage, orchestration, integrity, repair, and persistent operation.
 
 **Distributed Thaumaturgy** is the study of spatially separated constructs, corded and paired Resonant transmission, synchronisation, propagation delays, partial failure, and distributed control.
 

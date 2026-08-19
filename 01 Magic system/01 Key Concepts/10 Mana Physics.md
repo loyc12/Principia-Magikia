@@ -6,7 +6,7 @@
 
 Mana is a field of discrete particles. At any moment, each particle is in one of three states: **Primed**, **Attuned** to one attribute, or **Spent**. Attunement, Cross-Attunement, Expenditure, Detuning, and Priming change a particle's state while conserving the particle itself.
 
-Each mana type `i` has a discrete particle-potential level `V_i` such that:
+Each mana type `i` has a discrete **potentia level** `V_i` such that:
 
 ```text
 V_primed > V_attribute > V_spent = 0
@@ -16,13 +16,13 @@ V_a != V_b for distinct attributes a and b
 
 Ordinary transitions satisfy `V_initial > V_final`. Priming is the only established exception. The exact ordering and separation of the seven attribute levels have not been assigned.
 
-For a downhill transition from type `i` to type `j`, the released particle potential is:
+For a downhill transition from type `i` to type `j`, the released particle potentia is:
 
 ```text
 Delta V_i->j = V_i - V_j
 ```
 
-Potential is conserved across the combined physical and mana system rather than within matter alone. For one transition:
+Bound potentia, free mana-field potential, and physical energy are conserved across the combined system rather than within matter alone. For one transition:
 
 ```text
 V_i = V_j + W + D
@@ -30,9 +30,9 @@ V_i = V_j + W + D
 D = V_i - V_j - W
 ```
 
-`W` is the signed operational potential-equivalent transferred to a valid physical subject. Positive `W` adds energy or produces an equivalent physical change; negative `W` removes energy from the subject. `D` is the potential discharged into the mana field. A non-operational permutation has `W = 0` and discharges the entire difference between its particle states.
+`W` is the signed operational potentia-equivalent transferred to a valid physical subject. Positive `W` adds energy or produces an equivalent physical change; negative `W` removes energy from the subject. `D` is the field potential discharged into the mana field. A non-operational permutation has `W = 0` and discharges the entire difference between its particle states.
 
-The term **potential-equivalent** recognises that some attributes alter momentum, continuity, physical patterns, or relations rather than producing heat directly. Their operation still consumes a finite amount of bound mana potential and produces a corresponding field balance.
+The term **potentia-equivalent** recognises that some attributes alter momentum, continuity, physical patterns, or relations rather than producing heat directly. Their operation still consumes a finite amount of bound mana potentia and produces a corresponding field balance.
 
 `Delta V_i->j` does not determine transition frequency by itself. Each transition also has an activation barrier `B_i->j`, which depends upon the source and destination types, local material and mana conditions, seed concentration, and imposed control. A large downhill drop can therefore remain rare when its activation barrier is high.
 
@@ -52,7 +52,7 @@ The same attempt **quenches** into Spent mana with probability:
 P( output = M_spent ) = w_i->j
 ```
 
-`w_i->j` is the **waste ratio** for that transition under the stated conditions. It may vary with the potential difference, activation barrier, fluctuation rate, seed stability, local mana composition, confinement, material conditions, and throughput.
+`w_i->j` is the **waste ratio** for that transition under the stated conditions. It may vary with the potentia difference, activation barrier, fluctuation rate, seed stability, local mana composition, confinement, material conditions, and throughput.
 
 The two particle-scale branches are:
 
@@ -61,7 +61,7 @@ success:  M_i -> M_j     + Phi(V_i - V_j)
 quench:   M_i -> M_spent + Phi(V_i)
 ```
 
-`Phi(D)` denotes a mana-field disruption carrying potential `D`. For `N` statistically similar attempts:
+`Phi(D)` denotes a mana-field disruption carrying field potential `D`. For `N` statistically similar attempts:
 
 ```text
 N_success = N * (1 - w_i->j)
@@ -74,7 +74,7 @@ D_expected =
 D_expected = N * [(V_i - V_j) + w_i->j * V_j]
 ```
 
-The failed particles are **Waste mana**. The released potential is **permutation discharge**, not destroyed or missing potential. These relationships apply to Attunement and Cross-Attunement and may be used for a specified Detuning destination. Expenditure already ends in Spent mana and instead follows the operational balance below.
+The failed particles are **Waste mana**. The released potentia becomes **permutation discharge**, not destroyed or missing capacity. These relationships apply to Attunement and Cross-Attunement and may be used for a specified Detuning destination. Expenditure already ends in Spent mana and instead follows the operational balance below.
 
 ## Expenditure and Signed Operation
 
@@ -87,7 +87,7 @@ D = V_a - W
 -V_a <= W <= V_a
 ```
 
-The lower bound caps energy drainage by one particle at an amount equal in magnitude and opposite in sign to that particle's initial potential-equivalent. The upper bound prevents the same particle from adding more physical energy-equivalent than it carried. Consequently:
+The lower bound caps energy drainage by one particle at an amount equal in magnitude and opposite in sign to that particle's initial potentia-equivalent. The upper bound prevents the same particle from adding more physical energy-equivalent than it carried. Consequently:
 
 | Operation | `W` | `D` |
 | --- | ---: | ---: |
@@ -97,11 +97,11 @@ The lower bound caps energy drainage by one particle at an amount equal in magni
 | Cooling or drainage | `-V_a < W < 0` | `V_a < D < 2V_a` |
 | Maximum drainage | `-V_a` | `2V_a` |
 
-A cooling operation therefore transfers physical energy into the mana field in addition to discharging the particle's original potential. Greater cooling requires proportionally more particles; selection, concentration, and throughput remain independent practical constraints.
+A cooling operation therefore transfers physical energy into the mana field in addition to discharging the particle's original potentia. Greater cooling requires proportionally more particles; selection, concentration, and throughput remain independent practical constraints.
 
 An attributed operation may act only upon matter, a non-mana energy field, or a bounded region or relationship of space-time. `W` never represents direct attributed work upon a mana particle, construct scaffold, soul-form, or the mana field itself.
 
-## Combined Potential Balance
+## Combined Potentia and Field-Potential Balance
 
 A world-scale accounting may be represented by:
 
@@ -115,19 +115,19 @@ E_total =
 dE_total/dt = 0
 ```
 
-Where `rho_phi` is free potential density in the mana field and `R_singularity` is potential retained at, or made available through, the Singularity. `E_physical` need not be constant within a bounded physical system:
+Where `rho_phi` is free field-potential density in the mana field and `R_singularity` is field potential retained at, or made available through, the Singularity. `E_physical` need not be constant within a bounded physical system:
 
 ```text
 dE_physical/dt != 0
 ```
 
-Local magical operations may therefore violate matter-only energy conservation while remaining balanced by particle potential and the mana field. Approximate cancellation of additions and removals is an aggregate tendency across large regions and timescales, not a requirement that every local operation be immediately opposed.
+Local magical operations may therefore violate matter-only energy conservation while remaining balanced by particle potentia and the mana field. Approximate cancellation of additions and removals is an aggregate tendency across large regions and timescales, not a requirement that every local operation be immediately opposed.
 
 ## Background Attunement and Seed Stability
 
 For each attribute, Primed mana has a small baseline chance of fluctuating towards a short-lived Attuned state. This **background fluctuation rate** is represented by `b_a`. A high `b_a` can contribute to natural availability, but availability also depends upon critical seed concentration, selective stabilisation, Detuning, and attainable retention yield; it is not a measure of operational complexity.
 
-An isolated Attuned particle ordinarily Detunes into a lower-potential type, disperses, or becomes Spent before it can establish a meaningful local bias. A concentration of matching particles, called an **attunement seed**, can instead stabilise matching fluctuations and make further attunement more likely. The seed becomes self-sustaining only after it reaches an attribute-specific critical concentration.
+An isolated Attuned particle ordinarily Detunes into a lower-potentia type, disperses, or becomes Spent before it can establish a meaningful local bias. A concentration of matching particles, called an **attunement seed**, can instead stabilise matching fluctuations and make further attunement more likely. The seed becomes self-sustaining only after it reaches an attribute-specific critical concentration.
 
 ## Local Attunement Model
 
@@ -207,7 +207,7 @@ J_phi =
     -mu_phi rho_phi grad(Psi_m)
 ```
 
-`S_discharge` collects permutation discharge and potential removed from physical subjects. `S_priming` is the field potential rebound into particles at the Singularity. The mana field is curved such that its ordinary inward or upward gradient terminates at the Singularity. Its relation to space-time curvature is opposed in effect but has not been assigned an exact inverse law.
+`S_discharge` collects permutation discharge and potentia-equivalent energy removed from physical subjects. `S_priming` is the field potential rebound into particles at the Singularity. The mana field is curved such that its ordinary inward or upward gradient terminates at the Singularity. Its relation to space-time curvature is opposed in effect but has not been assigned an exact inverse law.
 
 Absent deliberate containment, every free disruption is therefore expected eventually to enter the Singularity's Priming region. Local gradients, matter, and mana currents may delay or disperse that return without providing another permanent sink.
 
@@ -235,7 +235,7 @@ I_i * dv/dt =
     - Gamma_i(C_local, v)v
 ```
 
-`I_i` is effective mana-field inertia rather than ordinary rest mass; for this model, `p_m = I_i v` is the corresponding field momentum. `chi(V_i)` is potential-dependent gravitational coupling, while `F_field` follows the mana-field gradient towards the Singularity. The remaining terms represent concentration gradients, mana repulsion, material interaction, and the interference of surrounding mana. Material deflection has an equal and opposite but ordinarily negligible physical back-reaction; no hard-surface or excluded-volume term is present because mana structures remain permeable. An attributed operation is absent because mana structures are not valid subjects of attributed operation.
+`I_i` is effective mana-field inertia rather than ordinary rest mass; for this model, `p_m = I_i v` is the corresponding field momentum. `chi(V_i)` is potentia-dependent gravitational coupling, while `F_field` follows the mana-field gradient towards the Singularity. The remaining terms represent concentration gradients, mana repulsion, material interaction, and the interference of surrounding mana. Material deflection has an equal and opposite but ordinarily negligible physical back-reaction; no hard-surface or excluded-volume term is present because mana structures remain permeable. An attributed operation is absent because mana structures are not valid subjects of attributed operation.
 
 The qualitative gravitational ordering is:
 
