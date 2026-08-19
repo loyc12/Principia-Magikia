@@ -165,7 +165,7 @@ Assemblies may be classified by architecture :
 | **Monolithic**  | Consists of a single mana construct                                          |
 | **Modular**     | Uses several specialised constructs with declared interfaces                 |
 | **Distributed** | Separates its constructs across multiple locations                           |
-| **Nested**      | Contains constructs that trigger, anchor, or supervise subordinate assemblies |
+| **Nested**      | Contains constructs that trigger, supervise, or manage the material anchorage of subordinate assemblies |
 | **Recursive\*** | Produces or reconstructs assemblies based upon its own template              |
 *\*Recursive assemblies are theoretically possible but are difficult to constrain, highly susceptible to compounding error, and generally disused outside of formal research.*
 
@@ -273,27 +273,27 @@ Below are the most common ones :
 | Type                 | Description                                                    |
 | -------------------- | -------------------------------------------------------------- |
 | **Directed**         | Acts upon a separately selected subject                        |
-| **Anchored**         | Acts upon what the spell or one of its constructs is attached to |
+| **Anchored**         | Acts upon its own physical anchor or host                         |
 | **Volumetric**       | Acts throughout a bounded region                               |
 | **Relational**       | Acts upon a link or relationship between subjects              |
 | **Self-referential** | Acts upon the caster, physical instrument, carrier, anchor, reservoir, or surrounding bounded space-time associated with the assembly |
 
-#### By Anchorage
+#### By Anchorage Type
 
 | Type | Description |
 | --- | --- |
-| **Material** | Attached to and follows a physical object, instrument, or structure |
-| **Somatic** | Attached to and supported by a living body's mana organisation |
-| **Environmental** | Attached to terrain, a location, an ambient mana flow, or another local condition |
-| **Construct** | Attached to and follows another construct or spell assembly |
-| **Free-floating** | Maintains its own scaffold without an external anchor |
+| **Material — instrumental** | Follows a prepared artefact, implement, vehicle, or structure through a documented material affinity. |
+| **Material — biological** | Follows living tissue or another physical biological substrate through a documented material affinity. |
+| **Material — environmental** | Follows terrain, a built site, or another physical environmental setting through its material conditions. |
+| **Somatic** | A magus actively holds the spell-form loosely near their body through continuing soul-form manipulation. |
+| **Free-floating** | Maintains its scaffold without material anchorage or somatic maintenance. |
 
 #### By Mobility
 
 | Type | Description |
 | --- | --- |
-| **Fixed** | Remains stationary relative to its anchor |
-| **Carried** | Moves with a physical, somatic, environmental, or construct anchor |
+| **Fixed** | Remains stationary relative to a material anchor, or while somatically maintained at one position |
+| **Carried** | Moves with its material anchor or through continuing somatic maintenance |
 | **Drifting** | Moves freely under existing mana flows, gravity, repulsion, and field inertia |
 | **Propelled** | Receives one or more declared forces during transit |
 | **Directed** | Accepts external updates to its motion through an available interface |

@@ -4,13 +4,13 @@ A **spell subject**, or simply **subject**, is the portion of physical reality u
 
 Mana particles, mana structures, soul-forms, and the mana field are not operational subjects. They interact through intrinsic mana physics, including flow, repulsion, permutation, shaping, interference, and propagated disturbance. A spell may affect a mana structure indirectly by operating upon a physical anchor or carrier, or upon the bounded space-time through which it moves.
 
-Dimensional mana operates upon a bounded region of space-time. That region is consequently a Dimensional spell's subject, rather than an exception to the requirement for one. It still requires precise selection, bounding, anchoring, and regulation.
+Dimensional mana operates upon a bounded region of space-time. That region is consequently a Dimensional spell's subject, rather than an exception to the requirement for one. It still requires precise selection, bounding, physical reference resolution, and regulation.
 
 ## Subjects, Targets, and Reagents
 
 **Subject** is the general operational term: it identifies what is directly changed or maintained by an attributed operation. A spell may have a primary subject and one or more auxiliary subjects. What a construct observes, stores, or uses to regulate itself is instead a **control reference** unless an attributed operation directly changes it.
 
-**Target** describes a subject's relationship to a particular casting. A subject is a target when the spell selects, addresses, or aims at it; it is not a separate kind of thing. An anchored, volumetric, relational, or self-referential spell may therefore have a subject without using the everyday language of aiming at a target.
+**Target** describes a subject's relationship to a particular casting. A subject is a target when the spell selects, addresses, or aims at it; it is not a separate kind of thing. A physically anchored, volumetric, relational, or self-referential spell may therefore have a subject without using the everyday language of aiming at a target.
 
 A **reagent** is a material subject, or a bounded material component of one, whose documented mana-relevant profile is deliberately used by the spell. That profile may help or impede the operation through affinity, storage, conduction, coupling, threshold behaviour, or another material interaction. A reagent need not be consumed or permanently altered by the spell at hand.
 

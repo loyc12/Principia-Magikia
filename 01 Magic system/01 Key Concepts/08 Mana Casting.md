@@ -43,7 +43,7 @@ A casting process may involve several functional roles. These roles need not cor
 | **Reservoir** | Stores or buffers mana before or during execution                                        |
 | **Conduit**   | Carries mana between sources, constructs, instruments, and/or subjects                   |
 | **Attuner**   | Cultivates and retains random fluctuations towards one or more required attributes        |
-| **Anchor**    | Establishes the matter, organism, location, flow, or construct that an assembly follows  |
+| **Anchor**    | Establishes material anchorage or active somatic positional maintenance for an assembly    |
 | **Operator**  | Manipulates mana directly or supplies parameters, references, trigger signals, or supervision |
 | **Subject**   | Receives the casting's attributed operations                                             |
 | **Reagent**   | A material subject or subject component whose mana-relevant profile the casting deliberately uses |
@@ -51,7 +51,7 @@ A casting process may involve several functional roles. These roles need not cor
 
 These casting roles describe the participants and physical pathways involved in casting. They are distinct from **construct components**, which define the internal behaviour of an individual mana construct and are absent from purely Unstructured Casting.
 
-For example, an Unstructured caster may simultaneously serve as operator and conduit while drawing from an external reservoir. A structured caster may temporarily anchor an assembly to their own soul-form, while an instrument may act as material anchor, reservoir, attuner, conduit, and operator.
+For example, an Unstructured caster may simultaneously serve as operator and conduit while drawing from an external reservoir. A structured caster may temporarily hold an assembly near their body through somatic anchorage, while an instrument may act as material anchor, reservoir, attuner, conduit, and operator.
 
 A living operator normally manipulates mana through their soul-form, whose sensorimotor fringe converts trained neural activity into low-level attraction, repulsion, condensation, release, and directional mana forces.
 
@@ -60,7 +60,7 @@ A living operator normally manipulates mana through their soul-form, whose senso
 Structured casting methods are most rigorously described through three independent dimensions :
 
 1. the **authoring source** from which the spell logic originates
-2. the **anchorage** that fixes what the assembly follows, if any
+2. the **anchorage** or somatic maintenance that determines the assembly's position, if any
 3. the **supervision mode** by which execution is controlled
 
 These dimensions may be combined freely where physically and logically compatible.
@@ -76,17 +76,17 @@ These dimensions may be combined freely where physically and logically compatibl
 
 The authoring source describes where the executable design comes from, not how its spell-form is anchored. An inherited formula may be reconstructed somatically, while a structured caster may design a spell that is later anchored to an instrument.
 
-### By Anchorage
+### By Anchorage Type
 
 | Anchorage | Description |
 | --- | --- |
-| **Somatic** | The spell-form is attached to and follows a living body's mana organisation. |
-| **Material** | The spell-form is attached to an artefact, implement, vehicle, building, or other physical object. |
-| **Environmental** | The spell-form is attached to terrain, an ambient mana flow, a naturally occurring structure, or another local condition. |
-| **Construct** | The spell-form is attached to another construct or assembly. |
-| **Free-floating** | The spell-form maintains its scaffold without an external anchor. |
+| **Material — instrumental** | The spell-form follows a prepared artefact, implement, vehicle, or structure through a documented material affinity. |
+| **Material — biological** | The spell-form follows living tissue or another physical biological substrate through a documented material affinity. |
+| **Material — environmental** | The spell-form follows terrain, a built site, or another physical environmental setting through its material conditions. |
+| **Somatic** | A magus actively holds the spell-form loosely near their body through continuing soul-form manipulation. |
+| **Free-floating** | The spell-form maintains its scaffold without material anchorage or somatic maintenance. |
 
-A distributed spell may combine several other anchorages. For example, an architectural ward may use environmental and material anchors, instrumental reservoirs, and somatic supervision. Anchorage does not determine mobility: a materially anchored assembly may move with a projectile, while a free-floating assembly may remain nearly stationary until disturbed.
+A distributed spell may combine several material-anchor subtypes. For example, an architectural ward may use environmental and instrumental anchors, instrumental reservoirs, and somatic supervision. Anchorage does not determine mobility: a materially anchored assembly may move with a projectile, while a free-floating assembly may remain nearly stationary until disturbed.
 
 ### By Supervision Mode
 
@@ -149,7 +149,7 @@ Typical Unstructured operations include :
 | **Cohesive** | Widen or remove an existing crack, weakly join compatible surfaces, or crudely separate brittle continuous matter                        |
 | **Resonant** | Establish a weak short-lived coupling between touching physical systems or operate through a previously prepared pairing                 |
 
-Signetic and other rare or unstable attributes are not normally suitable for Unstructured Casting. Dimensional mana cannot be used unstructured: although it operates directly on space-time, that operation still requires declared selection, bounding, anchoring, and regulation. Practitioners seldom possess sufficient access, familiarity, or control to meet these requirements safely.
+Signetic and other rare or unstable attributes are not normally suitable for Unstructured Casting. Dimensional mana cannot be used unstructured: although it operates directly on space-time, that operation still requires declared selection, bounding, physical reference resolution, and regulation. Practitioners seldom possess sufficient access, familiarity, or control to meet these requirements safely.
 
 Directional force is possible with Kinetic mana, but is significantly harder than heating, cooling, vibration, compression, or shattering. A shove can be produced by concentrating momentum transfer at one surface, but sustained telekinesis, controlled trajectories, levitation, and precise force distribution generally require structured Direction, Selection, Regulation, and feedback.
 

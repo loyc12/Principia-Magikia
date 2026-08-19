@@ -28,7 +28,7 @@ A mana construct requires a **construct scaffold**: a bounded arrangement of Pri
 
 Primed-mana arrangements sometimes arise naturally where local concentration, material conditions, or an existing mana structure make coherence favourable. Such arrangements generally lack the organisation and declaration required of a construct scaffold. They may detach and drift under mana flow, repulsion, and gravity; origin alone does not distinguish a natural arrangement from a deliberately built scaffold.
 
-Primed mana incorporated into a scaffold is **geometrically constrained** by its coherence wells and cannot readily undergo Attunement. It retains its potentia while remaining apart from ordinary flow. Scaffold damage releases this Primed mana, often causing uncontrolled local Attunement or repulsive discharge of free-flowing Primed mana.
+Primed mana incorporated into a scaffold is **geometrically constrained** by its coherence wells and cannot readily undergo Attunement. This constraint makes random fluctuations less likely to reach committed permutation, but does not prevent them. A particle that Attunes or quenches into Spent mana can no longer sustain its original well, leaving a local defect. The remaining Primed mana retains its potentia while remaining apart from ordinary flow. Scaffold damage releases this Primed mana, often causing uncontrolled local Attunement or repulsive discharge of free-flowing Primed mana.
 
 #### Nucleation and Directed Growth
 
@@ -46,9 +46,9 @@ Completed substructures may expose higher-scale favourable positions, allowing c
 
 #### Anchorage
 
-**Material anchorage** is a local, maintained relation through which a physical object, body, site, or other material setting fixes a scaffold's position or orientation. An applicable material affinity causes the scaffold to follow changes in that material reference; mana does not thereby push, support, or move the anchor in return. Instruments, living tissue, terrain, buildings, and prepared environmental media are all possible material anchors.
+**Material anchorage** is a local, maintained relation through which a physical object, body, site, or other material setting fixes a scaffold's position and sometimes its orientation. An applicable material affinity causes the scaffold to follow changes in that material reference; mana does not thereby push, support, or move the anchor in return. Instruments, living tissue, terrain, buildings, and prepared environmental media are all possible material anchors.
 
-**Somatic anchorage** is a lighter, semi-anchored condition. A magus uses their soul-form to hold a construct loosely in a desired position relative to their body through continuing mana manipulation. It is not a material bond and does not make the construct mechanically follow or support the body: concentration, motion, interference, or release can let it drift. A free-floating scaffold receives neither material anchorage nor this continuing somatic maintenance.
+**Somatic anchorage** is a lighter, semi-anchored condition. A magus uses their soul-form to hold a construct loosely in a desired position relative to their body through continuing mana manipulation, generally through hand motions. It is not a material bond and does not make the construct mechanically follow or support the body: concentration, motion, interference, or release can let it drift. A free-floating scaffold receives neither material anchorage nor this continuing somatic maintenance.
 
 Constructs may be coupled or share a material anchor, but one construct does not anchor another merely by existing nearby. Material anchorage begins through local overlap and an applicable affinity; somatic anchorage begins only while a magus actively maintains it. Declaring an anchor does not establish either relation across a separation. Enchantments, wards, and other persistent assemblies are commonly designed around materials that resist detachment or fail safely when their anchor changes.
 
@@ -58,11 +58,13 @@ Constructs may be coupled or share a material anchor, but one construct does not
 
 ### Structural Decay and Maintenance
 
-No known construct scaffold is perfectly permanent. Ambient mana perturbation, mana-field disruption, structural interference, material change, internal flow, and accumulated execution stress gradually produce **structural decay**. Its rate depends upon scaffold form, materials, anchorage, local mana conditions, operational load, and protection from interference.
+No known construct scaffold is perfectly permanent. Ambient mana perturbation, mana-field disruption, structural interference, material change, internal flow, accumulated execution stress, and rare random permutation of incorporated Primed mana gradually produce **structural decay**. Its rate depends upon scaffold form, materials, anchorage, local mana conditions, operational load, and protection from interference.
 
-Well-designed dormant constructs may lose so little mana that their ordinary maintenance involves realignment and replacement of local Primed mana rather than substantial Attuned-mana Expenditure. Poorly designed or badly situated constructs may leak, deform, or fail within minutes. Durable wards commonly remain serviceable through annual inspection and repair, but even exceptionally stable unmaintained constructs are not expected to survive intact for more than roughly a century. Conditions can make decay practically negligible over an intended service interval, but do not abolish it.
+An isolated internal permutation ordinarily causes only a local displacement, loss of packet fidelity, or reduced tolerance. As such defects accumulate, nearby wells become easier to disrupt and may deform or fracture the scaffold. The associated permutation discharge is ordinarily slight, but can add to local interference.
 
-Repair requires mana manipulation and access to compatible structure or material. Primed mana can usually be gathered locally, while damaged operational reservoirs, specialised components, and physical anchors may require prepared replacements. Active maintenance can slow or correct decay, but consumes whatever control, sensing, material, and mana supply its architecture requires.
+Well-designed dormant constructs may lose so little mana that their ordinary maintenance involves realignment and replacement of local Primed mana rather than substantial Attuned-mana Expenditure. Passive renewal requires both a compatible Primed source and local conditions that recruit replacement mana into damaged positions; Primed mana alone does not repair a scaffold. Where that renewal is absent or insufficient, frequent inspection, realignment, and manual replacement are required. Poorly designed or badly situated constructs may leak, deform, or fail within minutes. Durable wards commonly remain serviceable through annual inspection and repair, but even exceptionally stable unmaintained constructs are not expected to survive intact for more than roughly a century. Conditions can make decay practically negligible over an intended service interval, but do not abolish it.
+
+Repair requires mana manipulation, a compatible Primed source, and access to compatible structure or material. Primed mana can usually be gathered locally, while damaged operational reservoirs, specialised components, and physical anchors may require prepared replacements. Active maintenance can slow or correct decay, but consumes whatever control, sensing, material, and mana supply its architecture requires.
 
 **Coherence** is an informal engineering assessment of how well a construct preserves its intended arrangement and operation. It may summarise scaffold integrity, declaration integrity, interface synchronisation, leakage, waste, and resistance to interference, but is not a separate physical quantity and does not replace those measurements.
 
@@ -98,7 +100,7 @@ Below is a list of the most commonly used component archetype families and their
 | **Attuning**     | Cultivates random Attunement fluctuations under declared stabilising conditions    |
 | **Selection**    | Defines and validates eligible target subjects and any required reagent criteria   |
 | **Bounding**     | Defines the affected region or quantity inside the selected subject                |
-| **Anchoring**    | Determines what the construct follows or remains attached to                       |
+| **Anchoring**    | Establishes material anchorage or active somatic positional maintenance             |
 | **Directing**    | Defines vectors, orientation, and propagation                                      |
 | **Regulating**   | Defines magnitude and rate of operation                                            |
 | **Timing**       | Defines duration, delay, rhythm, or termination timing                             |
@@ -138,13 +140,13 @@ Information within and between constructs is carried and stored through **Primed
 
 #### Mana Cords
 
-A **mana cord** is an extended, exceptionally thin Primed coherence path and compatible interfaces that maintains a continuous connection between separated constructs. Information packets, control signals, parameters, references, and sensed state travel through the cord as encoded Primed configurations. Operational or constructive mana may also move through a declared Flow interface, but this bulk mana flow remains distinct from the information packets that regulate it.
+A **mana cord** is an extended, exceptionally narrow Primed coherence arrangement and compatible interfaces that maintains a continuous connection between separated constructs. Information packets, control signals, parameters, references, and sensed state travel through the cord as encoded Primed configurations. Operational or constructive mana may also move through a declared Flow interface, but this bulk mana flow remains distinct from the information packets that regulate it.
 
-A **filamentary cord** is a one-dimensional succession of coherence wells. Its interior particles are ordinarily dyadic, while free ends may remain monadic. Packets travel as ring-like positional configurations around the path, analogous to rings moving along a rope; this is topological guidance rather than contact with a solid filament.
+A **bare filamentary cord** is a single one-dimensional succession of coherence wells. Its interior particles are ordinarily dyadic, while free ends may remain monadic. Packets travel as ring-like positional configurations around its guiding path, analogous to rings moving along a rope; this is topological guidance rather than contact with a solid filament. Practical filamentary cords commonly form a narrow bundle of nearby, partly independent paths. These may duplicate packets or permit local rerouting around a damaged path, but shared disruption or an unfavourable material context can still affect the whole bundle.
 
-A **tubular cord** is an open, shell-like coherence path whose shallow transverse structure guides packets along an axial channel. Packets travel through that channel, but the cord and its channel remain permeable to matter and other mana. A tubular cord remains a cord unless it is further shaped and declared as a construct scaffold.
+A **tubular cord** is an open, shell-like coherence arrangement whose shallow transverse structure guides packets along an axial channel. Packets travel through that channel, but the cord and its channel remain permeable to matter and other mana. A tubular cord remains a cord unless it is further shaped and declared as a construct scaffold.
 
-The thinness and low coherence capacity of either cord form make its wells shallower, packet guidance weaker, and redundancy lower than those of a scaffold. An unsupported cord therefore leaks Primed mana, loses packet integrity, and becomes increasingly vulnerable to interference with length and time. Renewal replaces or realigns its coherence path. A physical conduit can improve the local conditions that protect a cord, permitting more stable and sustained transmission at the cost of fixing its route. Severance, starvation, or corruption of a cord must be handled through the connected constructs' Fault interfaces; it does not permit either endpoint to act through the missing span.
+The narrowness and low transverse coherence of either cord form make its wells shallower, packet guidance weaker, and redundancy lower than those of a scaffold. These same properties permit a cord to bend: its segments can settle into successively shifted local wells rather than forcing a long rigid arrangement to resist deformation. An unsupported cord therefore leaks Primed mana, loses packet integrity, and becomes increasingly vulnerable to interference and random internal permutation with length and time. Renewal replaces or realigns its coherence paths. A physical conduit can improve the local conditions that protect a cord, permitting more stable and sustained transmission at the cost of fixing its route. Severance, starvation, or corruption of a cord must be handled through the connected constructs' Fault interfaces; it does not permit either endpoint to act through the missing span.
 
 
 **Component Engineering** is the study of construct-component archetypes, variants, interfaces, combinations, and reusable component designs.
@@ -155,7 +157,7 @@ The thinness and low coherence capacity of either cord form make its wells shall
 
 ### Sealing
 
-A properly built construct remains inert until it is **sealed**. Sealing fixes its declared components and interfaces, makes that configuration resistant to alteration, and enables later execution. Modifying a sealed or executing construct is possible, but only with great difficulty and risk, which makes sealing an important safeguard against accidental or hostile alteration of constructs.
+A properly built construct remains inert until it is **sealed**. Sealing fixes its declared components and interfaces, makes that configuration resistant to alteration, and enables later execution. It does not halt structural decay or the rare random permutation of scaffold-bound Primed mana. Modifying a sealed or executing construct is possible, but only with great difficulty and risk, which makes sealing an important safeguard against accidental or hostile alteration of constructs.
 
 Once sealed, the construct may be triggered by funnelling mana into it, supplying a trigger signal, satisfying a declared condition, or receiving a command through a linked interface.
 
@@ -254,7 +256,7 @@ Below is a list of frequent construct failure types that termination behaviour m
 | **Dissipation overflow** | Waste or excess mana cannot be safely discharged                  |
 | **Coupled cascade**      | Failure propagates through coupled constructs                     |
 | **Semantic mismatch**    | A valid declaration does not perform the designer's intended task |
-| **Anchor failure**       | A construct detaches, shifts, or follows the wrong physical or mana relationship |
+| **Anchor failure**       | A construct detaches, shifts, follows the wrong material reference, or loses somatic maintenance |
 | **Transit deformation**  | Acceleration, abrupt force change, turbulence, or interference damages a moving scaffold |
 | **Connection loss**      | A required mana cord, physical conduit, or paired Resonant signal becomes unavailable |
 
@@ -271,3 +273,5 @@ Below is a list of frequent construct failure types that termination behaviour m
 | Sealing      | Compile, validate, and arm            |
 | Execution    | Run and supervise                     |
 | Termination  | Deallocate, flush, and fail safely    |
+
+**Tubular-cord analogy:** A tubular cord's thin shell geometry is analogous to a carbon nanotube, but it is an intangible, permeable coherence arrangement rather than a material tube.

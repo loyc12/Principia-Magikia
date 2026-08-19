@@ -36,7 +36,7 @@ All complex magical results must ultimately be reducible to one or more such pri
 
 Every attributed operation must act upon an identified and bounded subject. A subject may be resolved explicitly or through a declared local relation, such as matter overlapping a construct's coupling region or crossing its boundary. For Dimensional mana, the subject is a bounded region of space-time, which may or may not contain matter.
 
-A structured spell identifies its subject through selection, bounding, anchoring, local coupling, and reference resolution. Unstructured Casting identifies it through direct local coupling. A subject is a **target** when a casting selects or aims at it. Neither method can directly operate upon an undefined target or freely extend beyond its operative region; all other affected systems belong to the surrounding environment. A **reagent** is the narrower case in which a spell deliberately relies upon the material profile of its subject or a bounded component of it.
+A structured spell identifies its subject through selection, bounding, local coupling, and reference resolution. Where a construct must follow an object or site, material anchorage or active somatic maintenance may supply its positional reference. Unstructured Casting identifies its subject through direct local coupling. A subject is a **target** when a casting selects or aims at it. Neither method can directly operate upon an undefined target or freely extend beyond its operative region; all other affected systems belong to the surrounding environment. A **reagent** is the narrower case in which a spell deliberately relies upon the material profile of its subject or a bounded component of it.
 
 ### Principle V - Composability
 
@@ -78,7 +78,7 @@ Information must be encoded, transmitted, inspected, or retained through physica
 
 ### Principle XI - Structural Realisation
 
-Every functioning spell, but not every magical effect, must be realised through one or more mana constructs, whether deliberately shaped, reflexively reconstructed, biologically generated, environmentally anchored, physically attached, or released to float freely. The concrete executable mana organisation of a spell is its **spell-form**; it may consist of one construct or a wider spell assembly. Unstructured Casting directly expends Attuned mana without a spell-form.
+Every functioning spell, but not every magical effect, must be realised through one or more mana constructs, whether deliberately shaped, reflexively reconstructed, biologically generated, materially anchored to a physical setting, somatically maintained, or released to float freely. The concrete executable mana organisation of a spell is its **spell-form**; it may consist of one construct or a wider spell assembly. Unstructured Casting directly expends Attuned mana without a spell-form.
 
 Glyphs and formulas represent spell logic but do not themselves perform magic. A spell begins only once that logic is instantiated within an executable construct or assembly.
 

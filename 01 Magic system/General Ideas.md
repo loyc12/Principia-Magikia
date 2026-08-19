@@ -23,3 +23,7 @@ If useful later, [[01 Key Concepts/10 Mana Physics|Mana Physics]] may model cohe
 ### Scaffold Form and Function
 
 The relationship between a scaffold's positional arrangement and its engineering capabilities remains undeveloped. A later model might assign characteristic roles to paths, junctions, shell-like regions, or lattices, but no geometric element currently has an inherent canonical function. Until that model exists, declaration, components, interfaces, and available mana—not scaffold form alone—define construct behaviour.
+
+###
+
+Hand motions to manipulate spell casting, since soul form interactions are required for both construction of spells and keeping their construct in place.

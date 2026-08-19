@@ -105,7 +105,7 @@ Magical instruments may be classified independently by their function, form, and
 
 A magical engine normally includes :
 
-- a durable material or environmental anchor
+- a durable material anchor, including a prepared environmental site
 - a continuous or replenishable mana source
 - stable Attuning and Sourcing components
 - feedback regulation
@@ -134,7 +134,7 @@ Large, recurrent, long-maintained ward networks may develop distinctive construc
 
 ### Distributed Casting
 
-**Distributed Casting** relies on a **distributed array** whose constructs are anchored across several objects, structures, environments, or locations.
+**Distributed Casting** relies on a **distributed array** whose constructs are materially anchored across several objects, structures, and physical sites.
 
 Arrays may be architectural, environmental, instrumental, or mixed. They are commonly used where one scaffold would be too large, where broad spatial coverage is required, or where mana sourcing and operation must be distributed.
 

@@ -72,7 +72,7 @@ Primed mana is flexible because it has not yet been committed to one attribute, 
 
 ### Primed Mana as a Constructive Medium
 
-Primed mana is used to form the stable geometries of [[05 Mana Constructs|mana constructs]]. When shaped into a scaffold, its coherence wells are guided into a chosen topology and functionally isolated from ordinary flow, allowing it to retain potentia without immediately undergoing Attunement. Declared components then use this constrained mana to encode and stabilise construct behaviour.
+Primed mana is used to form the stable coherence arrangements of [[05 Mana Constructs|mana constructs]]. When shaped into a scaffold, its coherence wells are guided into a chosen arrangement and kept apart from ordinary flow, making random Attunement less likely without eliminating it. Accumulated internal permutation is therefore one source of [[05 Mana Constructs#Structural Decay and Maintenance|structural decay]]. Declared components then use this constrained mana to encode and stabilise construct behaviour.
 
 Primed mana also carries information within constructs. Primed packets travel along constrained Primed strands as constants, inputs, control signals, references, retained state, and outputs. The packet or strand does not itself perform an attributed operation; it preserves and transmits the declared information by virtue of its configuration and route.
 
@@ -91,7 +91,7 @@ Mana particles may drift under concentration gradients, mana-field curvature, gr
 
 Mana structures can thus be launched by the ordinary repulsion produced by a controlled concentration of Primed mana. Such a burst does not expend Primed mana as an attributed operation; it applies the same repellent interaction already present between mana particles.
 
-A construct may instead be attached to moving anchor, be carried by an environmental current, steer by ejecting Primed mana, or travel through a bounded region altered by Dimensional operation. An attributed operation may move a physical carrier or anchor, but cannot act upon the construct itself. Acceleration, turbulence, abrupt local force changes, and structural interference can deform or fracture its scaffold.
+A construct may instead be attached to a moving material anchor, be carried by an environmental current, steer by ejecting Primed mana, or travel through a bounded region altered by Dimensional operation. An attributed operation may move a physical carrier or anchor, but cannot act upon the construct itself. Acceleration, turbulence, abrupt local force changes, and structural interference can deform or fracture its scaffold.
 
 Mana interaction is local. Particles and structures must overlap or enter a shared interaction region, while matter couples locally through an applicable material affinity; physical contact is neither necessary nor sufficient. A paired Resonant arrangement improves selective transmission between prepared endpoints, but the encoded disturbance still crosses the intervening mana field at finite speed and remains subject to attenuation and interference. Dense free mana ordinarily produces diffuse force gradients and interference, while an organised mana structure produces much stronger topological interference when its geometry overlaps another structure.
 

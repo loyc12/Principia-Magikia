@@ -22,7 +22,7 @@ Formation proceeds through cumulative interaction :
 1. neural activity produces complex and recurrent electrical, chemical, and structural patterns
 2. material conditions in and around the nervous system influence nearby mana interaction, as described in [[13 Material Affinities|Material Affinities]]
 3. repeated activity creates and reshapes local coherence wells around neural pathways, allowing Primed mana to nucleate into short-lived microstructures
-4. continued activity renews, deforms, and replaces those microstructures faster than they decay
+4. continued activity renews, deforms, and replaces microstructures lost through ordinary disruption or rare permutation faster than they decay
 5. the resulting structure gradually extends through the organism and develops a stable individual signature
 
 A soul-form is not consciously designed, nor does it necessarily resemble a deliberately constructed scaffold. It is an **autogenic somatic mana structure** whose organisation emerges from sustained neurological activity rather than formulaic declaration. Its constituent Primed mana microstructures form a non-equilibrium ecology: they are continually nucleated, grown, deformed, and dissolved by local electrochemical activity rather than fixed permanently in one scaffold.
@@ -503,7 +503,7 @@ Possible consequences include :
 - phantom sensations
 - altered animic signature
 - unstable subject boundaries
-- susceptibility to foreign anchoring
+- susceptibility to unwanted foreign mana attachment
 - partial dissociation between body and soul-form
 - persistent leakage or turbulence
 - various other soullessness symptoms

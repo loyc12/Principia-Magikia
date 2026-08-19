@@ -7,7 +7,9 @@ This is an Obsidian-based hard-fantasy worldbuilding and writing project. It con
 Help develop, organise, cross-reference, and audit the setting without silently changing its canon. Prefer the current topical reference documents for reader-facing material.
 Surface contradictions, uncertain implications, and consequential choices instead of resolving them by silently inventing or modifying concepts.
 
-When changing a foundational concept, trace its direct and likely second- or third-order consequences through the affected references. Remove, revise, or explicitly defer concepts that depended on superseded assumptions; do not leave dangling terminology or obsolete mechanics. `VALIDATE` flags are author-maintained prompts, not automatic instructions to remove content, but treat them as cues for extra consistency review when related concepts change. Keep this audit proportionate to the change rather than scanning unrelated documentation.
+When changing a foundational concept, trace its direct and likely second- or third-order consequences through the affected references. Remove, revise, or explicitly defer concepts that depended on superseded assumptions; do not leave dangling terminology or obsolete mechanics.
+
+`VALIDATE` flags are author-maintained prompts, not automatic instructions to remove content, but treat them as cues for extra consistency review when related concepts change. Keep this audit proportionate to the scale of the changes at hand rather than doing deep scans of unrelated documentation every time.
 
 ## Hard rules
 
