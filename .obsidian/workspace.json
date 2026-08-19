@@ -4,8 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "3ed03ab613f2b6ac",
+        "id": "6db73b5cd0bdf544",
         "type": "tabs",
+        "dimension": 56.307550644567215,
+        "children": [
+          {
+            "id": "47222636695ca2a3",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "04 Narrative/KB Characters.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "KB Characters"
+            }
+          }
+        ]
+      },
+      {
+        "id": "0e75d3b61da78f68",
+        "type": "tabs",
+        "dimension": 43.692449355432785,
         "children": [
           {
             "id": "97e72b7fcdfe898d",
@@ -13,12 +42,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 World/Cosmology/The Surface.md",
+                "file": "04 Narrative/Arcs/Protag.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Surface"
+              "title": "Protag"
             }
           }
         ]
@@ -193,19 +222,27 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-kanban:Create new board": false
     }
   },
-  "active": "97e72b7fcdfe898d",
+  "active": "47222636695ca2a3",
   "lastOpenFiles": [
+    "04 Narrative/Arcs/Protag.md",
+    "04 Narrative/Characters/Protag.md",
+    "04 Narrative/Title Ideas.md",
+    "04 Narrative/General Ideas.md",
+    "04 Narrative/KB Characters.md",
+    "04 Narrative/KB Story Beats.md",
+    "04 Narrative/Characters/Archetypes.md",
+    "04 Narrative/Characters/Philosophies.md",
+    "04 Narrative/Arcs/Global.md",
+    "04 Narrative/Arcs/Golem.md",
+    "02 World/Cosmology/The Surface.md",
     "01 Magic system/01 Key Concepts/13 Material Affinities.md",
     "01 Magic system/01 Key Concepts/02 Mana Dynamics.md",
     "01 Magic system/01 Key Concepts/12 Attribute Theory.md",
     "01 Magic system/01 Key Concepts/09 Casting Practices.md",
-    "04 Narrative/Arcs/Protag.md",
-    "04 Narrative/Characters/Archetypes.md",
-    "04 Narrative/General Ideas.md",
-    "04 Narrative/Title Ideas.md",
     "03 Society/Science/Philosophy.md",
     "03 Society/Science/Knowledge Systems.md",
     "03 Society/Politics/Magocracies.md",
@@ -217,13 +254,6 @@
     "03 Society/Culture/Languages.md",
     "03 Society/Culture/Ideas.md",
     "02 World/Sapiens/Ideas.md",
-    "02 World/Cosmology/Ideas.md",
-    "02 World/Cosmology/Labyrinths.md",
-    "00 Core/03 Premise.md",
-    "00 Core/08 Worldbuilding.md",
-    "04 Narrative/Locations/The Village.md",
-    "04 Narrative/Locations/The Great Archives.md",
-    "04 Narrative/Locations/The Forest.md",
     "04 Narrative/Locations",
     "02 World/Cosmology",
     "01 Magic system/01 Key Concepts",
