@@ -1,4 +1,4 @@
-# Songs of Sonder
+# Principia Magikia Project
 
 This is an Obsidian-based hard-fantasy worldbuilding and writing project. It contains setting notes, narrative planning, and in-universe-like reference documents, notably the deterministic magic system, which we treat as a natural science.
 
@@ -14,7 +14,7 @@ When changing a foundational concept, trace its direct and likely second- or thi
 ## Hard rules
 
 - Do not alter or mention the `.obsidian` workspace state folder : simply ignore it and its content.
-- Use canadian spelling, especially when editing documentation.
+- Use Canadian spelling, especially when editing documentation.
 
 ## Documentation Style
 

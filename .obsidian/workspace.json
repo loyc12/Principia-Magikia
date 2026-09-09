@@ -4,37 +4,8 @@
     "type": "split",
     "children": [
       {
-        "id": "6db73b5cd0bdf544",
-        "type": "tabs",
-        "dimension": 56.307550644567215,
-        "children": [
-          {
-            "id": "47222636695ca2a3",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "04 Narrative/KB Characters.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
-              },
-              "icon": "lucide-trello",
-              "title": "KB Characters"
-            }
-          }
-        ]
-      },
-      {
         "id": "0e75d3b61da78f68",
         "type": "tabs",
-        "dimension": 43.692449355432785,
         "children": [
           {
             "id": "97e72b7fcdfe898d",
@@ -42,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 Narrative/Arcs/Protag.md",
+                "file": "AGENT.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Protag"
+              "title": "AGENT"
             }
           }
         ]
@@ -226,13 +197,13 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "47222636695ca2a3",
+  "active": "97e72b7fcdfe898d",
   "lastOpenFiles": [
-    "04 Narrative/Arcs/Protag.md",
-    "04 Narrative/Characters/Protag.md",
     "04 Narrative/Title Ideas.md",
-    "04 Narrative/General Ideas.md",
+    "04 Narrative/Arcs/Protag.md",
     "04 Narrative/KB Characters.md",
+    "04 Narrative/Characters/Protag.md",
+    "04 Narrative/General Ideas.md",
     "04 Narrative/KB Story Beats.md",
     "04 Narrative/Characters/Archetypes.md",
     "04 Narrative/Characters/Philosophies.md",
