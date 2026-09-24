@@ -6,6 +6,8 @@
 
 A modern programmer or engineer is stranded in a world where magic is a deterministic natural phenomenon. The project explores reliable knowledge, collaboration, and belonging through the consequences of that premise.
 
+**Resume work:** [[99 Workshop/00 Current Work Context|Current Work Context]] records planned next steps and why, loose ends, and paused threads.
+
 ## Find What You Need
 
 | Question | Start here |
@@ -30,7 +32,6 @@ For a first read: **Premise → Axioms → Magic System Guide → The Expanse �
 - [[Documentation Conventions|Documentation Conventions]]: ownership, status, links, and maintenance.
 - [[Writing Style|Writing Style]]: Canadian English and the local scholarly reference voice.
 - [[99 Workshop/01 Development Method and Order|Development Method and Order]]: knowledge layers and proportionate development.
-- [[99 Workshop/00 Revision Priorities|Revision Priorities]]: existing open questions and deferrals.
 - [[10 Magic System/Magic-System Development Questions|Magic-System Development Questions]]: deferred, unadopted proposals.
 - [[80 Narrative/Planning Boards/KB Characters|Character board]] and [[80 Narrative/Planning Boards/KB Story Beats|story-beat board]]: optional planning tools.
 

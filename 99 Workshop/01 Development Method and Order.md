@@ -30,7 +30,7 @@ Keep the distinction between a general institution and a particular local exampl
 2. Identify physical, material, social, and institutional consequences relevant to that question.
 3. Test those consequences against [[00 Core/02 Axioms|Axioms]], [[00 Core/01 Premise|Premise]], and the current topical references.
 4. Record answers in their owners. Keep open questions and `VALIDATE` prompts visible, and preserve explicit deferrals.
-5. Update [[99 Workshop/00 Revision Priorities|Revision Priorities]] when the work order changes. Reorganization alone does not approve an answer.
+5. Update [[99 Workshop/00 Current Work Context|Current Work Context]] when work order, next steps, or loose ends change, and before pausing a thread. Reorganization alone does not approve an answer.
 
 ## Recommended Build Order
 
