@@ -8,15 +8,15 @@ Magic-system refoundation precedes further story development. [[Documentation Co
 
 ## Open Threads
 
-### Mago-Physical Implementation of the New Model
+### Archive the Previous Magic System
 
-**Resume from:** [[99 Workshop/Magic-System Brainstorms/Noosphere, Souls, and Minds|Noosphere, Souls, and Minds]] owns the conceptual model, constraints, optional lenses, and unresolved implementation questions. Souls require a cognitive substrate; their galvanic coupling should disrupt naive Earth-style digital computers.
+**Resume from:** [[99 Workshop/Magic-System Brainstorms/Mana and Conceptual Foundations|Mana and Conceptual Foundations]] records the selected mana foundation and deferrals; [[99 Workshop/Magic-System Brainstorms/Souls, Minds, and Conceptual Magic|Souls, Minds, and Conceptual Magic]] owns personal webs and casting. Brainstorm recording is complete. [[99 Workshop/Magic-System Revision#Implementation Sequence|Magic-System Revision]] owns the transition plan.
 
-**Next step and why:** discuss implementation choices for the underlying mago-physics, using that model to assess mana's role, soul formation and coupling, supported cognition, costs, and access limits before selecting replacement first principles. [[99 Workshop/Magic-System Revision|Magic-System Revision]] now owns integration across the topical brainstorms and the implementation sequence.
+**Next task and why:** archive the entire old magic system intact, including its internal references, approval labels, and review prompts. Establish its destination and active navigation during archival so the replacement can be written without mistaking old rules for current decisions.
 
-**After brainstorming:** follow the worksheet's terminology-copying, archival, and reconstruction sequence.
+**During archival:** keep non-magic-system documents in place. Give affected author-facing notes a header warning and redirect links to archived owners without broadly rewriting their content. Report corpus references for the author to handle. Selected non-magic files may be archived or rewritten later at the author's direction.
 
-**Where things stand:** the brainstorming is stored; no replacement mechanics have been adopted into setting references. Terminology extraction and archival remain pending. Optional magical cognitive substrates can stay undeveloped for now.
+**After archival:** write the replacement from the current foundations, isolating useful terminology as writing proceeds. Mana-forms, soul-forms, spell-forms, mana field, mana particles, and attunement are obvious working terms; suggest further terms for author approval. Review old mechanics when relevant, without automatic migration. Delete archived files only after their content has been discarded or integrated, as a later cleanup task.
 
 ## Later and Parked
 
@@ -26,4 +26,7 @@ Magic-system refoundation precedes further story development. [[Documentation Co
 
 ## Explicit Deferrals
 
-[[10 Magic System/Magic-System Development Questions|Magic-System Development Questions]] retains unadopted proposals about lightning-born coherence, chirality and keys, quantitative treatment, scaffold form and function, and hand motions. Preserve their development deferral and approval requirement through archival; recording the new model does not select these proposals.
+- [[99 Workshop/Magic-System Brainstorms/Mana and Conceptual Foundations|Mana and Conceptual Foundations]] owns unresolved particle interactions, attunement, the detailed cycle, static and dynamic assemblies, and the separate possible Singularity entity
+- Conceptual execution, access, copied context, upkeep, and propagation remain open; [[99 Workshop/Magic-System Brainstorms/Souls, Minds, and Conceptual Magic|the conceptual working note]] retains autonomous pseudo-minds without establishing true consciousness or selecting a magical cognitive substrate
+- The remaining universal-noosphere package is discarded from active development; [[99 Workshop/Magic-System Brainstorms/Earlier Magic-System Proposals#Discarded Noosphere Package|the historical note]] retains its provenance
+- [[10 Magic System/Magic-System Development Questions|Magic-System Development Questions]] retains its unadopted proposals and approval requirement through archival
