@@ -24,7 +24,7 @@ The relationship is asymmetrical. Nervous activity shapes mana relatively quickl
 Formation proceeds through cumulative interaction:
 
 1. neural activity produces complex and recurrent electrical, chemical, and structural patterns
-2. material conditions in and around the nervous system influence nearby mana interaction, as described in [[13 Material Affinities|Material Affinities]]
+2. material conditions in and around the nervous system influence nearby mana interaction, as described in [[99 Workshop/Previous Magic System/01 Key Concepts/13 Material Affinities|Material Affinities]]
 3. repeated activity creates and reshapes local coherence wells around neural pathways, allowing Primed mana to nucleate into short-lived microstructures
 4. continued activity renews, deforms, and replaces microstructures lost through ordinary disruption or rare permutation faster than they decay
 5. the resulting structure gradually extends through the organism and develops a stable individual signature
@@ -148,7 +148,7 @@ More sophisticated effects require either direct expenditure of Attuned mana or 
 Soul-forms differ greatly in sensitivity, range, precision, and coupling strength. These differences may arise from physiology, development, exposure, injury, or training.
 
 
-The detailed use of soul-forms for conscious manipulation belongs to [[04 Somaturgy|Somaturgy]] and [[08 Mana Casting|Casting Theory]].
+The detailed use of soul-forms for conscious manipulation belongs to [[99 Workshop/Previous Magic System/01 Key Concepts/04 Somaturgy|Somaturgy]] and [[99 Workshop/Previous Magic System/01 Key Concepts/08 Mana Casting|Casting Theory]].
 
 ## Animic Resistance
 
@@ -209,7 +209,7 @@ Animic resistance makes living organisms poor targets for crude or unstructured 
 
 Structured spells may overcome this resistance through greater throughput, prolonged exposure, precise physical interfaces, prepared Resonant familiarity, exploitation of weak boundaries, cooperation, or specialized countermeasures. Resistance is nevertheless a general protection rather than an absolute prohibition.
 
-The threshold behaviour of living subjects, practical attack limitations, and the limits of magical medicine belong to **[[06 Spell Subjects|Spell Subjects]]**.
+The threshold behaviour of living subjects, practical attack limitations, and the limits of magical medicine belong to **[[99 Workshop/Previous Magic System/01 Key Concepts/06 Spell Subjects|Spell Subjects]]**.
 
 
 **Animic Medicine** is the study of soul-form health, injury, resistance, and its role in medical practice.

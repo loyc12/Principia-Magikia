@@ -23,6 +23,8 @@ A modern programmer or engineer is stranded in a world where magic is a determin
 | Who is the protagonist, and what is the story's direction? | [[80 Narrative/Characters/Protagonist\|Protagonist]], [[80 Narrative/Arcs/Protagonist Arc\|Protagonist Arc]], and [[80 Narrative/Arcs/Global Story Arc\|Global story structure]] |
 | What is planned for the first local encounter? | [[80 Narrative/Locations/The Village\|The Village]] |
 
+The magic system is undergoing refoundation. The active guide routes to ordered topical stubs carrying the selected brainstorm foundations and open questions; [[99 Workshop/Previous Magic System Archive|the previous system]] is archived. Detailed replacement documentation remains to be developed from those in-file notes.
+
 For a first read: **Premise → Axioms → Magic System Guide → The Expanse → The Village**.
 
 **Current foundation** records continuity with existing references. It does not approve every candidate detail. Narrative directions remain revisable, and questions or `VALIDATE` prompts remain unresolved.
@@ -32,7 +34,7 @@ For a first read: **Premise → Axioms → Magic System Guide → The Expanse �
 - [[Documentation Conventions|Documentation Conventions]]: ownership, status, links, and maintenance.
 - [[Writing Style|Writing Style]]: Canadian English and the local scholarly reference voice.
 - [[99 Workshop/01 Development Method and Order|Development Method and Order]]: knowledge layers and proportionate development.
-- [[10 Magic System/Magic-System Development Questions|Magic-System Development Questions]]: deferred, unadopted proposals.
+- [[99 Workshop/Previous Magic System/Magic-System Development Questions|Previous Magic-System Development Questions]]: archived, deferred proposals requiring reassessment and approval
 - [[80 Narrative/Planning Boards/KB Characters|Character board]] and [[80 Narrative/Planning Boards/KB Story Beats|story-beat board]]: optional planning tools.
 
 Author-facing planning belongs in `80 Narrative`. User-written prose and creative fragments belong in `90 Corpus` and must not be edited by agents. `97 Assets` holds attachments. `98 Temp` holds incidental notes and must not be used for valuable work.

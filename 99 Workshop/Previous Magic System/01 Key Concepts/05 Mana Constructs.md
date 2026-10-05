@@ -4,7 +4,7 @@
 
 **Status: Current foundation**
 
-Mana constructs are the building blocks of [[07 Spell Composition|structured spells]]. They contain and direct mana, constrain its attributed operations, and allow those operations to respond to predefined conditions, enabling conditional or self-regulating behaviour.
+Mana constructs are the building blocks of [[99 Workshop/Previous Magic System/01 Key Concepts/07 Spell Composition|structured spells]]. They contain and direct mana, constrain its attributed operations, and allow those operations to respond to predefined conditions, enabling conditional or self-regulating behaviour.
 
 Attuned mana may also be expended without a mana construct through **Unstructured Casting**. Constructs are therefore not required for an attribute to perform its primitive operation, but are required to make that operation precisely selected, bounded, directed, regulated, conditional, composable, repeatable, or safely automated.
 
@@ -26,7 +26,7 @@ Below is a more detailed breakdown of each phase:
 
 ## Construction
 
-A mana construct requires a **construct scaffold**: a bounded arrangement of Primed-mana coherence wells formed and maintained through **mana shaping**. A scaffold is an organized coherence arrangement rather than an insulating shell or physical container. Its boundaries can later distinguish declared flows, state, and interference domains without excluding co-located mana or matter. [[02 Mana Dynamics#Permeability, Momentum, and Local Conditions|Mana Dynamics]] defines the underlying permeability, positional coherence, and restoring interactions.
+A mana construct requires a **construct scaffold**: a bounded arrangement of Primed-mana coherence wells formed and maintained through **mana shaping**. A scaffold is an organized coherence arrangement rather than an insulating shell or physical container. Its boundaries can later distinguish declared flows, state, and interference domains without excluding co-located mana or matter. [[99 Workshop/Previous Magic System/01 Key Concepts/02 Mana Dynamics#Permeability, Momentum, and Local Conditions|Mana Dynamics]] defines the underlying permeability, positional coherence, and restoring interactions.
 
 ### Formation Conditions
 
@@ -58,7 +58,7 @@ Constructs may be coupled or share a material anchor, but one construct does not
 
 **Scaffold Engineering** is the study of scaffold form, geometric stability, material anchorage, maintenance, and methods of shaping Primed mana into functional structures.
 
-**Construct Materiology** is the study of how construct design applies the mana-material interactions defined in [[13 Material Affinities|Material Affinities]].
+**Construct Materiology** is the study of how construct design applies the mana-material interactions defined in [[99 Workshop/Previous Magic System/01 Key Concepts/13 Material Affinities|Material Affinities]].
 
 ## Structural Decay and Maintenance
 

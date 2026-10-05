@@ -1,99 +1,37 @@
-# Principles of Magic
+# Core Principles
 
-**Type: Setting reference**
+**Type: Development stub**
 
-**Status: Current foundation**
+**Status: Exploring**
 
-The following principles describe the broad constraints under which all known magical phenomena operate. They are not a complete mechanical account. Detailed behaviour belongs to the topical references, especially [[02 Mana Dynamics|Mana Dynamics]], [[06 Spell Subjects|Spell Subjects]], and [[05 Mana Constructs|Mana Constructs]]. [[10 Mana Physics|Mana Physics]] provides an optional quantitative appendix.
+**Scope: Shared design constraints and working vocabulary**
 
-## Principle I - Combined Conservation
+**Approval: Retains the source brainstorm’s selection scope; tentative ideas and open questions are not adopted mechanics**
 
-Mana particles are neither created nor destroyed through any known magical process. All magical phenomena arise from the movement, permutation, containment, or release of preexisting mana.
+**Development: Notes for terminology selection and later detailed documentation**
 
-Mana has field inertia rather than ordinary rest mass and occupies no hard, exclusive volume. Its detailed permeability, momentum, and material coupling are defined in [[02 Mana Dynamics|Mana Dynamics]].
+## Retained Constraints and Direction
 
-Bound **potentia**, free mana-field potential, and physical energy may move within the combined system, but are not known to disappear. Downhill permutation releases a potentia difference as an attributed operation or a disruption of the surrounding mana field. An operation may add potentia-equivalent energy to a physical system or remove it, in which case the removed amount joins the accompanying field disruption. The only established means by which a Spent particle regains full Primed potentia is Priming at the Singularity.
+Magic is deterministic and time travel is prohibited by [[00 Core/02 Axioms|Axioms]].
 
-Ordinary matter and energy therefore need not conserve energy when considered in isolation. Conservation applies to the combined physical and mana system.
+High hardness should coexist with, or be secondary to, a powerful system whose mastery supports recognizably magical casting, mind magic, and imperfect survival beyond bodily death. Magic remains compositional: practitioners assemble learned or understood instructions, with inputs, control, and possible autonomous execution. Concepts identify traits, relations, timing, thresholds, and specified operation chains. They do not invent missing solutions or make a desired outcome executable by itself.
 
-## Principle II - Permutational Direction
+The Arrival-induced renaissance should centre on interoperability, standardized methods, and open sharing. Personal understanding, experience, and specialized tools still distinguish exceptional practitioners. Equipped one-mage armies are allowed in principle, bounded by knowledge, resources, and tools rather than becoming godlike. This supersedes the earlier prohibition. The previous mana-particle architecture is a source of possibilities, not a mandatory foundation for the replacement.
 
-Mana may perform attributed operations only after undergoing the appropriate permutation. Primed mana occupies the highest known potentia state, each Attuned attribute occupies a discrete lower potentia level, and Spent mana occupies the lowest.
+Particle conservation is retained. The old energy-conservation requirement is not retained for now; this does not select a mechanism for generating energy or replenishing mana.
 
-Primed mana provides undifferentiated potentia, Attuned mana provides differentiated operational potentia, and Spent mana provides none. Ordinary permutation proceeds downhill from Primed to an Attuned attribute, between compatible higher- and lower-potentia attributes, or from an Attuned attribute to Spent. Priming alone proceeds uphill, and all observed Priming occurs around the central [[01 World/Cosmology/The Singularity|Singularity]].
+## Documentation Boundary
 
-Attuned mana may also decay passively into a lower-potentia attribute or Spent mana. This **Detuning** is the loss of the particle's original differentiation, not a return towards Primed mana and not a substitute for Priming.
+The previous system remains in [[99 Workshop/Previous Magic System Archive|the complete archive]]. Consult old mechanics case by case when their subjects arise. Compatibility does not authorize migration. The discarded universal-noosphere package is retained only as [[99 Workshop/Magic-System Brainstorms/Earlier Magic-System Proposals#Discarded Noosphere Package|historical provenance]].
 
-No construct can directly extract an attributed operation from Primed or Spent mana without first producing or sourcing the corresponding Attuned mana.
+The new particle and mana-form foundation does not inherit the old declensions, detailed construct architecture, or a particular computational substrate. Earlier package rankings and prohibitions are not binding answers.
 
-## Principle III - Primitive Operations
+Detailed recharge, permutation, field interactions, propagation, remote access, material affinities, engineering architecture, and application rules remain deferred rather than silently inherited. No exhaustive keep-or-remove questionnaire is required before developing a narrow topic.
 
-Each mana attribute authorizes only a bounded class of primitive operations upon reality.
+## Terminology Notes
 
-Attributes do not encode macroscopic intentions such as _burn_, _heal_, _protect_, or _destroy_. They instead permit operations upon momentum, photons, electric charge, material continuity, relational coupling, declared physical patterns, or bounded dimensional relations.
+Conceptual web, conceptual chain, unstructured casting, structured casting, mana-form, soul-form, and spell-form are working terms. Terminology will be isolated as the replacement is written, with additional suggestions submitted for author approval. The relationships among soul, form, shape, pattern, formula, structure, construct, and related vocabulary remain to be clarified where relevant. The present hyphenation follows local usage without settling that review. The old system is preserved in [[99 Workshop/Previous Magic System Archive|the complete archive]]. Keep terminology changes in the replacement rather than propagating them into archived references. No wholesale terminology copying from the old system is planned.
 
-An attributed operation may act only upon matter, non-mana energy fields, or bounded regions and relationships of space-time. Mana particles, mana structures, soul-forms, and the mana field interact through intrinsic mana physics, but are not themselves subjects of attributed operation.
+## Provenance
 
-All complex magical results must ultimately be reducible to one or more such primitive operations and their natural consequences.
-
-## Principle IV - Subject Specificity
-
-Every attributed operation must act upon an identified and bounded subject. A subject may be resolved explicitly or through a declared local relation, such as matter overlapping a construct's coupling region or crossing its boundary. For Dimensional mana, the subject is a bounded region of space-time, which may or may not contain matter.
-
-A structured spell identifies its subject through selection, bounding, local coupling, and reference resolution. Where a construct must follow an object or site, material anchorage or active somatic maintenance may supply its positional reference. Unstructured Casting identifies its subject through direct local coupling. A subject is a **target** when a casting selects or aims at it. Neither method can directly operate upon an undefined target or freely extend beyond its operative region. All other affected systems belong to the surrounding environment. A **reagent** is the narrower case in which a spell deliberately relies upon the material profile of its subject or a bounded component of it.
-
-## Principle V - Composability
-
-Complex magical phenomena arise through the sequential, concurrent, conditional, or recurrent composition of simpler attributed operations.
-
-Construct components may be composed within a scaffold, mana constructs may be composed into spell assemblies, and spell assemblies may interact through declared interfaces. Such composition remains valid only where mana types, parameters, references, throughput, and control relationships are compatible.
-
-## Principle VI - Natural Propagation
-
-Mana directly performs only the primitive operations permitted by its attribute and, where a construct is used, constrained by its declaration.
-
-All unconstrained subsequent effects arise through the ordinary physical, biological, or dimensional behaviour of the affected subject and its environment. A casting may increase temperature, sever continuity, redistribute charge, or establish a dimensional gradient, but combustion, collapse, injury, motion, and other consequences propagate naturally unless separately regulated.
-
-No magical influence acts across an empty separation merely because a caster or construct refers to a distant result. Mana, matter, a continuous construct, or a propagating disturbance must cross or occupy the intervening region. Apparent action at a distance is therefore always mediated by an identifiable physical or mana-field mechanism. Resonant transmission is no exception: its disturbance propagates through the mana field at finite speed between locally coupled endpoints.
-
-## Principle VII - Declarative Constraint
-
-A construct can enact only behaviour represented by its declaration and permitted by its available components, attributes, interfaces, subject bindings, and any required reagent profiles.
-
-Intent may select among declared possibilities or provide admissible parameters, but it cannot substitute for missing spell logic. A caster cannot command a construct to achieve an unspecified desired outcome.
-
-## Principle VIII - Operational Cost
-
-No attributed operation, control process, or sustained magical state is without cost.
-
-Greater magnitude, speed, range, duration, precision, adaptability, and fault tolerance generally require greater mana throughput, more complex scaffolds, additional components, or increased supervision. Sustaining states that ordinary reality would undo requires continued Expenditure or a persistent structural change.
-
-## Principle IX - Statistical Permutation
-
-Attunement is a stochastic process. Random fluctuations continually carry Primed mana towards possible differentiation, while suitable mana concentrations, material affinities, and imposed confinement allow some fluctuations to persist long enough to cross an activation barrier and contribute to a self-sustaining seed.
-
-An attempted downhill permutation either reaches its intended lower-potentia type or quenches directly into Spent mana. The latter particle is commonly called **Waste mana**. Both outcomes discharge the unretained potentia into the mana field. Their probabilities depend upon the transition, local mana composition, material conditions, rate, confinement, and purity of the input mana.
-
-## Principle X - Informational Limitation
-
-Constructs cannot select, sense, process, or regulate properties that are unavailable through their declared interfaces and observational means.
-
-Information must be encoded, transmitted, inspected, or retained through physical structure, Primed-mana packets, component state, paired Resonant transmission, Signetic storage, or another defined mechanism. Information and control are therefore limited resources rather than implicit properties of spellcraft.
-
-## Principle XI - Structural Realization
-
-Every functioning spell, but not every magical effect, must be realized through one or more mana constructs, whether deliberately shaped, reflexively reconstructed, biologically generated, materially anchored to a physical setting, somatically maintained, or released to float freely. The concrete executable mana organization of a spell is its **spell-form**. It may consist of one construct or a wider spell assembly. Unstructured Casting directly expends Attuned mana without a spell-form.
-
-Glyphs and formulas represent spell logic but do not themselves perform magic. A spell begins only once that logic is instantiated within an executable construct or assembly.
-
-## Principle XII - Fallibility
-
-A structurally valid spell is not necessarily safe, useful, or semantically correct.
-
-Constructs may fail through malformed scaffolds, incompatible interfaces, environmental interference, unstable feedback, inadequate termination behaviour, or incorrect assumptions about their subjects or reagent profiles. A spell may also execute exactly as declared while producing a result its designer did not intend.
-
-## Principle XIII - Organizational Distinction
-
-A [[03 Soul-Forms|soul-form]] is a self-organizing mana structure produced around a qualifying physical neurological substrate. It can provide a mana interface, a persistent boundary, and resistance to foreign operation, but recurrent construct logic alone cannot produce one. It is not consciousness, personality, memory, or the source of subjective experience.
-
-Consequently, neither a living organism nor an artificial system becomes conscious merely by possessing a soul-form. Those properties depend upon the organization and activity of its physical substrate, while the soul-form remains its responsive magical correlate.
+Reorganized from [[99 Workshop/Magic-System Brainstorms/Souls, Minds, and Conceptual Magic|Souls, Minds, and Conceptual Magic]]. This file now owns the detailed working notes for its subject. Placement under `10 Magic System` does not establish completed replacement canon.

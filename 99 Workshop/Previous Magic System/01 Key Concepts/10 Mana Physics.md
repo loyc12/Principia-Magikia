@@ -4,7 +4,7 @@
 
 **Status: Current foundation**
 
-> This appendix provides a quantitative model of the behaviour described in [[02 Mana Dynamics|Mana Dynamics]]. Its constants are attribute-, material-, and condition-specific; it defines their relationships without assigning fixed values.
+> This appendix provides a quantitative model of the behaviour described in [[99 Workshop/Previous Magic System/01 Key Concepts/02 Mana Dynamics|Mana Dynamics]]. Its constants are attribute-, material-, and condition-specific; it defines their relationships without assigning fixed values.
 
 ## Scope and State Model
 
@@ -306,7 +306,7 @@ K_pair(t) = K_pair(0) * exp(-lambda_R t)    when M_R = 0
 
 ## Material and Condition Parameters
 
-The classifications, mechanisms, and individual profiles of material interaction are defined in [[13 Material Affinities|Material Affinities]]. In this model, the documented seed-supporting or selective properties of a material are represented by `M_a` and `m_a`. A documented decaying effect is represented by `d_a`.
+The classifications, mechanisms, and individual profiles of material interaction are defined in [[99 Workshop/Previous Magic System/01 Key Concepts/13 Material Affinities|Material Affinities]]. In this model, the documented seed-supporting or selective properties of a material are represented by `M_a` and `m_a`. A documented decaying effect is represented by `d_a`.
 
 Containment geometry, flow, pressure, temperature, nearby mana composition, and active regulation may behave like material conditions in this model. Their effects are represented by changes to the same constants rather than by additional mana states.
 
@@ -326,4 +326,4 @@ The modes describe how favourable fluctuations are cultivated, not different for
 
 ## Use of the Model
 
-The model can be used to compare candidate materials, describe natural attunement sites, design reservoirs and Attuners, or explain why a conversion fails. It does not by itself specify a spell, a reagent interaction, or an attributed operation. Those matters remain governed by [[05 Mana Constructs|Mana Constructs]], [[06 Spell Subjects|Spell Subjects]], and [[08 Mana Casting|Mana Casting]].
+The model can be used to compare candidate materials, describe natural attunement sites, design reservoirs and Attuners, or explain why a conversion fails. It does not by itself specify a spell, a reagent interaction, or an attributed operation. Those matters remain governed by [[99 Workshop/Previous Magic System/01 Key Concepts/05 Mana Constructs|Mana Constructs]], [[99 Workshop/Previous Magic System/01 Key Concepts/06 Spell Subjects|Spell Subjects]], and [[99 Workshop/Previous Magic System/01 Key Concepts/08 Mana Casting|Mana Casting]].

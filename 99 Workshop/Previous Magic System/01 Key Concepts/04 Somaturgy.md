@@ -4,9 +4,9 @@
 
 **Status: Current foundation**
 
-**Somaturgy** is the study and practice of manipulating mana through the living body and its [[03 Soul-Forms|soul-form]]. It encompasses the perception, attraction, repulsion, channelling, shaping, and stabilization of mana through deliberate physiological and cognitive activity. In this context, **shaping** specifically means forming or altering a Primed-mana construct scaffold. The broader activity is [[08 Mana Casting|mana casting]].
+**Somaturgy** is the study and practice of manipulating mana through the living body and its [[99 Workshop/Previous Magic System/01 Key Concepts/03 Soul-Forms|soul-form]]. It encompasses the perception, attraction, repulsion, channelling, shaping, and stabilization of mana through deliberate physiological and cognitive activity. In this context, **shaping** specifically means forming or altering a Primed-mana construct scaffold. The broader activity is [[99 Workshop/Previous Magic System/01 Key Concepts/08 Mana Casting|mana casting]].
 
-Somaturgy provides the fundamental interface through which living operators create and displace [[05 Mana Constructs|mana constructs]], direct mana into instruments, and supply parameters during spellcasting.
+Somaturgy provides the fundamental interface through which living operators create and displace [[99 Workshop/Previous Magic System/01 Key Concepts/05 Mana Constructs|mana constructs]], direct mana into instruments, and supply parameters during spellcasting.
 
 ## Volitional Mana Coupling
 
@@ -84,7 +84,7 @@ More advanced techniques arise from the simultaneous or sequential combination o
 
 Somaturgy supplies the learned bodily technique for **Unstructured Casting**: a soul-form gathers and condenses already Attuned mana against a nearby subject. This is distinct from mana shaping, which arranges Primed mana into a scaffold that will later receive declared logic. Some wild organisms achieve an equivalent fixed direct-control routine through specialized anatomy rather than learned Somaturgy.
 
-The phrase **unstructured shaping** is sometimes used informally for direct mana manipulation. It is imprecise: direct, construct-free Expenditure is **Unstructured Casting**, because no stable construct scaffold is formed. The attributes, practical operations, and full limits of Unstructured Casting belong to [[08 Mana Casting|Mana Casting]].
+The phrase **unstructured shaping** is sometimes used informally for direct mana manipulation. It is imprecise: direct, construct-free Expenditure is **Unstructured Casting**, because no stable construct scaffold is formed. The attributes, practical operations, and full limits of Unstructured Casting belong to [[99 Workshop/Previous Magic System/01 Key Concepts/08 Mana Casting|Mana Casting]].
 
 ## Declaration Through Somatic Control
 
@@ -143,7 +143,7 @@ Excessive use may cause tremors, sensory distortion, loss of fine control, invol
 
 ## Training
 
-Somaturgy provides the bodily technique underlying perception, direct mana manipulation, Unstructured Attunement, Unstructured Casting, and the shaping of construct scaffolds. These skills are normally developed through staged curriculums and **mana casting exercises** described in [[11 Magical Training|Magical Training]]. Gestures, postures, breathing patterns, spoken sequences, and physical focuses remain common somaturgic training aids because they make routines easier to reproduce.
+Somaturgy provides the bodily technique underlying perception, direct mana manipulation, Unstructured Attunement, Unstructured Casting, and the shaping of construct scaffolds. These skills are normally developed through staged curriculums and **mana casting exercises** described in [[99 Workshop/Previous Magic System/01 Key Concepts/11 Magical Training|Magical Training]]. Gestures, postures, breathing patterns, spoken sequences, and physical focuses remain common somaturgic training aids because they make routines easier to reproduce.
 
 ## Somatic Interfaces
 

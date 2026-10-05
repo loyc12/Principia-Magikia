@@ -4,6 +4,10 @@
 
 **Status: Current foundation**
 
+**Development: Magic-system dependencies awaiting reassessment**
+
+The detailed Priming and field-potential account relies on the previous magic system. The replacement retains the broad mana cycle, while recharge and the relationship to illumination remain unresolved. See [[10 Magic System/00 Magic System Guide|the active development guide]] for the selected foundations.
+
 The **Singularity** is the luminous body at the centre of [[The Expanse]]. It provides the world with illumination and is the only known site at which Spent mana is Primed back into its raw, reactive state. The curved mana field carries free disruption potential towards it, while potentialless Spent particles rise along the same broad gradient.
 
 At and around the Singularity, returned field potential is rebound into Spent particles as Primed potential. To inhabitants of the Expanse, it serves the practical role that suns or skylights serve in sourceworlds, though its nature and behaviour are unlike either.

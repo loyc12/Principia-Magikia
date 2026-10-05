@@ -4,13 +4,13 @@
 
 **Status: Current foundation**
 
-This is the authoritative reference for interactions between physical materials, living systems, and the three mana states: Primed, Attuned, and Spent. It also records the material conditions that influence Attunement, storage, transport, Expenditure, and construct operation. [[12 Attribute Theory|Attribute Theory]] defines what attributes do. It does not define material affinities.
+This is the authoritative reference for interactions between physical materials, living systems, and the three mana states: Primed, Attuned, and Spent. It also records the material conditions that influence Attunement, storage, transport, Expenditure, and construct operation. [[99 Workshop/Previous Magic System/01 Key Concepts/12 Attribute Theory|Attribute Theory]] defines what attributes do. It does not define material affinities.
 
 ## Review Note
 
 No individual material affinities are established yet. The registry below is deliberately blank so that each material can be added only after its interactions have been decided.
 
-Material affinities describe local conditions through which matter influences mana. They may alter force, flow, and the **permutational stability** of a mana state: whether a Primed fluctuation persists towards Attunement or an Attuned particle persists against Detuning. Unless a separately documented extreme regime applies, they do not make matter physically impermeable to mana or give ordinary mana a significant mechanical back-reaction upon matter. [[02 Mana Dynamics#Permeability, Momentum, and Local Conditions|Mana Dynamics]] defines the broader local transition landscape to which material affinity contributes.
+Material affinities describe local conditions through which matter influences mana. They may alter force, flow, and the **permutational stability** of a mana state: whether a Primed fluctuation persists towards Attunement or an Attuned particle persists against Detuning. Unless a separately documented extreme regime applies, they do not make matter physically impermeable to mana or give ordinary mana a significant mechanical back-reaction upon matter. [[99 Workshop/Previous Magic System/01 Key Concepts/02 Mana Dynamics#Permeability, Momentum, and Local Conditions|Mana Dynamics]] defines the broader local transition landscape to which material affinity contributes.
 
 ## Interaction Properties
 
@@ -78,7 +78,7 @@ Use one profile for each distinct material, prepared material, biological tissue
 - **Hazards, contamination, or failure modes:**
 - **Open questions:**
 
-The Dimensional row records only how Dimensional mana interacts with the material for Attunement, storage, transport, or construct use. Direct Dimensional operation itself addresses a bounded region of space-time, as defined in [[12 Attribute Theory|Attribute Theory]].
+The Dimensional row records only how Dimensional mana interacts with the material for Attunement, storage, transport, or construct use. Direct Dimensional operation itself addresses a bounded region of space-time, as defined in [[99 Workshop/Previous Magic System/01 Key Concepts/12 Attribute Theory|Attribute Theory]].
 
 ## Terminology
 

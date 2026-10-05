@@ -66,17 +66,17 @@ These thresholds depend upon:
 - the speed at which mana is condensed
 - active wards, soul-forms, or other resistance
 
-Natural concentrations rarely exceed these thresholds, preventing ordinary subjects from spontaneously undergoing attributed operations merely because mana is present. [[13 Material Affinities|Material Affinities]] addresses the material-side properties that may be declared as reagent profiles and that influence coupling, thresholds, storage, and Attunement.
+Natural concentrations rarely exceed these thresholds, preventing ordinary subjects from spontaneously undergoing attributed operations merely because mana is present. [[99 Workshop/Previous Magic System/01 Key Concepts/13 Material Affinities|Material Affinities]] addresses the material-side properties that may be declared as reagent profiles and that influence coupling, thresholds, storage, and Attunement.
 
 A construct may lower, localize, or continuously maintain the effective threshold through precise sourcing, selection, bounding, local coupling, and regulation. An Unstructured caster instead forces already Attuned mana above the threshold through direct concentration onto or inside a nearby subject.
 
 ## Living Subjects
 
-Living and recently dead organisms are unusually difficult to affect directly because their [[03 Soul-Forms|soul-forms]] maintain coherent bodily boundaries and accumulate protective Primed mana.
+Living and recently dead organisms are unusually difficult to affect directly because their [[99 Workshop/Previous Magic System/01 Key Concepts/03 Soul-Forms|soul-forms]] maintain coherent bodily boundaries and accumulate protective Primed mana.
 
 This **animic resistance** raises expenditure thresholds within protected tissue, disrupts foreign mana concentration, and impedes hostile selection, binding, and sensing. It remains present during sleep or unconsciousness, though a highly active mind makes the associated soul-form somewhat harder to penetrate precisely.
 
-Animic resistance can be imitated less efficiently through Primed-mana reservoirs, saturation wards, or other systems that flood a protected volume with reactive Primed mana. Any material contribution is governed by its documented profile in [[13 Material Affinities|Material Affinities]].
+Animic resistance can be imitated less efficiently through Primed-mana reservoirs, saturation wards, or other systems that flood a protected volume with reactive Primed mana. Any material contribution is governed by its documented profile in [[99 Workshop/Previous Magic System/01 Key Concepts/13 Material Affinities|Material Affinities]].
 
 This makes crude internal attacks difficult. Heating a branch or shattering a stone through Unstructured Casting may be straightforward, while producing the same operation inside a living body requires vastly greater concentration, prolonged local coupling, a specialized structured spell, or prior disruption of the target's soul-form.
 

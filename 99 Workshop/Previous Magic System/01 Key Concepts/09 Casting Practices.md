@@ -4,7 +4,7 @@
 
 **Status: Current foundation**
 
-[[08 Mana Casting|Casting archetypes]] describe how a spell is instantiated and supervised. **Casting practices** describe the practical activity being performed.
+[[99 Workshop/Previous Magic System/01 Key Concepts/08 Mana Casting|Casting archetypes]] describe how a spell is instantiated and supervised. **Casting practices** describe the practical activity being performed.
 
 ## Invocation
 
@@ -16,7 +16,7 @@ An invocation normally ends when its assembly dissipates or its persistent const
 
 ## Projection Casting
 
-**Projection Casting** is the preparation, arming, release, transport, and delivery of a [[07 Spell Composition#Spell Payloads|spell payload]]. The payload may be launched by Primed-mana repulsion, steered by controlled Primed-mana ejection, carried by moving matter, moved with a bounded Dimensional region, or entrusted to an environmental force. An attributed operation may act upon a physical carrier but never upon the payload scaffold itself. A physical carrier usually improves resistance to turbulence and structural interference, while a free-floating payload is lighter in material requirements and easier to redirect.
+**Projection Casting** is the preparation, arming, release, transport, and delivery of a [[99 Workshop/Previous Magic System/01 Key Concepts/07 Spell Composition#Spell Payloads|spell payload]]. The payload may be launched by Primed-mana repulsion, steered by controlled Primed-mana ejection, carried by moving matter, moved with a bounded Dimensional region, or entrusted to an environmental force. An attributed operation may act upon a physical carrier but never upon the payload scaffold itself. A physical carrier usually improves resistance to turbulence and structural interference, while a free-floating payload is lighter in material requirements and easier to redirect.
 
 Projection may be **autonomous**, with all guidance and delivery logic sealed into the payload, or **supervised**, with permitted updates supplied through a mana cord or paired Resonant transmission. Autonomous combat payloads avoid exposing a control connection but must carry every observation and response they may require. Supervised payloads remain adaptable while their signal survives, but create an additional path for delay, attenuation, leakage, or disruption.
 

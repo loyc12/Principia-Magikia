@@ -4,6 +4,10 @@
 
 **Status: Current foundation**
 
+**Development: Magic-system dependencies awaiting reassessment**
+
+Material affinities and the explanations for mana distribution rely on the previous magic system. The affinity reference now leads to its archived owner. These mechanisms and their environmental consequences await reassessment. See [[10 Magic System/00 Magic System Guide|the active development guide]] for the selected foundations.
+
 The **Surface** is the inhabited inner face of the material edge surrounding [[The Expanse]]. It is composed of multiple layers, similar to the geological layers of certain sourceworlds' planetary bodies. The gravitational force experienced at the Surface is 0.85 G, although this force rises exponentially nearer [[The Singularity]] and decreases further down into the Surface itself.
 
 On the Surface, **upward** means radially inward, towards the Singularity, while **downward** means radially outward, deeper into the material shell. Local gravity pushes outward, in the downward direction. Depth is measured downward from local mean sea level unless otherwise stated.
@@ -23,7 +27,7 @@ The **first stratum** is the one we inhabit, and upon which various bodies of wa
 
 ### Second Stratum
 
-The **second stratum** begins, on average, between 25 and 100 metres below the ground, and is notably more mana dense. It is traversed by an increasingly dense and wide cavern network, which hosts dispersed and distinct cave-based ecologies. It is also where most natural [[10 Magic System/01 Key Concepts/13 Material Affinities|affinity crystals]] are extracted.
+The **second stratum** begins, on average, between 25 and 100 metres below the ground, and is notably more mana dense. It is traversed by an increasingly dense and wide cavern network, which hosts dispersed and distinct cave-based ecologies. It is also where most natural [[99 Workshop/Previous Magic System/01 Key Concepts/13 Material Affinities|affinity crystals]] are extracted.
 
 The density of caves and affinity crystals generally increases the further down one goes, as does the frequency of wild magic endowed beasts, their ferocity, and their size, while the gravitational force experienced decreases.
 

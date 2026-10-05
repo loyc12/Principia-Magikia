@@ -4,7 +4,7 @@
 
 **Status: Current foundation**
 
-At their core, spells are **operationally unified systems** of one or more [[05 Mana Constructs|mana constructs]], connected through declared interfaces and directed towards a shared process, effect, or termination condition. They are the defining products of [[08 Mana Casting|Structured Casting]] and are distinct from the isolated attributed operations produced through Unstructured Casting.
+At their core, spells are **operationally unified systems** of one or more [[99 Workshop/Previous Magic System/01 Key Concepts/05 Mana Constructs|mana constructs]], connected through declared interfaces and directed towards a shared process, effect, or termination condition. They are the defining products of [[99 Workshop/Previous Magic System/01 Key Concepts/08 Mana Casting|Structured Casting]] and are distinct from the isolated attributed operations produced through Unstructured Casting.
 
 A collection of nearby or interacting constructs does not necessarily constitute a single spell by itself. Constructs form one spell when their triggering, subject bindings, execution dependencies, supervisory structure, or termination behaviour establish them as parts of one coherent operation. Required reagent profiles may be part of a subject binding where the spell deliberately relies upon material affinities. The distinction can be unclear, so the terms spell and spell-combination sometimes overlap in use.
 
@@ -35,9 +35,9 @@ Colloquially, the term _spell_ may refer to several distinct but interconnected 
 
 ## Spell Interfaces
 
-**Spell interfaces** are [[05 Mana Constructs|construct]] interfaces exposed across construct boundaries within a spell assembly. They are not a wholly separate concept, as their categories, carried values, directionality, and compatibility requirements are those of the component-based interfaces defined in mana constructs.
+**Spell interfaces** are [[99 Workshop/Previous Magic System/01 Key Concepts/05 Mana Constructs|construct]] interfaces exposed across construct boundaries within a spell assembly. They are not a wholly separate concept, as their categories, carried values, directionality, and compatibility requirements are those of the component-based interfaces defined in mana constructs.
 
-A cross-construct connection begins at compatible declared interfaces. It is realized by a **Coupling component**, which establishes the declared relationship between the constructs without granting unrestricted access to either one's internal structure. A Coupling component may provide a local connection, a continuous [[05 Mana Constructs#Mana Cords|mana cord]], or paired Resonant transmission between physical endpoint instruments, and may regulate its triggering, translation, supervision, or termination. It does not override the permissions or tolerances declared by the interfaces it couples.
+A cross-construct connection begins at compatible declared interfaces. It is realized by a **Coupling component**, which establishes the declared relationship between the constructs without granting unrestricted access to either one's internal structure. A Coupling component may provide a local connection, a continuous [[99 Workshop/Previous Magic System/01 Key Concepts/05 Mana Constructs#Mana Cords|mana cord]], or paired Resonant transmission between physical endpoint instruments, and may regulate its triggering, translation, supervision, or termination. It does not override the permissions or tolerances declared by the interfaces it couples.
 
 At the assembly level, such connections may be required, optional, or conditional. They may expose fixed values, accept parameters supplied during triggering, or transmit values produced during execution.
 

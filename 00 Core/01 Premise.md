@@ -4,6 +4,10 @@
 
 **Status: Current foundation**
 
+**Development: Magic-system dependencies awaiting reassessment**
+
+The linked Mana Dynamics and Mana Physics references describe the previous system and now lead to its archive. Their detailed mechanics await reassessment against the selected replacement foundations. See [[10 Magic System/00 Magic System Guide|the active development guide]] for the selected foundations.
+
 | Aspect         | Summary                                                                                                                                                              |
 | -------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Genre          | Hard fantasy with light isekai elements                                                                                                                              |
@@ -17,7 +21,7 @@
 | Arrival Mechanism | One-way transport from countless Earth-like worlds                                                          |
 | Imported Life     | Flora and fauna from many realities                                                                         |
 | Humans            | Rare arrivals among many species                                                                            |
-| Magic             | Natural, deterministic force. See [[10 Magic System/01 Key Concepts/02 Mana Dynamics\|Mana Dynamics]] and [[10 Magic System/01 Key Concepts/10 Mana Physics\|Mana Physics]] |
+| Magic             | Natural, deterministic force. See [[99 Workshop/Previous Magic System/01 Key Concepts/02 Mana Dynamics\|Mana Dynamics]] and [[99 Workshop/Previous Magic System/01 Key Concepts/10 Mana Physics\|Mana Physics]] |
 | Civilization      | Familiar with arrivals but not dominated by them                                                            |
 
 ## Arrival and Consequence Constraints

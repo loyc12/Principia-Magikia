@@ -4,6 +4,10 @@
 
 **Status: Current foundation**
 
+**Development: Magic-system dependencies awaiting reassessment**
+
+The account of mana-field curvature, disruption potential, and potentia-dependent gravitational coupling relies on the previous magic system. It is retained for later reassessment and does not select those mechanisms for the replacement. See [[10 Magic System/00 Magic System Guide|the active development guide]] for the selected foundations.
+
 The **Expanse** represents the entirety of the accessible world and is the destination of the spatial anomalies that bring matter from various sourceworlds.
 
 Unlike all known sourceworlds, the Expanse is neither a planetary body nor a simple plane. Instead, it consists of a single inverted sphere whose inner [[The Surface|surface]] is inhabited and whose centre contains a luminous [[The Singularity|Singularity]].

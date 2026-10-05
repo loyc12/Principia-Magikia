@@ -25,6 +25,7 @@ Agents and LLMs must not directly write, rewrite, or otherwise edit corpus prose
 | `97 Assets` | Obsidian attachments and supporting assets. |
 | `98 Temp` | Incidental Obsidian files, including notes generated from broken links. |
 | `99 Workshop` | Development method, current work context, unresolved alternatives, and historical feedback. |
+| `99 Workshop/Previous Magic System` | The complete archived magic system. Original status labels record former approval, not replacement approval. |
 
 Keep the fixed Core and World roles first, the project-specific domains together next, and the supporting folders last. Folders identify purpose, not approval.
 

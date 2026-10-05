@@ -4,7 +4,7 @@
 
 **Status: Current foundation**
 
-**Mana casting** is the deliberate manipulation of mana, including moving, gathering, constraining, attuning, supplying, and expending it. It is the broad term for an operator's active use of mana, whether or not that use produces an immediate attributed operation upon a [[06 Spell Subjects|spell subject]].
+**Mana casting** is the deliberate manipulation of mana, including moving, gathering, constraining, attuning, supplying, and expending it. It is the broad term for an operator's active use of mana, whether or not that use produces an immediate attributed operation upon a [[99 Workshop/Previous Magic System/01 Key Concepts/06 Spell Subjects|spell subject]].
 
 ## Casting and Shaping Terminology
 
@@ -12,7 +12,7 @@
 | ----------------- | --------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Mana casting**  | Any deliberate manipulation of mana, including its movement, containment, Attunement, supply, shaping, or Expenditure | The broadest term                                                                                                                              |
 | **Mana shaping**  | The purposeful manipulation of Primed mana to form or alter a mana construct's scaffold                               | A specialized form of mana casting. It does not describe direct construct-free Expenditure                                                     |
-| **Spell casting** | Creating, modifying, instantiating, sealing, triggering, supervising, or using a [[07 Spell Composition\|spell assembly]] | A form of mana casting concerned with spells. It may include mana shaping, but an already-existing spell can also be triggered without shaping |
+| **Spell casting** | Creating, modifying, instantiating, sealing, triggering, supervising, or using a [[99 Workshop/Previous Magic System/01 Key Concepts/07 Spell Composition\|spell assembly]] | A form of mana casting concerned with spells. It may include mana shaping, but an already-existing spell can also be triggered without shaping |
 
 Therefore, all mana shaping and spell casting are mana casting. Mana shaping is not synonymous with casting in general, and direct Unstructured Casting is mana casting, but is not mana shaping.
 
@@ -282,9 +282,9 @@ Non-cantrip reflexive spells also exist, but are usually poorly designed, hard t
 Knowing two cantrips does not normally permit their direct combination. A caster who knows separate Heating and Launch cantrips cannot simply merge them into a flying incendiary projectile unless the original templates expose compatible interfaces or the casting process enters the realm of Structured Casting.
 
 
-[[04 Somaturgy|Somaturgy]] is the study of somatic and cognitive mana manipulation, including procedural reconstruction, casting fatigue, pattern interference, and trained reflexes.
+[[99 Workshop/Previous Magic System/01 Key Concepts/04 Somaturgy|Somaturgy]] is the study of somatic and cognitive mana manipulation, including procedural reconstruction, casting fatigue, pattern interference, and trained reflexes.
 
-[[11 Magical Training|Magical Training]] describes the staged practice, exercises, assessment, and safe transmission through which these casting abilities are acquired.
+[[99 Workshop/Previous Magic System/01 Key Concepts/11 Magical Training|Magical Training]] describes the staged practice, exercises, assessment, and safe transmission through which these casting abilities are acquired.
 
 ## Structured Casting
 
@@ -375,7 +375,7 @@ Not every mana instrument performs structured casting. Reservoirs, conduits, and
 
 ## Projection Casting
 
-**Projection Casting** is the structured practice of preparing, arming, releasing, transporting, directing, and delivering a [[07 Spell Composition#Spell Payloads|spell payload]]. It may be reflexively reconstructed, consciously designed, or instrumentally launched, but always depends upon an executable spell-form and is therefore never Unstructured Casting.
+**Projection Casting** is the structured practice of preparing, arming, releasing, transporting, directing, and delivering a [[99 Workshop/Previous Magic System/01 Key Concepts/07 Spell Composition#Spell Payloads|spell payload]]. It may be reflexively reconstructed, consciously designed, or instrumentally launched, but always depends upon an executable spell-form and is therefore never Unstructured Casting.
 
 Projection does not itself supply range, motion, observation, or homing. A payload may be launched or steered by Primed-mana repulsion, controlled ejection of Primed mana, an environmental force, operation upon a physical carrier, or Dimensional operation upon its surrounding space-time. No attribute operates upon the payload scaffold itself. Remote supervision requires a mana cord or prepared paired Resonant transmission, while autonomous guidance requires local Sensing, Processing, Directing, and an admissible means of changing motion.
 

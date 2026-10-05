@@ -6,7 +6,7 @@
 
 **Golemancy** is the discipline concerned with constructing, operating, and maintaining artificial bodies and other embodied magical systems.
 
-A **golem** is an artificial or substantially artificial body whose motion and behaviour arise from a persistent combination of physical structure, [[10 Magic System/01 Key Concepts/05 Mana Constructs|mana constructs]], sensing, and control. It need not possess human form, intelligence, autonomy, or a [[10 Magic System/01 Key Concepts/03 Soul-Forms|soul-form]].
+A **golem** is an artificial or substantially artificial body whose motion and behaviour arise from a persistent combination of physical structure, [[99 Workshop/Previous Magic System/01 Key Concepts/05 Mana Constructs|mana constructs]], sensing, and control. It need not possess human form, intelligence, autonomy, or a [[99 Workshop/Previous Magic System/01 Key Concepts/03 Soul-Forms|soul-form]].
 
 The central distinction in golemancy is not between a golem with or without an added animic component. A soul-form is an emergent mana structure produced by a sufficiently active, integrated, and persistent physical neurological substrate carrying recurrent electrical, electrochemical, or chemical impulses. It cannot be installed as an ordinary component or produced by construct logic alone.
 
@@ -45,7 +45,7 @@ Proto-animic systems occupy an uncertain middle ground. Their physical neurologi
 
 ## Body and Actuation
 
-The **body** is the physical structure upon which the golemic system is anchored. It may be stone, wood, metal, ceramics, bone, composite material, living tissue, or an architectural installation. Material choice affects structural strength, weight, movement, ease of repair, and the documented mana-material interaction profile described in [[10 Magic System/01 Key Concepts/13 Material Affinities|Material Affinities]].
+The **body** is the physical structure upon which the golemic system is anchored. It may be stone, wood, metal, ceramics, bone, composite material, living tissue, or an architectural installation. Material choice affects structural strength, weight, movement, ease of repair, and the documented mana-material interaction profile described in [[99 Workshop/Previous Magic System/01 Key Concepts/13 Material Affinities|Material Affinities]].
 
 Common actuation methods include:
 

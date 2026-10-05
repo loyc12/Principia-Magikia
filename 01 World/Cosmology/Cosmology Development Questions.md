@@ -4,6 +4,10 @@
 
 **Status: Exploring**
 
+**Development: Magic-system dependencies awaiting reassessment**
+
+The mana-related development prompts were framed around the previous magic system. Retain them as open questions for later reassessment rather than treating their suggested explanations as replacement mechanics. See [[10 Magic System/00 Magic System Guide|the active development guide]] for the selected foundations.
+
 ## Surface
 
 Concrete additions for later:

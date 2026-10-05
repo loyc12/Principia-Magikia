@@ -4,6 +4,10 @@
 
 **Status: Current direction**
 
+**Development: Magic-system dependencies awaiting reassessment**
+
+The linked Golemancy reference describes the previous system and now leads to its archive. Magical applications in this story plan await reassessment as replacement mechanisms are developed. See [[10 Magic System/00 Magic System Guide|the active development guide]] for the selected foundations.
+
 ## Rough Story Structure
 
 |Arc|Primary Focus|
@@ -11,7 +15,7 @@
 |I: Lost|Survival and loneliness|
 |II: Stranger|Learning language and culture|
 |III: Apprentice Scientist|First magical experiments|
-|IV: Builder|Construction of first [[10 Magic System/02 Additional Disciplines/Golemancy\|golem]]|
+|IV: Builder|Construction of first [[99 Workshop/Previous Magic System/02 Additional Disciplines/Golemancy\|golem]]|
 |V: Recognition|Growing reputation|
 |VI: Archive|Confronting established magical scholarship|
 |VII: Revolution|Scientific and societal transformation|
@@ -40,7 +44,7 @@
 |First genuine conversation|Beginning of belonging|
 |Camp destruction|Forces dependence on others|
 |First paid invention|Research becomes sustainable|
-|First functioning [[10 Magic System/02 Additional Disciplines/Golemancy\|golem]]|Beginning of longest relationship|
+|First functioning [[99 Workshop/Previous Magic System/02 Additional Disciplines/Golemancy\|golem]]|Beginning of longest relationship|
 |First publication|Public recognition|
 |First ideological opponent|Intellectual conflict|
 |Golem disagrees|Recognition of true personhood|

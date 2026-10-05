@@ -34,7 +34,7 @@ Keep the distinction between a general institution and a particular local exampl
 
 ## Recommended Build Order
 
-0. Magic system (existing foundation, with unresolved review prompts and deferred development) 
+0. Magic system (replacement foundations under development; [[10 Magic System/00 Magic System Guide|the active guide]] separates working owners from archived references)
 1. Environment & Physical Constraints
 2. Resources & Economy
 3. Institutions

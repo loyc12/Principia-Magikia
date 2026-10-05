@@ -10,7 +10,7 @@ This reference concerns the acquisition and validation of magical skill. The the
 
 ## Prerequisites and Progression
 
-Training usually begins with the somatic capacities described in [[04 Somaturgy|Somaturgy]] and proceeds from local, observable control towards compound construct work. Progress is not universal: physiology, available mana, materials, instruction, and intended profession all affect its pace and emphasis.
+Training usually begins with the somatic capacities described in [[99 Workshop/Previous Magic System/01 Key Concepts/04 Somaturgy|Somaturgy]] and proceeds from local, observable control towards compound construct work. Progress is not universal: physiology, available mana, materials, instruction, and intended profession all affect its pace and emphasis.
 
 A typical progression includes:
 
@@ -46,9 +46,9 @@ Exercises can overlap. For example, an Attunement exercise may require flow cont
 
 ### Attunement Exercises
 
-Attunement exercises train the practical modes described in [[02 Mana Dynamics#Modes of Induced Attunement|Induced Attunement]]. Early exercises use a known Attuned core or selective material so that the learner can observe the retention of random fluctuations without attempting to cultivate a large output. Later work introduces controlled Primed-mana supply, measurement of purity and Waste mana, competing attributes, and deliberate termination.
+Attunement exercises train the practical modes described in [[99 Workshop/Previous Magic System/01 Key Concepts/02 Mana Dynamics#Modes of Induced Attunement|Induced Attunement]]. Early exercises use a known Attuned core or selective material so that the learner can observe the retention of random fluctuations without attempting to cultivate a large output. Later work introduces controlled Primed-mana supply, measurement of purity and Waste mana, competing attributes, and deliberate termination.
 
-**Material Attunement exercises** compare how approved media retain, reject, or destabilize particular attributes. **Unstructured Attunement exercises** train the soul-form's restraint of Primed mana around a seed. **Structured Attunement exercises** train the configuration and supervision of an Attuning component, including sourcing, containment, separation, regulation, and waste handling. The quantitative conditions behind these exercises are optional material in [[10 Mana Physics|Mana Physics]].
+**Material Attunement exercises** compare how approved media retain, reject, or destabilize particular attributes. **Unstructured Attunement exercises** train the soul-form's restraint of Primed mana around a seed. **Structured Attunement exercises** train the configuration and supervision of an Attuning component, including sourcing, containment, separation, regulation, and waste handling. The quantitative conditions behind these exercises are optional material in [[99 Workshop/Previous Magic System/01 Key Concepts/10 Mana Physics|Mana Physics]].
 
 Advanced specialists may train established Cross-Attunement transitions between compatible higher- and lower-potentia attributes. Such exercises require stricter containment because the destination seed, released permutation disturbance, and possible lower-attribute contamination must all be controlled.
 

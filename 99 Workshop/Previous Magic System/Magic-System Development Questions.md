@@ -26,7 +26,7 @@ With an admissible reference, a sequence of left- and right-handed simple positi
 
 ### Quantitative Treatment
 
-If useful later, [[10 Magic System/01 Key Concepts/10 Mana Physics|Mana Physics]] may model coherence-well depth, formation and escape barriers, local concentration, coherence capacity, and interference. Do not introduce detailed equations before deciding which of these are measurable and which remain qualitative engineering concepts.
+If useful later, [[99 Workshop/Previous Magic System/01 Key Concepts/10 Mana Physics|Mana Physics]] may model coherence-well depth, formation and escape barriers, local concentration, coherence capacity, and interference. Do not introduce detailed equations before deciding which of these are measurable and which remain qualitative engineering concepts.
 
 ### Scaffold Form and Function
 

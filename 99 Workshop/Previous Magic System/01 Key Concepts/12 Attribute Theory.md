@@ -4,7 +4,7 @@
 
 **Status: Current foundation**
 
-This reference defines the seven known Attuned attributes, their operation boundaries, and their recognized application aspects. [[02 Mana Dynamics|Mana Dynamics]] defines Attunement, seeds, storage, and Detuning. [[13 Material Affinities|Material Affinities]] authoritatively defines material interactions with every mana state.
+This reference defines the seven known Attuned attributes, their operation boundaries, and their recognized application aspects. [[99 Workshop/Previous Magic System/01 Key Concepts/02 Mana Dynamics|Mana Dynamics]] defines Attunement, seeds, storage, and Detuning. [[99 Workshop/Previous Magic System/01 Key Concepts/13 Material Affinities|Material Affinities]] authoritatively defines material interactions with every mana state.
 
 ## Attribute, Aspect, and Effect
 
@@ -18,7 +18,7 @@ Operational complexity concerns the degree of ordering, selection, precision, an
 
 ## Availability
 
-An attribute's natural availability is classified in [[02 Mana Dynamics#Mana Attunement|Mana Dynamics]]. The classification summarizes its potentia drop, activation barrier, background fluctuation, critical seed concentration, material interactions, Detuning, and practical conversion yield. Availability therefore does not establish potentia order by itself. Lower potentia generally reduces generic field and material coupling, but does not override an attribute's specific affinities or determine its availability alone. Material interactions belong solely to [[13 Material Affinities|Material Affinities]]. An aspect has no independent attractor or affinity.
+An attribute's natural availability is classified in [[99 Workshop/Previous Magic System/01 Key Concepts/02 Mana Dynamics#Mana Attunement|Mana Dynamics]]. The classification summarizes its potentia drop, activation barrier, background fluctuation, critical seed concentration, material interactions, Detuning, and practical conversion yield. Availability therefore does not establish potentia order by itself. Lower potentia generally reduces generic field and material coupling, but does not override an attribute's specific affinities or determine its availability alone. Material interactions belong solely to [[99 Workshop/Previous Magic System/01 Key Concepts/13 Material Affinities|Material Affinities]]. An aspect has no independent attractor or affinity.
 
 ## Kinetic
 
